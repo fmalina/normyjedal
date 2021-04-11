@@ -7,5 +7,5 @@ body>a:hover{border-bottom:1px solid #ddd}
 body>a:after{content:'  *'}
 body>a,h1 span{text-transform:uppercase;letter-spacing:.1rem;color:hotpink}
 h1,h2{font-weight:normal}
-h2{margin-top:1.5em}
+h2,h3{margin-top:1.5em}
 a{color:dodgerblue}
