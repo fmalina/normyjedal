@@ -5,10 +5,6 @@
 <link rel="stylesheet" href="style.css">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Kalkulačná normovacia tabuľka</title>
-<style type="text/css">
-table{border-collapse:collapse}
-tbody tr:nth-child(odd){background:whitesmoke}
-</style>
 </head>
 <body>
 <a href=".">Normy jedál</a>
@@ -21,7 +17,7 @@ tbody tr:nth-child(odd){background:whitesmoke}
     M = veľa minerálnych látok, v strave uprednostňovať;
     V = veľa vitamínov, v strave uprednostňovať;
     Vl = vláknina, jesť účelovo</p>
-<table>
+<table class="strips">
     <thead>
     <tr>
         <th rowspan="2"><p>č.</p></th>
@@ -36,9 +32,9 @@ tbody tr:nth-child(odd){background:whitesmoke}
         <td rowspan="2"><p>Σ Sk</p></td>
     </tr>
     <tr>
-        <td><p>kcal</p></th>
-        <td><p>kJ / VH</p></th>
-        <td><p>tuk(g)</p></th>
+        <th><p>kcal</p></th>
+        <th><p>kJ / VH</p></th>
+        <th><p>tuk(g)</p></th>
     </tr>
     </thead>
     <tbody>

@@ -9,3 +9,5 @@ body>a,h1 span{text-transform:uppercase;letter-spacing:.1rem;color:hotpink}
 h1,h2{font-weight:normal}
 h2,h3{margin-top:1.5em}
 a{color:dodgerblue}
+table{border-collapse:collapse}
+table.strips tbody tr:nth-child(odd){background:whitesmoke}
