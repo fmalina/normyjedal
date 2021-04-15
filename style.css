@@ -11,3 +11,11 @@ h2,h3{margin-top:1.5em}
 a{color:dodgerblue}
 table{border-collapse:collapse}
 table.strips tbody tr:nth-child(odd){background:whitesmoke}
+
+nav li, aside li{list-style:none;padding:.1em 0}
+nav h2{margin-top:2em}
+nav a,nav b{padding:.2em .5em;display:inline-block}
+
+aside{margin-top:3em}
+aside p, aside ul{float:left;margin-top:0}
+footer{clear:both;text-align:right}
