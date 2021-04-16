@@ -22,3 +22,6 @@ footer{clear:both;text-align:right}
 #toc{padding:1em 0;font-size:smaller}
 #toc div{display:none}
 #toc a{display:block;padding:.3rem 0}
+#toc a.b{font-weight:bold}
+#toc a.indent{padding-left:1em}
+#toc a.extraindent{padding-left:2em}
