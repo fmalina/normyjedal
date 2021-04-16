@@ -18,3 +18,7 @@ nav a,nav b{padding:.2em .5em;display:inline-block}
 aside{margin-top:3em}
 aside p, aside ul{float:left;margin-top:0}
 footer{clear:both;text-align:right}
+
+#toc{padding:1em 0;font-size:smaller}
+#toc div{display:none}
+#toc a{display:block;padding:.3rem 0}
