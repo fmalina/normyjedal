@@ -5,6 +5,7 @@ function slugify(string) {
 
   return string.toString().toLowerCase()
     .replace(/\s+/g, '') // Replace spaces with ''
+    .replace(/\d+/g, '') // Remove digits
     .replace(p, c => b.charAt(a.indexOf(c))) // Replace special characters
     .replace(/&/g, '') // Replace & with ''
     .replace(/[^\w\-]+/g, '') // Remove all non-word characters
