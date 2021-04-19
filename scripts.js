@@ -14,32 +14,36 @@ function slugify(string) {
     .replace(/-+$/, '') // Trim - from end of text
 }
 
+function el(tagName){
+	return document.createElement(tagName);
+}
+
 function createTOC() {
-	var y = document.createElement('div');
+	var y = el('div');
 	y.id = 'toc';
-	var a = y.appendChild(document.createElement('a'));
+	var a = y.appendChild(el('a'));
 	a.onclick = showhideTOC;
 	a.href = '#showhide';
 	a.id = 'tocheader';
 	a.innerHTML = '+ obsah';
-	var z = y.appendChild(document.createElement('div'));
+	var z = y.appendChild(el('div'));
 	z.onclick = showhideTOC;
-	var toBeTOCced = document.querySelectorAll('h1,h2,h3,h4');
+	const toBeTOCced = document.querySelectorAll('h1,h2,h3,h4');
 	if (toBeTOCced.length < 2) return false;
 
-	for (var i=0;i<toBeTOCced.length;i++) {
-		var tmp = document.createElement('a');
-		tmp.innerHTML = toBeTOCced[i].innerHTML;
+	for (var h of toBeTOCced) {
+		var tmp = el('a');
+		tmp.innerHTML = h.innerHTML;
 		z.appendChild(tmp);
-		if (toBeTOCced[i].nodeName == 'H1')
+		if (h.nodeName == 'H1')
 			tmp.className = 'b';
-		if (toBeTOCced[i].nodeName == 'H3')
+		if (h.nodeName == 'H3')
 			tmp.className = 'indent';
-		if (toBeTOCced[i].nodeName == 'H4')
+		if (h.nodeName == 'H4')
 			tmp.className = 'extraindent';
-		var headerId = toBeTOCced[i].id || slugify(toBeTOCced[i].textContent);
+		var headerId = h.id || slugify(h.innerText);
 		tmp.href = '#' + headerId;
-		toBeTOCced[i].id = headerId;
+		h.id = headerId;
 	}
 	return y;
 }
@@ -56,5 +60,7 @@ function showhideTOC() {
 window.onload = function () {
     var ToC = createTOC();
     var header = document.querySelector('body>a');
-    header.parentNode.insertBefore(ToC, header.nextSibling);
+    if(header){
+    	header.parentNode.insertBefore(ToC, header.nextSibling);
+    }
 }
