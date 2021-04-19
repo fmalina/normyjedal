@@ -48,6 +48,23 @@ function createTOC() {
 	return y;
 }
 
+function createFooter(){
+	let f = el('footer');
+	let p = f.appendChild(el('p'));
+	p.innerText = "© Copyright 2002-2021. Všetky práva vyhradené | ";
+	var a = p.appendChild(el('a'));
+	a.href = '.';
+	a.innerText = 'Normy jedál'
+
+	var span = p.appendChild(el('span'));
+	span.innerText = ' | '
+
+	var a2 = p.appendChild(el('a'));
+	a2.href = 'https://unilexicon.com/fm/';
+	a2.innerText = 'FM'
+	return f;
+}
+
 var TOCstate = 'none';
 
 function showhideTOC() {
