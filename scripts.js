@@ -80,4 +80,7 @@ window.onload = function () {
     if(header){
     	header.parentNode.insertBefore(ToC, header.nextSibling);
     }
+    var footer = createFooter();
+    var body = document.getElementsByTagName('body')[0];
+    body.appendChild(footer);
 }
