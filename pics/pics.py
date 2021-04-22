@@ -6,24 +6,29 @@ import instaloader
 USER = 'blocl.uk'
 
 
-def headings(fn):
+def get_hashtags():
     ls = []
-    dom = fromstring(open(fn).read())
-    elems = dom.cssselect('h1,h2,h3')
-    for h in elems:
-        ls.append(h.text)
+    for fn in glob.glob('../*.htm'):
+        dom = fromstring(open(fn).read())
+        elems = dom.cssselect('h1,h2,h3')
+        for h in elems:
+            hashtag = slugify(h.text).replace('-', '')
+            hashtag = ''.join([x for x in hashtag if not x.isdigit()])
+            ls.append(hashtag)
     return ls
 
 
+def trim_loaded(hashtags):
+    loaded = [x.strip('#') for x in glob.glob('#*')]
+    return [x for x in hashtags if x not in loaded]
+
+
 def load():
+    hashtags = list(reversed(trim_loaded(get_hashtags())))
     loader = instaloader.Instaloader()
     loader.interactive_login(USER)
-    for fn in glob.glob('../*.htm'):
-        hs = headings(fn)
-        print(hs)
-        for h in hs:
-            hashtag = slugify(h).replace('-', '')
-            loader.download_hashtag(hashtag, max_count=10)
+    for h in hashtags:
+        loader.download_hashtag(h, max_count=10)
 
 
 def load_posts(loader, hashtag):
