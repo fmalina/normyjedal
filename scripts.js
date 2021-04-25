@@ -95,7 +95,7 @@ function renderPics() {
         console.log(h);
         if(fn.endsWith('.jpg') && fn.indexOf('_UTC_') === -1){
             let img = el('img');
-            img.src = '/pics/'+hash.replace('#','%23')+'/'+fn;
+            img.src = 'pics/'+hash.replace('#','%23')+'/'+fn;
             h.parentNode.insertBefore(img, h.nextSibling);
         }
       }
