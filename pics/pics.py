@@ -1,9 +1,21 @@
+""" """
 import glob
 from lxml.html import fromstring
 from django.template.defaultfilters import slugify
 import instaloader
 
 USER = 'blocl.uk'
+
+def hashtagify(text):
+    print(text)
+    return slugify(
+        str(text)
+        .split(' a ')[0]
+        .split('/')[0]
+        .split('(')[0]
+        .split('–')[0]
+        .split('-')[0].strip()
+    )
 
 
 def get_hashtags():
@@ -12,7 +24,7 @@ def get_hashtags():
         dom = fromstring(open(fn).read())
         elems = dom.cssselect('h1,h2,h3')
         for h in elems:
-            hashtag = slugify(h.text).replace('-', '')
+            hashtag = hashtagify(h.text)
             hashtag = ''.join([x for x in hashtag if not x.isdigit()])
             ls.append(hashtag)
     return ls

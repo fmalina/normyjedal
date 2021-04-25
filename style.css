@@ -10,6 +10,7 @@ h2,h3{margin-top:1.5em}
 a{color:dodgerblue}
 table{border-collapse:collapse}
 table.strips tbody tr:nth-child(odd){background:whitesmoke}
+img{max-width:100%;max-height:200px}
 
 nav li, aside li{list-style:none;padding:.1em 0}
 nav h2{margin-top:2em}

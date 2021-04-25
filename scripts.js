@@ -1,9 +1,15 @@
-function slugify(string) {
+function hashtagify(string) {
+  // shorten and slugify
   const a = 'àáâäæãåāăąçćčđďèéêëēėęěğǵḧîïíīįìľḿñńǹňôöòóœøōõőṕŕřßśšşșťțûüùúūǘůűųẃẍÿýžźż·/_,:;'
   const b = 'aaaaaaaaaacccddeeeeeeeegghiiiiiilmnnnnoooooooooprrsssssttuuuuuuuuuwxyyzzz------'
   const p = new RegExp(a.split('').join('|'), 'g')
 
   return string.toString().toLowerCase()
+    .split(' a ')[0]
+    .split('/')[0]
+    .split('(')[0]
+    .split('–')[0]
+    .split('-')[0]
     .replace(/\s+/g, '') // Replace spaces with ''
     .replace(/\d+/g, '') // Remove digits
     .replace(p, c => b.charAt(a.indexOf(c))) // Replace special characters
@@ -15,10 +21,12 @@ function slugify(string) {
 }
 
 function el(tagName){
+  // create element shortcut util
 	return document.createElement(tagName);
 }
 
 function createTOC() {
+  // creates table of contents
 	var y = el('div');
 	y.id = 'toc';
 	var a = y.appendChild(el('a'));
@@ -41,7 +49,7 @@ function createTOC() {
 			tmp.className = 'indent';
 		if (h.nodeName == 'H4')
 			tmp.className = 'extraindent';
-		var headerId = h.id || slugify(h.innerText);
+		var headerId = h.id || hashtagify(h.innerText);
 		tmp.href = '#' + headerId;
 		h.id = headerId;
 	}
@@ -49,6 +57,7 @@ function createTOC() {
 }
 
 function createFooter(){
+  // renders a footer with copyright, link to hoepage and credits
 	let f = el('footer');
 	let p = f.appendChild(el('p'));
 	p.innerText = "© Copyright 2002-2021. Všetky práva vyhradené | ";
@@ -74,12 +83,40 @@ function showhideTOC() {
 	document.getElementById('toc').lastChild.style.display = TOCstate;
 }
 
+function renderPics() {
+  const piclist = this.responseText.split('\n');
+	const headings = document.querySelectorAll('h1,h2,h3,h4');
+  // console.log(piclist);
+  for (var l of piclist) {
+    let [dot, hash, fn] = l.split('/');
+    if(hash){
+      var h = document.getElementById(hash.replace('#',''));
+      if(h){
+        console.log(h);
+        if(fn.endsWith('.jpg') && fn.indexOf('_UTC_') === -1){
+            let img = el('img');
+            img.src = '/pics/'+hash.replace('#','%23')+'/'+fn;
+            h.parentNode.insertBefore(img, h.nextSibling);
+        }
+      }
+    }
+  }
+}
+
+function loadPics(){
+  var oReq = new XMLHttpRequest();
+  oReq.addEventListener("load", renderPics);
+  oReq.open("GET", "./pics/pics.txt");
+  oReq.send();
+}
+
 window.onload = function () {
     var ToC = createTOC();
     var header = document.querySelector('body>a');
     if(header){
     	header.parentNode.insertBefore(ToC, header.nextSibling);
     }
+    loadPics();
     var footer = createFooter();
     var body = document.getElementsByTagName('body')[0];
     body.appendChild(footer);
