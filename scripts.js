@@ -85,18 +85,25 @@ function showhideTOC() {
 
 function renderPics() {
   const piclist = this.responseText.split('\n');
-	const headings = document.querySelectorAll('h1,h2,h3,h4');
+  const headings = document.querySelectorAll('h1,h2,h3,h4');
   // console.log(piclist);
   for (var l of piclist) {
     let [dot, hash, fn] = l.split('/');
     if(hash){
-      var h = document.getElementById(hash.replace('#',''));
+      var h = document.getElementById(hash);
       if(h){
-        console.log(h);
+        // console.log(h);
         if(fn.endsWith('.jpg') && fn.indexOf('_UTC_') === -1){
-            let img = el('img');
-            img.src = 'pics/'+hash.replace('#','%23')+'/'+fn;
-            h.parentNode.insertBefore(img, h.nextSibling);
+            let a = el('a');
+            let img = el('img')
+            img.src = 'pic/'+hash+'/'+fn;
+            a.href = img.src;
+            a.onclick = function(e){
+            	// e.preventDefault();
+            	console.log(a.href)
+            };
+            a.appendChild(img);
+            h.parentNode.insertBefore(a, h.nextSibling);
         }
       }
     }
@@ -106,7 +113,7 @@ function renderPics() {
 function loadPics(){
   var oReq = new XMLHttpRequest();
   oReq.addEventListener("load", renderPics);
-  oReq.open("GET", "./pics/pics.txt");
+  oReq.open("GET", "pics.txt");
   oReq.send();
 }
 

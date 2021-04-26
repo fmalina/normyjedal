@@ -9,7 +9,7 @@
     <script src="scripts.js"></script>
 </head>
 <body>
-<a href=".">Normy jedál</a>
+<a href="." class="logo">Normy jedál</a>
 
 <h1>Miešané pokrmy</h1>
 

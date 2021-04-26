@@ -8,7 +8,7 @@
     <script src="scripts.js"></script>
 </head>
 <body>
-<a href=".">Normy jedál</a>
+<a href="." class="logo">Normy jedál</a>
 <h1>ZVERINA /DIVINA/</h1>
 
 <p><b>Moridlo /pác/ pripravíme takto:</b></p>

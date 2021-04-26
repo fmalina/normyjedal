@@ -11,7 +11,7 @@
     }</style>
 </head>
 <body>
-<a href=".">Normy jedál</a>
+<a href="." class="logo">Normy jedál</a>
 <h1>Použitie bylín v kuchyni</h1>
 <h2>Aníz (Pimpinella anisum)</h2>
 <p>Pochádza zo Stredomoria a Malej Ázie, je jedným z najstarších a najrozšírenejších korení. Podporuje trávenie,

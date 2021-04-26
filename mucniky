@@ -8,7 +8,7 @@
     <script src="scripts.js"></script>
 </head>
 <body>
-<a href=".">Normy jedál</a>
+<a href="." class="logo">Normy jedál</a>
 <h1>Teplé predjedlá</h1>
 
 <h2>1. Farebný puding</h2>

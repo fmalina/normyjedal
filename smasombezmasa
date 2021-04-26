@@ -8,7 +8,7 @@
     <script src="scripts.js"></script>
 </head>
 <body>
-<a href=".">Normy jedál</a>
+<a href="." class="logo">Normy jedál</a>
 <h1>Rôzne mäsité a bezmäsité jedlá</h1>
 
 <h2>1. Sedliacka kysnutá zemiaková omeleta</h2>
@@ -501,7 +501,7 @@
 <p>40g – vajce/1ks/ 1ks – vajce</p>
 <p>soľ, korenie trochu mlieka</p>
 
-<h2>59. Halušky /noky/ s vajcom</h2>
+<h2>59. Halušky s vajcom</h2>
 <p>100g – krupicovej múky</p>
 <p>15g – masti/oleja</p>
 <p>40g – vajce-1ks, soľ, pažítka</p>

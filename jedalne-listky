@@ -8,7 +8,7 @@
     <script src="scripts.js"></script>
 </head>
 <body>
-<a href=".">Normy jedál</a>
+<a href="." class="logo">Normy jedál</a>
 <h1>Výberové jedálne lístky</h1>
 
 <p>Racionálne stravovanie pôsobí na spokojnosť človeka a má priamy vplyv na jeho zdravie, fyzickú a duševnú

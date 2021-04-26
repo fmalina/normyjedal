@@ -1,10 +1,12 @@
 """ """
 import glob
+import os
 from lxml.html import fromstring
 from django.template.defaultfilters import slugify
 import instaloader
 
 USER = 'blocl.uk'
+
 
 def hashtagify(text):
     print(text)
@@ -20,7 +22,7 @@ def hashtagify(text):
 
 def get_hashtags():
     ls = []
-    for fn in glob.glob('../*.htm'):
+    for fn in glob.glob('[a-z-]+'):
         dom = fromstring(open(fn).read())
         elems = dom.cssselect('h1,h2,h3')
         for h in elems:
@@ -31,7 +33,7 @@ def get_hashtags():
 
 
 def trim_loaded(hashtags):
-    loaded = [x.strip('#') for x in glob.glob('#*')]
+    loaded = [x for x in glob.glob('pic/*')]
     return [x for x in hashtags if x not in loaded]
 
 
@@ -46,8 +48,16 @@ def load():
 def load_posts(loader, hashtag):
     posts = instaloader.Hashtag.from_name(loader.context, hashtag).get_posts()
     for post in posts:
-        loader.download_post(post, target=f'#{hashtag}')
+        loader.download_post(post, target=f'pic/{hashtag}')
+
+
+output = """find pic -type f\
+    -name "*.txt" -or -name "*.jpg"\
+    -not -name "*_profile_pic.jpg" > pics-all.txt"""
+
+filter = """grep -Fvxf pics-exclude.txt pics-all.txt > pics.txt"""
 
 
 if __name__ == '__main__':
     load()
+    os.system(output)

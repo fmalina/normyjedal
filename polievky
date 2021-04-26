@@ -9,7 +9,7 @@
     <style>h2:before {content: '🍲 '}</style>
 </head>
 <body>
-<a href=".">Normy jedál</a>
+<a href="." class="logo">Normy jedál</a>
 <h1>Polievky</h1>
 
 <h2>Hovädzia polievka</h2>
