@@ -85,7 +85,7 @@ function showhideTOC() {
 
 function renderPics() {
   const piclist = this.responseText.split('\n');
-  const headings = document.querySelectorAll('h1,h2,h3,h4');
+  const headings = document.querySelectorAll('h2,h3');
   // console.log(piclist);
   for (var l of piclist) {
     let [dot, hash, fn] = l.split('/');

@@ -52,7 +52,9 @@ def load_posts(loader, hashtag):
 
 
 output = """find pic -type f\
-    -name "*.txt" -or -name "*.jpg"\
+    -name "*.jpg"\
+    -not -name "*.txt"\
+    -not -name "*_UTC_*.jpg"\
     -not -name "*_profile_pic.jpg" > pics-all.txt"""
 
 filter = """grep -Fvxf pics-exclude.txt pics-all.txt > pics.txt"""
