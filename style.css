@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
-body{font-family:'Roboto',sans-serif;padding:2em;max-width:800px;color:#333}
+body{font-family:'Roboto',sans-serif;padding:1em;color:#333}
+p,li{max-width:800px;}
 table p{margin:.3em}
 .logo{text-decoration:none;font-size:1rem;padding:.3em 0;
     border-bottom:1px dotted #ddd}
@@ -9,11 +10,11 @@ table p{margin:.3em}
 h1,h2{font-weight:normal}
 h2,h3{margin-top:1.5em}
 a{color:dodgerblue}
-a img{margin:0 .5rem .5rem 0;padding:1px;border:1px solid #f3f3f3}
-a:hover img{border-color:#ddd}
+a img{margin:0 .5rem .5rem 0;border:2px dotted #ddd;border-radius:4px}
+a:hover img{border-color:dodgerblue}
 table{border-collapse:collapse}
 table.strips tbody tr:nth-child(odd){background:whitesmoke}
-img{max-width:100%;max-height:200px}
+img{max-width:30%;max-height:200px}
 
 nav li, aside li{list-style:none;padding:.1em 0}
 nav h2{margin-top:2em}
@@ -30,3 +31,7 @@ p.time,p.portion{color:green;font-weight:bold}
 #toc a.b{font-weight:bold}
 #toc a.indent{padding-left:1em}
 #toc a.extraindent{padding-left:2em}
+
+@media only screen and (min-width : 768px) {
+	body{padding:2em}
+}
