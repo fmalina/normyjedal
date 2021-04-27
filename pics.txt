@@ -128,9 +128,6 @@ pic/bryndzovetycinky/2021-04-20_21-02-35_UTC.jpg
 pic/bryndzovetycinky/2020-09-20_18-11-09_UTC.jpg
 pic/bryndzovetycinky/2019-01-01_16-57-36_UTC.jpg
 pic/bryndzovetycinky/2020-10-01_07-45-37_UTC.jpg
-pic/zakladnepravidla/2016-02-02_15-34-23_UTC.jpg
-pic/zakladnepravidla/2019-02-01_07-37-24_UTC.jpg
-pic/zakladnepravidla/2020-07-28_11-38-41_UTC.jpg
 pic/orechoverezy/2021-04-10_06-31-08_UTC.jpg
 pic/orechoverezy/2021-03-22_06-20-05_UTC.jpg
 pic/orechoverezy/2021-03-08_15-38-57_UTC.jpg

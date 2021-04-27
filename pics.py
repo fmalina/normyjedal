@@ -63,3 +63,4 @@ filter = """grep -Fvxf pics-exclude.txt pics-all.txt > pics.txt"""
 if __name__ == '__main__':
     load()
     os.system(output)
+    os.system(filter)

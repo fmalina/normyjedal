@@ -98,6 +98,7 @@ function renderPics() {
             let img = el('img')
             img.src = 'pic/'+hash+'/'+fn;
             a.href = img.src;
+            a.setAttribute("target", "_blank");
             a.onclick = function(e){
             	// e.preventDefault();
             	console.log(a.href)

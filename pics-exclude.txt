@@ -132,3 +132,6 @@ pic/ryby/2021-04-22_19-49-53_UTC_2.jpg
 pic/ryby/2021-04-22_19-49-53_UTC_3.jpg
 pic/ryby/2021-04-22_17-35-55_UTC_7.jpg
 pic/ryby/2021-04-22_19-12-21_UTC.jpg
+pic/zakladnepravidla/2016-02-02_15-34-23_UTC.jpg
+pic/zakladnepravidla/2019-02-01_07-37-24_UTC.jpg
+pic/zakladnepravidla/2020-07-28_11-38-41_UTC.jpg
