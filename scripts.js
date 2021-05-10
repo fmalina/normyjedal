@@ -4,7 +4,9 @@ function hashtagify(string) {
   const b = 'aaaaaaaaaacccddeeeeeeeegghiiiiiilmnnnnoooooooooprrsssssttuuuuuuuuuwxyyzzz------'
   const p = new RegExp(a.split('').join('|'), 'g')
 
-  return string.toString().toLowerCase()
+  return string
+    .toString()
+    .toLowerCase()
     .split(' a ')[0]
     .split('/')[0]
     .split('(')[0]
@@ -43,12 +45,9 @@ function createTOC() {
 		var tmp = el('a');
 		tmp.innerHTML = h.innerHTML;
 		z.appendChild(tmp);
-		if (h.nodeName == 'H1')
-			tmp.className = 'b';
-		if (h.nodeName == 'H3')
-			tmp.className = 'indent';
-		if (h.nodeName == 'H4')
-			tmp.className = 'extraindent';
+		if (h.nodeName == 'H1') tmp.className = 'b';
+		if (h.nodeName == 'H3') tmp.className = 'indent';
+		if (h.nodeName == 'H4') tmp.className = 'extraindent';
 		var headerId = h.id || hashtagify(h.innerText);
 		tmp.href = '#' + headerId;
 		h.id = headerId;
