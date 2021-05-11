@@ -48,9 +48,14 @@ function createTOC() {
 		if (h.nodeName == 'H1') tmp.className = 'b';
 		if (h.nodeName == 'H3') tmp.className = 'indent';
 		if (h.nodeName == 'H4') tmp.className = 'extraindent';
+		var ha = h.appendChild(el('a'));
 		var headerId = h.id || hashtagify(h.innerText);
 		tmp.href = '#' + headerId;
+		ha.href = tmp.href;
+		ha.className = 'anchor';
+		ha.innerHTML = '#';
 		h.id = headerId;
+		h.prepend(ha);
 	}
 	return y;
 }
