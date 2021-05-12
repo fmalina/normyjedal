@@ -37,8 +37,8 @@ def get_credit(path):
 def render(path):
     path_name = path.name
     f = open(path).read()
-    title = f.split('\n')[0][:60]
-    if len(title) >= 60:
+    title = f.split('\n')[0][:40]
+    if len(title) >= 40:
         title += '...'
     desc = linebreaks(f)
     img_src = path_name.replace('.txt', '.jpg')
@@ -54,13 +54,13 @@ def render(path):
     <meta charset="utf8">
     <link rel="stylesheet" href="/nom/style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{title}</title>
+    <title>{recipe_name}: {title}</title>
 </head>
 <body>
 <main>
+    <p><a href="/nom/{doc_name}#{hashtag}">{recipe_name}</a>{credit}
     <p><img class="feature" src="{img_src}"></p>
     {desc}
-    <p><a href="/nom/{doc_name}#{hashtag}">{recipe_name}</a>{credit}
 </main>
 </body>
 """
