@@ -101,7 +101,7 @@ function renderPics() {
             let a = el('a');
             let img = el('img')
             img.src = 'pic/'+hash+'/'+fn;
-            a.href = img.src;
+            a.href = img.src.replace('.jpg', '.htm');
             a.setAttribute("target", "_blank");
             a.onclick = function(e){
             	// e.preventDefault();
@@ -132,4 +132,9 @@ window.onload = function () {
     var footer = createFooter();
     var body = document.getElementsByTagName('body')[0];
     body.appendChild(footer);
+	if(window.location.hash){
+    	var my_hash = window.location.hash;
+		location.hash = '#dummy';
+		location.hash = my_hash;
+	}
 }

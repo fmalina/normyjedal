@@ -1,23 +1,52 @@
-import glob
+from pathlib import Path
+from django.template.defaultfilters import linebreaks
+from pics import get_hashtags
 
-glob.glob('pic/*')
+hashtags = get_hashtags()
+docs_by_hashtag = dict([(y, (x, z)) for x, y, z in hashtags])
 
 
-def render(title, img_src, desc):
-    return f"""
+def render_text_files():
+    for path in Path('pic').rglob('*.txt'):
+        render(path)
+
+
+def render(path):
+    path_name = path.name
+    f = open(path).read()
+    title = f.split('\n')[0][:60]
+    if len(title) >= 60:
+        title += '...'
+    desc = linebreaks(f)
+    img_src = path_name.replace('.txt', '.jpg')
+    hashtag = str(path).split('/')[-2]
+    doc_name, recipe_name = docs_by_hashtag[hashtag]
+    if recipe_name:
+        recipe_name = ''.join([x for x in recipe_name if not x.isdigit()]).replace('.', '').strip()
+
+    contents = f"""
 <!doctype html>
 <html lang="sk">
 <head>
     <meta charset="utf8">
-    <base href="/nom/">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="/nom/style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{title}</title>
 </head>
 <body>
 <main>
-    <img src="{img_src}.jpg">
+    <p><img class="feature" src="{img_src}"></p>
     {desc}
+    <p><a href="/nom/{doc_name}#{hashtag}">{recipe_name}</a>
 </main>
 </body>
 """
+    # print(str(path))
+    fnw = str(path).replace('.txt', '.htm')
+    fw = open(fnw, "w")
+    fw.write(contents)
+    fw.close()
+
+
+if __name__ == '__main__':
+    render_text_files()

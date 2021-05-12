@@ -17,18 +17,22 @@ def hashtagify(text):
         .split('(')[0]
         .split('–')[0]
         .split('-')[0].strip()
-    )
+    ).replace('-', '')
 
 
 def get_hashtags():
     ls = []
-    for fn in glob.glob('[a-z-]+'):
+    html_files = [x for x in glob.glob('*') if
+                  '.' not in x and
+                  '__' not in x and
+                  'pic' not in x]
+    for fn in html_files:
         dom = fromstring(open(fn).read())
         elems = dom.cssselect('h1,h2,h3')
         for h in elems:
             hashtag = hashtagify(h.text)
             hashtag = ''.join([x for x in hashtag if not x.isdigit()])
-            ls.append(hashtag)
+            ls.append((fn, hashtag, h.text))
     return ls
 
 
@@ -38,7 +42,8 @@ def trim_loaded(hashtags):
 
 
 def load():
-    hashtags = list(reversed(trim_loaded(get_hashtags())))
+    hashtags = [y for x, y, _text in get_hashtags()]
+    hashtags = list(reversed(trim_loaded(hashtags)))
     loader = instaloader.Instaloader()
     loader.interactive_login(USER)
     for h in hashtags:

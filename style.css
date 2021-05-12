@@ -15,6 +15,7 @@ a:hover img{border-color:dodgerblue}
 table{border-collapse:collapse}
 table.strips tbody tr:nth-child(odd){background:whitesmoke}
 img{max-width:30%;max-height:200px}
+img.feature{max-width:100%;max-height:initial}
 
 nav li, aside li{list-style:none;padding:.1em 0}
 nav h2{margin-top:2em}
