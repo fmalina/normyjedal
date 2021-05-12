@@ -24,7 +24,7 @@ nav a,nav b{padding:.2em .5em;display:inline-block}
 aside{margin-top:3em}
 aside p, aside ul{float:left;margin-top:0}
 footer{clear:both;text-align:right}
-p.time,p.portion{color:green;font-weight:bold}
+p.time,p.portion,p.subheading{color:green;font-weight:bold}
 
 #toc{background:rgba(255,255,230,0.95);
     position:absolute;padding:1em;z-index:3;top:0;right:0}

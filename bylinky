@@ -10,7 +10,8 @@
 <body>
 <a href="." class="logo">Normy jedál</a>
 <h1>Použitie bylín v kuchyni 🌿</h1>
-<h2>Aníz (Pimpinella anisum)</h2>
+<h2>Aníz</h2><p class="subheading"><b>Pimpinella anisum</b></p>
+
 <p>Pochádza zo Stredomoria a Malej Ázie, je jedným z najstarších a najrozšírenejších korení. Podporuje trávenie,
     povzbudzuje chuť k jedlu a súčastne ukľudňuje.</p>
 <p>Je vhodný pri nervozite a nervových poruchách, ktoré vyvolávajú nechutenstvo. Ako čaj sa podáva pri nachladnutí,
@@ -56,7 +57,7 @@
 <p>Na oleji alebo masti speníme jemno nakrájanú cibuľku, pridáme na väčšie kocky nakrájané mäso a opečieme. Pridáme
     aníz, papričky, soľ, podleje menším množstvom vody a podusíme domäkka. Pred podávaním pridáme mätu, ako prílohu
     dusenú ryžu.</p>
-<h2>Artičok (Cyryna scolymus)</h2>
+<h2>Artičok</h2><p class="subheading"><b>Cyryna scolymus</b></p>
 <p>Je vyhľadávaný predovšetkým v kuchyniach južných štátov. Ma však i liečivé a ozdravujúce účinky. Je vhodný pre
     diabetikov, má priaznivé účinky na krvný obeh, pretože napomáha vylučovaniu cholesterolu. Pri tepelnej úprave
     uvoľňuje toxíny.</p>
@@ -100,7 +101,7 @@
 <p>Všetky bylinky jemne nasekáme, pridáme uhorky, kapary, olivový olej, ocot a citrónovú šťavu. Omáčku nalejeme do
     misiek a pridáme srdiečka artyčokov.</p>
 
-<h2>Badyán (Illicium Verum)</h2>
+<h2>Badyán</h2><p class="subheading"><b>Illicium Verum</b></p>
 
 <p>Nazývaný aj hviezdičkové korenie. Sú to plody čínskeho stromu Illicium Verum a používajú sa sušené. Semená podporujú
     trávenie a chuť k jedlu, uľahčujú pri kašli, bronchitíde, nadýmaniu a reumatizme.
@@ -145,7 +146,8 @@
     Vložíme do hlbšieho kastróla (woku) spoločne s badyánom a varíme bez pokrývky pokiaľ mäso nezmäkne.</p>
 <p>Zahustíme solamylom, maizenou rozmiešanou v studenej vode, pridáme glutasol, trošku prisoľme.</p>
 
-<h2>Bazalka pravá (Lamiaceae)</h2>
+<h2>Bazalka</h2>
+<p class="subheading"><b>Bazalka pravá (Lamiaceae)</b></p>
 <p>Pôvodom z Indie, pre svoju zvláštnu jemnú aromatickú vôňu je veľmi obľúbená v kuchyniach celého sveta, hlavne v
     talianskej. Jej listy majú liečebné účinky. Ponorené na niekoľko hodín do vína je možné ich použiť ako tonikum.</p>
 <p>Pridávajú sa do čaju na podporu trávenia. Bazalka má široké použitie v aromaterapii, vdychovanie niekoľko kvapiek
@@ -240,7 +242,7 @@
     </tr>
 </table>
 
-<h2>Baza čierna (Caprifoliacae)</h2>
+<h2>Baza čierna</h2><p class="subheading"><b>Caprifoliacae</b></p>
 <p>Má mnohonásobné využitie, šťavy a zavareniny pomáhajú pri liečení bronchitíd a neuralgií, odvar z kvetov je vhodný
     pre starostlivosť o pleť a oči. Kvety sa používajú k príprave mastí na popáleniny a výrony. Bazový ocot pomáha
     znižovať horúčky. Niektoré odrody bazy môžu precitlivelým ľuďom spôsobovať žalúdočné a črevné ťažkosti. Kvety je
@@ -281,7 +283,7 @@
     </tr>
 </table>
 
-<h2>Bobkový list (Laurus nobilis)</h2>
+<h2>Bobkový list</h2><p class="subheading"><b>Laurus nobilis</b></p>
 <p>Jedná sa o listy stále zeleného stromu či kra vavrínu,</p>
 <p>Rastie prevážne v subtropických podmienkach. Používajú sa predovšetkým listy ale aj plody. Nálev z listov podporuje
     trávenie a chuť k jedlu. Silice z plodov sú doporučované pri reumatických bolestiach a na masáže pri podvrtnutiach
@@ -329,7 +331,7 @@
     </tr>
 </table>
 
-<h2>Cesnak kuchynský (Allium sativum)</h2>
+<h2>Cesnak kuchynský</h2><p class="subheading"><b>Allium sativum</b></p>
 <p>Pôvodom pravdepodobne zo strednej Ázie, veľmi rýchlo sa rozšíril na ostatné kontinenty. Je dôležitý a patrí do našej
     kuchyne. Má výraznú ostrú chuť a vôňu. Obsahuje určité množstvo železa, enzýmy, vitamíny (predovšetkým A, B1-B2, PP
     a C) a ďalšie minerálne látky. Povzbudzuje chuť k jedlu a podporuje trávenie. Pôsobí ako mierme preháňadlo. Užíva sa
@@ -380,7 +382,7 @@
     </tr>
 </table>
 
-<h2>Estragon (Artemisia dracunculus)</h2>
+<h2>Estragon</h2><p class="subheading"><b>Artemisia dracunculus</b></p>
 <p>Patrí neodmysliteľne do všetkých kuchýň krajín Stredomoria, predovšetkým francúzskej, ale i u nás má svoju tradíciu.
     Okrem využitia v kuchyni má blahodárne účinky na trávenie, povzbudzuje chuť k jedlu, osviežuje dych a pôsobí ako
     uspávací prostriedok. Koreň estragónu sa užíva proti bolestiam zubov.</p>
@@ -480,7 +482,7 @@
     </tr>
 </table>
 
-<h2>Fenikel obyčajný (Foeniculum vulgare)</h2>
+<h2>Fenikel obyčajný</h2><p class="subheading"><b>Foeniculum vulgare</b></p>
 <p>Jedna z najdlhšie pestovaných rastlín v histórii, zvlášť býval cenený starými Rimanmi. Má rôznorodé použitie. Čaj z
     fenikla je veľmi účinný prostriedok proti zápche a nadýmaniu a je vhodný i pre deti. Uľahčuje odkašliavanie. Žuvanie
     semien zaháňa hlad a zlepšuje zažívanie.</p>
@@ -530,7 +532,7 @@
 <p>Za stáleho miešania necháme prehriať ešte niekoľko minút (nesmie sa variť!).Fenikel dáme do servírovacej misky na
     cestovinu a zalejeme omáčkou, prizdobíme.</p>
 
-<h2>Jalovec - Borievka (Juniperus communis)</h2>
+<h2>Jalovec - Borievka</h2><p class="subheading"><b>Juniperus communis</b></p>
 <p>Plody (bobule) jalovca sa používajú na korenenie jedál a nápojov, majú diuretické vlastnosti a pomáhajú liečiť zápaly
     močového mechúra. Pôsobia tiež rovnako priaznivo pri svalových ťažkostiach. Nesmie sa používať v tehotenstve a pri
     chorobách ľadvín.</p>
@@ -579,7 +581,7 @@
     </tr>
 </table>
 
-<h2>Kardamon pravý (Elettaria cardamomum)</h2>
+<h2>Kardamon pravý</h2><p class="subheading"><b>Elettaria cardamomum</b></p>
 <p>Tropický, vytrvalý bylinný ker, pôvodom z orientu, kde je veľmi používaným korením. Vývary zo semien sú užitočné pri
     nadúvaní, poruchách trávenia a bolestiach hlavy. Žuvanie semien osviežuje dych.</p>
 
@@ -635,7 +637,7 @@
     </tr>
 </table>
 
-<h2>Trebuľa voňavá (Anthriskus cerefolium)</h2>
+<h2>Trebuľa voňavá</h2><p class="subheading"><b>Anthriskus cerefolium</b></p>
 <p>Pôvodom z juhovýchodnej Európy a juhozápadnej Ázie.</p>
 <p>V súčastnej dobe v našej kuchyni je neprávom zabúdaná.</p>
 <p>Listy sú zdrojom vitamínu C, karoténu, železa a horčíka.</p>
@@ -692,7 +694,7 @@
     </tr>
 </table>
 
-<h2>Rasca - Kmín (Carum carvi)</h2>
+<h2>Rasca - Kmín</h2><p class="subheading"><b>Carum carvi</b></p>
 <p>Je jedným z najstarších používaných korení. Má špecifickú arómu, ktorú mu dodáva predovšetkým silica, obsiahnutá
     v</p>
 <p>V plodoch a listoch. Pôsobí dobre na zažívanie, odvar sa používa pri nadúvaní a nadmernej tvorbe plynov. Pôsobí ako
@@ -745,7 +747,7 @@
 
 </table>
 
-<h2>Kôpor (Anethuum graveolens)</h2>
+<h2>Kôpor</h2><p class="subheading"><b>Anethuum graveolens</b></p>
 <p>Pochádza z orientu, v Európe sa však pestuje už najmenej od 3. storočia n. l. Na organizmus má ukľudňujúce účinky,
     pôsobí proti nespavosti, nadúvaniu, je mierne močopudný. Používa sa tiež pri bolestiach hemoroidov. Čaj z kôpru je
     vhodný pre posilnenie dojčiacich matiek.</p>
@@ -797,7 +799,7 @@
     </tr>
 </table>
 
-<h2>Koriander (Coriandrum sativum)</h2>
+<h2>Koriander</h2><p class="subheading"><b>Coriandrum sativum</b></p>
 <p>Koriander je pestovaný ako liečivá a kuchynská bylina už oddávna. Bývali mu prisudzované zázračné účinky. Povzbudzuje
     tvorbu žalúdočných štiav, pôsobí proti škodlivým baktériám v zažívacom ústrojenstve, odstraňuje</p>
 <p>Nadúvanie a kŕče tráviaceho traktu. Uplatňuje sa i pri reumatizme a bolestiach kĺbov.</p>
@@ -848,7 +850,7 @@
     </tr>
 </table>
 
-<h2>Ligurček lekársky (Levisticum officinale)</h2>
+<h2>Ligurček lekársky</h2><p class="subheading"><b>Levisticum officinale</b></p>
 <p>Známy aj ako americký zeler alebo jednoducho maggi. Príjemne aromatická rastlina, používaná predovšetkým v kuchyni.
     Má však i liečivé účinky: priaznivo ovplyvňuje vylučovanie tráviacich štiav, zmierňuje bolesti pri nadúvaní,
     podporuje činnosť srdca, pečene a sleziny. Účinný je pri reumatizme a všeobecnej slabosti. Predpisuje sa pri
@@ -909,7 +911,7 @@
     </tr>
 </table>
 
-<h2>Majoránka (majorana hortensis)</h2>
+<h2>Majoránka</h2><p class="subheading"><b>majorana hortensis</b></p>
 <p>V staroveku bývala kultovou rastlinou a bola jej prisudzovaná čarovná moc. Obsahuje trieslovinu, horčinu a silicu.
     Zvyšuje sekréciu žalúdočných štiav, ukľudňuje zažívací trakt a podporuje tvorbu žlče. Má priaznivé účinky pri
     nadúvaní, črevnej kolike a neurózach. Rovnako pomáha pri nachladnutí a bolestiach hlavy. Vývary alebo silice sa
@@ -970,7 +972,7 @@
     </tr>
 </table>
 
-<h2>Mäta pieporná (Mentha piperita)</h2>
+<h2>Mäta pieporná</h2><p class="subheading"><b>Mentha piperita</b></p>
 <p>Vysoko cenená bylina, objavuje sa už v gréckej mytológii, podobne ako kmín a kôpor. Bola symbolom pohostinnosti a
     duševného kľudu. Ako liečivá bylinka</p>
 <p>má mnohostranné využitie. Pri nachladnutí sa inhalujú kvapky silíc, nálev s medom je veľmi prospešný pri chrípke,
@@ -1016,7 +1018,7 @@
     </tr>
 </table>
 
-<h2>Medovka (Melisa officinalis)</h2>
+<h2>Medovka</h2><p class="subheading"><b>Melisa officinalis</b></p>
 <p>Silno a príjemne vonia citrónom. Je korením a liečivou rastlinou, ktorej sa už oddávna prisudzuje priaznivý vplyv na
     obveselenie mysle a zádumčivosť. Najkvalitnejšie sú mladé listy, a to ako korenie i pre liečivé účinky. Má
     ukľudňujúce účinky, odstraňuje stavy napätia, zlepšuje trávenie a tvorbu žlče. Ovplyvňuje znižovanie krvného tlaku,
@@ -1052,7 +1054,7 @@
     </tr>
 </table>
 
-<h2>Muškátový orech a „kvet“ (Myristica frangrans)</h2>
+<h2>Muškátový orech a „kvet“</h2><p class="subheading"><b>Myristica frangrans</b></p>
 <p>Vzácna a liečivá bylina zahalená tajomstvom a mýtami. Používajú sa plody, bobule s jedným semenom (muškátový orech).
     Je kryté mieškom, ktorý sa odtrháva, suší a používa sa mletý, strúhaný ako „muškátový kvet“.</p>
 <p>Dnes je muškátový oriešok i kvet doporučovaný pri oslabení nervového systému, proti katarom, reumatizmu a nadúvaniu.
@@ -1101,7 +1103,7 @@
     </tr>
 </table>
 
-<h2>Paprika (Capsium sp.)</h2>
+<h2>Paprika</h2><p class="subheading"><b>Capsium sp.</b></p>
 <p>Do Európy sa dostala z Východu a tiež z Ameriky, kde ju Indiáni považovali za „sídlo boha ohňa“ a korenili ňou jedlá
     a nápoje. V rôznych modifikáciach sa používa na celom svete. K použitiu je vhodná ako zelenina i ako korenie,
     obsahuje vitamín C a horčík. Stimuluje krvný obeh a tráviaci systém, uľavuje pri kolikách, nadúvaniu, žalúdočných
@@ -1164,7 +1166,7 @@
     </tr>
 </table>
 
-<h2>Pažítka (Allium schoenoprasum)</h2>
+<h2>Pažítka</h2><p class="subheading"><b>Allium schoenoprasum</b></p>
 <p>Existuje viacero druhov, líšiacich sa príchuťou a vôňou. U nás je najznámejšia pažítka záhradná, ktorú je možno
     pestovať v záhradke i v kvetináčoch po celý rok. Je dôležitým zdrojom vitamínu C, ďalej karoténu, vitamínu B a
     minerálnych látok. Podporuje trávenie, chuť k jedlu a čiastočne znižuje krvný tlak. Má mierne antibiotické účinky.
@@ -1198,7 +1200,7 @@
     </tr>
 </table>
 
-<h2>Petržlen (Petroselinum crispum)</h2>
+<h2>Petržlen</h2><p class="subheading"><b>Petroselinum crispum</b></p>
 <p>Pestuje sa v mnohých podobách, používa sa koreň, vňať i semená. V domácom liečiteľstve sa užívajú rovnako listy,
     ktoré sa v čerstvom stave môžu žuvať pre osvieženie dychu a zvláčnenie pokožky, nálev z nich podporuje trávenie a
     ako obklad priaznivo pôsobí antisepticky pri podvrtnutí, na rany a bodnutia hmyzom.</p>
@@ -1234,7 +1236,7 @@
     </tr>
 </table>
 
-<h2>Zádušník brečtanovitý (Glechoma hederacea)</h2>
+<h2>Zádušník brečtanovitý</h2><p class="subheading"><b>Glechoma hederacea</b></p>
 <p>Známa aj ako popenec je nenápadná hluchavkovitá červeno, ružovo alebo fialovo kvitnúca bylinka, rozšírená na lúkach,
     stráňach a pozdĺž ciest. V stredoveku patril k „čarodejnému koreniu“ a mal chrániť proti čarám a moru. Je to
     skutočne liečivá rastlinka, obsahuje silice a vitamíny(v čerstvom stave).</p>
@@ -1279,7 +1281,7 @@
     </tr>
 </table>
 
-<h2>Rozmarín (Rozmarinus officinalis)</h2>
+<h2>Rozmarín</h2><p class="subheading"><b>Rozmarinus officinalis</b></p>
 <p>Vytrvalá teplomilná rastlina, pôvodom z oblasti Stredomoria. Má príjemnú vôňu a chuť. Používa sa v menších dávkach, a
     to na korenenie pokrmov i na liečiteľstvo. Prispieva k vylučovaniu tráviacich štiav, stimuluje činnosť pečene, má
     dobré účinky pri reume. Vo väčších dávkach je jedovatý a pôsobí opojne. Nesmie sa používať do jedla určeného pre
@@ -1322,7 +1324,7 @@
     </tr>
 </table>
 
-<h2>Saturejka (Satureia hortensis)</h2>
+<h2>Saturejka</h2><p class="subheading"><b>Satureia hortensis</b></p>
 <p>Pôvodom zo subtropických krajín, v Európe je rozšírená už od 3 storočia n. l. Je účinná proti hnačke, pôsobí proti
     nadúvaniu a tvorbe plynov, podporuje chuť k jedlu, trávenie a zažívanie. Je mierne močopudná.</p>
 <p><em>Použitie v kuchyni:</em></p>
@@ -1364,7 +1366,7 @@
     </tr>
 </table>
 
-<h2>Šalvia (Salvia officinalis)</h2>
+<h2>Šalvia</h2><p class="subheading"><b>Salvia officinalis</b></p>
 <p>Staré mamy ju poznajú aj ako babské ucho. Korenie a liečivá bylinka - liečivka s bohatou minulosťou, známa v
     starovekom Grécku a Ríme, nenáročná na pestovanie v bylinkovej záhradke. Zmierňuje potenie, má antibakteriálne a
     protizápalové účinky, podporuje trávenie, priaznivo ovplyvňuje činnosť pečene a žlčníka. Rovnako sa uplatňuje pri
@@ -1420,7 +1422,7 @@
     </tr>
 </table>
 
-<h2>Tymián (Thymus vulgaris)</h2>
+<h2>Tymián</h2><p class="subheading"><b>Thymus vulgaris</b></p>
 <p>Príbuzný materinej dúšky, skôr sa verilo, že čaj z tymiánu podporuje silu a odvahu a odháňa zlé sny. Má dezinfekčné
     účinky, pôsobí ako dezodorant, proti preháňaniu a nadúvaniu, uľavuje pri chronických zápaloch žalúdka, zmierňuje
     kašeľ a pomáha pri bronchitídach. Vo veľkých dávkach však môže spôsobiť aj otravu.</p>
