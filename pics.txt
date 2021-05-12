@@ -236,16 +236,6 @@ pic/hovadzienavine/2018-01-20_13-07-13_UTC.jpg
 pic/hovadzienavine/2017-10-23_08-14-56_UTC.jpg
 pic/hovadzienavine/2016-09-14_11-01-01_UTC.jpg
 pic/sedliackapolievka/2019-09-11_18-25-46_UTC.jpg
-pic/tepelnauprava/2020-07-20_10-17-38_UTC.jpg
-pic/tepelnauprava/2020-01-15_08-26-58_UTC.jpg
-pic/tepelnauprava/2020-09-17_14-57-49_UTC.jpg
-pic/tepelnauprava/2020-06-29_15-06-22_UTC.jpg
-pic/tepelnauprava/2019-07-25_19-07-43_UTC.jpg
-pic/tepelnauprava/2020-04-23_19-08-37_UTC.jpg
-pic/tepelnauprava/2020-09-28_09-12-30_UTC.jpg
-pic/tepelnauprava/2020-09-23_07-43-35_UTC.jpg
-pic/tepelnauprava/2020-07-04_08-30-18_UTC.jpg
-pic/tepelnauprava/2020-07-13_12-40-11_UTC.jpg
 pic/plnenekuraciestehna/2021-01-11_10-18-52_UTC.jpg
 pic/plnenekuraciestehna/2020-03-29_11-30-46_UTC.jpg
 pic/plnenekuraciestehna/2017-12-07_18-44-53_UTC.jpg
