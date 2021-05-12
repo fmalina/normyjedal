@@ -30,7 +30,7 @@ def get_credit(path):
     except KeyError:
         return ''
     if username:
-        return f' podľa @{username}'
+        return f' 📸 @{username}'
     return ''
 
 
@@ -54,7 +54,7 @@ def render(path):
     <meta charset="utf8">
     <link rel="stylesheet" href="/nom/style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{recipe_name}: {title}</title>
+    <title>{recipe_name} 📸 {title}</title>
 </head>
 <body>
 <main>
