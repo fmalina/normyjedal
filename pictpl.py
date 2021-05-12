@@ -30,7 +30,7 @@ def get_credit(path):
     except KeyError:
         return ''
     if username:
-        return f' 📸 @{username}'
+        return f' podľa @{username}'
     return ''
 
 
