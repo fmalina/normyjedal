@@ -58,8 +58,8 @@ def render(path):
 </head>
 <body>
 <main>
-    <p><a href="/nom/{doc_name}#{hashtag}">{recipe_name}</a>{credit}
     <p><img class="feature" src="{img_src}"></p>
+    <p><a href="/nom/{doc_name}#{hashtag}">{recipe_name}</a>{credit}
     {desc}
 </main>
 </body>
