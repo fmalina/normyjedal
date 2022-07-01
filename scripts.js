@@ -64,7 +64,7 @@ function createFooter(){
   // renders a footer with copyright, link to hoepage and credits
 	let f = el('footer');
 	let p = f.appendChild(el('p'));
-	p.innerText = "© Copyright 2002-2021. Všetky práva vyhradené | ";
+	p.innerText = "© Copyright 2002-2022. Všetky práva vyhradené | ";
 	var a = p.appendChild(el('a'));
 	a.href = '.';
 	a.innerText = 'Normy jedál'

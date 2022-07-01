@@ -1,12 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
-body{font-family:'Roboto',sans-serif;padding:1em;color:#333}
-p,li{max-width:800px;}
+body{font-family:'Garamond',serif;padding:1.5em;font-size:1.2rem;color:#333}
+p,li{max-width:800px}
+em{letter-spacing:.05rem}
 table p{margin:.3em}
-.logo{text-decoration:none;font-size:1rem;padding:.3em 0;
+.logo{font-size:1rem;padding:.3em 0;
     background:rgba(255,255,255,0.95);
     display:block;position:sticky;z-index:2;top:0}
-.logo:after{content:'  *'}
-.logo,h1 span{text-transform:uppercase;letter-spacing:.2rem;color:hotpink}
+.logo,h1 span{text-transform:uppercase;letter-spacing:.2rem;color:rgb(255,33,144)}
 h1,h2{font-weight:normal;clear:both}
 h1,h2,h3{padding-top:1.5em}
 a{color:dodgerblue}
@@ -23,7 +22,7 @@ nav a,nav b{padding:.2em .5em;display:inline-block}
 
 aside{margin-top:3em}
 aside p, aside ul{float:left;margin-top:0}
-footer{clear:both;text-align:right}
+footer{clear:both;padding-top:2em;color:#777}
 p.time,p.portion,p.subheading{color:green;font-weight:bold}
 
 #toc{background:rgba(255,255,230,0.95);
