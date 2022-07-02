@@ -1,716 +1,224 @@
-<!doctype html>
-<html lang="sk">
-<head>
-    <meta charset="utf8">
-    <link rel="stylesheet" href="style.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Hovädzie roštenky a plátky</title>
-    <script src="scripts.js"></script>
-</head>
-<body>
-<a href="." class="logo">Normy jedál</a>
-# Hovädzie roštenky a plátky</h1>
-<table>
-</table>
+# Hovädzie roštenky a plátky
 
-## Prírodná roštená - roštenka</h2>
-<table>
-    <tr>
-        <td><p>120g</p></td>
-        <td><p>roštenky</p></td>
-    </tr>
-    <tr>
-        <td><p>20g</p></td>
-        <td><p>cibuľa</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>olej</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>slaninka</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>hladká múka</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>soľ, vegeta, mleté korenie</p></td>
-    </tr>
-</table>
+## Prírodná roštená - roštenka
 
-## Pikantná roštenka</h2>
-<table>
-    <tr>
-        <td><p>120g</p></td>
-        <td><p>roštenky</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>masť</p></td>
-    </tr>
-    <tr>
-        <td><p>15g</p></td>
-        <td><p>cibuľa</p></td>
-    </tr>
-    <tr>
-        <td><p>2g</p></td>
-        <td><p>rajčinový pretlak</p></td>
-    </tr>
-    <tr>
-        <td><p>20g</p></td>
-        <td><p>lečo bez tuku</p></td>
-    </tr>
-    <tr>
-        <td><p>150g</p></td>
-        <td><p>zemiaky</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>sladká mletá paprika, mleté korenie, soľ,</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>majoránka, drtený kmín, cesnak, vegeta</p></td>
-    </tr>
-    <tr>
-        <td><p></p></td>
-        <td></td>
-    </tr>
-</table>
+* 120g roštenky
+* 20g cibuľa
+* 5g olej
+* 5g slaninka
+* 5g hladká múka
+* soľ, vegeta, mleté korenie
 
-## Kastrólová roštenka /podobná norma/</h2>
-<table>
-    <tr>
-        <td><p>120g</p></td>
-        <td><p>hovädzie mäso, roštenka, mladé hovädzie zadné</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>masť, olej</p></td>
-    </tr>
-    <tr>
-        <td><p>20g</p></td>
-        <td><p>cibuľa</p></td>
-    </tr>
-    <tr>
-        <td><p>150g</p></td>
-        <td><p>zemiaky</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td rowspan="2"><p>soľ, červená paprika, majorán, rasca, čierne a biele korenie</p></td>
-    </tr>
-    <tr>
-        <td></td>
-    </tr>
-</table>
+## Pikantná roštenka
 
-## Švédska roštenka</h2>
-<table>
-    <tr>
-        <td><p>120g</p></td>
-        <td><p>roštenky alebo hovädzie zadné mladé stehno</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>hladkej múky</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>masť, olej</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>cibuľa</p></td>
-    </tr>
-    <tr>
-        <td><p>2g</p></td>
-        <td><p>sardelová pasta</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>sterilizovaných uhoriek</p></td>
-    </tr>
-    <tr>
-        <td><p>30g</p></td>
-        <td><p>egalizovaného mlieka</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>strúhaneho syra</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>soľ, mleté korenie, vegeta</p></td>
-    </tr>
-</table>
+* 120g roštenky
+* 5g masť
+* 15g cibuľa
+* 2g rajčinový pretlak
+* 20g lečo bez tuku
+* 150g zemiaky
+* sladká mletá paprika, mleté korenie, soľ,
+* majoránka, drtený kmín, cesnak, vegeta
 
-## Bavorská roštenka-závitky</h2>
-<table>
-    <tr>
-        <td><p>120g</p></td>
-        <td><p>roštenky</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>masť, olej</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>hladkej múky</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>šunkovej salámy</p></td>
-    </tr>
-    <tr>
-        <td><p>50g</p></td>
-        <td><p>surových zemiakov</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>sterilizovaných uhoriek</p></td>
-    </tr>
-    <tr>
-        <td><p>¼</p></td>
-        <td><p>vajce</p></td>
-    </tr>
-    <tr>
-        <td><p>20g</p></td>
-        <td><p>cibuľa</p></td>
-    </tr>
-    <tr>
-        <td><p></p></td>
-        <td><p>soľ, vegeta, mleté korenie</p></td>
-    </tr>
-</table>
+## Kastrólová roštenka /podobná norma/
 
-## Maďarská roštenka</h2>
-<table>
-    <tr>
-        <td><p>120g</p></td>
-        <td><p>roštenky</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>masť, olej</p></td>
-    </tr>
-    <tr>
-        <td><p>20g</p></td>
-        <td><p>cibule, môže byť červená</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>hladkej múky</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>červená sladká maďarská paprika, soľ, vegeta,</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>feferónka</p></td>
-    </tr>
-</table>
+* 120g hovädzie mäso, roštenka, mladé hovädzie zadné
+* 5g masť, olej
+* 20g cibuľa
+* 150g zemiaky
+* soľ, červená paprika, majorán, rasca, čierne a biele korenie
 
-## Roštenka na orientálny spôsob</h2>
-<table>
-    <tr>
-        <td><p>120g</p></td>
-        <td><p>roštenky</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>masť, olej</p></td>
-    </tr>
-    <tr>
-        <td><p>15g</p></td>
-        <td><p>cibuľa</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>čerstvých hríbov, šampiónov</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>rajčinového pretlaku</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>hladká múka</p></td>
-    </tr>
-    <tr>
-        <td><p>¼dl</p></td>
-        <td><p>červené víno – Sviečka, Frankovka</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>soľ, vegeta, mleté korenie, cesnak</p></td>
-    </tr>
-    <tr>
-        <td colspan="2"><p>príloha: knedle, makaróny, cestovina</p></td>
-    </tr>
-</table>
+## Švédska roštenka
 
-## Viedeňská roštenka</h2>
-<table>
-    <tr>
-        <td><p>120g</p></td>
-        <td><p>roštenky</p></td>
-    </tr>
-    <tr>
-        <td><p>20g</p></td>
-        <td><p>cibuľa, prúžky cibule do červena</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>masť, slnečnicový olej</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>hladká múka</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>soľ, vegeta, mleté korenie</p></td>
-    </tr>
-    <tr>
-        <td colspan="2"><p>Narežeme asi 1 cm hrubé rezne. Mäso necháme v chlade odležať, aby boli mäkké. Opekáme na
-            oleji 4 minúty z každej strany.</p></td>
-    </tr>
-</table>
+* 120g roštenky alebo hovädzie zadné mladé stehno
+* 5g hladkej múky
+* 5g masť, olej
+* 10g cibuľa
+* 2g sardelová pasta
+* 5g sterilizovaných uhoriek
+* 30g egalizovaného mlieka
+* 5g strúhaného syra
+* soľ, mleté korenie, vegeta
 
-## Znojemská roštenka</h2>
-<table>
-    <tr>
-        <td><p>120g</p></td>
-        <td><p>roštenky</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>hladkej múky</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>olej</p></td>
-    </tr>
-    <tr>
-        <td><p>20g</p></td>
-        <td><p>sterilizovaných uhoriek</p></td>
-    </tr>
-    <tr>
-        <td><p>20g</p></td>
-        <td><p>cibuľa</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>soľ, vegeta, mleté korenie, cukor</p></td>
-    </tr>
-</table>
+## Bavorská roštenka-závitky
 
-## Cigánska roštenka</h2>
-<table>
-    <tr>
-        <td><p>120g</p></td>
-        <td><p>roštenky</p></td>
-    </tr>
-    <tr>
-        <td><p>2-5g</p></td>
-        <td><p>slaninky prerastanej</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>olej</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>hladká múka</p></td>
-    </tr>
-    <tr>
-        <td><p>20g</p></td>
-        <td><p>koreňová zelenina; mrkva, petržlen</p></td>
-    </tr>
-    <tr>
-        <td><p>15g</p></td>
-        <td><p>cibuľa</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>sterilizovaných uhoriek</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>zeleného hrášku; sterilizovaného, mrazeného</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>soľ, vegeta, mleté korenie</p></td>
-    </tr>
-</table>
+* 120g roštenky
+* 5g masť, olej
+* 5g hladkej múky
+* 10g šunkovej salámy
+* 50g surových zemiakov
+* 5g sterilizovaných uhoriek
+* ¼ vajce
+* 20g cibuľa
+*  soľ, vegeta, mleté korenie
 
-## Španielsky vtáčik, závitky</h2>
-<table>
-    <tr>
-        <td><p>120g</p></td>
-        <td><p>zadné hovädzie mäso</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>slnečnicový olej</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>šunky, údeniny alebo klobásy</p></td>
-    </tr>
-    <tr>
-        <td><p>¼</p></td>
-        <td><p>varené vajce</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>cibiľa</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>sterilizovaná uhorka</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>slaninka prerastaná</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>hladká múka</p></td>
-    </tr>
-    <tr>
-        <td><p>2g</p></td>
-        <td><p>horčica</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>soľ, mleté korenie biele a čierne</p></td>
-    </tr>
-</table>
+## Maďarská roštenka
 
-## Zbojnícky hovädzí plátok</h2>
-<table>
-    <tr>
-        <td><p>120g</p></td>
-        <td><p>zadného hovädieho mäsa</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>stolné oleja</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>liptovskej (šunkovej) salámy</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>slaniny</p></td>
-    </tr>
-    <tr>
-        <td><p>20g</p></td>
-        <td><p>cibule</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>hladkej múky</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>soľ, cesnak, mleté korenie</p></td>
-    </tr>
-</table>
+* 120g roštenky
+* 5g masť, olej
+* 20g cibule, môže byť červená
+* 5g hladkej múky
+* červená sladká maďarská paprika, soľ, vegeta,
+* feferónka
 
-## Pražský hovädzí plátok</h2>
-<table>
-    <tr>
-        <td><p>120g</p></td>
-        <td><p>zadného hovädzieho mäsa</p></td>
-    </tr>
-    <tr>
-        <td><p>20g</p></td>
-        <td><p>cibule</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>slnečnicový olej</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>hladká múka</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>liptovského salámu, diétny</p></td>
-    </tr>
-    <tr>
-        <td><p>¼</p></td>
-        <td><p>vajca</p></td>
-    </tr>
-    <tr>
-        <td><p>20g</p></td>
-        <td><p>cibuľa</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>zelený hrášok</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>soľ, vegeta, mleté korenie</p></td>
-    </tr>
-</table>
+## Roštenka na orientálny spôsob
 
-## Hovädzie na víne</h2>
-<table>
-    <tr>
-        <td><p>120g</p></td>
-        <td><p>Hovädzieho mäsa z plecka alebo stehna</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>masť, olej</p></td>
-    </tr>
-    <tr>
-        <td><p>30g</p></td>
-        <td><p>koreňovej zeleniny</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>cibuľa</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>rajčinový pretlak</p></td>
-    </tr>
-    <tr>
-        <td><p>½dl</p></td>
-        <td><p>víno</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>hladká múka</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>nové korenie, voda, soľ, cukor</p></td>
-    </tr>
-</table>
+* 120g roštenky
+* 5g masť, olej
+* 15g cibuľa
+* 10g čerstvých hríbov, šampiónov
+* 5g rajčinového pretlaku
+* 5g hladká múka
+* ¼dl červené víno – Sviečka, Frankovka
+* soľ, vegeta, mleté korenie, cesnak
 
-## Hovädzie na smotane</h2>
-<table>
-    <tr>
-        <td><p>120g</p></td>
-        <td><p>hovädzie mäso zadné, sviečkovica</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>masti</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>cibuľa</p></td>
-    </tr>
-    <tr>
-        <td><p>40g</p></td>
-        <td><p>koreňová zelenina (mrkva, petržlen, zelér)</p></td>
-    </tr>
-    <tr>
-        <td><p>30g</p></td>
-        <td><p>kyslá smotana</p></td>
-    </tr>
-    <tr>
-        <td><p>7g</p></td>
-        <td><p>hladká múka</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>bobkový list, soľ, mleté korenie</p></td>
-    </tr>
-</table>
+Príloha: knedle, makaróny, cestovina
 
-## Hovädzie dusené s hubami na smotane</h2>
-<table>
-    <tr>
-        <td><p>120g</p></td>
-        <td><p>hovädzieho mäsa zo stehna</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>masti</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>cibuľa</p></td>
-    </tr>
-    <tr>
-        <td><p>30g</p></td>
-        <td><p>čerstvých -10g sušených húb, šampióny</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>hladká múka</p></td>
-    </tr>
-    <tr>
-        <td><p>20g</p></td>
-        <td><p>kyslá smotana</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>soľ, vegeta, rasca drvená</p></td>
-    </tr>
-</table>
 
-## Wellingtonka so zeleninou, Wellingtonova sviečková</h2>
-<table>
-    <tr>
-        <td><p>200g</p></td>
-        <td><p>hovädzej sviečkovice</p></td>
-    </tr>
-    <tr>
-        <td><p>50g</p></td>
-        <td><p>kuracích pečienok</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>cibuľa</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>slnečnicový olej</p></td>
-    </tr>
-    <tr>
-        <td><p>½dl</p></td>
-        <td><p>červeného vína</p></td>
-    </tr>
-    <tr>
-        <td><p>¼</p></td>
-        <td><p>žĺtok na potretie cesta</p></td>
-    </tr>
-    <tr>
-        <td><p>100g</p></td>
-        <td><p>zeleninovej zmesi</p></td>
-    </tr>
-    <tr>
-        <td><p>60g</p></td>
-        <td><p>lístkového cesta na obalenie</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>soľ, mleté korenie, worčester</p></td>
-    </tr>
-    <tr>
-        <td colspan="2"><p>Steaky nakrájame, roztlačíme rukou, ochutíme, opečieme dve minúty z každej strany. Pečienky
-            na cibuľke s červeným vínom podusíme a zomelieme na väčšie kúsky. Steaky potrieme vzniknutou paštétou,
-            zabalíme do lístkoveho cesta a potrieme žĺtkom. Pečieme pri 200°C v rúre, v mikrovlnke na funkcii CRISP.
-            Obložíme dusenou zeleninou.</p></td>
-    </tr>
-</table>
+## Viedenská roštenka
 
-## Husárské pečené</h2>
-<table>
-    <tr>
-        <td><p>120g</p></td>
-        <td><p>hovädzie stehno</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>masti</p></td>
-    </tr>
-    <tr>
-        <td><p>20g</p></td>
-        <td><p>salámy</p></td>
-    </tr>
-    <tr>
-        <td><p>7g</p></td>
-        <td><p>hladkej múky</p></td>
-    </tr>
-    <tr>
-        <td><p>3g</p></td>
-        <td><p>červená maďarská paprika</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>soľ, mleté korenie, vegeta</p></td>
-    </tr>
-</table>
+* 120g roštenky
+* 20g cibuľa, prúžky cibule do červena
+* 10g masť, slnečnicový olej
+* 5g hladká múka
+* soľ, vegeta, mleté korenie
 
-## Poľské zrazy</h2>
-<table>
-    <tr>
-        <td><p>100g</p></td>
-        <td><p>hovädzie pliecko</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>masť, olej</p></td>
-    </tr>
-    <tr>
-        <td><p>20g</p></td>
-        <td><p>strúhanky</p></td>
-    </tr>
-    <tr>
-        <td><p>30g</p></td>
-        <td><p>cibule</p></td>
-    </tr>
-    <tr>
-        <td><p>50g</p></td>
-        <td><p>žemlí, rožkov</p></td>
-    </tr>
-    <tr>
-        <td><p>30g</p></td>
-        <td><p>údenej slaniny</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>soľ, vegeta, mleté biele alebo čierne korenie</p></td>
-    </tr>
-</table>
+Narežeme asi 1 cm hrubé rezne. Mäso necháme v chlade odležať, aby boli mäkké.
+Opekáme na oleji 4 minúty z každej strany.
 
-## Hovädzie mäso so sterilizovanými hubami</h2>
-<table>
-    <tr>
-        <td><p>120g</p></td>
-        <td><p>hovädzie mäso</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>slaninky</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>maslo, olej</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>cibuľa</p></td>
-    </tr>
-    <tr>
-        <td><p>40g</p></td>
-        <td><p>koreňovej zeleniny</p></td>
-    </tr>
-    <tr>
-        <td><p>60g</p></td>
-        <td><p>smotany</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>hladkej múky</p></td>
-    </tr>
-    <tr>
-        <td><p>25g</p></td>
-        <td><p>sterilizovaných húb, najlepšie dubáky</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>soľ, mleté korenie, ocot, horčica</p></td>
-    </tr>
-</table>
-</body>
-</html>
+
+## Znojemská roštenka
+
+* 120g roštenky
+* 5g hladkej múky
+* 5g olej
+* 20g sterilizovaných uhoriek
+* 20g cibuľa
+* soľ, vegeta, mleté korenie, cukor
+
+## Cigánska roštenka
+
+* 120g roštenky
+* 2-5g slaninky prerastanej
+* 5g olej
+* 5g hladká múka
+* 20g koreňová zelenina; mrkva, petržlen
+* 15g cibuľa
+* 10g sterilizovaných uhoriek
+* 10g zeleného hrášku; sterilizovaného, mrazeného
+* soľ, vegeta, mleté korenie
+
+## Španielsky vtáčik, závitky
+
+* 120g zadné hovädzie mäso
+* 5g slnečnicový olej
+* 10g šunky, údeniny alebo klobásy
+* ¼ varené vajce
+* 10g cibuľa
+* 10g sterilizovaná uhorka
+* 5g slaninka prerastaná
+* 5g hladká múka
+* 2g horčica
+* soľ, mleté korenie biele a čierne
+
+## Zbojnícky hovädzí plátok
+
+* 120g zadného hovädzieho mäsa
+* 5g stolné oleja
+* 10g liptovskej (šunkovej) salámy
+* 5g slaniny
+* 20g cibule
+* 5g hladkej múky
+* soľ, cesnak, mleté korenie
+
+## Pražský hovädzí plátok
+
+* 120g zadného hovädzieho mäsa
+* 20g cibule
+* 5g slnečnicový olej
+* 5g hladká múka
+* 10g liptovského salámu, diétny
+* ¼ vajca
+* 20g cibuľa
+* 5g zelený hrášok
+* soľ, vegeta, mleté korenie
+
+## Hovädzie na víne
+
+* 120g Hovädzieho mäsa z plecka alebo stehna
+* 5g masť, olej
+* 30g koreňovej zeleniny
+* 10g cibuľa
+* 5g rajčinový pretlak
+* ½dl víno
+* 5g hladká múka
+* nové korenie, voda, soľ, cukor
+
+## Hovädzie na smotane
+
+* 120g hovädzie mäso zadné, sviečkovica
+* 5g masti
+* 10g cibuľa
+* 40g koreňová zelenina (mrkva, petržlen, zeler)
+* 30g kyslá smotana
+* 7g hladká múka
+* bobkový list, soľ, mleté korenie
+
+## Hovädzie dusené s hubami na smotane
+
+* 120g hovädzieho mäsa zo stehna
+* 5g masti
+* 10g cibuľa
+* 30g čerstvých -10g sušených húb, šampióny
+* 10g hladká múka
+* 20g kyslá smotana
+* soľ, vegeta, rasca drvená
+
+## Wellingtonka so zeleninou, Wellingtonova sviečková
+
+* 200g hovädzej sviečkovice
+* 50g kuracích pečienok
+* 10g cibuľa
+* 10g slnečnicový olej
+* ½dl červeného vína
+* ¼ žĺtok na potretie cesta
+* 100g zeleninovej zmesi
+* 60g lístkového cesta na obalenie
+* soľ, mleté korenie, worcester
+
+Stejky nakrájame, roztlačíme rukou, ochutíme, opečieme dve minúty z každej strany. Pečienky
+na cibuľke s červeným vínom podusíme a zomelieme na väčšie kúsky. Stejky potrieme vzniknutou paštétou,
+zabalíme do lístkového cesta a potrieme žĺtkom. Pečieme pri 200°C v rúre, v mikrovlnke na funkcii CRISP.
+Obložíme dusenou zeleninou.
+
+
+## Husárske pečené
+
+* 120g hovädzie stehno
+* 10g masti
+* 20g salámy
+* 7g hladkej múky
+* 3g červená maďarská paprika
+* soľ, mleté korenie, vegeta
+
+## Poľské zrazy
+
+* 100g hovädzie pliecko
+* 10g masť, olej
+* 20g strúhanky
+* 30g cibule
+* 50g žemlí, rožkov
+* 30g údenej slaniny
+* soľ, vegeta, mleté biele alebo čierne korenie
+
+## Hovädzie mäso so sterilizovanými hubami
+
+* 120g hovädzie mäso
+* 10g slaninky
+* 10g maslo, olej
+* 10g cibuľa
+* 40g koreňovej zeleniny
+* 60g smotany
+* 10g hladkej múky
+* 25g sterilizovaných húb, najlepšie dubáky
+* soľ, mleté korenie, ocot, horčica

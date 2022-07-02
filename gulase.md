@@ -1,288 +1,89 @@
-<!doctype html>
-<html lang="sk">
-<head>
-    <meta charset="utf8">
-    <link rel="stylesheet" href="style.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Guláše</title>
-    <script src="scripts.js"></script>
-</head>
-<body>
-<a href="." class="logo">Normy jedál</a>
-# Guláše</h1>
+# # Guláše
 
-## Hovädzí guláš</h2>
-<table>
-    <tr>
-        <td><p>120g</p></td>
-        <td><p>hovädzie mäso - krk, nožina</p></td>
-    </tr>
-    <tr>
-        <td><p>50g</p></td>
-        <td><p>slnečnicový olej</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>rajčinový pretlak + cukor</p></td>
-    </tr>
-    <tr>
-        <td><p>20g</p></td>
-        <td><p>cibuľa</p></td>
-    </tr>
-    <tr>
-        <td><p>2g</p></td>
-        <td><p>sladká mletá maďarská paprika</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>hladká múka</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>soľ, vegeta, mleté korenie, drtený kmín</p></td>
-    </tr>
-</table>
+## Hovädzí guláš
 
-## Nármonícke mäso</h2>
-<table>
-    <tr>
-        <td><p>120g</p></td>
-        <td><p>zadné hovädzie mäso zo stehna, šál</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>slanina prerastaná</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>hladká múka</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>olej, masť</p></td>
-    </tr>
-    <tr>
-        <td><p>40g</p></td>
-        <td><p>koreňová zelenina (mrkva-20g, petržlen, zelér)</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>cibuľa</p></td>
-    </tr>
-    <tr>
-        <td><p>20g</p></td>
-        <td><p>kyslá smotana (sladká smotana 12%, cukor, citrón)</p></td>
-    </tr>
-    <tr>
-        <td><p>20g</p></td>
-        <td><p>varené vajce</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>voda, soľ, vegeta, bobkový list, tymian, borievky</p></td>
-    </tr>
-    <tr>
-        <td colspan="2"><p>Podávame s ryžou.</p></td>
-    </tr>
-</table>
+* 120g hovädzie mäso – krk, nožina
+* 50g slnečnicový olej
+* 5g rajčinový pretlak + cukor
+* 20g cibuľa
+* 2g sladká mletá maďarská paprika
+* 5g hladká múka
+* soľ, vegeta, mleté korenie, drtený kmín
 
-## Hovädzí znojemský guláš</h2>
-<table>
-    <tr>
-        <td><p>120g</p></td>
-        <td><p>hovädzia kližka</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>olej</p></td>
-    </tr>
-    <tr>
-        <td><p>20g</p></td>
-        <td><p>cibuľa</p></td>
-    </tr>
-    <tr>
-        <td><p>20g</p></td>
-        <td><p>uhorky sterilizované</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>hladká múka</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>soľ, vegeta, mleté korenie</p></td>
-    </tr>
-</table>
+## Nármonícke mäso
 
-## Moravský guláš</h2>
-<table>
-    <tr>
-        <td><p>120g</p></td>
-        <td><p>hovädzej kližky</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>slnečnicový olej</p></td>
-    </tr>
-    <tr>
-        <td><p>20g</p></td>
-        <td><p>cibuľa</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>rajčinový pretlak</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>zemiakov</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td rowspan="2"><p>soľ, zelený petržlen, majoránka, sladká mletá paprika, drtený kmín, cesnak</p></td>
-    </tr>
-    <tr>
-        <td></td>
-    </tr>
-</table>
+* 120g zadné hovädzie mäso zo stehna, šál
+* 5g slanina prerastaná
+* 5g hladká múka
+* 5g olej, masť
+* 40g koreňová zelenina (mrkva-20g, petržlen, zeler)
+* 10g cibuľa
+* 20g kyslá smotana (sladká smotana 12%, cukor, citrón)
+* 20g varené vajce
+* voda, soľ, vegeta, bobkový list, tymian, borievky
 
-## Slovenský guláš</h2>
-<table>
-    <tr>
-        <td><p>120g</p></td>
-        <td><p>hovädzie mäso, nožina</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>masti</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>cibuľa</p></td>
-    </tr>
-    <tr>
-        <td><p>60g</p></td>
-        <td><p>zemiakov, zahusťujeme zemiakmi</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>rasca, soľ, cesnak, červená paprika, vegeta, majorán</p></td>
-    </tr>
-</table>
+Podávame s ryžou.
 
-## Maďarský guláš</h2>
-<table>
-    <tr>
-        <td><p>120g</p></td>
-        <td><p>hovädzieho mäsa so svalu na nohách, nožiny</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>olej</p></td>
-    </tr>
-    <tr>
-        <td><p>30g</p></td>
-        <td><p>Cibuľa, môže byť červená</p></td>
-    </tr>
-    <tr>
-        <td><p>2g</p></td>
-        <td><p>červená maďarská paprika</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>soľ, vegeta, čierne korenie</p></td>
-    </tr>
-</table>
 
-## Srbský guláš</h2>
-<table>
-    <tr>
-        <td><p>120g</p></td>
-        <td><p>hovädzej nožiny</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>masť, olej</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>cibuľa</p></td>
-    </tr>
-    <tr>
-        <td><p>20g</p></td>
-        <td><p>rajčín</p></td>
-    </tr>
-    <tr>
-        <td><p>20g</p></td>
-        <td><p>paprík alebo 1/2 leča bez tuku</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>hladká múka</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>soľ, červená paprika, korenie</p></td>
-    </tr>
-</table>
+## Hovädzí znojemský guláš
 
-## Viedenský hovädzí guláš</h2>
-<table>
-    <tr>
-        <td><p>120g</p></td>
-        <td><p>hovädzej nožiny</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>masť, olej</p></td>
-    </tr>
-    <tr>
-        <td><p>20g</p></td>
-        <td><p>cibuľa</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>hladkej múky</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>soľ, vegeta, biele a čierne korenie</p></td>
-    </tr>
-</table>
+* 120g hovädzia kližka
+* 5g olej
+* 20g cibuľa
+* 20g uhorky sterilizované
+* 5g hladká múka
+* soľ, vegeta, mleté korenie
 
-## Kotlíkový guláš</h2>
-<table>
-    <tr>
-        <td><p>100g</p></td>
-        <td><p>hovädzieho mäsa</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>masť, olej</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>cibuľa</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>vajce, krupicová múka, cesnak na halušky</p></td>
-    </tr>
-    <tr>
-        <td><p>80g</p></td>
-        <td><p>zemiaky, časť zemiakov postrúhame</p></td>
-    </tr>
-    <tr>
-        <td><p>15g</p></td>
-        <td><p>rajčín</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>paprík, lečo</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>soľ, vegeta, majorán, cesnak, červená paprika, drtená rasca, čierne a biele korenie</p></td>
-    </tr>
-</table>
-</body>
-</html>
+## Moravský guláš
+
+* 120g hovädzej kližky
+* 5g slnečnicový olej
+* 20g cibuľa
+* 10g rajčinový pretlak
+* 10g zemiakov
+* soľ, zelený petržlen, majoránka, sladká mletá paprika, drtený kmín, cesnak
+
+## Slovenský guláš
+
+* 120g hovädzie mäso, nožina
+* 10g masti
+* 10g cibuľa
+* 60g zemiakov, zahusťujeme zemiakmi
+* rasca, soľ, cesnak, červená paprika, vegeta, majorán
+
+## Maďarský guláš
+
+* 120g hovädzieho mäsa so svalu na nohách, nožiny
+* 10g olej
+* 30g Cibuľa, môže byť červená
+* 2g červená maďarská paprika
+* soľ, vegeta, čierne korenie
+
+## Srbský guláš
+
+* 120g hovädzej nožiny
+* 10g masť, olej
+* 10g cibuľa
+* 20g rajčín
+* 20g paprík alebo 1/2 leča bez tuku
+* 5g hladká múka
+* soľ, červená paprika, korenie
+
+## Viedenský hovädzí guláš
+
+* 120g hovädzej nožiny
+* 10g masť, olej
+* 20g cibuľa
+* 10g hladkej múky
+* soľ, vegeta, biele a čierne korenie
+
+## Kotlíkový guláš
+
+* 100g hovädzieho mäsa
+* 10g masť, olej
+* 10g cibuľa
+* vajce, krupicová múka, cesnak na halušky
+* 80g zemiaky, časť zemiakov postrúhame
+* 15g rajčín
+* 10g paprík, lečo
+* soľ, vegeta, majorán, cesnak, červená paprika, drtená rasca, čierne a biele korenie

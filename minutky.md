@@ -1,229 +1,82 @@
-<!doctype html>
-<html lang="sk">
-<head>
-    <meta charset="utf8">
-    <link rel="stylesheet" href="style.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Minútky</title>
-    <script src="scripts.js"></script>
-</head>
-<body>
-<a href="." class="logo">Normy jedál</a>
-# Minútky</h1>
+# Minútky
 
-## Tatárský biftek</h2>
-<table>
-    <tr>
-        <td><p>120g</p></td>
-        <td><p>sviečkovice</p></td>
-    </tr>
-    <tr>
-        <td><p>1ks</p></td>
-        <td><p>žĺtok</p></td>
-    </tr>
-    <tr>
-        <td><p>35g</p></td>
-        <td><p>cibule</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>sardelová pasta</p></td>
-    </tr>
-    <tr>
-        <td><p>15g</p></td>
-        <td><p>horčica</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>kečup, worčester, mleté korenie, sojová omáčka,</p>
-            <p>soľ, červená mletá paprika</p></td>
-    </tr>
-    <tr>
-        <td colspan="2"><p>Pripravujeme tesne pred podaním ozdobené sformované biftečky, inak mäso státím stráca sviežu
-            farbu.</p></td>
-    </tr>
-</table>
+## Tatársky biftek
 
-## Rezne zo sviečkovice so šunkou a vajcom a zemiakmi</h2>
-<table>
-    <tr>
-        <td><p>120g</p></td>
-        <td><p>sviečkovice</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>masť, olej</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>masla</p></td>
-    </tr>
-    <tr>
-        <td><p>40g</p></td>
-        <td><p>šunky</p></td>
-    </tr>
-    <tr>
-        <td><p>90g</p></td>
-        <td><p>zemiakov</p></td>
-    </tr>
-    <tr>
-        <td><p>1 ks</p></td>
-        <td><p>vajce</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>hladkej múky</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>soľ, mleté korenie</p></td>
-    </tr>
-    <tr>
-        <td colspan="2"><p>Sviečkovicu môžeme nahradiť mladou falošnou sviečkovou zo stehna.</p></td>
-    </tr>
-</table>
+* 120g sviečkovice
+* 1ks žĺtok
+* 35g cibule
+* 5g sardelová pasta
+* 15g horčica
+* kečup, worcester, mleté korenie, sójová omáčka,
+  soľ, červená mletá paprika
 
-## Srbské rezne zo sviečkovice</h2>
-<table>
-    <tr>
-        <td><p>120g</p></td>
-        <td><p>sviečkovice</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>slnečnicový olej, masť</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>údenej prerastanej slaninky</p></td>
-    </tr>
-    <tr>
-        <td><p>20g</p></td>
-        <td><p>cibule</p></td>
-    </tr>
-    <tr>
-        <td><p>20g</p></td>
-        <td><p>zelenej papriky</p></td>
-    </tr>
-    <tr>
-        <td><p>20g</p></td>
-        <td><p>rajčín alebo lečo bez tuku</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>soľ, vegeta, mleté korenie</p></td>
-    </tr>
-</table>
+Pripravujeme tesne pred podaním ozdobené sformované biftečky,
+inak mäso státím stráca sviežu farbu.
 
-## Ruská roštenka</h2>
-<table>
-    <tr>
-        <td><p>120g</p></td>
-        <td><p>hovädieho roštenca (min.60g- ½ porcia)</p></td>
-    </tr>
-    <tr>
-        <td><p>20g</p></td>
-        <td><p>slaniny</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>masť, olej</p></td>
-    </tr>
-    <tr>
-        <td><p>80g</p></td>
-        <td><p>zemiakov</p></td>
-    </tr>
-    <tr>
-        <td><p>30g</p></td>
-        <td><p>cvikle</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>čerstveho chrenu</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>hladkej múky</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>soľ, korenie</p></td>
-    </tr>
-</table>
+## Rezne zo sviečkovice so šunkou a vajcom a zemiakmi
 
-## Anglická roštenka, roasbeef</h2>
-<table>
-    <tr>
-        <td><p>150g</p></td>
-        <td><p>mäsa zo spodnej časti roštenky</p></td>
-    </tr>
-    <tr>
-        <td><p>20g</p></td>
-        <td><p>olej</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>masla</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>soľ, čierne korenie</p></td>
-    </tr>
-    <tr>
-        <td colspan="2"><p>Robíme aspoň zo 600g kusa roštenca. Upečené krájame na zvnútra ružové plátky.</p></td>
-    </tr>
-</table>
+* 120g sviečkovice
+* 10g masť, olej
+* 5g masla
+* 40g šunky
+* 90g zemiakov
+* 1 ks vajce
+* 5g hladkej múky
+* soľ, mleté korenie
 
-## <b>* Špecialita:</b> Roštenka kniežaťa Stojslava</h2>
-<table>
-    <tr>
-        <td><p>100g</p></td>
-        <td><p>hovädzej roštenky</p></td>
-    </tr>
-    <tr>
-        <td><p>20g</p></td>
-        <td><p>olej/maslo</p></td>
-    </tr>
-    <tr>
-        <td><p>20g</p></td>
-        <td><p>cibuľa</p></td>
-    </tr>
-    <tr>
-        <td><p>1 dl</p></td>
-        <td><p>bieleho vína</p></td>
-    </tr>
-    <tr>
-        <td><p>15g</p></td>
-        <td><p>sušené dubáky (hrsť)</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>polohrubej múky</p></td>
-    </tr>
-    <tr>
-        <td><p>15g</p></td>
-        <td><p>horčica</p></td>
-    </tr>
-    <tr>
-        <td><p>½ dl</p></td>
-        <td><p>šľahačková smotana, štipka cukru/umelé sladidlo</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>soľ, mleté čierne korenie, štipka cukru</p></td>
-    </tr>
-    <tr>
-        <td colspan="2"><p>Na noc pácujeme v zmesi vína a oleja, posolenú, okorenenú, opečenú z oboch strán.</p></td>
-    </tr>
-</table>
+Sviečkovicu môžeme nahradiť mladou falošnou sviečkovou zo stehna.
 
-## Rezňová zrazová roštenka</h2>
-<p>100g hovädieho mladédo stehna</p>
-<p>30g strúhanka</p>
-<p>7g maizéna, solamil</p>
-<p>20g vajce</p>
-<p>50ml trvanlivé mlieko</p>
-<p>20g olej</p>
-<p>soľ, bielé korenie, voda</p>
-</body>
-</html>
+## Srbské rezne zo sviečkovice
+
+* 120g sviečkovice
+* 5g slnečnicový olej, masť
+* 10g údenej prerastanej slaninky
+* 20g cibule
+* 20g zelenej papriky
+* 20g rajčín alebo lečo bez tuku
+* soľ, vegeta, mleté korenie
+
+## Ruská roštenka
+
+* 120g hovädieho roštenca (min.60g- ½ porcia)
+* 20g slaniny
+* 5g masť, olej
+* 80g zemiakov
+* 30g cvikle
+* 5g čerstveho chrenu
+* 5g hladkej múky
+* soľ, korenie
+
+## Anglická roštenka, roasbeef
+
+* 150g mäsa zo spodnej časti roštenky
+* 20g olej
+* 10g masla
+* soľ, čierne korenie
+
+Robíme aspoň zo 600g kusa roštenca. Upečené krájame na zvnútra ružové plátky.
+
+
+## *** Špecialita:** Roštenka kniežaťa Stojslava
+
+* 100g hovädzej roštenky
+* 20g olej/maslo
+* 20g cibuľa
+* 1 dl bieleho vína
+* 15g sušené dubáky (hrsť)
+* 10g polohrubej múky
+* 15g horčica
+* ½ dl šľahačková smotana, štipka cukru/umelé sladidlo
+* soľ, mleté čierne korenie, štipka cukru
+
+Na noc pácujeme v zmesi vína a oleja, posolenú, okorenenú, opečenú z oboch strán.
+
+
+## Rezňová zrazová roštenka
+* 100g hovädieho mladédo stehna
+* 30g strúhanka
+* 7g maizena, solamyl
+* 20g vajce
+* 50ml trvanlivé mlieko
+* 20g olej
+* soľ, biele korenie, voda

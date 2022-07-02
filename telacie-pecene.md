@@ -1,527 +1,166 @@
-<!doctype html>
-<html lang="sk">
-<head>
-    <meta charset="utf8">
-    <link rel="stylesheet" href="style.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Teľacie mäso pečené</title>
-    <script src="scripts.js"></script>
-</head>
-<body>
-<a href="." class="logo">Normy jedál</a>
-# Teľacie pečené</h1>
+# Teľacie mäso pečené
 
-## Prírodné teľacie pečené</h2>
-<table>
-    <tr>
-        <td><p>120g</p></td>
-        <td><p>teľacieho zadného šálu</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>slnečnicový olej</p></td>
-    </tr>
-    <tr>
-        <td><p>2dl</p></td>
-        <td><p>vývaru alebo vody</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>cibuľa</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>soľ, vegeta, mleté biele korenie</p></td>
-    </tr>
-</table>
+## Prírodné teľacie pečené
 
-## Talianske teľacie pečené</h2>
-<table>
-    <tr>
-        <td><p>120g</p></td>
-        <td><p>teľacieho stehna, pliecka</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>cibuľa</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>rajčinového pretlaku</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>slnečnicový olej, masť</p></td>
-    </tr>
-    <tr>
-        <td><p>20g</p></td>
-        <td><p>koreňová zelenina</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>hladká múka</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>cukor, soľ, vegeta, korenie</p></td>
-    </tr>
-</table>
+* 120g teľacieho zadného šálu
+* 5g slnečnicový olej
+* 2dl vývaru alebo vody
+* 10g cibuľa
+* soľ, vegeta, mleté biele korenie
 
-## Pražské teľacie pečené</h2>
-<table>
-    <tr>
-        <td><p>120g</p></td>
-        <td><p>teľacieho stehna</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>slnečnicový olej</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>cibuľa</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>mäkkého salámu</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>smažených vajec</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>zelený hrášok</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>masla</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>soľ, vegeta, mleté korenie, zelený petržlen</p></td>
-    </tr>
-</table>
+## Talianske teľacie pečené
 
-## Bratislavské teľacie pečené</h2>
-<table>
-    <tr>
-        <td><p>120g</p></td>
-        <td><p>teľacieho pliecka</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>olej, masť</p></td>
-    </tr>
-    <tr>
-        <td><p>30g</p></td>
-        <td><p>koreňovej zeleniny</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>cibuľa</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>hladká múka</p></td>
-    </tr>
-    <tr>
-        <td><p>20g</p></td>
-        <td><p>smotana alebo ½dl mlieka</p></td>
-    </tr>
-    <tr>
-        <td><p>2g</p></td>
-        <td><p>cukor</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>bobkový list, čierne korenie, soľ, vegeta, ocot</p></td>
-    </tr>
-</table>
+* 120g teľacieho stehna, pliecka
+* 10g cibuľa
+* 10g rajčinového pretlaku
+* 5g slnečnicový olej, masť
+* 20g koreňová zelenina
+* 5g hladká múka
+* cukor, soľ, vegeta, korenie
 
-## Pečené na viedenský spôsob</h2>
-<table>
-    <tr>
-        <td><p>120g</p></td>
-        <td><p>teľacie stehno</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>mrkva</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>karfiol</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>zelený hrášok</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>slnečnicový olej</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>rajčinový pretlak</p></td>
-    </tr>
-    <tr>
-        <td><p>20g</p></td>
-        <td><p>smotana ½dl mlieka</p></td>
-    </tr>
-    <tr>
-        <td><p>2-5g</p></td>
-        <td><p>hladká múka</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>soľ, vegeta, citrónová šťava</p></td>
-    </tr>
-</table>
+## Pražské teľacie pečené
 
-## Zaprávané teľacie</h2>
-<table>
-    <tr>
-        <td><p>100g</p></td>
-        <td><p>teľacieho pliecka, krku, krájané na kocky</p></td>
-    </tr>
-    <tr>
-        <td><p>30g</p></td>
-        <td><p>koreňovej zeleniny</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>masla</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>hladkej múky</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>soľ, vegeta, biele korenie, zelený petržlen</p></td>
-    </tr>
-</table>
+* 120g teľacieho stehna
+* 5g slnečnicový olej
+* 10g cibuľa
+* 10g mäkkého salámu
+* 10g smažených vajec
+* 5g zelený hrášok
+* 5g masla
+* soľ, vegeta, mleté korenie, zelený petržlen
 
-## Zaprávané teľacie s karfiolom</h2>
-<table>
-    <tr>
-        <td><p>100g</p></td>
-        <td><p>teľacie pliecko</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>olej, masť</p></td>
-    </tr>
-    <tr>
-        <td><p>25g</p></td>
-        <td><p>karfiolu</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>hladká múka</p></td>
-    </tr>
-    <tr>
-        <td><p>½ dl</p></td>
-        <td><p>mlieko</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>soľ, vegeta, biele korenie</p></td>
-    </tr>
-</table>
+## Bratislavské teľacie pečené
 
-## Teľacie ragú</h2>
-<table>
-    <tr>
-        <td><p>100g</p></td>
-        <td><p>teľacieho pliecka</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>olej, masť alebo maslo</p></td>
-    </tr>
-    <tr>
-        <td><p>20g</p></td>
-        <td><p>mrkva</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>zelený hrášok</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>kaleráb</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>hladká múka</p></td>
-    </tr>
-    <tr>
-        <td><p>½ dl</p></td>
-        <td><p>mlieko</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>soľ, vegeta, biele korenie, zelený petržlen</p></td>
-    </tr>
-</table>
+* 120g teľacieho pliecka
+* 5g olej, masť
+* 30g koreňovej zeleniny
+* 10g cibuľa
+* 5g hladká múka
+* 20g smotana alebo ½dl mlieka
+* 2g cukor
+* bobkový list, čierne korenie, soľ, vegeta, ocot
 
-## Rizoto z teľacieho mäsa so syrom</h2>
-<table>
-    <tr>
-        <td><p>90g</p></td>
-        <td><p>ryža guľatozrnná</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>masť</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>cibuľa</p></td>
-    </tr>
-    <tr>
-        <td><p>100g</p></td>
-        <td><p>teľacieho krku, pliecka</p></td>
-    </tr>
-    <tr>
-        <td><p>50g</p></td>
-        <td><p>koreňovej zeleniny: mrkva, zeler, petržlen</p></td>
-    </tr>
-    <tr>
-        <td><p>7g</p></td>
-        <td><p>rajčinový pretlak</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>tvrdý syr</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>soľ, vegeta, biele korenie, zelený petržlen</p></td>
-    </tr>
-</table>
+## Pečené na viedenský spôsob
 
-## Teľací perkelt</h2>
-<table>
-    <tr>
-        <td><p>100g</p></td>
-        <td><p>teľacie pliecko</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>masť, olej</p></td>
-    </tr>
-    <tr>
-        <td><p>20g</p></td>
-        <td><p>cibuľa</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>hladká múka</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>červená paprika, soľ, vegeta, drtená rasca</p></td>
-    </tr>
-</table>
+* 120g teľacie stehno
+* 5g mrkva
+* 10g karfiol
+* 10g zelený hrášok
+* 5g slnečnicový olej
+* 5g rajčinový pretlak
+* 20g smotana ½dl mlieka
+* 2-5g hladká múka
+* soľ, vegeta, citrónová šťava
 
-## Teľací paprikáš</h2>
-<table>
-    <tr>
-        <td><p>110g</p></td>
-        <td><p>teľacie pliecko</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>masť</p></td>
-    </tr>
-    <tr>
-        <td><p>20g</p></td>
-        <td><p>cibuľa</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>hladká múka</p></td>
-    </tr>
-    <tr>
-        <td><p>½ dl</p></td>
-        <td><p>kyslá smotana</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>soľ, vegeta, červená paprika, mleté korenie</p></td>
-    </tr>
-</table>
+## Zaprávané teľacie
 
-## Teľacia holštajnská hruď</h2>
-<table>
-    <tr>
-        <td><p>120g</p></td>
-        <td><p>teľacej hrude</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>salámu</p></td>
-    </tr>
-    <tr>
-        <td><p>15g</p></td>
-        <td><p>sterilizovaných uhoriek</p></td>
-    </tr>
-    <tr>
-        <td><p>20g</p></td>
-        <td><p>rajčín</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>slnečnicového oleja</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>vajec</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>zeleného hrášku</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>hladkej múky</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>soľ, vegeta</p></td>
-    </tr>
-    <tr>
-        <td colspan="2"><p>Po naplnení pečieme posolenú hruď na 200°C, mikrovlnka –funkcia CRISP.</p></td>
-    </tr>
-</table>
+* 100g teľacieho pliecka, krku, krájané na kocky
+* 30g koreňovej zeleniny
+* 10g masla
+* 5g hladkej múky
+* soľ, vegeta, biele korenie, zelený petržlen
 
-## Špikovaná teľacia pečeň</h2>
-<table>
-    <tr>
-        <td><p>120g</p></td>
-        <td><p>teľacieho stehna</p></td>
-    </tr>
-    <tr>
-        <td><p>7g</p></td>
-        <td><p>anglickej, oravskej prerastanej slaniny</p></td>
-    </tr>
-    <tr>
-        <td><p>20g</p></td>
-        <td><p>cibuľa</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>olej</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>soľ, vegeta, biele korenie</p></td>
-    </tr>
-</table>
+## Zaprávané teľacie s karfiolom
 
-## Teľacie kotlety na hríboch</h2>
-<table>
-    <tr>
-        <td><p>120g</p></td>
-        <td><p>teľacie karé</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>masť, olej</p></td>
-    </tr>
-    <tr>
-        <td><p>30g</p></td>
-        <td><p>čerstvých hríbov</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>hladkej múky</p></td>
-    </tr>
-</table>
+* 100g teľacie pliecko
+* 5g olej, masť
+* 25g karfiolu
+* 5g hladká múka
+* ½ dl mlieko
+* soľ, vegeta, biele korenie
 
-## Teľacie na víne po francúzsky</h2>
-<table>
-    <tr>
-        <td><p>130g</p></td>
-        <td><p>teľacie pliecko</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>cibuľa</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>zelerové stonky</p></td>
-    </tr>
-    <tr>
-        <td><p>100g</p></td>
-        <td><p>malých šampiónov</p></td>
-    </tr>
-    <tr>
-        <td><p>½ ks</p></td>
-        <td><p>citrón</p></td>
-    </tr>
-    <tr>
-        <td><p>½ dl</p></td>
-        <td><p>bieleho suchého vína</p></td>
-    </tr>
-    <tr>
-        <td><p>50g</p></td>
-        <td><p>hydinového vývaru</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>olivový, slnečnicový olej</p></td>
-    </tr>
-    <tr>
-        <td><p>10g</p></td>
-        <td><p>hladkej múky</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>petržlenová vňať, soľ, vegeta, korenie mleté</p></td>
-    </tr>
-    <tr>
-        <td colspan="2"><p>Mäso pokrájame na väčšie kocky a obalíme v múke. Opečieme zvlášť na ½ oleja, na zvyšnom oleji
-            v inej nádobe podusíme na cibuli stonky zeléru. Vložíme ochutené mäso, podlejeme vínom a vývarom a dusíme.
-            Citrónovú kôru pokrájanú na rezančeky 2 minúty varíme vo vode. V tejto vode povaríme asi 15 minút očistené
-            šampióny, šťavu zredukujeme na polovicu. Príloha: zemiakové kroketky, ryža s kukuricou</p></td>
-    </tr>
-</table>
+## Teľacie ragú
 
-## Teľacie rezne so šunkou a hráškom - minútka</h2>
-<table>
-    <tr>
-        <td><p>120g</p></td>
-        <td><p>teľacieho stehna</p></td>
-    </tr>
-    <tr>
-        <td><p>15g</p></td>
-        <td><p>masť, olej</p></td>
-    </tr>
-    <tr>
-        <td><p>1ks</p></td>
-        <td><p>vajce</p></td>
-    </tr>
-    <tr>
-        <td><p>20g</p></td>
-        <td><p>zeleného hrášku</p></td>
-    </tr>
-    <tr>
-        <td><p>20g</p></td>
-        <td><p>šunky</p></td>
-    </tr>
-    <tr>
-        <td><p>5g</p></td>
-        <td><p>hladkej múky</p></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td><p>soľ, vegeta, mleté korenie</p></td>
-    </tr>
-</table>
-</body>
-</html>
+* 100g teľacieho pliecka
+* 5g olej, masť alebo maslo
+* 20g mrkva
+* 10g zelený hrášok
+* 10g kaleráb
+* 5g hladká múka
+* ½ dl mlieko
+* soľ, vegeta, biele korenie, zelený petržlen
+
+## Rizoto z teľacieho mäsa so syrom
+
+* 90g ryža guľatozrnná
+* 10g masť
+* 10g cibuľa
+* 100g teľacieho krku, pliecka
+* 50g koreňovej zeleniny: mrkva, zeler, petržlen
+* 7g rajčinový pretlak
+* 5g tvrdý syr
+* soľ, vegeta, biele korenie, zelený petržlen
+
+## Teľací perkelt
+
+* 100g teľacie pliecko
+* 10g masť, olej
+* 20g cibuľa
+* 10g hladká múka
+* červená paprika, soľ, vegeta, drtená rasca
+
+## Teľací paprikáš
+
+* 110g teľacie pliecko
+* 5g masť
+* 20g cibuľa
+* 10g hladká múka
+* ½ dl kyslá smotana
+* soľ, vegeta, červená paprika, mleté korenie
+
+## Teľacia holštajnská hruď
+
+* 120g teľacej hrude
+* 10g salámu
+* 15g sterilizovaných uhoriek
+* 20g rajčín
+* 5g slnečnicového oleja
+* 10g vajec
+* 10g zeleného hrášku
+* 5g hladkej múky
+* soľ, vegeta
+
+Po naplnení pečieme posolenú hruď na 200°C, mikrovlnka –funkcia CRISP.
+
+## Špikovaná teľacia pečeň
+
+* 120g teľacieho stehna
+* 7g anglickej, oravskej prerastanej slaniny
+* 20g cibuľa
+* 5g olej
+* soľ, vegeta, biele korenie
+
+## Teľacie kotlety na hríboch
+
+* 120g teľacie karé
+* 10g masť, olej
+* 30g čerstvých hríbov
+* 5g hladkej múky
+
+## Teľacie na víne po francúzsky
+
+* 130g teľacie pliecko
+* 10g cibuľa
+* 10g zelerové stonky
+* 100g malých šampiónov
+* ½ ks citrón
+* ½ dl bieleho suchého vína
+* 50g hydinového vývaru
+* 10g olivový, slnečnicový olej
+* 10g hladkej múky
+* petržlenová vňať, soľ, vegeta, korenie mleté
+
+Mäso pokrájame na väčšie kocky a obalíme v múke. Opečieme zvlášť na ½ oleja, na zvyšnom oleji
+v inej nádobe podusíme na cibuli stonky zeleru. Vložíme ochutené mäso, podlejeme vínom a vývarom a dusíme.
+Citrónovú kôru pokrájanú na rezančeky 2 minúty varíme vo vode. V tejto vode povaríme asi 15 minút očistené
+šampióny, šťavu zredukujeme na polovicu. Príloha: zemiakové kroketky, ryža s kukuricou
+
+## Teľacie rezne so šunkou a hráškom - minútka
+
+* 120g teľacieho stehna
+* 15g masť, olej
+* 1ks vajce
+* 20g zeleného hrášku
+* 20g šunky
+* 5g hladkej múky
+* soľ, vegeta, mleté korenie
