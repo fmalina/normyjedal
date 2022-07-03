@@ -1,35 +1,40 @@
-# VÝBER RECEPTY ZO ŽIVOTA
+# Výber recepty zo života
 
-<p>za roky 2002/ 03
-# POLIEVKY:
+# Polievky
 
 ## „Držková“ zo sójových plátkov
 *Čas: 50 minút*
 
-<p>4 porcie po: 410g
+
+4 porcie po: 410g
 * 100g / 1ks - balíček sójových plátkov
 * 15g / 5-6ks - strúčikov cesnaku
-<p>2 g – mleté čierne korenie
+* 2g – mleté čierne korenie
 * 80g 1 cibuľa
 * 5g mletá červená paprika
-<p>2 g – majorán
+* 2g – majorán
 * 250g 2 väčšie zemiaky
 * 2-5g – soľ (vegeta)
 * 20g hladká múka
 * 15ml slnečnicový olej / masť
-<p>Sójové plátky zalejeme 1 l vody, osolíme, okoreníme, pridáme ½ cibule, 2-3 strúčiky cesnaku a varíme asi 20
-    minút.
-<p>Plátky zlejeme, necháme trochu vychladnúť, vyžmýkame, pokrájame na tenké pásiky.
-<p>Zemiaky ošúpeme, pokrájame na kocky, dáme do hrnca, zalejeme vodou, pridáme sójové držky, rozmrvený bujón a
-    dochutíme.
-<p>Na oleji opražíme nadrobno pokrájanú cibuľku, posypeme hladkou múkou, pridáme
-<p>papriku, chvíľu popražíme, zmes vmiešame do polievky, ochutíme vegetou, prelisovaným cesnakom, chvíľku varíme a
-    nakoniec pridáme majorán.
+
+Sójové plátky zalejeme 1 l vody, osolíme, okoreníme, pridáme ½ cibule, 2-3 strúčiky cesnaku a varíme asi 20
+minút.
+
+Plátky zlejeme, necháme trochu vychladnúť, vyžmýkame, pokrájame na tenké pásiky.
+
+Zemiaky ošúpeme, pokrájame na kocky, dáme do hrnca, zalejeme vodou, pridáme sójové držky, rozmrvený bujón a
+dochutíme.
+
+Na oleji opražíme nadrobno pokrájanú cibuľku, posypeme hladkou múkou, pridáme
+papriku, chvíľu popražíme, zmes vmiešame do polievky, ochutíme vegetou, prelisovaným cesnakom, chvíľku varíme a
+nakoniec pridáme majorán.
 
 ## 2. Zemiaková so sójou
 *Čas: 45 minút*
 
-<p>1 porcia = 420g
+1 porcia = 420g
+
 * 110g zemiakov
 * 220ml vody
 * 30g cibuľa
@@ -40,14 +45,16 @@
 * - drtená rasca
 * - majorán
 * - petržlenová vňať
-<p>Zeleninu očistíme, pokrájame na malé kocky, opražíme na rozpustenom masle. Zalejeme vodou a varíme do polo mäkka.
-    Vopred namočenú sóju, uvaríme a scedíme. Zemiaky ošúpeme, pokrájame, dáme do polievky. Ochutíme. Nakoniec, keď sú
-    mäkké, dáme uvarenú sóju a petržlenovú vňať.
+
+Zeleninu očistíme, pokrájame na malé kocky, opražíme na rozpustenom masle. Zalejeme vodou a varíme do polo mäkka.
+Vopred namočenú sóju, uvaríme a scedíme. Zemiaky ošúpeme, pokrájame, dáme do polievky. Ochutíme. Nakoniec, keď sú
+mäkké, dáme uvarenú sóju a petržlenovú vňať.
 
 ## 3. Hubová s rezancami
 *Čas: 55 minút*
 
-<p>1porcia = 480g
+
+1porcia = 480g
 * 100g čerstvé huby
 * 10g bravčová masť
 * 30g cibuľa
@@ -61,13 +68,17 @@
 * - mleté čierne korenie
 * - petržlenová vňať
 * 20g hrubšie (domáce) rezance
-<p>Huby, mrkvu, zeler očistíme, umyjeme a pokrájame na plátky. Na masti chvíľu opražíme huby pridáme nadrobno pokrájanú
-    cibuľku, posolíme, za stáleho miešania posypeme hladkou múkou, pridáme mrkvu, zeler, trochu podlejeme a
-    podusíme.
-<p>Zalejeme vývarom a uvaríme tiahle do mäkka.
-<p>V smotane rozmiešame žĺtok, mleté čierne korenie, zmes vlejeme do polievky. Keď zovrie odložíme ju a dochutíme
-    vegetou.
-<p>Rezance uvaríme zvlášť, pred podávaním ich pridáme do každej porcie spolu s posekanou petržlenovou vňaťou.
+
+Huby, mrkvu, zeler očistíme, umyjeme a pokrájame na plátky. Na masti chvíľu opražíme huby pridáme nadrobno pokrájanú
+cibuľku, posolíme, za stáleho miešania posypeme hladkou múkou, pridáme mrkvu, zeler, trochu podlejeme a
+podusíme.
+
+Zalejeme vývarom a uvaríme tiahle do mäkka.
+
+V smotane rozmiešame žĺtok, mleté čierne korenie, zmes vlejeme do polievky. Keď zovrie odložíme ju a dochutíme
+vegetou.
+
+Rezance uvaríme zvlášť, pred podávaním ich pridáme do každej porcie spolu s posekanou petržlenovou vňaťou.
 
 ## 4. Flámska z kurčaťa
 *Príprava: 50 minút, 2 porcie = 465g + voda*
@@ -83,21 +94,24 @@
 * - celé čierne korenie
 * - petržlenová vňať
 * 20g tenké rezance (varíme osobitne)
-<p>Kurča umyjeme, očistíme a dôkladne ho natrieme rozkrojeným citrónom. Dáme ho do hrnca, zalejeme studenou vodou, tak
-    aby bolo ponorené a uvedieme ho tiahlo do varu. Cibuľu očistíme, zapichneme do nej klinčeky a tiež očistenú zeleninu
-    pokrájame na pásiky spolu s petržlenovou vňaťou, vínom, soľou a koreninami pridáme do polievky.
-<p>Prikrytú ju varíme kým nezmäkne.
-<p>Polievku zlejeme, scedíme, mäso z kurčaťa oberieme a pokrájame.
-<p>Uvaríme tenké jemné vaječné rezance (spravíme domáce) a spolu s mäsom a so zeleninou ich pridáme podľa chuti do
-    každej porcie.
+
+Kurča umyjeme, očistíme a dôkladne ho natrieme rozkrojeným citrónom. Dáme ho do hrnca, zalejeme studenou vodou, tak
+aby bolo ponorené a uvedieme ho tiahlo do varu. Cibuľu očistíme, zapichneme do nej klinčeky a tiež očistenú zeleninu
+pokrájame na pásiky spolu s petržlenovou vňaťou, vínom, soľou a koreninami pridáme do polievky.
+
+Prikrytú ju varíme kým nezmäkne.
+
+Polievku zlejeme, scedíme, mäso z kurčaťa oberieme a pokrájame.
+
+Uvaríme tenké jemné vaječné rezance (spravíme domáce) a spolu s mäsom a so zeleninou ich pridáme podľa chuti do
+každej porcie.
 
 ## 5. Hovädzia s mletým mäsom
 *Čas: 55 minút*
 
 2 porcie po 400g = 300g / 500ml vody
 
-* 50g pomletého hovädzieho mäsa
-<p>( mladý býk)
+* 50g pomletého hovädzieho mäsa (mladý býk)
 * 60g koreňovej zeleniny
 * 60g zemiaky
 * 20g zeleného hrášku
@@ -105,18 +119,23 @@
 * 5g strúčik cesnaku
 * 40g hlávkovej kapusty
 * 10g slnečnicový olej
-* - soľ (vegeta), - mleté čierne korenie
-* - petržlenová vňať
+* soľ (vegeta)
+* mleté čierne korenie
+* petržlenová vňať
 * 20g malé cestoviny (mušličky, písmenká)
 * 500ml vody
-<p>Cibuľu, cesnak, zeleninu (mrkvu, petržlen, zeler, kaleráb) očistíme.
-<p>V hrnci na zohriatom oleji opražíme nadrobno nakrájanú cibuľku a posekaný cesnak. Pridáme hovädzia mleté mäso a za
-    stáleho miešania ho chvíľu oprážame. Prilejeme asi 0,5 l vody a
-<p>necháme zovrieť. Osolíme a okoreníme, pridáme na kúsky pokrájanú zeleninu a uvaríme ju
-<p>do polomäkka.
-<p>Potom pridáme zelený hrášok, pokrájanú kapustu a kocky zemiakov. Keď je všetka zelenina mäkká, polievku dochutíme a
-    nakoniec pridáme posekanú petržlenovú vňať.
-<p>Pred podávaním dáme do tanierov uvarené malé cestoviny a zalejeme ich polievkou .
+
+Cibuľu, cesnak, zeleninu (mrkvu, petržlen, zeler, kaleráb) očistíme.
+
+V hrnci na zohriatom oleji opražíme nadrobno nakrájanú cibuľku a posekaný cesnak. Pridáme hovädzia mleté mäso a za
+stáleho miešania ho chvíľu oprážame. Prilejeme asi 0,5 l vody a
+
+necháme zovrieť. Osolíme a okoreníme, pridáme na kúsky pokrájanú zeleninu a uvaríme ju do polomäkka.
+
+Potom pridáme zelený hrášok, pokrájanú kapustu a kocky zemiakov. Keď je všetka zelenina mäkká, polievku dochutíme a
+nakoniec pridáme posekanú petržlenovú vňať.
+
+Pred podávaním dáme do tanierov uvarené malé cestoviny a zalejeme ich polievkou.
 
 ## 6. Mäsová z baraniny (jahňaciny)
 *Čas: 45 minút, 1 porcia = 250ml / voda*
@@ -129,12 +148,16 @@
 * 35g hlávková kapusta
 * 5g strúčik cesnaku
 * 5g soľ (vegeta), biele korenie
-<p>Mäso baranie (jahňacie) umyjeme, zbavíme kostí a blán, pokrájame ho na malé kocky. Primerane zalejeme vodou, osolíme
-    a uvaríme do polomäkka.
-<p>Mrkvu, petržlen a papriku očistíme, rajčinu obaríme a ošúpeme, všetko pokrájame. Kapustu najemno posekáme a spolu s
-    ostatnou zeleninou pridáme k mäsu.
-<p>Keď je všetko hotové, polievku dochutíme, cesnakom, soľou a, vegetou.
-<p>Podávame s chlebom alebo pečivom.
+
+Mäso baranie (jahňacie) umyjeme, zbavíme kostí a blán, pokrájame ho na malé kocky. Primerane zalejeme vodou, osolíme
+a uvaríme do polomäkka.
+
+Mrkvu, petržlen a papriku očistíme, rajčinu obaríme a ošúpeme, všetko pokrájame. Kapustu najemno posekáme a spolu s
+ostatnou zeleninou pridáme k mäsu.
+
+Keď je všetko hotové, polievku dochutíme, cesnakom, soľou a, vegetou.
+
+Podávame s chlebom alebo pečivom.
 
 ## 7. Krúpová so žĺtkom
 *Čas: 45 minút 1 porcia = 420g 120g / 300ml voda*
@@ -144,17 +167,18 @@
 * 20g cibuľa
 * 50ml sladkej smotany
 * 20g žĺtok
-<ul>
-    <li>soľ (vegeta)
-    <li>petržlenová vňať
-    <li>(zelerová vňať)
-</ul>
-<p>Krúpy preberieme, umyjeme, v hrnci ich zalejeme vodou a dáme variť. Pridáme soľ, očistenú nadrobno posekanú cibuľu a
-    varíme kým krúpy nezmäknú.
-<p>Pridáme maslo, dobre ho rozmiešame a ešte chvíľu varíme.
-<p>V smotane rozmiešame žĺtok, vlejeme ho do polievky a odstavíme z ohňa.
-<p>Polievku dochutíme a nakoniec pridáme nadrobno posekanú petržlenovú
-<p>( zelerovú) vňať.
+  * soľ (vegeta)
+  * petržlenová vňať
+  * (zelerová vňať)
+
+Krúpy preberieme, umyjeme, v hrnci ich zalejeme vodou a dáme variť. Pridáme soľ, očistenú nadrobno posekanú cibuľu a
+varíme kým krúpy nezmäknú.
+
+Pridáme maslo, dobre ho rozmiešame a ešte chvíľu varíme.
+
+V smotane rozmiešame žĺtok, vlejeme ho do polievky a odstavíme z ohňa.
+
+Polievku dochutíme a nakoniec pridáme nadrobno posekanú petržlenovú (zelerovú) vňať.
 
 ## 8. Pórová polievka s krúpami
 *Čas: 45 minút 4 porcie po 360g*
@@ -163,17 +187,20 @@
 * 80g jačmenných krúp
 * 10g slnečnicového oleja
 * 50g zeleninového bujónu (1 kocka – 1 l vody)
-<ul>
-    <li>soľ (vegeta)
-    <li>mleté čierne korenie
-    <li>petržlenová (zelerová) vňať
-</ul>
-<p>Pór očistíme, umyjeme, pokrájame ho na kolieska. Krúpy v site premyjeme a necháme odkvapkať.
-<p>V hrnci zohrejeme olej a opražíme na ňom polovicu póru.
-<p>Pridáme pripravené krúpy, chvíľu miešame a zalejeme asi 1 litrom vody. Mierne osolíme, okoreníme a varíme takmer do
-    mäkka.
-<p>Pridáme v teplej vode rozmiešaný bujón, zvyšnú polovicu póru a všetko uvaríme do mäkka.
-<p>Pred podávaním každú porciu posypeme nadrobno pokrájanou petržlenovou vňaťou.
+  * soľ (vegeta)
+  * mleté čierne korenie
+  * petržlenová (zelerová) vňať
+
+Pór očistíme, umyjeme, pokrájame ho na kolieska. Krúpy v site premyjeme a necháme odkvapkať.
+
+V hrnci zohrejeme olej a opražíme na ňom polovicu póru.
+
+Pridáme pripravené krúpy, chvíľu miešame a zalejeme asi 1 litrom vody. Mierne osolíme, okoreníme a varíme takmer do
+mäkka.
+
+Pridáme v teplej vode rozmiešaný bujón, zvyšnú polovicu póru a všetko uvaríme do mäkka.
+
+Pred podávaním každú porciu posypeme nadrobno pokrájanou petržlenovou vňaťou.
 
 ## 9. Brazílska polievka
 *Čas: 50 minút 4porcie po 350g*
@@ -186,16 +213,19 @@
 * 40g cibuľa
 * 10g feferónka
 * 50gkocka bujónu (masox)
-<p>1 liter - voda
-* - soľ, - mleté čierne korenie
-* - majorán (čerstvý zelený)
-* - rasca drtená
-<p>Mäso pokrájame na malé kocky, cibuľu nadrobno, rajčinu a papriku na kúsky.
-<p>V hrnci zohrejeme olej, opražíme na ňom cibuľu, pridáme mäso, posolíme ho a chvíľu opekáme. Prilejeme trochu vývaru,
-    zakryjeme a dusíme takmer do mäkka. Potom pridáme pokrájané fazuľky, papriku, rajčinu a všetko zalejeme asi litrom
-    vody, do ktorej rozdrobíme bujón (mäsox).
-<p>Polievku varíme, kým je všetko mäkké. Potom ju ochutíme soľou, korením, rascou a nakoniec pridáme pokrájanú feferónku
-    a majorán.
+* 1 liter - voda
+  - soľ, - mleté čierne korenie
+  - majorán (čerstvý zelený)
+  - rasca drtená
+
+Mäso pokrájame na malé kocky, cibuľu nadrobno, rajčinu a papriku na kúsky.
+
+V hrnci zohrejeme olej, opražíme na ňom cibuľu, pridáme mäso, posolíme ho a chvíľu opekáme. Prilejeme trochu vývaru,
+zakryjeme a dusíme takmer do mäkka. Potom pridáme pokrájané fazuľky, papriku, rajčinu a všetko zalejeme asi litrom
+vody, do ktorej rozdrobíme bujón (mäsox).
+
+Polievku varíme, kým je všetko mäkké. Potom ju ochutíme soľou, korením, rascou a nakoniec pridáme pokrájanú feferónku
+a majorán.
 
 ## 10. Šošovicová s kyslou kapustou a hubami
 *Čas: 50 minút 4 porcie po 350g*
@@ -232,24 +262,26 @@ necháme variť.
 * 15g slnečnicový olej
 * 200ml šľahačková smotana 33%
 * 10g hladká múka (na zahustenie)
-<ul>
-    <li>1- 2 bobkový list
-    <li>3-4 zrnká čierneho korenia
-</ul>
+* 1- 2 bobkový list
+* 3-4 zrnká čierneho korenia
 * 10g pažítka (vňať)
 * 5g soľ (vegeta)
-<p>Cibuľu, mrkvu a zemiaky očistíme. Cibuľu pokrájame nadrobno, mrkvu na kolieska, zemiaky na kocky, šunku na rezančeky.
-    V hrnci zohrejeme olej, speníme na ňom cibuľu, pridáme mrkvu a po chvíli zemiaky.
-<p>Podlejeme vývarom a dusíme do polomäkka.
-<p>Pridáme kukuricu (aj s nálevom ), zvyšok hydinového vývaru, bobkový list, korenie, zakryjeme a varíme asi 20 minút.
-    Koreniny vyberieme, pridáme smotanu a šunku .
-<p>Dochutíme a nakoniec dáme posekanú pažítku.
+
+Cibuľu, mrkvu a zemiaky očistíme. Cibuľu pokrájame nadrobno, mrkvu na kolieska, zemiaky na kocky, šunku na rezančeky.
+V hrnci zohrejeme olej, speníme na ňom cibuľu, pridáme mrkvu a po chvíli zemiaky.
+
+Podlejeme vývarom a dusíme do polomäkka.
+
+Pridáme kukuricu (aj s nálevom), zvyšok hydinového vývaru, bobkový list, korenie, zakryjeme a varíme asi 20 minút.
+Koreniny vyberieme, pridáme smotanu a šunku.
+
+Dochutíme a nakoniec dáme posekanú pažítku.
 
 ## 12. Zeleninová s drožďovými haluškami
 *Čas: 30 minút 4 porcie po 400g*
 
 * 350g mrazenej zeleninovej zmesi (400g -čerstvá zelenina – mrkva, petržlen, zeler, kaleráb
-<p>zo záhrady, aj zelený hrášok a fazuľka)
+  zo záhrady, aj zelený hrášok a fazuľka)
 * 80g cibuľa
 * 5g soľ, vegeta
 * 5g mletá červená paprika
@@ -257,20 +289,28 @@ necháme variť.
 * 15g slnečnicový olej
 * 10g petržlenová vňať
 * 1000ml voda
-<p>Halušky: 30 – 42 g - čerstvé droždie (1 x) 15g – oleja
+
+Halušky:
+* 30 – 42g - čerstvé droždie (1 x) 15g – oleja
 * 60g domáce vajce 10g – cibuľa a cesnak
-<p>50 – 60g – strúhanky (2 – 3 lyžice) - soľ
-<p>V hrnci zohrejeme olej, opražíme nadrobno nakrájanú cibuľku. Pridáme mletú červenú papriku, rozmiešame, zalejeme
-    troškou vody a vysypeme zeleninovú zmes. Zakrytú dusíme do mäkka.
-<p>Zeleninu poprášime múkou, dobre premiešame, zalejeme vodou a necháme zovrieť. Potom polievku dochutíme. Pred
-    dokončením do nej zavaríme halušky.
-<p>Halušky: Najemno pokrájanú cibuľu, popražíme na oleji, pridáme rozdrobené droždie a miešame, kým sa nerozpustí.
-    Odstavíme, pridáme soľ, roztlačený cesnak a strúhanku.
-<p>Lyžicou tvarujeme halušky a vkladáme ich do vriacej polievky.
-<p>Varíme ich asi 5 minút.
+* 50 – 60g – strúhanky (2 – 3 lyžice) - soľ
+
+V hrnci zohrejeme olej, opražíme nadrobno nakrájanú cibuľku. Pridáme mletú červenú papriku, rozmiešame, zalejeme
+troškou vody a vysypeme zeleninovú zmes. Zakrytú dusíme do mäkka.
+
+Zeleninu poprášime múkou, dobre premiešame, zalejeme vodou a necháme zovrieť. Potom polievku dochutíme. Pred
+dokončením do nej zavaríme halušky.
+
+Halušky: Najemno pokrájanú cibuľu, popražíme na oleji, pridáme rozdrobené droždie a miešame, kým sa nerozpustí.
+Odstavíme, pridáme soľ, roztlačený cesnak a strúhanku.
+
+Lyžicou tvarujeme halušky a vkladáme ich do vriacej polievky.
+
+Varíme ich asi 5 minút.
 
 ## 13. Ľahká zeleninová polievka
-<p>Vhodná pri redukčnej diéte, dobrá je aj studená.
+
+Vhodná pri redukčnej diéte, dobrá je aj studená.
 *Čas: 65 minút 4 porcie po 460g*
 
 * 100g karfiolu 100g – brokolice
@@ -281,13 +321,16 @@ necháme variť.
 * 80g ružičkový kel
 * 10-15g – olivový (slnečnicový) olej
 * 1000ml zeleninový vývar (bujón)
-* 5g soľ , vegeta - korenie (podľa chuti)
+* 5g soľ, vegeta - korenie (podľa chuti)
 * 10g zelený hrášok
 * 10g petržlenová, zelerová vňať
-<p>Všetku zeleninu, očistíme, umyjeme dáme do hrnca a zalejeme vývarom . Pridáme olivový olej, zakryjeme a po zovretí
-    pomaly varíme asi 15 minút.
-<p>Polievku zlejeme, zeleninu pokrájame na menšie kúsky a dáme späť do polievky.
-<p>Pred podávaním môžeme pridať posekanú vňať.
+
+Všetku zeleninu, očistíme, umyjeme dáme do hrnca a zalejeme vývarom. Pridáme olivový olej, zakryjeme a po zovretí
+pomaly varíme asi 15 minút.
+
+Polievku zlejeme, zeleninu pokrájame na menšie kúsky a dáme späť do polievky.
+
+Pred podávaním môžeme pridať posekanú vňať.
 
 ## 14. Kráľovská cesnaková
 *Čas: 45 minút 4 porcie asi po 500g (460 až 580g)*
@@ -303,13 +346,16 @@ necháme variť.
 * 200g starší chlieb
 * 15g tuk / olej na opekanie
 * 1000 - 1500ml voda
-<p>Očistený cesnak prelisujeme. V hrnci rozpustíme maslo, popražíme na ňom cesnak, poprášime ho múkou, premiešame a
-    prilejeme asi 1 – 1,5 l vody. Pridáme očistené na malé kocky pokrájané zemiaky a uvaríme ich do mäkka.
-<p>Polievku odložíme z ohňa, dochutíme ju vegetou, soľou, drtenou rascou, pridáme petržlenovú vňať a všetko spolu
-    zmixujeme (ručným mixérom, môžeme použiť aj drevenú habarku, zemiaky popučíme a polievku rozhabarkujeme –
-    šľaháme).
-<p>Chlieb (pečivo) pokrájame na kocky a na teflónovej panvici na troške tuku opražíme do chrumkava . Pred podávaním
-    dáme do každej porcie podľa chuti a prizdobíme ozdobnou vňaťou ružičkového petržlenu.
+
+Očistený cesnak prelisujeme. V hrnci rozpustíme maslo, popražíme na ňom cesnak, poprášime ho múkou, premiešame a
+prilejeme asi 1 – 1,5 l vody. Pridáme očistené na malé kocky pokrájané zemiaky a uvaríme ich do mäkka.
+
+Polievku odložíme z ohňa, dochutíme ju vegetou, soľou, drtenou rascou, pridáme petržlenovú vňať a všetko spolu
+zmixujeme (ručným mixérom, môžeme použiť aj drevenú habarku, zemiaky popučíme a polievku rozhabarkujeme –
+šľaháme).
+
+Chlieb (pečivo) pokrájame na kocky a na teflónovej panvici na troške tuku opražíme dochrumkava. Pred podávaním
+dáme do každej porcie podľa chuti a prizdobíme ozdobnou vňaťou ružičkového petržlenu.
 
 ## 15. Cibuľová s hubami a opraženým chlebom
 *Čas: 45 minút 2 porcie = 790g, porcia 395g*
@@ -324,12 +370,16 @@ necháme variť.
 * 50g vajce
 * 80g starší chlieb
 * - soľ, - biele korenie, - vegeta
-<p>Cibuľu očistíme, nadrobno pokrájame, v hrnci na rozohriatom oleji opražíme, pridáme očistenú na kúsky pokrájanú
-    zeleninu, zalejeme vodou a necháme variť.
-<p>Pridáme na kúsky rozmrvenú kocku bujónu, vopred namočené a scedené huby a na kocky pokrájané zemiaky. Ak treba
-    prisolíme a dochutíme. Varíme 10- 15 minút.
-<p>Vajíčko dobre rozmiešame, vlejeme do polievky a necháme ju ešte chvíľu vrieť .
-<p>Polievku podávame s opraženými kockami chleba alebo pečiva.
+
+Cibuľu očistíme, nadrobno pokrájame, v hrnci na rozohriatom oleji opražíme, pridáme očistenú na kúsky pokrájanú
+zeleninu, zalejeme vodou a necháme variť.
+
+Pridáme na kúsky rozmrvenú kocku bujónu, vopred namočené a scedené huby a na kocky pokrájané zemiaky. Ak treba
+prisolíme a dochutíme. Varíme 10- 15 minút.
+
+Vajíčko dobre rozmiešame, vlejeme do polievky a necháme ju ešte chvíľu vrieť.
+
+Polievku podávame s opraženými kockami chleba alebo pečiva.
 
 ## 16. Cibuľová s kukuricou a syrom
 *Čas: 25 minút + hovädzí vývar 2 porcie: 750g – porcia 375g*
@@ -344,16 +394,20 @@ necháme variť.
 * 20g postrúhaný tvrdý syr
 * 5g soľ, vegeta - mleté biele korenie,
 * 10g petržlenová vňať
-<p>Cibuľu očistíme, pokrájame na kolieska, dáme do hovädzieho vývaru a uvaríme do mäkka.
-<p>Z masla a hladkej múky pripravíme svetlu zápražku, zalejeme ju studenou vodou, dobre rozmiešame a vlejeme do
-    polievky. Pridáme scedenú kukuricu a v mlieku rozšľahaný žĺtok, dochutíme soľou, vegetou a korením.
-<p>Pred podávaním každú porciu polievky posypeme posekanou petržlenovou vńaťou a podľa chuti postrúhaným tvrdým
-    syrom.
+
+Cibuľu očistíme, pokrájame na kolieska, dáme do hovädzieho vývaru a uvaríme do mäkka.
+
+Z masla a hladkej múky pripravíme svetlu zápražku, zalejeme ju studenou vodou, dobre rozmiešame a vlejeme do
+polievky. Pridáme scedenú kukuricu a v mlieku rozšľahaný žĺtok, dochutíme soľou, vegetou a korením.
+
+Pred podávaním každú porciu polievky posypeme posekanou petržlenovou vňaťou a podľa chuti postrúhaným tvrdým
+syrom.
 
 ## 17. Beťárska kapustová s párkom
 *Čas: 50 minút*
 
-<p>2 porcie: 900g – porcia 450g
+
+2 porcie: 900g – porcia 450g
 * 25g tuk (olej, masť)
 * 50g cibuľa
 * 25g rajčinový pretlak
@@ -369,17 +423,22 @@ necháme variť.
 * 50g párkov (kabanosu, domácej klobásy)
 * 60g sušených sliviek
 * 300ml vody
-<p>Cukor na tuku skaramelizujeme, pridáme nadrobno pokrájanú cibuľu, bôčik pokrájaný na kocky, popražíme. Nakoniec po
-    chvíli dáme rajčinový pretlak, červenú mletú papriku pokrájanú kyslú domácu kapustu s bobkovými listami, drtenou
-    rascou, rozdrveným cesnakom
-<p>vegetou a soľou.
-<p>Premiešame, dolejeme 3dl vody (maximálne 0,5 l vody) a všetko uvaríme do mäkka.
-<p>Smotanu rozmiešame s múkou, vlejeme do polievky a necháme pomaly zovrieť.
-<p>Dochutíme prípadne soľou, korením (½ chilli papričky alebo feferónky).
-<p>Nakoniec pridáme na kolieska pokrájané párky a ešte chvíľu povaríme.
-<p>( Inú údeninu klobásu alebo kabanos môžeme opražiť na troške tuku. Namiesto smotanovej zátrepky s hladkou múkou
-    môžeme použiť s hladkou múkou nasucho urobenú zápražku zriedenú maslom alebo ramou a vymiešanú habarkou so studeným
-    mliekom.)
+
+Cukor na tuku skaramelizujeme, pridáme nadrobno pokrájanú cibuľu, bôčik pokrájaný na kocky, popražíme. Nakoniec po
+chvíli dáme rajčinový pretlak, červenú mletú papriku pokrájanú kyslú domácu kapustu s bobkovými listami, drtenou
+rascou, rozdrveným cesnakom vegetou a soľou.
+
+Premiešame, dolejeme 3dl vody (maximálne 0,5 l vody) a všetko uvaríme do mäkka.
+
+Smotanu rozmiešame s múkou, vlejeme do polievky a necháme pomaly zovrieť.
+
+Dochutíme prípadne soľou, korením (½ chilli papričky alebo feferónky).
+
+Nakoniec pridáme na kolieska pokrájané párky a ešte chvíľu povaríme.
+
+(Inú údeninu klobásu alebo kabanos môžeme opražiť na troške tuku. Namiesto smotanovej zátrepky s hladkou múkou
+môžeme použiť s hladkou múkou nasucho urobenú zápražku zriedenú maslom alebo ramou a vymiešanú habarkou so studeným
+mliekom.)
 
 ## 18. Pórová s droždím
 *Čas: 25 minút 2 porcie 680g – porcia 340g*
@@ -390,17 +449,22 @@ necháme variť.
 * 10g soľ, vegeta, petržlenová vňať
 * 60g póru
 * - mleté čierne (biele) korenie
-<p>(50g – domáce vajce)
-<p>Cibuľu a pór očistíme. V hrnci zohrejeme olej, pridáme nadrobno pokrájanú cibuľu, opražíme ju a po chvíli v nej
-    rozmiešame droždie. Zalejeme teplou vodou a necháme zovrieť.
-<p>Pór pokrájame na tenké kolieska, dáme do polievky osolíme ju a varíme, kým pór nezmäkne.
-<p>Múku nasucho opražíme vmiešame do polievky, ochutíme ju korením, nakoniec pridáme petržlenovú vňať.
-<p>( Pred dovarením môžeme pridať rozšľahané domáce vajce.)
+* 50g – domáce vajce
+
+Cibuľu a pór očistíme. V hrnci zohrejeme olej, pridáme nadrobno pokrájanú cibuľu, opražíme ju a po chvíli v nej
+rozmiešame droždie. Zalejeme teplou vodou a necháme zovrieť.
+
+Pór pokrájame na tenké kolieska, dáme do polievky osolíme ju a varíme, kým pór nezmäkne.
+
+Múku nasucho opražíme vmiešame do polievky, ochutíme ju korením, nakoniec pridáme petržlenovú vňať.
+
+ (Pred dovarením môžeme pridať rozšľahané domáce vajce.)
 
 ## 19. Diétna kapustová
 *Príprava – Čas: 65 minút*
 
-<p>4 porcie = 1540g – porcia 385g
+
+4 porcie = 1540g – porcia 385g
 * 400g biela hlávková kapusta
 * 100g cibuľa
 * 80g papriky (2ks)
@@ -411,18 +475,22 @@ necháme variť.
 * 120g zemiaky
 * 5g soľ, vegeta
 * 10g kocka mäsoxu alebo bujónu / 3-5dl vody
-<p>„sladko- kyslo“ – ocot/citrón, biele korenie, soľ, sacharín
-<p>Všetku zeleninu očistíme a umyjeme. Kapustu, papriku a zeler pokrájame na rezančeky, cibuľu, mrkvu a petržlen na
-    tenké kolieska. Pripravenú zeleninu dáme do hrnca, zalejeme studenou vodou, aby bola ponorená a dáme variť. Keď
-    zovrie pridáme soľ a rozmrvenú kocku mäsoxu. Polievku varíme asi 35 minút – jemne ťaháme zeleninový vývar, potom
-    pridáme na malé kocky pokrájané zemiaky a varíme ešte 15 minút.
-<p>Poznámka: Polievka je vhodná pri diéte na redukciu hmotnosti, s náhradným sladidlom namiesto cukru ju môžeme
-    dochutiť na sladko - kyslo.
+
+„sladko- kyslo“ – ocot/citrón, biele korenie, soľ, sacharín
+
+Všetku zeleninu očistíme a umyjeme. Kapustu, papriku a zeler pokrájame na rezančeky, cibuľu, mrkvu a petržlen na
+tenké kolieska. Pripravenú zeleninu dáme do hrnca, zalejeme studenou vodou, aby bola ponorená a dáme variť. Keď
+zovrie pridáme soľ a rozmrvenú kocku mäsoxu. Polievku varíme asi 35 minút – jemne ťaháme zeleninový vývar, potom
+pridáme na malé kocky pokrájané zemiaky a varíme ešte 15 minút.
+
+Poznámka: Polievka je vhodná pri diéte na redukciu hmotnosti, s náhradným sladidlom namiesto cukru ju môžeme
+dochutiť na sladko - kyslo.
 
 ## 20. Kapustnica so zápražkou
 *Príprava – Čas: 90 minút*
 
-<p>6 porcií = 2580g – porcia 430g
+
+6 porcií = 2580g – porcia 430g
 * 1000g kyslej domácej kapusty - 2 bobkové listy
 * 500g údeného mäsa – pliecko, krkovička alebo koleno
 * 250g čerstvé čisté bravčové pliecko - 5 x nové korenie
@@ -434,17 +502,20 @@ necháme variť.
 * 5g majorán, vegeta podľa chuti
 * 5g mleté čierne (biele) korenie, ½ feferónky
 * 750ml studenej vody
-<p>Do väčšieho hrnca dáme variť údené mäso, keď je polomäkké pridáme na kocky pokrájané bravčové pliecko, kyslú domácu
-    kapustu, bobkový list, nové korenie, vopred namočené hríby a všetko uvaríme do mäkka. Údené mäso vyberieme,
-    pokrájame na kúsky a dáme späť do hrnca. Z masti a hladkej múky urobíme svetlú zápražku, zalejeme ju studenou vodou,
-    dobre rozmiešame a vlejeme do kapustnice.
-<p>Necháme prevrieť, dochutíme soľou, cukrom, cesnakom, mletým korením, ½ chilli papričky alebo feferónky, odstavíme z
-    ohňa a potom vmiešame za lyžičku majoránu.
+
+Do väčšieho hrnca dáme variť údené mäso, keď je polomäkké pridáme na kocky pokrájané bravčové pliecko, kyslú domácu
+kapustu, bobkový list, nové korenie, vopred namočené hríby a všetko uvaríme do mäkka. Údené mäso vyberieme,
+pokrájame na kúsky a dáme späť do hrnca. Z masti a hladkej múky urobíme svetlú zápražku, zalejeme ju studenou vodou,
+dobre rozmiešame a vlejeme do kapustnice.
+
+Necháme prevrieť, dochutíme soľou, cukrom, cesnakom, mletým korením, ½ chilli papričky alebo feferónky, odstavíme z
+ohňa a potom vmiešame za lyžičku majoránu.
 
 ## 21. Kapustová s klobásou
 *Príprava - Čas: 40 minút*
 
-<p>4 alebo 5 porcií = 1670g – porcia 420g alebo 330g
+
+4 alebo 5 porcií = 1670g – porcia 420g alebo 330g
 * 250g hlávkovej kapusty
 * 30g oleja
 * 40g hladkej múky
@@ -455,18 +526,23 @@ necháme variť.
 * 10g soľ, vegeta, drtená rasca, petržlenová vňať
 * ocot / citrón a cukor, mleté biele korenie
 * 750ml voda
-<p>Kapustu očistíme, pokrájame na tenké rezančeky. V hrnci zohrejeme olej, kapustu mierne opražíme, posypeme múkou a
-    ešte chvíľu popražíme. Prilejeme vodu a polievku osolíme.
-<p>Klobásu pokrájame na tenké kolieska, spolu s očistenými a na kocky pokrájanými zemiakmi pridáme do polievky. Asi po
-    desiatich minútach pridáme sušené slivky (bez kôstok) a ešte chvíľu varíme.
-<p>Potom prilejeme rozmiešanú smotanu a pridáme posekanú petržlenovú vňať. Necháme jemne zovrieť a odstavíme.
-<p>Potom môžeme odstavenú polievku dochutiť troškou cukru a octu, mletým bielym korením, soľou, vegetou a drtenou
-    rascou.
+
+Kapustu očistíme, pokrájame na tenké rezančeky. V hrnci zohrejeme olej, kapustu mierne opražíme, posypeme múkou a
+ešte chvíľu popražíme. Prilejeme vodu a polievku osolíme.
+
+Klobásu pokrájame na tenké kolieska, spolu s očistenými a na kocky pokrájanými zemiakmi pridáme do polievky. Asi po
+desiatich minútach pridáme sušené slivky (bez kôstok) a ešte chvíľu varíme.
+
+Potom prilejeme rozmiešanú smotanu a pridáme posekanú petržlenovú vňať. Necháme jemne zovrieť a odstavíme.
+
+Potom môžeme odstavenú polievku dochutiť troškou cukru a octu, mletým bielym korením, soľou, vegetou a drtenou
+rascou.
 
 ## 22. Sýta hrachová s mäsom a klobásou
 *Príprava – Čas: 65 minút*
 
-<p>4 porcie = 1330g – porcia 330g
+
+4 porcie = 1330g – porcia 330g
 * 75g suchého hrachu (polený a lúpaný)
 * 100g kosti z karé
 * 60g bravčové mäso -pliecko
@@ -478,20 +554,26 @@ necháme variť.
 * 80g zemiaky
 * 15g hladkej múky
 * 10g soľ, mleté čierne korenie, mletá červená paprika, majorán 800ml – studená voda
-<p>Umyté kosti a mäso opražíme na troche oleja, zalejeme vodou a pridáme vo vode namočený napučaný hrach. Mierne
-    osolíme, pridáme dva jemno pokrájané strúčiky cesnaku a odkryté varíme do mäkka.
-<p>Mäso a kosti vyberieme, kosti oberieme. Hrach zalejeme vodou (7,5 až 8dl ), pridáme očistenú a na kolieska ,
-    rezančeky a kocky pokrájanú zeleninu i zemiaky, ochutíme soľou, mletým korením, prelisovaným cesnakom a všetko
-    uvaríme do mäkka.
-<p>Nadrobno pokrájanú cibuľu, spolu s kolieskami cibule opražíme na oleji, posypeme hladkou múkou a červenou paprikou,
-    ešte chvíľu oprážame a dáme do polievky.
-<p>Keď zovrie, pridáme pokrájané mäso a nakoniec vmiešame majorán.
-<p>JEDLÁ Z BRAVČOVÉHO, HOVADZIEHO A TEĽACIEHO MASA
+
+Umyté kosti a mäso opražíme na troche oleja, zalejeme vodou a pridáme vo vode namočený napučaný hrach. Mierne
+osolíme, pridáme dva jemno pokrájané strúčiky cesnaku a odkryté varíme do mäkka.
+
+Mäso a kosti vyberieme, kosti oberieme. Hrach zalejeme vodou (7,5 až 8dl), pridáme očistenú a na kolieska ,
+rezančeky a kocky pokrájanú zeleninu i zemiaky, ochutíme soľou, mletým korením, prelisovaným cesnakom a všetko
+uvaríme do mäkka.
+
+Nadrobno pokrájanú cibuľu, spolu s kolieskami cibule opražíme na oleji, posypeme hladkou múkou a červenou paprikou,
+ešte chvíľu oprážame a dáme do polievky.
+
+Keď zovrie, pridáme pokrájané mäso a nakoniec vmiešame majorán.
+
+# JEDLÁ Z BRAVČOVÉHO, HOVADZIEHO A TEĽACIEHO MASA
 
 ## 1. Bôčikový nákyp
 *Čas: 90 minút, 4 porcie po 225g - 8 porcií po 230g*
 
-<p>½ dávka – celá dávka
+
+½ dávka – celá dávka
 * 500g 1kg – prerastaného bravčového bôčika (mletého mäsa)
 * 300g 600g (5 – 10ks) – domácich vajec
 * 100g 200g (5 – 10 lyžíc) – hrubej múky
@@ -500,13 +582,16 @@ necháme variť.
 * 5g soľ - vegeta - mleté čierne biela korenie
 * 10g cesnak (2- 3 strúčiky podľa chuti)
 * 15g petržlenová vňať – (magi –americký zeler -ligurčeková vňať, bazalka)
-<p>Mäso najemno pomelieme (kúpime planšie mleté) dáme do misy, pridáme rozšľahané vajcia, múku spolu s kypriacim
-    práškom a všetko spolu zmiešame.
-<p>Zmes ochutíme soľou, vegetou, korením, pridáme očistený prelisovaný cesnak a posekanú
-<p>petržlenovú vňať (zelerovú alebo bazalku).
-<p>Plech strednej veľkosti alebo ľubovoľnú formu vystelieme alobalom (tak, aby prečnieval ),
-<p>natrieme ho olejom a rovnomerne naň rozložíme mäsovú zmes. Vrch prekryjeme alobalom a dáme asi na hodinu piecť,
-    dopečieme do chrumkava, nakoniec vrch potrieme vodou s troškou oleja.
+
+Mäso najemno pomelieme (kúpime planšie mleté) dáme do misy, pridáme rozšľahané vajcia, múku spolu s kypriacim
+práškom a všetko spolu zmiešame.
+
+Zmes ochutíme soľou, vegetou, korením, pridáme očistený prelisovaný cesnak a posekanú
+petržlenovú vňať (zelerovú alebo bazalku).
+
+Plech strednej veľkosti alebo ľubovoľnú formu vystelieme alobalom (tak, aby prečnieval),
+natrieme ho olejom a rovnomerne naň rozložíme mäsovú zmes. Vrch prekryjeme alobalom a dáme asi na hodinu piecť,
+dopečieme dochrumkava, nakoniec vrch potrieme vodou s troškou oleja.
 
 ## 2. Guľáš na zelených fazuľkách
 *Čas: 80 minút 4 porcie po 360g*
@@ -519,39 +604,51 @@ necháme variť.
 * 10g hladká múka
 * 10g 2-3 strúčiky cesnaku
 * 50g 3 lyžice kečupu (rajčinový pretlak a cukor)
-* 5g drtená rasca, mleté čierne( biele) korenie
+* 5g drtená rasca, mleté čierne (biele) korenie
 * 200g sterilizovaných fazuliek
 * 50g kocka mäsoxu, 300 – 400ml – voda
-<p>Mäso umyjeme, osušíme, zbavíme tuku a šliach, pokrájame na kocky. Slaninu pokrájame a dáme do rajnice, kastróĺa,
-    popražíme, pridáme mäso a prudko opražíme.
-<p>Pridáme nadrobno pokrájanú cibuľu, rajčinový pretlak, soľ, vegetu, premiešame zakryjeme a na miernom ohni chvíľu
-    dusíme. Potom pridáme papriku rozmiešanú v troške vody, rozmrvený bujón a dusíme do polomäkka.
-<p>Fazuľky zlejeme, pridáme k mäsu, všetko dochutíme kečupom, korením, rascou a udusíme do mäkka. Môžeme zahustiť
-    zápražkou. Podávame s novými zemiakmi.
+
+Mäso umyjeme, osušíme, zbavíme tuku a šliach, pokrájame na kocky. Slaninu pokrájame a dáme do rajnice, kastróĺa,
+popražíme, pridáme mäso a prudko opražíme.
+
+Pridáme nadrobno pokrájanú cibuľu, rajčinový pretlak, soľ, vegetu, premiešame zakryjeme a na miernom ohni chvíľu
+dusíme. Potom pridáme papriku rozmiešanú v troške vody, rozmrvený bujón a dusíme do polomäkka.
+
+Fazuľky zlejeme, pridáme k mäsu, všetko dochutíme kečupom, korením, rascou a udusíme do mäkka. Môžeme zahustiť
+zápražkou. Podávame s novými zemiakmi.
 
 ## Krkovička s pórom
 *Čas: 80 minút 2 porcie po 315g – 4 porcie po 265g*
 
-<p>½ dávka - celá dávka
+
+½ dávka - celá dávka
 * 300g 500g – rezne z krkovičky
 * 250g 400g – väčší pór
 * 20g 40g – masla
 * 50g 100g - údeného syra
 * 10g soľ, - mleté čierne korenie, - mletá červená maďarská paprika pálivá
 * 30g 50g – kocka mäsoxu (10ml – 20ml – vody)
-<p>Mäso naklepeme, osolíme, okoreníme a uložíme do pekáča natretého olejom.
-<p>Pór (y) očistíme, umyjeme, pokrájame na tenké kolieska, syr najemno postrúhame.
-<p>Na mäso v pekáči poukladáme vrstvu pokrájaného póru a posypeme syrom.
-<p>Asi ½ kocky mäsoxu rozpustíme v troške vody a vylejeme na mäso. Maslo rozpustíme, pokvapkáme ním pripravené rezne a
-    poprášime ich pálivou paprikou.
-<p>Pekáč zakryjeme, dáme do vyhriatej rúry na 30 minút, potom mäso odkryté dopečieme.
-<p>Podávame s dusenou ryžou .
+
+Mäso naklepeme, osolíme, okoreníme a uložíme do pekáča natretého olejom.
+
+Pór(y) očistíme, umyjeme, pokrájame na tenké kolieska, syr najemno postrúhame.
+
+Na mäso v pekáči poukladáme vrstvu pokrájaného póru a posypeme syrom.
+
+Asi ½ kocky mäsoxu rozpustíme v troške vody a vylejeme na mäso. Maslo rozpustíme, pokvapkáme ním pripravené rezne a
+poprášime ich pálivou paprikou.
+
+Pekáč zakryjeme, dáme do vyhriatej rúry na 30 minút, potom mäso odkryté dopečieme.
+
+Podávame s dusenou ryžou.
 
 ## 4.  Mäsové placky
 *Čas: 50 minút (12 hodín – odležanie)*
 
-<p>4 porcie po 265g (1060g) – 8 porcií po 280g (2260g)
-<p>½ dávka – celá dávka
+
+4 porcie po 265g (1060g) – 8 porcií po 280g (2260g)
+
+½ dávka – celá dávka
 * 500g 1000g – bravčové pliecko
 * 120g 300g – vajcia (2ks - 5ks)
 * 300g 700g – lečo domáce (malý a veľký pohár)
@@ -559,19 +656,27 @@ necháme variť.
 * 60g 120g – tuk na vyprážanie
 * 10g 15g – vegety (lyžička podľa chuti), - soľ, - mleté čierne korenie
 * 45g 90g – solamyl (3 a 6 lyžičiek)
-<p>ozdoba: 100g – paradajky – petržlenová vňať
-<p>Mäso pokrájame na malé kúsky, dáme ho do hlbšej misy, osolíme, okoreníme posypme vegetou, pridáme domáce lečo a dobre
-    premiešame.
-<p>Vajcia dôkladne rozšľaháme so solamylom, vylejeme na mäso a znovu premiešame.
-<p>Odložíme na noc alebo aspoň 12 hodím do chladu.
-<p>Z odležanej zmesi postupne tvarujeme placky a vo väčšom množstve tuku (oleja)
-<p>Ich pomaly z obidvoch strán vyprážame.
+
+ozdoba: 100g – paradajky – petržlenová vňať
+
+Mäso pokrájame na malé kúsky, dáme ho do hlbšej misy, osolíme, okoreníme posypme vegetou, pridáme domáce lečo a dobre
+premiešame.
+
+Vajcia dôkladne rozšľaháme so solamylom, vylejeme na mäso a znovu premiešame.
+
+Odložíme na noc alebo aspoň 12 hodím do chladu.
+
+Z odležanej zmesi postupne tvarujeme placky a vo väčšom množstve tuku (oleja)
+
+Ich pomaly z obidvoch strán vyprážame.
 
 ## 5. Mäsová pochúťka so šampiňónmi
 *Čas: 75 minút*
 
-<p>2 porcie po 210g (420g) - 8 porcií po 240g (1920g)
-<p>¼ dávka – celá dávka
+
+2 porcie po 210g (420g) - 8 porcií po 240g (1920g)
+
+¼ dávka – celá dávka
 * 200g 1000g – bravčového stehna
 * 30g olej, 5g – soľ
 * 10g 25g – hladká múka
@@ -580,14 +685,19 @@ necháme variť.
 * 20g 100g – tvrdého syra
 * 5g 15g – mletá červená paprika
 * 5g 15g – petržlenová vňať, - vegeta
-<p>Mäso pokrájame na rezne, naklepeme ich, osolíme, obalíme v hladkej múke a na rozohriatom oleji z oboch strán prudko
-    opražíme. Uložíme ich do pekáča.
-<p>Šampiňóny scedíme, dáme do výpeku a chvíľu oprážame. Smotanu rozmiešame, pridáme papriku, trochu soli (vegetu) a
-    vylejeme na šampiňóny.
-<p>Zmes necháme jemno prevrieť a potom ňou zalejeme pripravené rezne.
-<p>Dáme piecť (asi pol hodiny), potom vyberieme a vrch posypeme strúhaným syrom zmiešaným s nadrobno posekanou
-    petržlenovou vňaťou.
-<p>Nakoniec prudko zapečieme. Podávame so zemiakovou kašou.
+
+Mäso pokrájame na rezne, naklepeme ich, osolíme, obalíme v hladkej múke a na rozohriatom oleji z oboch strán prudko
+opražíme. Uložíme ich do pekáča.
+
+Šampiňóny scedíme, dáme do výpeku a chvíľu oprážame. Smotanu rozmiešame, pridáme papriku, trochu soli (vegetu) a
+vylejeme na šampiňóny.
+
+Zmes necháme jemno prevrieť a potom ňou zalejeme pripravené rezne.
+
+Dáme piecť (asi pol hodiny), potom vyberieme a vrch posypeme strúhaným syrom zmiešaným s nadrobno posekanou
+petržlenovou vňaťou.
+
+Nakoniec prudko zapečieme. Podávame so zemiakovou kašou.
 
 ## 6. Plnené rezne so sezamom
 *Čas: 65 minút 2 porcie po 235g (470g)*
@@ -603,13 +713,18 @@ necháme variť.
 * 50g mletých orechov
 * 50g pšeničných klíčkov
 * 30g 1 žĺtok - štipka korenia a soli
-<p>Rezne zboku narežeme, rozložíme a jemne naklepeme.
-<p>PLNKA: Najemno pomleté orechy, pšeničné klíčky, štipku korenia a soli zmiešame so žĺtkom na hladkú zmes. Na polovicu
-    každého rezňa dáme plnku, prekryjeme ju druhou polovicou a okraj zopneme špáradlom.
-<p>Naplnené rezne opražíme z oboch strán a na masle, posypeme zmesou korení, podlejeme vývarom a zakryté dusíme asi 10
-    minút.
-<p>Na suchej panvici za stáleho miešania opečieme sezamové zrnká a pred podávaním nimi
-<p>posypeme rezne. Podávame so zemiakovou kašou a zeleninovým šalátom.
+
+Rezne zboku narežeme, rozložíme a jemne naklepeme.
+
+PLNKA: Najemno pomleté orechy, pšeničné klíčky, štipku korenia a soli zmiešame so žĺtkom na hladkú zmes. Na polovicu
+každého rezňa dáme plnku, prekryjeme ju druhou polovicou a okraj zopneme špáradlom.
+
+Naplnené rezne opražíme z oboch strán a na masle, posypeme zmesou korení, podlejeme vývarom a zakryté dusíme asi 10
+minút.
+
+Na suchej panvici za stáleho miešania opečieme sezamové zrnká a pred podávaním nimi
+
+posypeme rezne. Podávame so zemiakovou kašou a zeleninovým šalátom.
 
 ## 7. Pliecko s kyslou kapustou a hríbmi
 *Čas: 90 minút, 5- 6 porcií po 300-250g (1500g)*
@@ -622,37 +737,44 @@ necháme variť.
 * 15g lyžička horčice
 * 100ml smotany, 15g – hladkej múky
 * 250g kyslej kapusty, 200g – čerstvých húb (dubáky, suchohríby, hlivy)
-<p>Mäso pokrájame na kúsky, slaninu na štvorčeky. Mrkvu, zeler a cibuľu očistíme a nadrobno pokrájame. V rajnici na
-    troške oleja opražíme slaninku, pridáme zeleninu a chvíľu ju opekáme. K zelenine pridáme mäso, osolíme ho a
-    okoreníme, ochutíme horčicou. Podlejeme trochou vody, zakryjeme a dáme do vyhriatej rúry. .Medzitým na troche oleja
-    udusíme kyslú kapustu s očistenými pokrájanými hubami. Upečené mäso vyberieme, do šťavy pridáme víno
-<p>a smotanu zmiešanú s hladkou múkou. Za stáleho miešania chvíľku varíme. Potom precedíme. Napokon dáme do šťavy mäso a
-    kapustu s hubami.
-<p>Podávame so žemľovou alebo zemiakovou krupicovou knedľou.
+
+Mäso pokrájame na kúsky, slaninu na štvorčeky. Mrkvu, zeler a cibuľu očistíme a nadrobno pokrájame. V rajnici na
+troške oleja opražíme slaninku, pridáme zeleninu a chvíľu ju opekáme. K zelenine pridáme mäso, osolíme ho a
+okoreníme, ochutíme horčicou. Podlejeme trochou vody, zakryjeme a dáme do vyhriatej rúry. Medzitým na troche oleja
+udusíme kyslú kapustu s očistenými pokrájanými hubami. Upečené mäso vyberieme, do šťavy pridáme víno
+a smotanu zmiešanú s hladkou múkou. Za stáleho miešania chvíľku varíme. Potom precedíme. Napokon dáme do šťavy mäso a
+kapustu s hubami.
+
+Podávame so žemľovou alebo zemiakovou krupicovou knedľou.
 
 ## 8. „Dvojičky“ z krkovičky
 *Čas: 80 minút (640g = 2 porcie po 320g alebo 1230g = 4 porcie po 310g)*
 
-<p>½ dávka - celá dávka
+
+½ dávka - celá dávka
 * 300g 600g – 2-4 rezne z bravčovej krkovičky - soľ
 * 100g 200g – 2 -4 plátky údenej krkovičky - grilovacie korenie
 * 80g 150g – väčšia cibuľa, 10g - 20g – cesnak podľa chuti
 * 20g 40g – slnečnicový olej
 * 130ml – 250ml smotany
 * 10g 20g – maizeny
-<p>Rezne natenko rozklepeme, mierne osolíme, posypeme grilovacím korením. Každý špáradlom - grilovacou ihlou spojíme s
-    plátkom údenej krkovičky. Cesnak a cibuľu očistíme, pokrájame na kolieska, petržlenovú vňať posekáme nadrobno. Pekáč
-    natrieme olejom, uložíme doň pripravené rezne posypeme ich vňaťou, cesnakom a kolieskami cibule. Polejeme trochou
-    vody a dáme piecť. Rezne občas podlejeme výpekom. Keď je mäso mäkké, vyberieme ho a do výpeku vlejeme smotanu, v
-    ktorej sme rozšľahali maizenu. Za stáleho miešania varíme kým šťava nezhustne. Rezne vložíme späť a necháme ešte
-    povrieť.
-<p>( Mikrovlnka - pečenie – funkcia CRISP = asi 15 minút, ušetríme čas).
-<p>Podávame s pečenými zemiakmi a zeleninovou oblohou.
+
+Rezne natenko rozklepeme, mierne osolíme, posypeme grilovacím korením. Každý špáradlom - grilovacou ihlou spojíme s
+plátkom údenej krkovičky. Cesnak a cibuľu očistíme, pokrájame na kolieska, petržlenovú vňať posekáme nadrobno. Pekáč
+natrieme olejom, uložíme doň pripravené rezne posypeme ich vňaťou, cesnakom a kolieskami cibule. Polejeme trochou
+vody a dáme piecť. Rezne občas podlejeme výpekom. Keď je mäso mäkké, vyberieme ho a do výpeku vlejeme smotanu, v
+ktorej sme rozšľahali maizenu. Za stáleho miešania varíme kým šťava nezhustne. Rezne vložíme späť a necháme ešte
+povrieť.
+
+ (Mikrovlnka - pečenie – funkcia CRISP = asi 15 minút, ušetríme čas).
+
+Podávame s pečenými zemiakmi a zeleninovou oblohou.
 
 ## 9. Kotlety s údeným mäsom
 *Čas: 75 minút, 2 porcie po 240g – 4 porcie po 230g*
 
-<p>½ dávka – celá dávka
+
+½ dávka – celá dávka
 * 250g 500g – 2 – 4 bravčové kotlety (nízke karé)
 * - soľ, 1- 2 – strúčiky cesnaku
 * - mletá rasca, 20g – hladká múka
@@ -660,21 +782,25 @@ necháme variť.
 * 40g 80g – rajčinového pretlaku alebo 2- 4 lyžice
 * 80g 150g – údeného mäsa
 * 50g 100g – šampiňónov
-<p>Mäso naklepeme, osolíme ho, posypeme rascou, natrieme prelisovaným cesnakom a zľahka obalíme v hladkej múke. Na
-    panvici rozohrejeme olej, kotlety z oboch strán prudko opražíme a vyberieme na teplý tanier. Do výpeku dáme na
-    pásiky pokrájané údené (nevarené) mäso,
-<p>plátky šampiňónov a rajčinový pretlak, prípadne cukor. Prilejeme v troche vody rozmiešanú múku, alebo nasucho v malom
-    množstve oleja opražíme múku, prilejeme studenú vodu a spravíme bešamel. Za stáleho miešania necháme prevrieť.
-<p>Do pripravenej zmesi vložíme kotlety a zakryté ich udusíme do mäkka. Ak treba šťavu dochutíme soľou, vegetou, štipkou
-    cukru a bazalkou.
-<p>Podávame s makarónmi alebo inými cestovinami, s paradajkami, paprikou a inou najemno strúhanou zeleninou (mrkva,
-    zeler, červená, biela, čínska kapusta).
+
+Mäso naklepeme, osolíme ho, posypeme rascou, natrieme prelisovaným cesnakom a zľahka obalíme v hladkej múke. Na
+panvici rozohrejeme olej, kotlety z oboch strán prudko opražíme a vyberieme na teplý tanier. Do výpeku dáme na
+pásiky pokrájané údené (nevarené) mäso,
+plátky šampiňónov a rajčinový pretlak, prípadne cukor. Prilejeme v troche vody rozmiešanú múku, alebo nasucho v malom
+množstve oleja opražíme múku, prilejeme studenú vodu a spravíme bešamel. Za stáleho miešania necháme prevrieť.
+
+Do pripravenej zmesi vložíme kotlety a zakryté ich udusíme do mäkka. Ak treba šťavu dochutíme soľou, vegetou, štipkou
+cukru a bazalkou.
+
+Podávame s makarónmi alebo inými cestovinami, s paradajkami, paprikou a inou najemno strúhanou zeleninou (mrkva,
+zeler, červená, biela, čínska kapusta).
 
 ## 10. Rebierka s medovou kukuricou
 *Čas: 90 minút*
 
 * 530g / 2120g - 2 a 8 porcií po 265g
-<p>¼ dávka – celá dávka
+
+¼ dávka – celá dávka
 * 240g 1000g – 2-8 bravčových rebierok
 * 20g 80g – oleja
 * 5g podľa chuti – mleté biele korenie
@@ -684,13 +810,17 @@ necháme variť.
 * 20g 80g – včelieho medu
 * 10g 20g – solamylu
 * 5g 15g – kôpor podľa chuti
-<p>Rebierka umyjeme osušíme, osolíme a okoreníme. V rajnici zohrejeme olej a mäso dôkladne pooprážame. Podlejeme ho
-    horúcim vývarom a dusíme (asi 1 hodinu ).
-<p>Kukuricu scedíme, premiešame ju s posekaným kôprom (podľa chuti) a vysypeme do rajnice s rozpusteným maslom, zľahka
-    ju opražíme.
-<p>Mäkké rebierka vyberieme do šťavy pridáme med, trochu kôpru a zahustíme ju solamylom
-<p>rozmiešaným v malom množstve vody a dochutíme.
-<p>Rebierka podávame uložené na kukurici a poliate omáčkou, vhodnou prílohou sú opekané zemiaky alebo pečivo.
+
+Rebierka umyjeme osušíme, osolíme a okoreníme. V rajnici zohrejeme olej a mäso dôkladne pooprážame. Podlejeme ho
+horúcim vývarom a dusíme (asi 1 hodinu).
+
+Kukuricu scedíme, premiešame ju s posekaným kôprom (podľa chuti) a vysypeme do rajnice s rozpusteným maslom, zľahka
+ju opražíme.
+
+Mäkké rebierka vyberieme do šťavy pridáme med, trochu kôpru a zahustíme ju solamylom
+rozmiešaným v malom množstve vody a dochutíme.
+
+Rebierka podávame uložené na kukurici a poliate omáčkou, vhodnou prílohou sú opekané zemiaky alebo pečivo.
 
 ## 11. Soté s mandľami (kapustou, pórom a hubami)
 *Čas: 70 minút*
@@ -705,22 +835,28 @@ necháme variť.
 * 500g malá hlávka kapusty
 * 150g pór, - soľ
 * 5g mletá pálivá paprika
-<p>Mäso pokrájame na pásiky, dáme do väčšej nádoby a „len“ mierne posolíme. Pokvapkáme ho olejom, sójovou omáčkou podľa
-    chuti a posypeme maizenou. Dôkladne premiešame.
-<p>Pečeň umyjeme, osušíme a pokrájame na malé kúsky.
-<p>Na panvici zohrejeme olej, dáme naň mäso, opražíme ho, pridáme pečeň a ešte chvíľu oprážame.
-<p>Očistenú kapustu pokrájame na rezančeky, pór a huby na tenké plátky a všetko pridáme k mäsu, Zľahka premiešame a
-    zakryté udusíme do mäkka.
-<p>Mandle sparíme vriacou vodou, necháme na site odkvapkať, ošúpeme, posekáme na drobno a pridáme do mäsovej zmesi.
-    Dochutíme ju sójovou omáčkou, mletou štipľavou paprikou, soľou a vegetou.
-<p>Podávame s dusenou ryžou, pripravenou na rôzne spôsoby
-<p>( napr. Kari ryža s hrozienkami, ... atď.)
+
+Mäso pokrájame na pásiky, dáme do väčšej nádoby a „len“ mierne posolíme. Pokvapkáme ho olejom, sójovou omáčkou podľa
+chuti a posypeme maizenou. Dôkladne premiešame.
+
+Pečeň umyjeme, osušíme a pokrájame na malé kúsky.
+
+Na panvici zohrejeme olej, dáme naň mäso, opražíme ho, pridáme pečeň a ešte chvíľu oprážame.
+
+Očistenú kapustu pokrájame na rezančeky, pór a huby na tenké plátky a všetko pridáme k mäsu, Zľahka premiešame a
+zakryté udusíme do mäkka.
+
+Mandle sparíme vriacou vodou, necháme na site odkvapkať, ošúpeme, posekáme na drobno a pridáme do mäsovej zmesi.
+Dochutíme ju sójovou omáčkou, mletou štipľavou paprikou, soľou a vegetou.
+
+Podávame s dusenou ryžou, pripravenou na rôzne spôsoby (napr. Kari ryža s hrozienkami, atď.)
 
 ## 12. KARÉ vyprážané s kokosom
 *Čas: 40 minút*
 
 * 400g 2 porcie po 200g a 8 porcií minimálne po 195g
-<p>¼ dávka – celá dávka
+
+¼ dávka – celá dávka
 * 240g 1000g – 2- 8 rezňov z nízkeho bravčového kare
 * 20g 80g – hladká múka, - soľ
 * 40g 200g - 1 a 4 vajcia
@@ -728,11 +864,14 @@ necháme variť.
 * 30g 120g – strúhaného kokosu
 * 30ml – 130ml piva (asi 5-6 lyžíc)
 * 60g 240g – tuk (olej, bravčová masť) na vyprážanie
-<p>Rezne naklepeme, posolíme. Vajíčka rozšľaháme s pivom (zvyšok vypijeme), strúhanku zmiešame s kokosom. Rezne obalíme
-    v múke, potom vo vajíčkach a napokon v kokosovej zmesi. V hlbšej panvici rozohrejeme tuk (olej alebo masť) a rezne
-    pomaly vypražíme.
-<p>Podávame so zemiakovou kašou, dusenou ryžou a zeleninovým šalátom.
-<p>Poznámka: Rovnako môžeme pripraviť aj kuracie alebo morčacie rezne.
+
+Rezne naklepeme, posolíme. Vajíčka rozšľaháme s pivom (zvyšok vypijeme), strúhanku zmiešame s kokosom. Rezne obalíme
+v múke, potom vo vajíčkach a napokon v kokosovej zmesi. V hlbšej panvici rozohrejeme tuk (olej alebo masť) a rezne
+pomaly vypražíme.
+
+Podávame so zemiakovou kašou, dusenou ryžou a zeleninovým šalátom.
+
+Poznámka: Rovnako môžeme pripraviť aj kuracie alebo morčacie rezne.
 
 ## 13. KARÉ s horčicou a karí
 *Čas: 55 minút, 1260g – 4 porcie po 315g*
@@ -745,12 +884,15 @@ necháme variť.
 * 240g 4 domáce čerstvé vajcia na volské oko
 * 250g mrazenej zeleninovej zmesi
 * 150g malá konzerva šampiňónov
-<p>Rezne naklepeme a osolíme. Na jednej strene ich poprášime korením karí a natrieme horčicou. Na panvici rozohrejeme
-    olej, rezne z oboch strán opražíme, prikryjeme a na miernom ohni dusíme. Keď je mäso mäkké, vyberieme ho na teplý
-    tanier.
-<p>Do výpeku opatrne rozbijeme vajíčka a zakryté ich necháme stuhnúť na volské oká.
-<p>Zeleninovú zmes udusíme na troche oleja (masla ), pridáme scedené šampiňóny a podľa chuti vegetu. Mäso podávame s
-    volským okom a dusenou zeleninou, vhodnou prílohou sú varené zemiaky.
+
+Rezne naklepeme a osolíme. Na jednej strene ich poprášime korením karí a natrieme horčicou. Na panvici rozohrejeme
+olej, rezne z oboch strán opražíme, prikryjeme a na miernom ohni dusíme. Keď je mäso mäkké, vyberieme ho na teplý
+tanier.
+
+Do výpeku opatrne rozbijeme vajíčka a zakryté ich necháme stuhnúť na volské oká.
+
+Zeleninovú zmes udusíme na troche oleja (masla), pridáme scedené šampiňóny a podľa chuti vegetu. Mäso podávame s
+volským okom a dusenou zeleninou, vhodnou prílohou sú varené zemiaky.
 
 ## 14. Pikantná pochúťka
 *Čas: 85 minút 6 porcií po 200g*
@@ -764,13 +906,16 @@ necháme variť.
 * 80g pór (až 100g)
 * 100g vlašských orechov
 * 100g údenej prerastanej slaniny
-<p>Mäso (stehno, pliecko pokrájame na rezančeky, osolíme ho a poprášime čiernym a čili korením. Vajce rozšľaháme,
-    pridáme víno, koňak a práškový cukor a zmes vylejeme na mäso. Odložíme ho do chladničky (aspoň na 1 hodinu ).
-<p>Slaninu pokrájame na malé kocky a spolu s orechmi (polovicu jadier) opražíme.
-<p>Orechy vyberieme. Vo výpeku opečieme pripravené mäso, pridáme očistený na koilieská pokrájaný pór a zakryté dusíme.
-    Keď je mäso mäkké, pridáme zvyšok marinády, opražené
-<p>orechy, premiešame a ešte chvíľu prehrievame.
-<p>Podávame s ryžou a zeleninovým šalátom.
+
+Mäso (stehno, pliecko pokrájame na rezančeky, osolíme ho a poprášime čiernym a čili korením. Vajce rozšľaháme,
+pridáme víno, koňak a práškový cukor a zmes vylejeme na mäso. Odložíme ho do chladničky (aspoň na 1 hodinu).
+
+Slaninu pokrájame na malé kocky a spolu s orechmi (polovicu jadier) opražíme.
+
+Orechy vyberieme. Vo výpeku opečieme pripravené mäso, pridáme očistený na koilieská pokrájaný pór a zakryté dusíme.
+Keď je mäso mäkké, pridáme zvyšok marinády, opražené orechy, premiešame a ešte chvíľu prehrievame.
+
+Podávame s ryžou a zeleninovým šalátom.
 
 ## 15. Rezne s jablkami
 *Čas: 65 minút, 620g – 3 porcie po 205g*
@@ -781,13 +926,18 @@ necháme variť.
 * 25g masla
 * 25g medu (2 menšie lyžice)
 * 40g mandlí
-<p>Mäso umyjeme, osušíme a pokrájame na rezne. Mierne ich naklepeme, osolíme, obalíme v hladkej múke a na masle s oboch
-    strán pomaly opražíme, potom ich uložíme na pekáč.
-<p>Jablká ošúpeme, pokrájame na kolieska a na troške masla zakryté chvíľu podusíme.
-<p>Mandle dáme nakrátko do vriacej vody, zalejeme ich, ošúpeme a keď trochu vychladnú, posekáme ich.
-<p>Na každý rezeň dáme jablká, natrieme ich medom a posypeme mandľami. Môžeme ich poliať výpekom. Pekáč dáme do dobre
-    vyhriatej rúry asi na 15 minút (môžeme použiť mikrovlnku –pečenie -funkcia – CRISP – 5 - 7 minút ).
-<p>Podávame s dusenou ryžou.
+
+Mäso umyjeme, osušíme a pokrájame na rezne. Mierne ich naklepeme, osolíme, obalíme v hladkej múke a na masle s oboch
+strán pomaly opražíme, potom ich uložíme na pekáč.
+
+Jablká ošúpeme, pokrájame na kolieska a na troške masla zakryté chvíľu podusíme.
+
+Mandle dáme nakrátko do vriacej vody, zalejeme ich, ošúpeme a keď trochu vychladnú, posekáme ich.
+
+Na každý rezeň dáme jablká, natrieme ich medom a posypeme mandľami. Môžeme ich poliať výpekom. Pekáč dáme do dobre
+vyhriatej rúry asi na 15 minút (môžeme použiť mikrovlnku –pečenie -funkcia – CRISP – 5 - 7 minút).
+
+Podávame s dusenou ryžou.
 
 ## 16. Kotlety so syrovou omáčkou
 *Čas: 50 minút, 530g – 2 porcie po 265g*
@@ -802,16 +952,20 @@ necháme variť.
 * 60g syra NIVA, 10g – maizeny,
 * 130ml mlieka, 15g – masla,
 * - mleté biele korenie, - soľ
-<p>Kotlety mierne naklepeme, osolíme, z boku urobíme zárez, aby vznikla „kapsa“.
-<p>Pór očistíme, chvíľku povaríme v mierne osolenej vode a rozdelíme na 2 časti. Každú zabalíme do slaniny a vložíme do
-    „kapsy“. Otvory uzavrieme špáradlami, mäso poprášime čiernym korením a obalíme v múke. Na rozohriatom oleji mäso z
-    oboch strán prudko opražíme a potom pomaly opekáme do mäkka. Hotové vyberieme na teplý tanier.
+
+Kotlety mierne naklepeme, osolíme, z boku urobíme zárez, aby vznikla „kapsa“.
+
+Pór očistíme, chvíľku povaríme v mierne osolenej vode a rozdelíme na 2 časti. Každú zabalíme do slaniny a vložíme do
+„kapsy“. Otvory uzavrieme špáradlami, mäso poprášime čiernym korením a obalíme v múke. Na rozohriatom oleji mäso z
+oboch strán prudko opražíme a potom pomaly opekáme do mäkka. Hotové vyberieme na teplý tanier.
 
 **Omáčka:**
-<p>Mlieko dáme zovrieť, pridáme syr Niva a miešame, kým sa nerozpustí. Maizenu rozmiešame v troške vody a vlejeme do
-    omáčky (už neprevárame! ). Ochutíme ju a nakoniec pridáme maslo. Pred podávaním omáčkou polejeme kotletu, prizdobíme
-    pórom a mrkvou.
-<p>Podávame so zemiakmi.
+
+Mlieko dáme zovrieť, pridáme syr Niva a miešame, kým sa nerozpustí. Maizenu rozmiešame v troške vody a vlejeme do
+omáčky (už neprevárame!). Ochutíme ju a nakoniec pridáme maslo. Pred podávaním omáčkou polejeme kotletu, prizdobíme
+pórom a mrkvou.
+
+Podávame so zemiakmi.
 
 ## 17. Závitky s hubovou omáčkou
 *ČAS - 80 minút, 1020g - 6 porcií po 170g*
@@ -827,42 +981,51 @@ necháme variť.
 * 50g 1 kapia
 
 **Omáčka:**
-* 200g čerstvých húb (2dl ), 80g – 1 cibuľa
+* 200g čerstvých húb (2dl), 80g – 1 cibuľa
 * 15g hladká múka, 15g – plnotučná horčica,
 * 10g petržlenová vňať, - voda: podľa potreby
-<p>Mäso odblaníme, umyjeme, osušíme, pokrájame ho na hrubšie plátky, narežeme okraje a rezne natenko vyklepeme. Osolíme
-    ich okoreníme a natrieme kečupom.
-<p>Na troške oleja urobíme z vajec praženicu, pridáme nadrobno pokrájaný pór a kapiu, zmes osolíme a natrieme na
-    pripravené rezne. Na každý položíme kúsok párku, zvinieme a obviažeme niťou. Závitky opražíme na oleji, podlejeme a
-    udusíme do polo mäkka.
-<p>Omáčka: Očistené huby a cibuľu pokrájame, pridáme k mäsu, podľa potreby podlejeme vodou a všetko udusíme do mäkka.
-    Mäso vyberieme, šťavu zahustíme múkou rozmiešanou v v troške vody, pridáme horčicu a krátko povaríme.
-<p>Mäso podávame poliate omáčkou s cestovinou, dusenou ryžou alebo zemiakovou kašou.
+
+Mäso odblaníme, umyjeme, osušíme, pokrájame ho na hrubšie plátky, narežeme okraje a rezne natenko vyklepeme. Osolíme
+ich okoreníme a natrieme kečupom.
+
+Na troške oleja urobíme z vajec praženicu, pridáme nadrobno pokrájaný pór a kapiu, zmes osolíme a natrieme na
+pripravené rezne. Na každý položíme kúsok párku, zvinieme a obviažeme niťou. Závitky opražíme na oleji, podlejeme a
+udusíme do polo mäkka.
+
+Omáčka: Očistené huby a cibuľu pokrájame, pridáme k mäsu, podľa potreby podlejeme vodou a všetko udusíme do mäkka.
+Mäso vyberieme, šťavu zahustíme múkou rozmiešanou v v troške vody, pridáme horčicu a krátko povaríme.
+
+Mäso podávame poliate omáčkou s cestovinou, dusenou ryžou alebo zemiakovou kašou.
 
 ## 18. Znojemská roštenka
-<p>alebo Hovädzie s uhorkami
+
+alebo Hovädzie s uhorkami
 *Čas: 75 minút*
 
 * 630g 2 porcie po 315g, 1250g – 4 porcie po 320g
-<p>½ dávka – celá dávka
+
+½ dávka – celá dávka
 * 300g 600g – hovädzej roštenky alebo hovädzieho zadného
 * 80g 150g – cibule, 10g – cesnak podľa chuti
-<p>8 g – 15g – cukru
-<p>8 g – 20g – ocot, citrón
-<p>8 g – 15g – horčica
-<p>8 g – 15g – hladká múka
+* 8 g – 15g – cukru
+* 8 g – 20g – ocot, citrón
+* 8 g – 15g – horčica
+* 8 g – 15g – hladká múka
 * 80g 150g – kyslé uhorky
 * 15g 30g – slnečnicový olej
 * 5g soľ, - mleté čierne korenie,
 * - mäsový vývar (voda) podľa potreby
-<p>Mäso pokrájame na rezne (roštenky ), naklepeme ich, osolíme, okoreníme a natrieme ich prelisovaným cesnakom. V
-    rajnici na oleji popražíme nadrobno posekanú cibuľku, pridáme cukor, mierne ho skaramelizujeme a zalejeme octom s
-    citrónom. Pripravené mäso uložíme do rajnice na cibuľu, zakryjeme a pomaly dusíme do polo mäkka. Občas rezne
-    roštenky otočíme ak treba podlejeme vývarom (teplou vodou).
-<p>Mäso vyberieme šťavu necháme odpariť. Do výpeku pridáme hladkú múku, popražíme ju, podlejeme a rozmiešame. Uhorky
-    pokrájame na malé kolieska, väčšie na štvorčeky, pridáme ich k mäsu, šťavu dochutíme horčicou a dusíme kým mäso
-    nezmäkne.
-<p>Podávame s dusenou ryžou alebo zemiakmi prípadne žemľovou knedľou.
+
+Mäso pokrájame na rezne (roštenky), naklepeme ich, osolíme, okoreníme a natrieme ich prelisovaným cesnakom. V
+rajnici na oleji popražíme nadrobno posekanú cibuľku, pridáme cukor, mierne ho skaramelizujeme a zalejeme octom s
+citrónom. Pripravené mäso uložíme do rajnice na cibuľu, zakryjeme a pomaly dusíme do polo mäkka. Občas rezne
+roštenky otočíme ak treba podlejeme vývarom (teplou vodou).
+
+Mäso vyberieme šťavu necháme odpariť. Do výpeku pridáme hladkú múku, popražíme ju, podlejeme a rozmiešame. Uhorky
+pokrájame na malé kolieska, väčšie na štvorčeky, pridáme ich k mäsu, šťavu dochutíme horčicou a dusíme kým mäso
+nezmäkne.
+
+Podávame s dusenou ryžou alebo zemiakmi prípadne žemľovou knedľou.
 
 ## 19. Kapustové rizoto
 *Čas: 75 minút*
@@ -878,15 +1041,19 @@ necháme variť.
 * - drtená rasca ,
 * - mleté čierne korenie,
 * - mletá červená paprika
-<p>Mäso odblaníme, umyjeme, osušíme, pokrájame na pásiky. V rajnici na oleji (masti) opražíme nadrobno pokrájanú
-    cibuľu, pridáme mäso, opražíme ho, osolíme, okoreníme, poprášime paprikou a drtenou rascou a zakryté dusíme takmer
-    do mäkka.
-<p>Cesnak očistíme, prelisujeme s pridáme k mäsu. Kapustu pokrájame na rezančeky, navrstvíme ju na mäso a dusíme, kým
-    nie je mäkká. Ak treba občas podlejeme horúcou vodou. Na koniec všetko spolu premiešame. Prebratú ryžu dáme do sita,
-    umyjeme ju a necháme odkvapkať.
-<p>V rajnici zohrejeme lyžicu oleja, ryžu opražíme, zalejeme horúcou vodou (1 cm nad ryžu) a prikrytú ju dusíme na
-    miernom ohni.
-<p>Hotovú ryžu rozdelíme naberačkou na taniere a na ňu dáme mäso s kapustou.
+
+Mäso odblaníme, umyjeme, osušíme, pokrájame na pásiky. V rajnici na oleji (masti) opražíme nadrobno pokrájanú
+cibuľu, pridáme mäso, opražíme ho, osolíme, okoreníme, poprášime paprikou a drtenou rascou a zakryté dusíme takmer
+do mäkka.
+
+Cesnak očistíme, prelisujeme s pridáme k mäsu. Kapustu pokrájame na rezančeky, navrstvíme ju na mäso a dusíme, kým
+nie je mäkká. Ak treba občas podlejeme horúcou vodou. Na koniec všetko spolu premiešame. Prebratú ryžu dáme do sita,
+umyjeme ju a necháme odkvapkať.
+
+V rajnici zohrejeme lyžicu oleja, ryžu opražíme, zalejeme horúcou vodou (1 cm nad ryžu) a prikrytú ju dusíme na
+miernom ohni.
+
+Hotovú ryžu rozdelíme naberačkou na taniere a na ňu dáme mäso s kapustou.
 
 ## 20. Roštenka v ďumbierovej omáčke
 *Čas: 60 minút, 1703 g – 5 porcií po 340g*
@@ -896,19 +1063,23 @@ necháme variť.
 * 60g oleja
 * 40g 4 strúčky cesnaku
 * 30g 2 lyžičky mletého ďumbiera
-<p>7 g – ½ lyžičky čili korenia
+* 7 g – ½ lyžičky čili korenia
 * 300g 5 rajčín
 * 220g 3 póry
 * 200g mäsového vývaru (bujónu)
 * 100g hlávkový šalát
-<p>Mäso pokrájame na kocky alebo hrubšie pásiky, zľahka ich naklepeme, posolíme a dáme do misy. Cibule očistíme a
-    postrúhame (na plastovom strúhadle ), cesnak prelisujeme a oboje spolu s koreninami (mletým ďumbierom a čili)
-    pridáme k mäsu.
-<p>Premiešame a necháme 3 - 4 hodiny odležať.
-<p>Rajčiny obaríme a ošúpeme, očistený pór posekáme nadrobno. Odležané mäso prudko opražíme na rozohriatom oleji,
-    pridáme pór i rajčiny, podlejeme vývarom a zakryté udusíme do mäkka.
-<p>Šalát rozoberieme na listy, dobre umyjeme, pokrájame na tenké pásiky a posypeme ním hotové mäso. Vhodnou prílohou sú
-    široké rezance, makaróny alebo dusená ryža.
+
+Mäso pokrájame na kocky alebo hrubšie pásiky, zľahka ich naklepeme, posolíme a dáme do misy. Cibule očistíme a
+postrúhame (na plastovom strúhadle), cesnak prelisujeme a oboje spolu s koreninami (mletým ďumbierom a čili)
+pridáme k mäsu.
+
+Premiešame a necháme 3 - 4 hodiny odležať.
+
+Rajčiny obaríme a ošúpeme, očistený pór posekáme nadrobno. Odležané mäso prudko opražíme na rozohriatom oleji,
+pridáme pór i rajčiny, podlejeme vývarom a zakryté udusíme do mäkka.
+
+Šalát rozoberieme na listy, dobre umyjeme, pokrájame na tenké pásiky a posypeme ním hotové mäso. Vhodnou prílohou sú
+široké rezance, makaróny alebo dusená ryža.
 
 ## 21. Taškentská roštenka
 *Čas: 65 minút, 1000g – 4 porcie po 250g*
@@ -921,13 +1092,18 @@ necháme variť.
 * 100ml smotany
 * 50g maslo - 3 lyžice
 * 20g olej
-<p>Mäso si pripravíme aspoň deň vopred – pokrájame ho na č rezne, naklepeme, posypeme vegetou a karí, dáme do misy a
-    polejeme rozpusteným maslom.
-<p>Dáme do chladu na noc odležať .
-<p>Na panvici zohrejeme olej, mäso z oboch strán prudko opražíme, podlejeme teplou vodou, pridáme najemno postrúhaný
-    suchý chlieb a mäso udusíme do mäkka.
-<p>Potom ho osolíme, šťavu dochutíme horčicou a zalejeme smotanou.
-<p>Ešte chvíľu povaríme a odstavíme. Podávame s knedľami alebo cestovinami.
+
+Mäso si pripravíme aspoň deň vopred – pokrájame ho na č rezne, naklepeme, posypeme vegetou a karí, dáme do misy a
+polejeme rozpusteným maslom.
+
+Dáme do chladu na noc odležať.
+
+Na panvici zohrejeme olej, mäso z oboch strán prudko opražíme, podlejeme teplou vodou, pridáme najemno postrúhaný
+suchý chlieb a mäso udusíme do mäkka.
+
+Potom ho osolíme, šťavu dochutíme horčicou a zalejeme smotanou.
+
+Ešte chvíľu povaríme a odstavíme. Podávame s knedľami alebo cestovinami.
 
 ## 22. Rezne zo stehna s lečom
 *Čas: 60 minút 1120g – 5 porcií po 225g*
@@ -937,11 +1113,13 @@ necháme variť.
 * 100g 2 vajcia
 * 30g strúhanka
 * 40g slnečnicový olej
-<p>Mäso pokrájame na rezne, okraje narežeme. Každý rezeň naklepeme, osolíme, okoreníme, obalíme v jemnej strúhanke a
-    znova poklepeme.
-<p>Do olejom natretého pekáča dáme na dno časť leča. Pripravené rezne postupne namáčame v rozšľahaných vajíčkach, prudko
-    z oboch strán opražíme na rozohriatom oleji a uložíme do pekáča. Na rezne dáme zvyšok leča, ak treba podlejeme ich
-    troškou vody a zakryté udusíme v rúre do mäkka. Podávame s cestovinami alebo zemiakmi.
+
+Mäso pokrájame na rezne, okraje narežeme. Každý rezeň naklepeme, osolíme, okoreníme, obalíme v jemnej strúhanke a
+znova poklepeme.
+
+Do olejom natretého pekáča dáme na dno časť leča. Pripravené rezne postupne namáčame v rozšľahaných vajíčkach, prudko
+z oboch strán opražíme na rozohriatom oleji a uložíme do pekáča. Na rezne dáme zvyšok leča, ak treba podlejeme ich
+troškou vody a zakryté udusíme v rúre do mäkka. Podávame s cestovinami alebo zemiakmi.
 
 ## 23. Grécka roštenka na víne
 *Čas: 65 minút 1680g - 6 porcií po 280g*
@@ -958,15 +1136,20 @@ necháme variť.
 * 100g ananás
 * 10g soľ
 * - mleté čierne (biele) korenie
-<p>Mäso umyjeme, osušíme a pokrájame na rezne, okraje narežeme. Rezne naklepeme, posolíme, okoreníme a na oleji z oboch
-    strán prudko opražíme. Vyberieme ich na horúci tanier a udržiavame v teple. Vo výpeku speníme nadrobno pokrájanú
-    cibuľu, pridáme kečup a pretlak.
-<p>Na zmes poukladáme mäso, pridáme očistené, na kúsky pokrájané huby, prelisovaný cesnak. Podlejeme horúcou vodou,
-    zakryjeme a udusíme.
-<p>Mäkké mäso vyberieme, do šťavy vlejeme v troške vody rozmiešanú múku (alebo nasucho jemne opraženú múku ), prilejeme
-    červené víno, pridáme nadrobno posekaný ananás.
-<p>Chvíľu podusíme a nakoniec do šťavy vložíme mäso.
-<p>Podávame s cestovinami alebo jemnou žemľovou domácou (karlovarskou) knedľou.
+
+Mäso umyjeme, osušíme a pokrájame na rezne, okraje narežeme. Rezne naklepeme, posolíme, okoreníme a na oleji z oboch
+strán prudko opražíme. Vyberieme ich na horúci tanier a udržiavame v teple. Vo výpeku speníme nadrobno pokrájanú
+cibuľu, pridáme kečup a pretlak.
+
+Na zmes poukladáme mäso, pridáme očistené, na kúsky pokrájané huby, prelisovaný cesnak. Podlejeme horúcou vodou,
+zakryjeme a udusíme.
+
+Mäkké mäso vyberieme, do šťavy vlejeme v troške vody rozmiešanú múku (alebo nasucho jemne opraženú múku), prilejeme
+červené víno, pridáme nadrobno posekaný ananás.
+
+Chvíľu podusíme a nakoniec do šťavy vložíme mäso.
+
+Podávame s cestovinami alebo jemnou žemľovou domácou (karlovarskou) knedľou.
 
 ## 24. Teľacie medailóniky
 *Čas: 30 minút, 1060g – 4 porcie po 265g*
@@ -979,19 +1162,24 @@ necháme variť.
 * 30g hrsť húb
 * 40g maslo - 2 lyžice
 * 300ml madeiry alebo vermútu, prípadne tokajského vína
-<p>3 g – mleté čierne korenie
-<p>Mäso umyjeme, osušíme, pokrájame na hrubšie medailóniky a zľahka naklepeme.
-<p>Na rozohriatom oleji mäso z oboch strán oprážame asi 10 minút. Vyberieme ho na teplý tanier a osolíme.
-<p>Maslo roztopíme a opražíme na ňom nadrobno pokrájanú cibuľu, posekané mandle a vopred namočené pokrájané huby. Zmes
-    zalejeme madeirou (vermútom, tokajským) a necháme 15 minút pomaly vrieť. Potom omáčku dochutíme soľou a
-    korením.
-<p>Mäso rozdelíme na tanier a zalejeme horúcou omáčkou, vhodnou prílohou sú zemiakové hranolčeky a šalát s čerstvej
-    zeleniny.
+* 3g – mleté čierne korenie
+
+Mäso umyjeme, osušíme, pokrájame na hrubšie medailóniky a zľahka naklepeme.
+
+Na rozohriatom oleji mäso z oboch strán oprážame asi 10 minút. Vyberieme ho na teplý tanier a osolíme.
+
+Maslo roztopíme a opražíme na ňom nadrobno pokrájanú cibuľu, posekané mandle a vopred namočené pokrájané huby. Zmes
+zalejeme madeirou (vermútom, tokajským) a necháme 15 minút pomaly vrieť. Potom omáčku dochutíme soľou a
+korením.
+
+Mäso rozdelíme na tanier a zalejeme horúcou omáčkou, vhodnou prílohou sú zemiakové hranolčeky a šalát s čerstvej
+zeleniny.
 
 ## 25. Teľacie kare so syrovou kôrkou
 *Čas: 140 minút (min. 2 hodiny)*
 
-<p>½ dávka - 1150g - 4 porcie po 285g
+
+½ dávka - 1150g - 4 porcie po 285g
 * 750g teľacieho kare
 * 20g oleja
 * 50g mrkva
@@ -1003,15 +1191,21 @@ necháme variť.
 * 60g postrúhaného tvrdého syra
 * 5g soľ
 * 5g mleté čierne korenie
-<p>Mäso odblaníme, umyjeme, osušíme, uložíme na pomastený pekáč a natrieme olejom.
-<p>Mrkvu a cibuľu očistíme, pokrájame, dáme do rajničky zalejeme vývarom a asi 5 minút necháme vrieť a zmes vlejeme do
-    pekáča k mäsu.
-<p>Pekáč dáme do dobre vyhriatej rúry a počas pečenia mäso viackrát podlejeme.
-<p>Pečieme asi pol druha hodiny, potom mäso osolíme a okoreníme.
-<p>Zmäknuté maslo dobre rozmiešame so strúhankou, s kečupom a s postrúhaným syrom a zmes natrieme na mäso. Pečieme ešte
-    20 – 25 minút, potom mäso vyberieme, oddelíme od kosti a pokrájame na plátky. Výpek precedíme, ochutíme a nalejeme
-    na mäso.
-<p>Podávame so zemiakmi, dusenou ryžou a so zeleninou.
+
+Mäso odblaníme, umyjeme, osušíme, uložíme na pomastený pekáč a natrieme olejom.
+
+Mrkvu a cibuľu očistíme, pokrájame, dáme do rajničky zalejeme vývarom a asi 5 minút necháme vrieť a zmes vlejeme do
+pekáča k mäsu.
+
+Pekáč dáme do dobre vyhriatej rúry a počas pečenia mäso viackrát podlejeme.
+
+Pečieme asi pol druha hodiny, potom mäso osolíme a okoreníme.
+
+Zmäknuté maslo dobre rozmiešame so strúhankou, s kečupom a s postrúhaným syrom a zmes natrieme na mäso. Pečieme ešte
+20 – 25 minút, potom mäso vyberieme, oddelíme od kosti a pokrájame na plátky. Výpek precedíme, ochutíme a nalejeme
+na mäso.
+
+Podávame so zemiakmi, dusenou ryžou a so zeleninou.
 
 ## 26. Teľacie na zeleri
 *Čas: 70 minút, 780g – 4 porcie po 195g*
@@ -1022,11 +1216,13 @@ necháme variť.
 * 20g bravčová masť – lyžica
 * 100g cibuľa
 * 150g zeler
-<p>Cibuľu ošúpeme, nadrobno pokrájame a v rajnici opražíme na masti. Pridáme na kocky nakrájané mäso, prudko ho
-    opražíme, osolíme, okoreníme, podlejeme horúcou vodou a zakryté dusíme, občas premiešame.
-<p>Zeler očistíme a najemno postrúhame a pridáme k mäsu. Zmes premiešame a zakrytú udusíme do mäkka. Ak, treba
-    podlievame horúcou vodou. Vhodnou prílohou je dusená ryža a šalát z čínskej kapusty s cibuľkou alebo inej čerstvej
-    zeleniny.
+
+Cibuľu ošúpeme, nadrobno pokrájame a v rajnici opražíme na masti. Pridáme na kocky nakrájané mäso, prudko ho
+opražíme, osolíme, okoreníme, podlejeme horúcou vodou a zakryté dusíme, občas premiešame.
+
+Zeler očistíme a najemno postrúhame a pridáme k mäsu. Zmes premiešame a zakrytú udusíme do mäkka. Ak, treba
+podlievame horúcou vodou. Vhodnou prílohou je dusená ryža a šalát z čínskej kapusty s cibuľkou alebo inej čerstvej
+zeleniny.
 
 ## 27. Mäso na bylinkách
 *Čas: 100 minút, 1405g – 6 porcií po 235g*
@@ -1042,13 +1238,14 @@ necháme variť.
 
 **Po lyžičke byliniek:**
 * 15g tymianu, 15g – materinej dúšky, 15g – petržlenovej vňate
-<p>Mäso umyjeme, osušíme, pokrájame na kocky, na oleji ho prudko opražíme a odložíme z ohňa. V rajnici na troške oleja
-    opražíme nadrobno pokrájanú cibuľu, pridáme prelisovaný cesnak a mleté čierne korenie.
+
+Mäso umyjeme, osušíme, pokrájame na kocky, na oleji ho prudko opražíme a odložíme z ohňa. V rajnici na troške oleja
+opražíme nadrobno pokrájanú cibuľu, pridáme prelisovaný cesnak a mleté čierne korenie.
 <p>Polovicu mäsa rozložíme na dno pekáča, osolíme, posypeme bylinkami a pridáme kúsky bobkových listov. Navrstvíme
-    zvyšné mäso, posypeme bylinkami a zalejeme ho zmesou vývaru a piva tak, aby bolo zakryté. Cukor skaramelizujeme,
-    rozpustíme ho v troške vody
+zvyšné mäso, posypeme bylinkami a zalejeme ho zmesou vývaru a piva tak, aby bolo zakryté. Cukor skaramelizujeme,
+rozpustíme ho v troške vody
 <p>a pridáme k mäsu. Zakryté mäso dáme do horúcej rúry a udusíme do mäkka. Šťavu zlejeme do rajničky, pridáme k nej
-    maizenu rozmiešanú v troške vody a chvíľku povaríme.
+maizenu rozmiešanú v troške vody a chvíľku povaríme.
 <p>Mäso podávame poliate šťavou- posypané bylinkami so zemiakmi alebo dusenou ryžou.
 
 ## 28. Karé plnené bryndzou a olivami (a pórom)
@@ -1060,9 +1257,9 @@ necháme variť.
 * 30g olivový (slnečnicový) olej
 * 10g soľ, biele mleté korenie, vegeta, pažítka
 <p>Vy kostené hrubšie rezne z karé naklepeme osolíme, okoreníme, lyžičkou naplníme bryndzou, navrch dáne 4 -5 olív (
-    alebo hrubšie kolieska póru) preložíme na tašku a okraje sklepeme, aby sa spojili a držali plnku. Vypražíme posypané
-    troškou vegety, rozkrojíme a doplníme lyžičkou zvyšnú čerstvú bryndzu, posypeme pažítkou.
-<p>Podávame so zemiekmi varenými v šupke a zapekanými s bylinkami, blanžírovanou zeleninou a čiernym chlebom.
+alebo hrubšie kolieska póru) preložíme na tašku a okraje sklepeme, aby sa spojili a držali plnku. Vypražíme posypané
+troškou vegety, rozkrojíme a doplníme lyžičkou zvyšnú čerstvú bryndzu, posypeme pažítkou.
+<p>Podávame so zemiekmi varenými v šupke a zapekanými s bylinkami, blanšírovanou zeleninou a čiernym chlebom.
 
 ## 29. Fazuľa na cibuli a hubách s párkoum a údeninou podľa Fera,
 *Čas: 30 minút*
@@ -1084,16 +1281,16 @@ necháme variť.
 <p>sójová a worcestrová omáčka podľa chuti
 * 200ml voda na podliatie podľa potreby
 <p>Uvaríme si domácu fazuľu, alebo použijeme konzervu fazule, cibuľu nakrájame najemno, huby predom namočíme a párky
-    pokrájame na kolieska, údené mäso na rezančeky.
-<p>Cibuľu vo voku (hlbšej panvici) orestujeme do sklovita, súčastne na ½ orestujeme rajčinový pretlak na cukri, potom
-    pridáme pokrájané párky a údené mäso, orestujeme - podusíme, pridáme kečup, huby, koreniny a zaprášime múkou,
-    dochutíme podľa potreby, podlejeme studenou vodou a ešte podusíme.
+pokrájame na kolieska, údené mäso na rezančeky.
+<p>Cibuľu vo woku (hlbšej panvici) orestujeme do sklovita, súčastne na ½ orestujeme rajčinový pretlak na cukri, potom
+pridáme pokrájané párky a údené mäso, orestujeme - podusíme, pridáme kečup, huby, koreniny a zaprášime múkou,
+dochutíme podľa potreby, podlejeme studenou vodou a ešte podusíme.
 <p>Podávame s dusenou ryžou s klinčekmi, uhorkou, prípadne čiernym chlebom.
 
 ## Chlieb (domáce knedle) vo vajci s párkami (klobásou) na domácom leči s kečupom
 *Čas: 20 minút, 1280g – 4 porcie asi po 320g*
 
-* 400g 4 celé krajce staršieho chleba (12 plátkov žemlových knedlí)
+* 400g 4 celé krajce staršieho chleba (12 plátkov žemľových knedlí)
 * 120g 2 domáce vajcia
 * 100ml mlieko
 * 150g párkov
@@ -1108,6 +1305,6 @@ necháme variť.
 <p>Usmažíme starší chlieb (plátky kndle) vo vyšľahaných vajíčkach s mliekom, osolíme,
 <p>trocha okoreníme.
 <p>Párky a domácu klobásu pokrájame na tenšie kolieska, orestujeme na posekanej cibuli s kečupom, ochutíme, okoreníme,
-    pridáme domáce lečo a chvíľu podusíme.
+pridáme domáce lečo a chvíľu podusíme.
 <p>Dáme na chlieb vo vajci, alebo plátky knedlí vo vajci, prízdobíme pažítkou alebo
 <p>petržlenovou vňaťou s bazalkou.

@@ -60,24 +60,6 @@ function createTOC() {
 	return y;
 }
 
-function createFooter(){
-  // renders a footer with copyright, link to hoepage and credits
-	let f = el('footer');
-	let p = f.appendChild(el('p'));
-	p.innerText = "© Copyright 2002-2022. Všetky práva vyhradené | ";
-	var a = p.appendChild(el('a'));
-	a.href = '.';
-	a.innerText = 'Normy jedál'
-
-	var span = p.appendChild(el('span'));
-	span.innerText = ' | '
-
-	var a2 = p.appendChild(el('a'));
-	a2.href = 'https://unilexicon.com/fm/';
-	a2.innerText = 'FM'
-	return f;
-}
-
 var TOCstate = 'none';
 
 function showhideTOC() {
@@ -124,14 +106,11 @@ function loadPics(){
 
 window.onload = function () {
     var ToC = createTOC();
-    var header = document.querySelector('body>a');
+    var header = document.querySelector('header');
     if(header){
     	header.parentNode.insertBefore(ToC, header.nextSibling);
     }
     loadPics();
-    var footer = createFooter();
-    var body = document.getElementsByTagName('body')[0];
-    body.appendChild(footer);
 	if(window.location.hash){
     	var my_hash = window.location.hash;
 		location.hash = '#dummy';

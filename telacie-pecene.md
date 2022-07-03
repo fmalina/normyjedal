@@ -155,7 +155,7 @@ v inej nádobe podusíme na cibuli stonky zeleru. Vložíme ochutené mäso, pod
 Citrónovú kôru pokrájanú na rezančeky 2 minúty varíme vo vode. V tejto vode povaríme asi 15 minút očistené
 šampióny, šťavu zredukujeme na polovicu. Príloha: zemiakové kroketky, ryža s kukuricou
 
-## Teľacie rezne so šunkou a hráškom - minútka
+## Teľacie rezne so šunkou a hráškom – minútka
 
 * 120g teľacieho stehna
 * 15g masť, olej

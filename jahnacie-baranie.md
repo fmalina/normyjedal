@@ -79,8 +79,8 @@ Mäso marinujeme 1 hodinu. Nakoniec ohrievame 1 min pri 650 W.
 * 50g olivový /slnečnicový/ olej
 * soli, ocot, cukor, vegeta, čierne mleté biele korenie, cesnak, rozmarín a koriander
 
-Pečieme 8 minút pri zapnutej funkcii CRISP, obrátime a pečieme 3 minúty. Druh mäsa a zeleniny
-            môžeme ľubovolne obmieňať. Môžeme pripraviť aj na záhradnom krbe, grile.
+Pečieme 8 minút pri zapnutej funkcii CRISP, obrátime a pečieme 3 minúty.
+Druh mäsa a zeleniny môžeme ľubovolne obmieňať. Môžeme pripraviť aj na záhradnom krbe, grile.
 
 
 ## Baranie dusené s kelom
@@ -149,14 +149,16 @@ Podlievame vodou a vlastnou šťavou.
 <p>zväzoček mätovej vňate, mletá rasca
 * 50g veľká cibuľa
 * 20g olivový olej, soľ, biele korenie
-<p>gýros - grécke korenie(čerstvá majoránka)
-<p>Postup: Posekáme mäso, ošúpanú cibuľu, umyté osušené listy mäty, 10 minút opečieme na silnom ohreve v panvici-voku
-<p>s rozohriatým olivovým olejom. Dochutíme osolíme okoreníme poprášime rascou, podľa chuti pridáme gýros.
-<p>Umyté baklažány nakrájame na plátky a z každej strany opečieme na oleji. Vyberieme a zbavíme prebytočného oleja
-    servítkou. Plátkami vyložíme olejom potretú ohňuvzdornú formu, ochutíme, osolíme okoreníme, navrstvíme časť mäsovej
-    plnky, opäť pokladieme baklažánové plátky, zopakujeme a uzavrieme baklažánovými plátkami. Prípadne dochutíme,
-    osolíme, okoreníme a vložíme na 1 hodinu do rúry vyhriatej na 180°C
-    (alebo mikrovlnky funkcia CRISP 10-15 minút podľa gramáže).
+* gýros - grécke korenie(čerstvá majoránka)
+
+Postup: Posekáme mäso, ošúpanú cibuľu, umyté osušené listy mäty, 10 minút opečieme na silnom ohreve v panvici-voku
+s rozohriatym olivovým olejom. Dochutíme osolíme okoreníme poprášime rascou, podľa chuti pridáme gýros.
+
+Umyté baklažány nakrájame na plátky a z každej strany opečieme na oleji. Vyberieme a zbavíme prebytočného oleja
+servítkou. Plátkami vyložíme olejom potretú ohňuvzdornú formu, ochutíme, osolíme okoreníme, navrstvíme časť mäsovej
+plnky, opäť pokladieme baklažánové plátky, zopakujeme a uzavrieme baklažánovými plátkami. Prípadne dochutíme,
+osolíme, okoreníme a vložíme na 1 hodinu do rúry vyhriatej na 180°C
+(alebo mikrovlnky funkcia CRISP 10-15 minút podľa gramáže).
 
 ## Jahňacie stehno na ražni
 *porcia 330g*
@@ -166,18 +168,20 @@ Podlievame vodou a vlastnou šťavou.
 
 **Sladko-kyslá pikantná rajčinová omáčka:**
 * 20g maslo
-* 80g talianský rajčinový pretlak
+* 80g taliansky rajčinový pretlak
 * 10g cibuľa
-<p>strúčik cesnaku, worčestrová omáčka,
-<p>práškový cukor, horčica, ocot/citrón - ML
+* strúčik cesnaku, vorčesterová omáčka,
+* práškový cukor, horčica, ocot/citrón - ML
 * mleté biele korenie, soľ, chilli paprička
-<p>bazalka na prizdobenie
-<p>Postup: Mäso nasolíme a medzi mäso a kosť špikujeme -vsunieme strúčiky cesnaku. Opekáme v rúre na otáčavom ražni
-    alebo na rošte, naspodok umiestníme pekáč na zachytenie tuku. Počas pečenia mäso iba potieráme roztopeným maslom.
-    Mäkké upečené mäso vyberieme a pokrájame na porcie. Podávame s rôzne upravenými zemiakmi.
-<p>Omáčka: Na masle opražíme cibuľku doružova, pridáme rozotretý cesnak, rajčinový pretlak, cukor, horčicu,
-    ocot/citrónovú šťavu a worcestrovú omáčku, okoreníme, osolíme a za občasného miešania varíme 30 minút, môžeme podľa
-    potreby zahustiť troškou maizeny rozpustenej vo vlažnej vode.
+* bazalka na prizdobenie
+
+Postup: Mäso nasolíme a medzi mäso a kosť špikujeme - vsunieme strúčiky cesnaku. Opekáme v rúre na otáčavom ražni
+alebo na rošte, naspodok umiestníme pekáč na zachytenie tuku. Počas pečenia mäso iba potierame roztopeným maslom.
+Mäkké upečené mäso vyberieme a pokrájame na porcie. Podávame s rôzne upravenými zemiakmi.
+
+Omáčka: Na masle opražíme cibuľku doružova, pridáme rozotretý cesnak, rajčinový pretlak, cukor, horčicu,
+ocot/citrónovú šťavu a vorčesterovú omáčku, okoreníme, osolíme a za občasného miešania varíme 30 minút, môžeme podľa
+potreby zahustiť troškou maizeny rozpustenej vo vlažnej vode.
 
 ## Mladá baranina s brokolicou
 * 150g mladého baranieho mäsa 2 porcie asi 400g
@@ -187,12 +191,14 @@ Podlievame vodou a vlastnou šťavou.
 * 3g karí korenia
 * 1 zeleninového vývaru
 * 15g slnečnicový olej
-* horčica, soľ, timian,
+* horčica, soľ, tymian,
 * mleté čierne korenie
-<p>Mäso odblaníme, umyjeme, osušíme, nakrájame na plátky, potrieme olejom, pretlačeným cesnakom, horčicou, posolíme,
-    okoreníme, posypeme timianom a na chladnom mieste necháme niekoľko hodín odležať. Na dobre rozohriatom oleji mäso
-    opečieme z oboch strán do zlatočervene. Osobitne na oleji opražíme červenú cibuľu nakrájanú na plátky, pridáme karí
-    korenie podľa chuti, brokolicu rozobratú na menšie ružičky, stonku nakrájame na menšie kúsky, popražíme, podlejeme
-    vývaron a niekoľko minút dusíme. Vložíme mäso a dusíme domäkka.
-<p>Podávame so zemiakmi.
+
+Mäso odblaníme, umyjeme, osušíme, nakrájame na plátky, potrieme olejom, pretlačeným cesnakom, horčicou, posolíme,
+okoreníme, posypeme tymianom a na chladnom mieste necháme niekoľko hodín odležať. Na dobre rozohriatom oleji mäso
+opečieme z oboch strán do zlato-červena. Osobitne na oleji opražíme červenú cibuľu nakrájanú na plátky, pridáme karí
+korenie podľa chuti, brokolicu rozobratú na menšie ružičky, stonku nakrájame na menšie kúsky, popražíme, podlejeme
+vývarom a niekoľko minút dusíme. Vložíme mäso a dusíme domäkka.
+
+Podávame so zemiakmi.
 

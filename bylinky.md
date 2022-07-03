@@ -1,4 +1,4 @@
-# Bylinky a použitie bylín v kuchyni 🌿
+# Bylinky a použitie bylín v kuchyni
 
 ## Aníz
 **Pimpinella anisum**
@@ -625,7 +625,7 @@ pečene a žlčníka, údajne povzbudzuje činnosť pohlavných žliaz.
 
 *Použitie v kuchyni:*
 
-Používa sa samostatná alebo v zmesiach s inými bylinkami( šalvia, yzop, saturejka, ligurček) do plniek, sekaného
+Používa sa samostatná alebo v zmesiach s inými bylinkami (šalvia, yzop, saturejka, ligurček) do plniek, sekaného
 mäsa, syrov, tvarohových pomazánok a k dusenej zelenine. Osviežuje dych, pridáva sa do rôznych chladených nápojov,
 veľmi priaznivo pôsobí mätový čaj. V domácnosti sú mätové listy doporučované pre odpudzovanie mravcov a bĺch,
 redukujú tabakový dym a odháňajú myši.

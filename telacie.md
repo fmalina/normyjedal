@@ -6,7 +6,7 @@
 * 5g olej
 * soľ, mleté biele korenie
 
-## Viedeňský rezeň-teľací rezeň smažený
+## Viedenský rezeň-teľací rezeň smažený
 
 * 120g teľacieho stehna
 * 5g hladkej múky
@@ -16,7 +16,7 @@
 * 10g mlieko
 * soľ, biele korenie
 
-## Parížský rezeň
+## Parížsky rezeň
 
 * 120g teľacieho stehna
 * 25g krupicovej múky
@@ -27,7 +27,7 @@
 
 ## Holštajnský rezeň
 
-* 120g teľaciehio mäsa vykosteného na rezeň
+* 120g teľacieho mäsa vykosteného na rezeň
 * 20g šunky
 * 20g kyslých uhoriek (uhorkami zdobíme)
 * 1ks vajce na volské oko
@@ -48,7 +48,7 @@
 * 15g masť, olej
 * 5g rajčinového pretlaku
 * 5g hladkej múky
-* 20g saláma dietna-plátok
+* 20g saláma diétna-plátok
 
 **Košíčky plníme plnkou z:**
 
@@ -97,14 +97,12 @@
 
 * 130g teľacej hrude
 * 10g masti
-* <strong> </strong>20g masla
+* 20g masla
 * 80g žemlí, rožkov
 * ½dl mlieka
 * ½ vajca (z bielka spravíme sneh)
-    <tr>
-        <td></td>
-        <td><p>zelený petržlen, bazalka, muškátový orech, soľ,
-            <p>vegeta, biele a čierne korenie
+* zelený petržlen, bazalka, muškátový orech, soľ,
+* vegeta, biele a čierne korenie
 
 
 ## Teľací guláš

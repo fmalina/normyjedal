@@ -38,16 +38,16 @@ Sviečkovicu môžeme nahradiť mladou falošnou sviečkovou zo stehna.
 
 ## Ruská roštenka
 
-* 120g hovädieho roštenca (min.60g- ½ porcia)
+* 120g hovädzieho roštenca (min.60g- ½ porcia)
 * 20g slaniny
 * 5g masť, olej
 * 80g zemiakov
 * 30g cvikle
-* 5g čerstveho chrenu
+* 5g čerstvého chrenu
 * 5g hladkej múky
 * soľ, korenie
 
-## Anglická roštenka, roasbeef
+## Anglická roštenka, roastbeef
 
 * 150g mäsa zo spodnej časti roštenky
 * 20g olej
@@ -73,7 +73,7 @@ Na noc pácujeme v zmesi vína a oleja, posolenú, okorenenú, opečenú z oboch
 
 
 ## Rezňová zrazová roštenka
-* 100g hovädieho mladédo stehna
+* 100g hovädzieho mladého stehna
 * 30g strúhanka
 * 7g maizena, solamyl
 * 20g vajce

@@ -2,10 +2,16 @@ body{font-family:'Garamond',serif;padding:1em;font-size:1.1rem;color:#333}
 p,li{max-width:800px}
 em{letter-spacing:.05rem}
 table p{margin:.3em}
-.logo{font-size:1rem;padding:.3em 0;
+header a{font-size:1rem;padding:.3em 0;
     background:rgba(255,255,255,0.95);
     display:block;position:sticky;z-index:2;top:0}
-.logo,h1 span{text-transform:uppercase;letter-spacing:.2rem;color:rgb(255,33,144)}
+header a,.unilex-nom h1{text-transform:uppercase;letter-spacing:.2rem}
+.unilex-nom h1{margin-bottom:0}
+.unilex-nom h2{padding-top:0}
+
+nav li{list-style:none;font-size:1.2rem;font-family:serif;font-style:italic;padding:0 0 .5em 0}
+
+h1{color:rgb(255,33,144)}
 h1,h2{font-weight:normal;clear:both}
 h1,h2,h3{padding-top:1.5em}
 a{color:dodgerblue}
@@ -18,7 +24,7 @@ img.feature{max-width:100%;max-height:initial}
 
 nav li, aside li{list-style:none;padding:.1em 0}
 nav h2{margin-top:2em}
-nav a,nav b{padding:.2em .5em;display:inline-block}
+nav a,nav b,nav em{padding:.2em .5em;display:inline-block}
 
 aside{margin-top:3em}
 aside p, aside ul{float:left;margin-top:0}
@@ -33,7 +39,6 @@ p.time,p.portion,p.subheading{color:green;font-weight:bold}
 #toc a.indent{padding-left:1em}
 #toc a.extraindent{padding-left:2em}
 
-
 h1,h2,h3{position:relative}
 .anchor{font-size:smaller;display:inline-block;color:gainsboro;
     text-decoration:none;position:absolute;left:-.8em;bottom:.1em}
@@ -43,4 +48,6 @@ h1,h2,h3{position:relative}
 @media only screen and (min-width: 768px) {
 	body,#toc{padding:2em}
 	body{font-size:1.2rem}
+	.unilex-nom main{width:60%;float:left}
+    .unilex-nom nav{width:40%;float:right}
 }

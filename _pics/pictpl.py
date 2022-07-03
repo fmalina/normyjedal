@@ -9,7 +9,7 @@ docs_by_hashtag = dict([(y, (x, z)) for x, y, z in hashtags])
 
 
 def render_text_files():
-    for path in Path('pic').rglob('*.txt'):
+    for path in Path('../_assets/pic').rglob('*.txt'):
         render(path)
 
 

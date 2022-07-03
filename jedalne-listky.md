@@ -20,7 +20,7 @@
     chovateľom – ak máme možnosť si zeleninu, hydinu, zajace organicky dopestovať a dochovať sami,
 <p>inak ako dôchodci (nezamestnaní) pri našej radikálnej „Dzurindovej“ pravicovej vláde a politike, ekonomickej
     reforme z dôchodku nielenže nevyžijeme, ale tiež nebudeme môcť nič dať deťom a vnúčatám. Nebude potom platiť
-    kresťanské: „Hosť do domu, boh do domu .“
+    kresťanské: „Hosť do domu, boh do domu.“
 <p>Som bývalý vojenský učiteľ s odbornosťou proviantná služba – spoločenské stravovanie a logistika armády, s dlhoročnou
     praxou na výcvikovom stredisku kuchárov
 <p>a vo výuke v zrušenej Strednej vojenskej odbornej škole v Liptovskom Mikuláši a nateraz na výsluhovom dôchodku,
@@ -100,7 +100,7 @@
 
 **Obed:** Hovädzia polievka s krupicovými haluškami
 <p>Varené hovädzie mäso, kôprová omáčka,
-<p>kysnutá žemlová kneľa
+<p>kysnutá žemľová kneľa
 <p>Zemiakové kroketky, chrenová omáčka
 <p>Záhorácke buchty plnené
 
@@ -162,7 +162,7 @@
 **Desiata:** Chlieb so salámovou pomazánkou, jablko
 
 **Obed:** Zemiaková polievka
-<p>Hovädie nadivo, kysnutá žemlová knedľa
+<p>Hovädie nadivo, kysnutá žemľová knedľa
 <p>Špenát, volské oko, dusené zemiaky
 <p>Mrežovník
 <p>Večeara: Miešané rizoto, cviklový šalát
@@ -196,7 +196,7 @@
 <p>Bravčová pečeň na cesnaku, špenát, zemiaky
 
 **Večera:** Francúzske prekladané zemiaky, čalamáda
-<p>Ovocná jablková žemlovka s tvarohom
+<p>Ovocná jablková žemľovka s tvarohom
 <p>a hrozienkami, citrónový čaj
 
 ### 11. deň
@@ -269,7 +269,7 @@
 
 **Obed:** Boršč (z hovädzieho mäsa)
 <p>Vyprážaný karfiol, zemiaková kaša, hlávkový šalát
-<p>Maďarský guláš, kysnutá žemlová knedľa
+<p>Maďarský guláš, kysnutá žemľová knedľa
 <p>Lekvárové pirohy
 
 **Večera:** Teľacie pečené, dusená ryža, kompót
@@ -356,7 +356,7 @@
 **Desiata:** Chlieb s maslom, suchá saláma, ovocie
 
 **Obed:** Hovädzia polievka s krupicou a vajcom
-<p>Hamburské bravčové stehno, žemlová knedľa
+<p>Hamburské bravčové stehno, žemľová knedľa
 <p>Španielský vtáčik, dusená ryža, kompót
 <p>Kávová kocka s krémom
 
@@ -402,7 +402,7 @@
 **Obed:** Ryžová polievka so zeleninou
 <p>Pečené bravčové rebierko na cesnaku, dusená
 <p>červená kapusta, zemiaková krupicová knedľa
-<p>Vyprážané baklažány, zemiaky, tatarská omáčka
+<p>Vyprážané baklažány, zemiaky, tatárska omáčka
 <p>Krémové venčeky
 
 **Večera:** Hovädzie pečené s rajčinami, kolienka

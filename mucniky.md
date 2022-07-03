@@ -18,16 +18,19 @@
 * 1,2dl mlieka
 * 10g rajčinového pretlaku
 * 5g cukru, soľ, voda
-<p>Do rozpusteného masla zamiešame krupicovú múku, zalejeme mliekom a povaríme na hustú kašu. Do vychladnutej kaše
-<p>pridáme žĺtky, biele korenie a sneh s bielkov.
-<p>Prvú ½ hmoty nalejeme do vymastenej, múkou vysypanej pudingovej formy, do zvyšku hmoty zamiešame zomletú, alebo jemno
+
+Do rozpusteného masla zamiešame krupicovú múku, zalejeme mliekom a povaríme na hustú kašu. Do vychladnutej kaše
+pridáme žĺtky, biele korenie a sneh s bielkov.
+
+Prvú ½ hmoty nalejeme do vymastenej, múkou vysypanej pudingovej formy, do zvyšku hmoty zamiešame zomletú, alebo jemno
     trenú teľaciu pečeň a prilejeme do formy. Formu dáme do nádoby s vodou, ktorá nemá presahovať 1/3 foriem, pomaly
     privádzame do varu. Varíme v prikrytej nádobe asi pol hodiny. Uvarený puding vyklopíme a podávame poliaty
     rajčinovou omáčkou.
-<p>Omáčka: Z masla a múky pripravíme ružovú zápražku, pridáme
-<p>postrúhanú cibuľu, popražíme, zalejeme rozriedeným rajčinovým pretlakom, mliekom, osolíme, osladíme a povaríme.
-    Prizdobíme vhodnými bylinkami (bazalkou,
-<p>šalviou ).
+
+Omáčka: Z masla a múky pripravíme ružovú zápražku,
+pridáme postrúhanú cibuľu, popražíme, zalejeme rozriedeným rajčinovým pretlakom, mliekom, osolíme, osladíme a povaríme.
+
+Prizdobíme vhodnými bylinkami (bazalkou, šalviou).
 
 ## 2. Šunková omeleta
 *2ks omeleta asi 140g*
@@ -35,24 +38,26 @@
 * 80g vajcia 2 ks
 * 10g masti
 * 50g šunky
-* soľ, biele korenie, pažítka,
-<p>hlávkový šalát, rajčina
-<p>Vajcia rozšľaháme so soľou a korením, ½ množstva nalejeme na rozpálenú masť, zapečieme a posypeme posekanou šunkou a
+* soľ, biele korenie, pažítka, hlávkový šalát, rajčina
+
+Vajcia rozšľaháme so soľou a korením, ½ množstva nalejeme na rozpálenú masť, zapečieme a posypeme posekanou šunkou a
     pažítkou, zdobíme hlávkovým šalátom alebo rajčinami.
-<p>Rovnako urobíme druhú omeletu.
+
+Rovnako urobíme druhú omeletu.
 
 ## 3. Jemné rizoto 
 *2 porcie asi 400g*
 
-* 60g ryže guľatozrnej
+* 60g ryže guľatozrnnej
 * 10g masti
-<p>¼ks upečeného kurčaťa (300g s kosťami)
+* ¼ks upečeného kurčaťa (300g s kosťami)
 * 50g dusenej husacej pečene
 * 50g miešanej jemnej zeleniny
-* soľ, zelený petržlen, voda, hlávkový šalát
-<p>alebo čínska kapusta.
-<p>Ryžu udusíme, kurča vykostíme, mäso pokrájame na kocky,
-<p>Podobne pečeň a udusenú zeleninu, pridáme k ryži, premiešame, vtlačíme do vymastenej formy vysypanej posekaným zeleným
+* soľ, zelený petržlen, voda, hlávkový šalát alebo čínska kapusta
+
+Ryžu udusíme, kurča vykostíme, mäso pokrájame na kocky,
+
+Podobne pečeň a udusenú zeleninu, pridáme k ryži, premiešame, vtlačíme do vymastenej formy vysypanej posekaným zeleným
     petržlenom, prizdobíme hlávkovým šalátom.
 
 ## 4. Zapekané vajcia so zemiakmi 
@@ -82,14 +87,14 @@
 ## 6. Plnené rajčiny
 *Porcia asi 200g*
 
-<p>1ks väčšia rajčina (120g)
+* 1ks väčšia rajčina (120g)
 * 30g teľacieho pečeného mäsa
 * 5g postrúhanej cibule
 * 5g masla
 * 5g krupicovej múky
 * 30ml mlieko
 * soľ, biele korenie, citrónová šťava,
-<p>zelený petržlen
+* zelený petržlen
 <p>Z masla a krupicovej múky pripravíme bledú zápražku, pridáme postrúhanú cibuľu, popražíne, zalejeme mliekom a
     povaríme. Dochutíme soľou a korením, pridáme teľacie mäso pokrájané na malé kocky, citrónovú šťavu a posekaný zelený
     petržlen, masu dobre premiešame a plníme ňou vydlabané rajčiny, zdobíme zemiakovou kašou a hlávkovým šalátom
@@ -104,7 +109,7 @@
 * soľ, celé čierne a nové korenie,
 <p>citrón nakrájaný na plátky
 <p>Pstruha, kapra zbavíme šupín, kožu nesťahujeme, pri varení zmodrie, varíme tiahnutím v founde z bieleho vína,
-<p>zmesy koreňvej zeleniny, korenia a citróna, osolenej vody
+zmesi koreňovej zeleniny, korenia a citróna, osolenej vody
 <p>Uvarené asi 4-5 minút, polejeme roztopeným maslom, prizdobíme hlávkovým šalátom, podávame s zemiakmi na rôzne
     spôsoby.
 
@@ -137,7 +142,7 @@
 **Majonézová smotanová omáčka s bylinkami:**
 * 10g žĺtok (½ ks)
 * 30g oleja, soľ
-<p>½ lyžičky horčice
+* ½ lyžičky horčice
 <p>práškový cukor, citrónová šťava
 * 15ml lyžička mlieka
 * 0,5dl šľahačky, bylinky na ozdobenie a dochutenie
@@ -168,7 +173,7 @@
 
 * 80g vajcia 2ks
 * 10g masti
-* 45g žemla 1ks
+* 45g žemľa 1ks
 * 0,5dl mlieko
 * 20g masla, soľ, čierne korenie
 * 40g vajce 1ks, zelený petržlen
@@ -182,7 +187,7 @@
 *2 porcie asi 240g*
 
 * 80g vajcia 2ks
-<p>1ks žemle plátky 40g, olej
+* 1ks žemle plátky 40g, olej
 * 10g masla
 * 10g krupicovej múky
 * 0,5dl mlieko
@@ -262,20 +267,20 @@
     vlažným aspikom a necháme v chlade stuhnúť.
 
 ## 5. Pečeňová paštéta v aspiku
-<p>1ks husacia(morčacia) pečeň asi 280 až 320g
+* 1ks husacia(morčacia) pečeň asi 280 až 320g
 * 50g žemľa (rožok)
 * 0,5dl bieleho vína
 * 50g údenej slaniny(prerastanej)
 * 20g cibule
 * 40g vajce 1ks, olej, strúhanka
 <p>mlieko, soľ, čierne korenie, muškátový orech
-<p>Pečeň namočíme do mlieka aspoň na ½ dňa. Potom ju pretrieme cez sito aj so žemlou, ktorú sme namočili v mlieku a
+<p>Pečeň namočíme do mlieka aspoň na ½ dňa. Potom ju pretrieme cez sito aj so žemľou, ktorú sme namočili v mlieku a
     vytlačili. Pridáme postrúhanú cibuľu, tlčené čierne korenie, soľ, postrúhaný muškátový orech, víno, celé vajce a
     údenú slaninu pokrájanú na kocky. Všetko dobre premiešame a dáme do vymastenej a strúhankou vysypanej pudingovej
     formy. Formu vložíme do väčšej nádoby s vodou a varíme asi ¾ hodiny. Uvarenú paštétu necháme vo forme vychladnúť.
     Uvarený precedený priezračný aspik nalejeme do väčšej pudingovej formy asi na hrúbku dvoch prstov a necháme v chlade
     stuhnúť. Potom na vrstvu studeného aspiku vyklopíme uvarenú paštétu
-<p>( pozor, aby sa nerozpadla) a formu dolejeme vlažným aspikom a necháme znovu stuhnúť. Pred podávaním okolo formy
+<p> (pozor, aby sa nerozpadla) a formu dolejeme vlažným aspikom a necháme znovu stuhnúť. Pred podávaním okolo formy
     obvinieme utierku, ktorú sme namočili v horúcej vode a vyžmýkali, a obsah formy vyklopíme na misu.
 <p>Paštétu ozdobíme pokrájaným citrónom, hlávkovým šalátom, reďkovkou a zeleným petržlenom.
 
@@ -306,7 +311,7 @@
 * 120g šunky
 * 20g žĺtok
 * 1 oleja
-<p>1ks citrón
+* 1ks citrón
 * 40g hrášku
 * 40g mrkvy
 * 40g zemiakov varených v šupke
@@ -323,7 +328,7 @@
 *2 porcie 150g*
 
 * 200g husacej pečene (morčacej)
-<p>½ žemle (25g)
+* ½ žemle (25g)
 * 10g cibule
 * 20g vajce ½
 * 25ml bieleho vína
@@ -381,7 +386,7 @@
 *porcia – 120g*
 
 <p>120 bravčové pliecko
-<p>drtená rasca, soľ, cesnak
+* drtená rasca, soľ, cesnak
 
 ## 8. Šunková pena
 *porcia – 100g*
@@ -683,12 +688,12 @@
 **s marhuľovou marmeládou s makom, tvarohom, orechami**
 * 200g pšeničná múka polohrubá výberova -600g
 * 1 mlieko -3 dl
-<p>1ks – žĺtok -3ks
+* 1ks – žĺtok -3ks
 * 15g vajce -1ks
 * 15g práškový cukor -50g
 * 40g maslo, jedlý rastlinný tuk/roztop/-120g
 <p>1/2ks – citróna – strúhaná citrónová kôra
-<p>1ks – slivkový lekvár
+* 1ks – slivkový lekvár
 * 200g /domáca marhuľová marmeláda, džem s čiernych rýbezlí/
 <p>trochu soli
 
@@ -705,7 +710,7 @@
 
 **Maková plnka:**
 * 70g pomletého maku, -200g
-<p>1ks – vanilkový cukor
+* 1ks – vanilkový cukor
 * 10g hrozienok, voda na sparenie
 
 **Tvarohová plnka:**
@@ -743,7 +748,7 @@
     ligurček lekárský a ocot. Cesto necháme
 <p>30 minut kysnúť. Potom ho sformujeme (zamiesíme) na pomúčenom lopári do oválneho alebo guľatého bochníka
 <p>a necháme chvíľu kysnúť. Pečieme v dobre vyvriatej rúre
-<p>( 250°C, potom 230°C) po dobu 50-60 minút.Počas pečenia bochík potierame vlažnou vodou aj s pár kavapkami
+<p> (250°C, potom 230°C) po dobu 50-60 minút.Počas pečenia bochík potierame vlažnou vodou aj s pár kavapkami
     slnečnicového(olivového) oleja (môžemeho trošku posypať zvyšným semiačkami ligurčeka lekárskeho, docielíme vyraznú
     arómu).
 <p>Domácí chlebík je boží dar, so soľou aj na symbolické
@@ -772,7 +777,7 @@
 <p>(tradičný rodinný recept - Kunovice nad Olšavou)
 
 **Cesto:**
-<p>1kg preosiatej polohrubej výberovej múky
+* 1kg preosiatej polohrubej výberovej múky
 * 200g práškového cukru
 * 250g hera (visa) 1ks rastlinný jedlý tuk
 * 120g vajcia domáce 3 ks
@@ -796,7 +801,7 @@
 * 150g sušené hrozienka (1 balenie)
 * 20g 1 žĺtok z domáceho vajca
 <p>(bielok môžeme dať do cesta)
-<p>1ks vanilínový cukor alebo vanilka
+* 1ks vanilínový cukor alebo vanilka
 * 100g práškového cukru, odhadnúť podľa chuti
 <p>Múku preosiatú so zdvihnutým kváskom, tukom, vajcom a práškovým cukrom vymiesíme na vláčne cesto, aby sa dobre
     oddeľovalo od varešky a necháme v teple prikryté utierkou
@@ -817,7 +822,7 @@
 * 120g práškový cukor
 <p>postrúhaná kôra z 1ks citróna podľa chuti
 <p>trošku slnečnicového, olivového oleja a plnku,
-<p>( maslo, vanilka)
+<p> (maslo, vanilka)
 * -spariť vriacim čajom alebo vodou s varnej kanvice, plnka musí byť dostatočne hustá, robíme z nej menšie šúlky –
     valčeky do trojuholníčkov.
 <p>Z vykysnutého cesta robíme lyžičkou väčšie kopčeky na guľky, ktoré roztiahneme a rozdelíme na 4 časti-roztiahnuté
@@ -844,7 +849,7 @@
 * 70g kryštálového cukru
 * 70g margarínu (jedlého rastlinného tuku)
 * 20g droždia
-<p>1kg sliviek
+* 1kg sliviek
 * 100g práškového cukru
 * 50g strúhanky
 * 2,5dl mlieko podľa potreby
@@ -864,7 +869,7 @@
 ## 9. Vianočka 
 *6 porcií asi 250g*
 
-<p>1kg krupicovej múky
+* 1kg krupicovej múky
 * 150g práškového cukru
 * 150g masla (hery, visy, margarínu)
 * 40g droždia 1 ks
@@ -895,7 +900,7 @@
 * 20g masti na pomastenie, cesnak (koreniny)
 * 40g vajce 1ks (ocot/citrónová šťava)
 <p>mlieko podľa potreby, soľ, tlčená rasca,
-<p>biele korenie, červená paprika, vegeta,
+* biele korenie, červená paprika, vegeta,
 
 **Bylinky na dochutenie plnky z vychladnutej udusenej hlávkovej kapusty na karameli:**
 <p>(čerstvá zelená posekaná majoránka,
@@ -981,7 +986,7 @@
 * 30g margarínu
 * 20g práškového cukru
 * 20g 1 žĺtok
-<p>¼ks balíčka prášku do pečiva - ML
+* ¼ks balíčka prášku do pečiva - ML
 * 50g kyslej smotany, podľa potreby, 2-3 lyžice
 * 20g práškového cukru, soľ
 <p>Do preosiatej múky pokrájame margarín, pridáme soľ, cukor, žĺtok, prášok do pečiva, smotanu a vypracujeme husté
@@ -1067,7 +1072,7 @@
 <p>¾ hodiny. Upečenú bábovku vyklopíme a posypeme cukrom
 <p>s vanilkou.
 <p>19.Krehký orechový závin
-<p>( makový, tvarohový, jablkový závin)
+<p> (makový, tvarohový, jablkový závin)
 * 600g polohrubej múky
 * 250g margarínu
 * 50g práškového cukru
@@ -1081,7 +1086,7 @@
 <p>(zomletého maku, jemného tvarohu, žĺtok, hrozienka, strúhané jablká)
 * 200g kryštálového cukru
 * 1 vody
-<p>citrónová kôra, škorica (vanilka)
+* citrónová kôra, škorica (vanilka)
 <p>Tuk rozdrobíme s múkou, pridáme droždie rozmiešané s cukrom a vlažným mliekom, vajce, soľ a vypracujeme cesto, ktoré
     necháme nakysnúť. Potom ho na pomúčenom lopári rozvaľkáme asi na hrúbku 2 cm, potrieme plnkou, stočíme a dáme na
     vymastený plech, závin potrieme rozšľahaným vajcom a necháme vykysnúť. Znovu potrieme rozšľahaným vajcom, upečieme v
@@ -1154,7 +1159,7 @@
 <p>maslo alebo margarín, strúhanka na vysypanie
 
 **Varenie:**
-<p>Maslo s cukrom vymiešame do penista, po jednom primiešavame vajcia, zmiešame múku spolu s práškom do pečiva a spolu
+<p>Maslo s cukrom vymiešame dopenista, po jednom primiešavame vajcia, zmiešame múku spolu s práškom do pečiva a spolu
     so smotanou pridáme do maslovej peny.
 <p>Zapekaciu panvicu vymastíme a vysypeme strúhankou. Vlejeme do nej riedke cesto. Jablká olúpeme a pokrájame na jemné
     plátky, hrozienka sparíme, aby zmäkli, plátky jabĺk zatlačíme do cesta, posypeme hrozienkami, cukrom
@@ -1180,10 +1185,10 @@
 * 3-5g strúhanka na vysypanie
 
 **Varenie:**
-<p>Maslo s cukrom vymiešame do penista, banán rozmixujeme ručným mixérom, alebo roztlačíme vidličkou. Roztlačený banán
+<p>Maslo s cukrom vymiešame dopenista, banán rozmixujeme ručným mixérom, alebo roztlačíme vidličkou. Roztlačený banán
     spolu so strúhaným kokosom primiešame k vajíčkám s cukrom. Múku zmiešanú s práškom do pečiva pridáme do zmesi.
     Zapekaciu panvicu vymastíme a vysypeme strúhankou.
-<p>Vlejeme do nej zmes. Banán pokrájame na kolieska, ktoré poukaldáme do zmesy a posypeme kokosom. Pečieme 8 minút na
+<p>Vlejeme do nej zmes. Banán pokrájame na kolieska, ktoré poukaldáme do zmesi a posypeme kokosom. Pečieme 8 minút na
     funcii crisp v mikrovlnke alebo v stredne teplej rúre.
 <p>Môžeme podávať a prizdobiť so šľahačkou alebo zmrzlinou.
 <p>26.Jablkový krémový koláč 5 porcií po 280g
@@ -1242,7 +1247,7 @@
     vychladnuté maslo. Vypracujeme hladké jemné cesto, vložíme do vymastenej, múkou vysypanej formy a rovnomerne
     roztlačíme. Čerešne (višne) umyjeme, vykôstkujeme, rozložíme na cesto a posypeme posýpkou. Koláč vložíme do
     vyhriatej rúry a upečieme do ružova,
-<p>( Mikrovlnka -pečieme na funkcii CRISP 10-15 min, podľa gramáže.) Na posýpku v miske zmiešame mleté orechy,
+<p> (Mikrovlnka -pečieme na funkcii CRISP 10-15 min, podľa gramáže.) Na posýpku v miske zmiešame mleté orechy,
     kryštálový a vanilínový cukor a zmäknuté maslo.
 <p>29.Banánová roláda 6 porcií po 190g
 * 200g domácích vajec 5ks
@@ -1311,7 +1316,7 @@
 * 8g sódy bikarbóny 1KL, špička noža kypriaceho prášku
 * 50g hrozienok
 * 60g hrsť posekaných orechov
-* 7 egrešový kompót( alebo čerstvé egreše, šťava)
+* 7 egrešový kompót (alebo čerstvé egreše, šťava)
 * 100g čokoláda na varenie na polevu
 * 70g malinový, čučoriedkový, domáci džem
 <p>V miske vymiešame stužený tuk(maslo) s cukrom pridáme postupne vajíčka, múku s sódou bikarbónou a práškom do pečiva,
@@ -1386,7 +1391,7 @@
 
 * 250g lístkové cesto 1 balenie (čerstvé - mrazené)
 * 175g vaječné bielky 7 ks
-<p>2ks balenia čerstvej šľahačky 33% asi 4dcl
+* 2ks balenia čerstvej šľahačky 33% asi 4dcl
 
 **Krém:**
 * 7 vody
@@ -1587,7 +1592,7 @@
     vysypanej chlebíčkovej formy a v stredne teplej rúre pečieme asi trištvrte hodiny. Upečený chlebíček vyklopíme a
     posypeme práškovým cukrom.
 <p>48.Orechové chlebíčky
-<p>20ks asi po 30g
+* 20ks asi po 30g
 * 150g masla/margarínu
 * 150g práškového cukru
 * 150g zomletých vlašských orechov
@@ -1600,7 +1605,7 @@
     dostatočnej vzdialenosti, lebo pri pečení sa cesto trocha rozleje a popuká do tvaru malých chlebíčkov.
 
 ## 49. Kakaový chlebíček s jablkami
-<p>20ks asi po 40g
+* 20ks asi po 40g
 * 400g čistých jabĺk
 * 50g krupice (detskej)
 * 40g žĺtky 2ks
@@ -1615,7 +1620,7 @@
 
 **Drobné pečivo:**
 <p>50.Vanilkové rožky bez vajec
-<p>17ks po 20g
+* 17ks po 20g
 * 120g hladkej múky
 * 100g maslo/margarín
 * 50g zomleté orechy
@@ -1640,7 +1645,7 @@
 <p>Upečné rožky namáčame (z polovice alebo 2/3) vo vlažnej čokoládovej poleve z rozpusteného tuku a čokolády.
 
 ## 52. Vanilkové rožky z ovsenných vločiek
-<p>22ks asi po 20g
+* 22ks asi po 20g
 * 200g hladkej múky
 * 50g zomletých ovsenných vločiek
 * 100g masla/margarínu
@@ -1648,7 +1653,7 @@
 * 0,3dl mlieka
 * 6g ½ balíčka prášku do pečiva
 <p>Do preosiatej múky rozdrobíme tuk, pridáme zomleté ovsenné vločky, cukor, mlieko, prášok do pečiva a vypracujeme
-    cesto. ďaľší postup sparcovania je jako při vanilkových rožkoch bez vajec.
+    cesto. ďaľší postup sparcovania je jako pri vanilkových rožkoch bez vajec.
 
 ## 53. Zázvorníky
 <p>podľa veľkosti formy - 40ks po 22g
@@ -1662,7 +1667,7 @@
     formičkou vykrajujeme tvary, ktoré uložíme na vymastený plech a na druhý deň upečieme v stredne teplej rúre.
 
 ## 54. Čajové pečivo(strojčekové) I
-<p>25ks asi po 20g
+* 25ks asi po 20g
 * 240g hladkej múky
 * 100g masla alebo margarínu
 * 60g práškového cukru
@@ -1674,7 +1679,7 @@
     strojčeka, cez formičku ho vytláčame a formujeme rôzné tvary. Upečné ešte teplé obaľujeme vo vanilkovom cukre.
 
 ## 55. Čajové pečivo(strojčekové) II
-<p>27ks asi po 20g
+* 27ks asi po 20g
 * 500g hladkej múky špeciál
 * 250g masla alebo margarínu
 * 40g 1 vajce
@@ -1687,7 +1692,7 @@
 **Medové pečivo:**
 
 ## 56. Medovníčky
-<p>55ks asi po 20g
+* 55ks asi po 20g
 * 500g chlebovej alebo hladkej múky
 * 250g práškového cukru
 * 120g 3 vajcia
@@ -1697,7 +1702,7 @@
 * 6g ½ balička prášku do pečiva
 * 40g 1 vajce na potretie
 <p>škorica, klinčeky
-<p>citrónová kôra, aníz
+* citrónová kôra, aníz
 <p>Na lopár dáme múku (najlepšie jemnú tmavú chlebovú),
 <p>práškový cukor, zomleté orechy, prášok do pečiva, zomleté - preosiaté klinčeky, škoricu, aníz, maslo, vajcia,
     rozpustený med a postrúhanú citrónovú kôru. Všeto spolu
@@ -1715,7 +1720,7 @@
 <p>nové korenie, aníz, citrónová kôra
 
 **Plnka:**
-* 150g ríbezľového( slivkového, marhuľového) lekváru
+* 150g ríbezľového (slivkového, marhuľového) lekváru
 <p>alebo hustejšieho malinového džemu
 * 100g mletých orechov
 * 50g hrozienok
@@ -1805,7 +1810,7 @@
 ## 62. Tvarohový závin
 *20 porcií po 50g*
 
-<p>( technologicky náročné)
+<p> (technologicky náročné)
 * 150g polohladkej múky
 * 10g oleja
 * 5-8g octu 1 KL
@@ -1816,7 +1821,7 @@
 * 1 kyslej smotany
 * 20g práškového cukru na posypanie
 * soľ, vlažná voda
-<p>citrónová kôra, vanilínový cukor
+* citrónová kôra, vanilínový cukor
 <p>Do preosiatej múky pridáme soľ, ocot a vlažnú vodu, dobre vypracujeme redšie cesto, ktoré necháme asi štvrť hodiny
     stáť na pomúčenom lopári prikryté zohriatým kastrólom. Na stôl rozprestrieme čistý obrus, posypeme ho múkou a
     bochník cesta roztiahneme na ňom po dĺžke. Potrieme ho rozpusteným tukom, aby sa nelepilo, a potom ho vyťahujeme do
@@ -1835,7 +1840,7 @@
 * 50g hrozienka, škorica, biele mleté korenie
 * 60g cukru
 * 20g práškového cukru na posypanie
-<p>citrónová šťava, kôra na dochutenie z ½ citrónu
+* citrónová šťava, kôra na dochutenie z ½ citrónu
 <p>vlažná voda, soľ
 <p>Postup práce prípravy cesta je ako pri tvarohovom závine, len namiesto tvarohu posypeme cesto posekanou kapustou
     opraženou na tuku. Pri dusení trochu posolíme,
@@ -1904,8 +1909,8 @@
 * 120g 3 domáce vajcia
 * 2 mlieko
 * 12g 1 balíček prášku do pečiva
-<p>citrónová kôra, vanilka
-<p>Maslo miešame s práškovým cukrom až do spenenia. Potom postupne pridávame žĺtky. Do vymiešanej zmesy pridáme mlieko,
+* citrónová kôra, vanilka
+<p>Maslo miešame s práškovým cukrom až do spenenia. Potom postupne pridávame žĺtky. Do vymiešanej zmesi pridáme mlieko,
     múku s práškom do pečiva, postrúhanú citrónovú kôru, sneh z bielkov a hrozienka namáčané
 <p>v jemnom rume. Cesto zľahka dobre premiešame, vlejeme
 <p>do vymastenej a múkou vysypanej bábovkovej formy
@@ -1913,15 +1918,15 @@
 <p>Upečenú bábovku vyklopíme a posypeme práškovým cukrom s vanilkou.
 
 ## 68. Orechové guľky s rumom
-<p>22ks asi po 30g
+* 22ks asi po 30g
 * 200g zomletých orechov
 * 250g práškového cukru
 * 20g 1 bielok
 * 0,5dl jemného rumu
 * 30g hrozienok
 * 50g mletých orechov na obaľovanie
-<p>20ks višne, čerešne (zavárané, vykôstkované)
-<p>22ks papierových košíčkov
+* 20ks višne, čerešne (zavárané, vykôstkované)
+* 22ks papierových košíčkov
 <p>Zomleté orechy zmiešame s cukrom, bielkom, posekanými hrozienkami a rumom. Z masy formujeme guľky, do ktorých
     zabalíme vykôstkované višne alebo čerešne.
 <p>Guľky obaľujeme v zomletých orechoch a vložíme do papierových košíčkov.
@@ -1986,7 +1991,7 @@
 * 0,2dl jemného rumu 1 väčšia PL
 * 50g 100% tuku
 * 100g čokolády
-<p>Umyté gaštany narežieme a uvaríme. Ešte z teplých lyžičkou vnútrajšky vyškrabeme a pretierme cez sito.
+<p>Umyté gaštany narežeme a uvaríme. Ešte z teplých lyžičkou vnútrajšky vyškrabeme a pretierme cez sito.
 <p>Do pretretých pridáme práškový cukor, jemný rum a zamiesíme. Z gaštanovej masy formujeme gaštany, ktoré
 <p>z dvoch tretín namáčame v čokoládovej poleve.
 # Rezy:
@@ -1995,7 +2000,7 @@
 * 90g cukru alebo 20ks po 42g
 * 90g krupicovej múky
 * 120g 3 domáce vajcia
-<p>citrónová šťava (z ½ citróna)
+* citrónová šťava (z ½ citróna)
 
 **Plnka:**
 * 100g marhuľového lekvaru
@@ -2047,7 +2052,7 @@
 * 45ml 3 lyžice vody
 * 80g cukru
 * 100g krupicovej múky
-<p>citrónová kôra
+* citrónová kôra
 <p>maslo a múka na plech
 <p>2,5g ¼ dkg agaru (alebo želatína)
 * 125ml kompótovej šťavy
@@ -2090,7 +2095,7 @@
 ## 76. Študentské rezy
 *20ks asi po 60g*
 
-<p>30ks asi po 40g
+* 30ks asi po 40g
 * 180g kryštálového cukru
 * 180g krupicovej múky
 * 40g orechov
@@ -2127,9 +2132,9 @@
 **Kávová poleva:**
 * 5g jemno zomlletej zrnkovej kávy
 * 1 vody
-<p>½ks bielka
+* ½ks bielka
 * 120g práškového cukru
-<p>Do vriacej vody zavaríme zomletú kávu. Ochladenú ocedíme, pridáme bielok, práškový cukor a dobře vymiešame.Polevu
+<p>Do vriacej vody zavaríme zomletú kávu. Ochladenú ocedíme, pridáme bielok, práškový cukor a dobre vymiešame.Polevu
     rozotrieme tortovým nožom.
 
 ## 77. Sacherove rezy
@@ -2291,8 +2296,8 @@
 * 80g 2 domáce vajcia
 * 150g krupicovej múky
 * 12g vanilkový cukor
-<p>¼ks balíčka prášku do pečiva,
-<p>citrónová kôra
+* ¼ks balíčka prášku do pečiva,
+* citrónová kôra
 
 
 **Kakaové cesto:**
@@ -2301,7 +2306,7 @@
 * 80g 2 domáce vajcia
 * 130g krupicovej múky
 * 20g kakaa
-<p>¼ prášku do pečiva
+* ¼ prášku do pečiva
 
 
 **Čokoládová poleva:**
@@ -2335,11 +2340,11 @@
     nalejeme do hlhšieho vymasteného plechu. Pečieme v mierne teplej rúre. Upečené vyklopíme, vychladnuté vodorovne
     prekrojíme, spodnú časť potrieme plnkou. Teplým nožom pokrájame a na každý rez položíme mesiačík očisteného
     pomaranča.
-<p>Plnka: Zmäknuté maslo a prášková cukor dobře vymiešame, pridáme pomarančovú šťavu, postrúhanú pomarančovú kôru a
+<p>Plnka: Zmäknuté maslo a prášková cukor dobre vymiešame, pridáme pomarančovú šťavu, postrúhanú pomarančovú kôru a
     vymiešame do spenenia. Prizdobíme šľahačkou.
 
 ## 87. Tvarohové rezy s piškótovou mriežkou
-<p>20ks asi po 55g
+* 20ks asi po 55g
 
 
 **Krehké cesto:**
@@ -2364,7 +2369,7 @@
 * 50g lekváru
 <p>Krehké cesto: Hladkú múku, maslo alebo margarín, práškový cukor, žĺtok, prášok do pečiva, štipku soli zamiesíme na
     cesto, ktoré vyvaľkáme na lopári na hrúbku
-<p>½ cm, dáme na suchý plech a v rúre zapečieme.
+* ½ cm, dáme na suchý plech a v rúre zapečieme.
 <p>Piškotové cesto: Žĺtky vymiešame s cukrom, pridáme tuhý sneh a múku a zľahka premiešame.
 <p>Plnka: Prelisovaný jemný tvaroh vymiešame s cukrom, vanilkou, žĺtkom a postrúhanou citrónovou kôrou.
 <p>Zapečené krehké cesto potrieme lekvárom a na to rozotrieme tavarohovú plnku. Pripravene piškótové cesto vložíme do
@@ -2391,299 +2396,18 @@
 * 50g mletých pražených orieškov
 * 20g kakaa
 * 3g ¼ balíčka prášku do pečiva
-<p>citrónová kôra
+* citrónová kôra
 
 **Čokoládová poleva:**
 * 50g 100% tuku
 * 100g čokolády
 <p>Linecké cesto: Do múky pridáme margarín, preosiatý cukor, žĺtok, na koniec noža prášku do pečiva a vypracujeme cesto.
-    Rozvaľkáme ho na hrúbku 1 cm a dáme
-<p>na suchý plech. Pečieme v stredne teplej rúre.
+    Rozvaľkáme ho na hrúbku 1 cm a dáme na suchý plech. Pečieme v stredne teplej rúre.
 <p>Piškótové cesto: Maslo vymiešame s cukrom a žĺtkami.
 <p>Z bielkov ušľaháme tuhý sneh a pridáme ho k vyšľahaným žĺtkom. Zľahka primiešame kakao rozmiešané s múkou, orieškami,
     práškom do pečiva a postrúhanou citrónovou kôrou. Cesto rozotrieme na vymastený a múkou vysypaný plech. Pečieme v
     horúcej rúre.
 <p>Vychladnuté linecké cesto potrieme ríbezľovým lekvárom,
-<p>prikryjeme piškótovým cestom a polejeme polevou. Čokoládová poleva: Do rozpusteného, ešte teplého tuku zamiešame
+    prikryjeme piškótovým cestom a polejeme polevou. Čokoládová poleva: Do rozpusteného, ešte teplého tuku zamiešame
     čokoládu pokrájanú nadrobno a miešame kým sa úplne nerozpustí, vlažnú polevu nalejeme na múčním a necháme na chladnom
     mieste stuhnúť.
-
-# Koktaily
-## 1. Jahodový koktail 
-*4 porcie asi po 2 dl*
-
-<p>(malinový, kiwi, čučoriedkový, brusnicový koktail)
-* 250g čerstvých jahôd
-* 80g práškového cukru
-* 4 trvanlivé mlieko
-* 20g domácí bielok
-* 80g čistý potlčený ľad
-<p>Čisté čerstvé odstopkované jahody dáme s cukrom a bielkom do elektrického šľaháka alebo turmixu a šľaháme kým
-    nevznikne pena. Potom za šľahania prilievame tenkým prúdom vychladnuté trvanlivé alebo prevarené mlieko a potlčaný
-    ľad pripravený v chladničke(mrazničke).
-
-## 2. Ríbezľový koktail 
-*4 porcie po 2,1dl*
-
-* 300g ríbezlí
-* 100g práškového cukru
-* 10g ½ bielka
-* 4 trvanlivého mlieka
-* 80g čistého ľadu
-<p>Ríbezle umyjeme, oberieme apretlačíme cez sito. Šťavu dáme do elektrického šľaháka s cukrom a bielom a šľaháme,
-<p>kým nevznikne pena. Potom za stáleho šľahania prililevame vychladnuté mlieko, potlčený ľad a ešte spolu
-    vymiešame.
-
-## 3. Marhuľový koktail 
-*3 porcie asi po 2dl*
-
-* 120g marhuľového džemu
-* 15ml lyžica citrónovej štavy
-* 40g čerstvé domáce vajce
-* 3 trvanlivého mlieka
-* 100g čistého ľadu
-<p>Do elektrického šľaháka dáme džem, vajce a šľaháme. Potom
-<p>za stáleho šľahania prilievame vychladnuté (prevarené) mlieko, potlčený ľad a spolu dobre vymiešame. Nakoniec pridáme
-    citrónovú šťavu.
-
-## 4. Kakaový koktail s medom 
-*3 porcie po 2,2dl*
-
-* 100g medu
-* 10g kakaa
-* 40g domáce čerstvé vajce
-* 4 trvanlivé mlieko
-* 100g čistého ľadu
-<p>Med, kakao a vajce dáme do šľaháka a ušľaháme na penu. Potom prilevame vychladnuté prevarené mlieko a potlčený ľad a
-    spolu dobře vyšľaháme.
-
-## 5. Vanilkový koktail 
-*3 porcie asi po 2dl*
-
-* 4 trvanlivé mlieko
-* 20g žĺtok
-* 40g domáce vajce
-* 60g práškového cukru
-* 12g balíček vanilkového cukru
-* 50g čistého ľadu
-<p>Do šľaháka dáme žĺtok, vajce, práškový cukor, vanilkový cukor a ušľaháme na penu. Potom pridáme za stáleho šľahania
-    vychladnuté oprevarené mlieko a potlčený ľad.
-<p>Spolu ešte vyšľaháme.
-
-# Chladivé letné nápoje, ovocné drinky
-<p>Skúsme podávať miešané nápoje. Chutné a pekne upravené koktaily vznikajú z neveľkého množstva prísad.
-
-**Suroviny a prísady do drinkov:**
-<p>Whisky, campari, likér s čiernych ríbezlí, čerešňový, kakaový, kokosový, mandľový, mätový a pomarančový likér, koňak
-    alebo brandy, modré curacao, biely a hnedý rum, shery-miešané, aromatiské južné víno, sekt-šampaňské,
-<p>vodka, vermúty.
-
-**K tomu patria ešte aromatizujúce látky:**
-<p>Pomarančová a citrónová šťava, tonik, cukrový a mandľový sirup, čerstvá mäta, mädovka, angostura-barová pochutina z
-    extraktov pomarančovej kôry, z rastlinných a koreninových výťažkov, vhodnáí do mixov.
-
-**Náčinie, vhodné nástroje z nerez ocele a zo skla:**
-<ul>
-    <li>vedierko na ľad
-    <li>rôzne druhy pohárov
-    <li>barová lyžica a habarka
-    <li>mixér (aj ručný)
-    <li>šejker, naručné miešanie nápojov, ktorých prísady sa ťažko zlučujú:
-</ul>
-<p>žĺtok, sirup, smotana, ovocné šťavy.
-
-## 1. Pretty Woman 
-*4 porcie*
-
-<p>12 cl grapefruitovej šťavy
-<p>4 cl ananásovej šťavy
-<p>1 cl citrónovej šťavy
-<p>niekoľko kvapiek mandľovej príchute
-* 1 ginu, ktorý možno vynechať
-<p>trochu grapefruitovej dužiny
-<p>ananásu z kompótu
-<p>minerálka
-<p>Všetky prísady vložíme di šejkra s ľadom a dobře pretrasieme, nalejeme do pohára s kúskami ovocia a ľadovej
-    drviny.Môžeme ozdobiť exotickým ovocím a doplniť minerálkou.
-
-## 2. Pomarančový čaj 
-*4 porcie + 2 hod chladenie*
-
-<p>2ks citróny
-<p>30cl čerstvo vytlačenej pomarančovej šťavy
-<p>50cl čaju earl-grey
-<p>1 ½ lyžice práškového cukru
-<p>3 x lyžice pomarančového likéru
-<p>1 x pomaranč
-<p>Pomarančovú šťavu precedíme cez sito do čaju, primiešame 3 lyžice šťavy s citróna, pomarančový likér a práškový
-    cukor. Dáme na dve hodiny vychladiť.
-<p>Pomaranč a citrón pokrájame na tenké mesiačiky.
-<p>Do pohárov vložíme kocky ľadu alebo ľadovú drvinu, nalejeme pomarančový čaj a ozdobíme masiačikmi pomaranča a
-    citróna.
-
-## 3. Mangová gratina 
-*4 porcie + 3 hodiny mrazenie*
-
-<p>Broskyňová (naktarinková) gratina
-* 600g manga(2 kusy)
-<p>možno nahradiť broskyňami alebo nektarinkami
-<p>6lyžíc citrónovej šťavy (PL)
-<p>4 PL pomarančovej šťavy alebo džúsu
-<p>4 PL broskyňového sirupu
-* 5 minerálky
-<p>4 x kolieska citrónu
-<p>Dužinu olúpaného manga (broskyne, nektarinky) rozmixujeme, v miske zmiešame so 4 lyžicami citrónovej a pomarančovej
-    šťavy a dáme na 3 hodiny stuhnúť do mrazničky. Počas mrazenia občas pomiešame vidličkou.
-<p>Mangovú gratinu vyberieme z mrazničky 10 minút pred servírovaním, ešte premiešame vidličkou a rozdelíme
-do 4 pohárov. Do každého pohára pridáme 1 lyžicu sirupu, 1 ližicu citrónovej šťavy a 125ml minerálky, ozdobíme citrónom.
-
-## 4. Jahodový sen 
-*4 porcie + 1 hodina chladenie*
-
-* 5 trvanlivého mlieka
-<p>8 PL lyžíc vaječného likéri
-<p>12ks jahôd
-<p>1ks nektarinka
-<p>Umyté jahody a pokrájané nektarinky (broskyne) striedavo panapichujeme na 4 špajdle. Mlieko s vaječným likérom v mise
-    vyšľaháme a dáme 1 hodinu vychladiť.
-<p>Do pohárov s ľadom nalejeme vyšľahaný koktail a ozdobíme špízmi.
-<p>5.Jahodový drink - láskanie 1 porcia
-<p>4ks čerstvé väčšie jahody
-<p>1ks šťava z jedného citróna
-* 2-3 KL ližičky práškového cukru
-<p>4cl jenmej vodky
-<p>1x krásna jahoda na ozdobenie
-<p>V mixéri všetko zmixujeme a vytvoríme husté piré, ktoré vychladené nalejeme do pohára. Na záver ozdobíme peknou
-    jahôdkou, ktorú trochu narežieme a tak ju uchytíme na pohár.
-
-## 6. Sladká túžba 
-*1 porcia*
-
-<p>1 cl Demänovka bilinný liker (becherovka)
-<p>2 cl Party Vaječný likér (aj domáci)
-<p>1 cl Nicolaus Vodka lemon
-* 1 Sunquick tropické ovocie riedený
-<p>Na ľad postupne a pomaly nalievame Vaječný likér, Nicolaus Vodku, Suqick a nakoniec Demämovku alebo
-<p>Becherovku.
-
-## 7. Báthorička drink 
-*4 porcie+ 2 hodiny chaladenie*
-
-* 500g paradajok
-<p>30cl grapefruitovej šťavy
-<p>3 x lyžice citrónovej šťavy
-<p>1 x lyžica práškového cukru
-<p>1ks citrón na ozdobenie
-<p>niekoľko lístkov medovky
-<p>(trochu vodky, ginu alebo lepšej borovičky)
-<p>Paradajky ponoríme do vriacej vody, necháme chvíľu postáť, potom olúpeme a zbavíme jadierok, dužinu rozmixujeme na
-    piré. Zmiešame paradakové piré, grapenfrutovú aj citrńovú šťavu a práškový cukor.
-<p>Dáme 2 hodiny vychladiť. Paradajkový nápoj ponalievame do pohárov s kockami ľadu. Ozdobíme plátkami citróna a
-    teňučkými pásikmi citrónovej kôry. Prípadne pridáme do nápoja trochu vodky, ginu alebo borovičky, podľa chuti.
-<p>Doplníme lístkami mädovky.
-
-## 8. Malinový ošiaľ-drink
-*30min mrazenie, 4 porcie*
-
-* 300g malín(lesných alebo záhradných)
-<p>3x lyžice práškového cukru
-<p>2x lyžice citrónovej šťavy
-<p>4cl malinového likéru (domácej malinovice)
-<p>4 cl malinového sirupu
-<p>Šampaňské - Hubert alebo ruské Igristoe,
-<p>(prípadne pridať trošku- 2 cl ruskej vodky)
-* 200g malín prepasírujeme cez sito, zmiešame s citrónovou
-<p>šťavou a cukrom a na ½ hodiny dáme zmraziť.
-<p>Malinovicu (vodku) a sirup vyšejkrujeme s ľadom.
-<p>Do vysokých pohárov dáme mierne zmrazenú malinovú masu,
-<p>dolejeme vymiešaným alkoholom (malinovica s vodkou)
-<p>a doplníme šampaňským (ľadom), ozdobíme malinami.
-* -§ namiesto alkoholu môžeme použiť mlieko, kokosové mlieko alebo dobrú chladenú minerálku.
-
-## 9. Exotické bowle so šampaňským
-
-**(perlivým vínom)**
-*4 porcie + 1 hodina marinovanie*
-
-<p>1x pappáju
-<p>1x červený melón
-<p>2x kowi
-<p>1x malú plechovku ananásu
-<p>2x limety alebo zelené citróny, rum podľa chuti
-<p>2x fľaše šampaňského alebo červeného vína
-<p>Papáju, kiwi, melónovú dužinu a 1 limetu (citrón)
-<p>pokrájame, špeciálným nástrojom môžeme robiť aj gulôčky.
-<p>Ovocie dáme do misy a premiešame s rumom a šťavou
-<p>z 1 limetu alebo citróna. Necháme 1 hodinu marinovať
-<p>v chlade.
-<p>Před podaním ovocie rozdelíme do pohárov a zalejeme chladeným šampaňským.
-
-## 10. Fair Lady drink 
-*1 porcia*
-
-<p>2 cl malinového alebo černicového likéru
-<p>2 cl pomarančového likéru
-<p>1 cl citrónovej šťavy
-<p>1x vstrek suchého šampaňského
-<p>1x plátok pomaranča na ozdobu (špajdla)
-<p>Malinový( černicový )likér aj pomarančovú šťavu a citrónovú šťavu dáme do šejkra spolu s jednou kockou ľadu, dôkladne
-    pretrasieme a vlejeme do koktailového pohára. Pridáme 1 vstrek dobře vychladeného šampaňského.
-<p>Plátok pomaranča ozdobne napichneme na špajdlu a oprieme o okraj pohára.
-<p>Zmrzlina - letná pochúťka
-
-## 11. Čokoládový bozk 
-*1 porcia*
-
-<p>3 x kopčeky čokoládovej zmrzliny 120g (150g)
-<p>5 cl whisky
-<p>čokopláda a oriešky na ozdobenie
-<p>Do mixéra nalejeme whisky a zmrzlinu a poriadne vymixujeme, Zmes má byť hustá a vláčna. Nalejeme ju do pohára a
-    ozdobíme rozdrvenými orieškami a/alebo čokoládou. Nápoj sa zvykne podáveť namiesto dezertu.
-
-## 12. Jahodové mliečko
-<p>jahody - množstvo podľa chuti
-<p>30cl mlieka
-* 50g 1 kopček jahodovej zmrzliny
-<p>Všetko vložíme do mixéra zmixujeme a podávame s ľadom.
-
-## 13. Zamatové kladivo
-<p>5 cl koňaku
-<p>8 cl likéru
-<p>15 cl koly, 1 porcia vanilkovej zmrzliny -40g
-<p>1x lyžička kakaa
-<p>V šejkry alebo odmernej nádobe zmiešame koňak, likér, kolu a kakao. Tesne před podávaním pridajme porciu vanilkovej
-    zmrzliny. Podávame vo vysokom pohári s lyžičkou.
-
-## 14. Ovocná zmrzlina
-*6-7 porcií*
-
-* 300g ovocia (jahody, čučoriedky, mandarínky, marhule,
-<p>broskyne, nektarinky...)
-* 12g balíček vanilkového cukru
-* 200g vychladnutej smotany na šľahanie
-* 200g bieleho jogurtu
-* 60g 4 lyžice práškového cukru
-<p>V jednej miske zmixujeme ovocie s cukrom a jogurtom,
-<p>v druhej vyšľaháme smotanu s vanilkovým cukrom a potom obsah misiek oparne pemiešame. Hmotu môžeme premiestniť do
-    nanukových formičiek, alebo do hlbšej nádoby, z ktorej ju budeme porciovať zmrzlinovou naberačkou.
-<p>Mrazíme najmenej 6 hodín.
-
-# Príprava aperitívov - tipy a triky
-<p>Najdôležitejšia je čistota - po použítí všetky nástoje vyčistíme, sklo vypulírujeme.
-<p>Ovocie a ľad kladieme do pohára klieštikmi alebo vidličkou. Poháre môžeme vychladiť v mraziacom boxe.
-<p>Sekt, šťavy a limonády vždy patria do chladničky.
-<p>Nápoje obložené ovocím sa servírujú na obrúsku.
-<p>Do vysokých pohárov sa používa slamka a palička na miešanie.
-
-**Zástrek citrónovou alebo pomarančovou kôrou:**
-<p>Nápoje sa dochucujú tak, že sa vezme čistý okrúhly kúsom kôry z citrusového ovocia bez dužiny, stlačním sa z nej
-    vystrekne do nápoja éterický olej, ktorý mu dodá špecialnu arómu.
-<p>Spestrením mnohých miešaných nápojov je cukrový okraj.
-<p>Do kúska citrónu narežieme ryhu hlbokú 1 cm. Vložíme do nej okraj pohára, ktorý držíme dolu hlavou, Pootáčaním ho
-    namočíme do citrónového plátku. Potom ho ponoríme do jemného cukru v miske. Môžeme využiť aj farebný cukor.
-<p>Po obvode trošku poklepeme, aby odpadli nedržiace časti.
-<p>Veľmi efektne vyzerajú aj pohárové okraje s nastrúhaným kokosom, jemnou čokoládou alebo kakaom.
-<p>Pri dekorácii platí, že menej je viac, často stačí plátok pomaranča, napichnutého na okraji pohára, prúžok limetu
-    alebo citróna, špirála citrónovej kôry, koktailová čerešňa, lístoček mäty alebo medovky. Lákavo vyzerajú aj ovocné
-    špízy s jahodou, karambolou, kivi, ananáson alebo
-<p>modrým hroznom.

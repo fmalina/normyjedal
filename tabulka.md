@@ -1,15 +1,15 @@
 # Kalkulačná normovacia tabuľka
 
 **Výživová hodnota**:
-kcal | kJ / VH | tuk(g);
-t.vs. = tuk v sušine;
-B = veľa bielkovín, v strave uplatňovať;
-T = veľa tuku, jesť opatrne;
-S = veľa sacharidov jesť premyslene;
-M = veľa minerálnych látok, v strave uprednostňovať;
-V = veľa vitamínov, v strave uprednostňovať;
-Vl = vláknina, jesť účelovo;
-R, O1, O2, V neuvedené;
+kcal | kJ / VH | tuk(g);  
+t.vs. = tuk v sušine;  
+B = veľa bielkovín, v strave uplatňovať;  
+T = veľa tuku, jesť opatrne;  
+S = veľa sacharidov jesť premyslene;  
+M = veľa minerálnych látok, v strave uprednostňovať;  
+V = veľa vitamínov, v strave uprednostňovať;  
+Vl = vláknina, jesť účelovo;  
+R, O1, O2, V neuvedené;  
 orientačná cena v Sk (2005 👾🕹️);
 
 | č.   | Potravina                             | kcal    | kJ / VH      | tuk(g) | cena   |

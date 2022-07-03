@@ -41,7 +41,7 @@
 
 ## 5. Mäsové rizoto so syrom
 * 70g ryža guľatozrnná
-<p>10+5g – masť/olej
+* 10+5g – masť/olej
 * 10g strúhaný tvrdý syr
 * 10g cibuľa
 * 65g bravčového/teľacieho/mäsa
@@ -54,10 +54,10 @@
 * 40g krupicová múka
 * 70g párkov
 * 20g masti/oleja /Príloha:špenát, tekvicový
-* 10- 20g – vajce , soľ / prívarok, hrachová kaša/
+* 10-20g – vajce, soľ / prívarok, hrachová kaša/
 
 ## 7. Zapekaná ryža s mäsom a kelom
-* 40-50g – ryža guľatozrná
+* 40-50g – ryža guľatozrnná
 * 20g masť/olej
 * 25g cibuľa
 * 50g bravčového mäsa
@@ -84,7 +84,8 @@
 * 30g zelenej papriky, 50g – rajčín
 
 ## 10. Vyprážaná saláma v zemiakovom
-<p>cestíčku
+
+cestíčku
 * 100g zemiakov/v šupke/
 * 30g krupicovej múky
 * 40g salámy
@@ -107,32 +108,35 @@
 * 50g údeného mäsa/inej údeniny
 * 20g oleja/masti
 * 10-20g – vajce, mlieko, soľ
-<p>Do múky pridáme v šupke uvarené a olúpané prelisované zemiaky, soľ, rozpustený tuk, vajce, kvások-mlieko a vypracujeme
-    cesto. Necháme na teplom mieste vykysnúť. Vykysnuté na pomúčenom lopári rozvaľkáne. Na ½ nakrojíme štvorce na každý
-    druhý dáme uvarené zomleté údené mäso, prikryjeme druhým cestom, okolo plniek cesto zľahka popritláčame a formičkou
-    vykrajujeme dolky,
-<p>ktoré necháme na pomúčenom lopári vykysnúť. Potom ich vyprážame v horúcej masti.
+
+Do múky pridáme v šupke uvarené a olúpané prelisované zemiaky, soľ, rozpustený tuk, vajce, kvások-mlieko a vypracujeme
+cesto. Necháme na teplom mieste vykysnúť. Vykysnuté na pomúčenom lopári rozvaľkáne. Na ½ nakrojíme štvorce na každý
+druhý dáme uvarené zomleté údené mäso, prikryjeme druhým cestom, okolo plniek cesto zľahka popritláčame a formičkou
+vykrajujeme dolky,
+ktoré necháme na pomúčenom lopári vykysnúť. Potom ich vyprážame v horúcej masti.
 
 ## 13. Plnené palacinky s údeninou
-<p>a tatarskou omáčkou /1ks predjedlo/
-<p>( 4 palacinky-spravíme)
+a tatárskou omáčkou /1ks predjedlo/
+
+(4 palacinky-spravíme)
 * 40g vajce(1ks)
 * 1 mlieko
 * 50g krupicovej múky, soľ,
 
 **Plnka:**
 * 120g varenej údeniny/šunky, pliecka/
-<p>1ks – vajce, ml.biele korenie,
+* 1ks – vajce, ml.biele korenie,
 * 60g strúhanky na obaľovanie
 * 20g hladkej múky –//- /V 3-obale obalíme
 * 60g olej na vyprážanie a vyprážame/
-<p>/50g – tatarská omáčka/ bazalka-prizdobíme
+* /50g – tatárska omáčka/ bazalka-prizdobíme
 
 ## 14. Slané pečivo plnené mäsom
-<p>1ks – lístkové cesto hotové(mrazené) alebo
+* 1ks – lístkové cesto hotové(mrazené) alebo
 * 250g hl.múky , 250g – margarínu
-<p>1ks:žĺtok, soľ, ocot voda-je pracné, zložené/
-<p>Plnka: 200g – údené mäso, 1ks – vajce, soľ, bele korenie
+* 1ks:žĺtok, soľ, ocot voda-je pracné, zložené/
+
+Plnka: 200g – údené mäso, 1ks – vajce, soľ, bele korenie
 
 ## 15. Žemlové knedle s údeným bôčikom
 * 50g údený bôčik -formujeme 2ks kneddličiek
@@ -141,7 +145,7 @@
 * 10g vajec (príloha: kapusta, špenát)
 * 60g mlieko
 * 25g krupicovej múky, soľ, ml.korenie,
-<p>zelený petržlen
+* zelený petržlen
 
 
 ## 16. Koložvárska kapusta II.
@@ -160,9 +164,9 @@
 * 20g vajec /1/2 ks/
 * 3g strúhanka, 5g – olej, soľ, ml.korenie
 
-## 18. Teľacia mäsová zmes, so zemiakmi,
-<p>hráškom a vajcom
-* 100g teľacieho stehna/kréjame na tenké rezance/
+## 18. Teľacia mäsová zmes, so zemiakmi, hráškom a vajcom
+
+* 100g teľacieho stehna/krájame na tenké rezance/
 * 15g masti/oleja (popražíme, hotová zmes
 * 10g cibuľa má byť vláčna)
 * 75g zemiaky/uvarené, krájané na kocky/
@@ -170,29 +174,31 @@
 * 15g zeleného hrášku, soľ, čierne korenie
 
 ## 19. Puding s údeným mäsom
-* 50g maslo -rozpustíme, pridáme múku, mlieko,
+* 50g maslo - rozpustíme, pridáme múku, mlieko,
 * 50g krupicovej múky /hustú kašu necháme
 * 2 mlieko /vychladnúť./
-<p>2ks – vajce /z bielov tuhý sneh / zamešame žĺtky
+* 2ks – vajce /z bielkov tuhý sneh / zamiešame žĺtky
 * 80g údené mäso, soľ
 * 3g tuk pokrm, 3g – strúhanka.
-<p>Vo vymastenej, strúhankou vysypanej pudigovej
-<p>forme, pomaly varíme v kastróli zakryté, voda 2/3.
+
+Vo vymastenej, strúhankou vysypanej pudingovej
+forme, pomaly varíme v kastróli zakryté, voda 2/3.
 
 ## 20. Šunka s vajcom /Hemendex/
 * 75g šunky
 * 10g masti/oleja
-<p>1ks – vajce, soľ, /žĺtok polotekutý/
+* 1ks – vajce, soľ, /žĺtok polotekutý/
 
 ## 21. Zapekané zemiaky s údeným mäsom
 * 250g zemiakov
 * 15g masť/olej
 * 15g cibuľa
-* 50g údené mäso,údenina 10g – mlieko
-<p>20+10g – vajce, soľ, vegeta, ml.krenie, červ.paprika
+* 50g údené mäso, údenina 10g – mlieko
+* 20+10g – vajce, soľ, vegeta, ml.korenie, červ.paprika
 
 ## 22. Zapekané zemiaky s kyslou kapustou
-<p>a klobásou
+a klobásou
+
 * 200g zemiaky /varené v šupke
 * 150g kyslá kapusta
 * 15g masť/olej
@@ -200,7 +206,7 @@
 * 50g klobásy
 * 5g masť na vytretie pekáča,/3g – strúhanka/
 * 0,5dl – kyslej smotany, soľ, vegeta, mleté korenie,
-<p>červená paprika
+* červená paprika
 
 ## 23. Mäsová zmes s vajcom
 * 250g zemiakov/v šupke, krájané na krížalky/
@@ -230,20 +236,20 @@
 ## 26. Vyprážané rizolety
 *2 väčsie porcie*
 
-<p>1ks – vajce, /palacinky-1/2 na seba/
+* 1ks – vajce, /palacinky-1/2 na seba/
 * 2 mlieko
 * 100g krupicová múka/detská krupica/
 * 40g oleja na pečenie, soľ ;
 
 **Obaľovanie:**
-<p>1ks – vajce
+* 1ks – vajce
 * 80g hladká múka /mlieko/
 * 80g strúhanky
 * 80g oleja na vyprážanie
 
 **Plnka:**
-* 200g hovädieho mäsa – uvareného zomletého
-<p>alebo mletého mladého hov. mäsa - uduseného
+* 200g hovädzieho mäsa – uvareného zomletého
+  alebo mletého mladého hov. mäsa - uduseného
 * 20g masla, 1dl – mlieko
 * 40g krupicovej múky, soľ, ml.biele korenie.
 
@@ -258,7 +264,8 @@
 * 0,3dl – mlieko, soľ, ml.korenie
 
 ## 28. Čochašbili-dusené baranie mäso
-<p>so zemiakmi.
+so zemiakmi
+
 * 200g baranieho mäsa s lopatky /vykostíme/
 * 10g masti (Mäso krájame na kocky, dusíme
 * 20g cibuľa potom-zemiaky na krížalky/
@@ -267,7 +274,7 @@
 ## 29. BIGAS-Bravčové mäso v kapuste
 * 120g kyslá kapusta
 * 10g masti/oleja
-* 15g cibuľa /bravč.mäso upečieme/
+* 15g cibuľa /bravč. mäso upečieme/
 * 150g bravčového pliecka, soľ, vegeta, rasca
 
 ## 30. Čebureky/vyprážané plnené-na ½ klieská/
@@ -285,7 +292,7 @@
 ## 31. Kelová fašírka
 * 150g kelu, soľ
 * 20g vajec
-* 25g žemla/rožok -1/2ks
+* 25g žemľa/rožok -1/2ks
 * 15g údenej slaninky
 * 10g cibuľa, cesnak, čierne korenie
 * 10g strúhanky
@@ -327,7 +334,7 @@
 * 120g čerstvých hríbov/šampiňónov/-podusíme
 * 5g masti/oleja /-premiešané, necháme chvíľu
 * 5g cibuľa stáť, aby krupica napučala,
-* 20g žemla- ½ks formujeme valčeky/
+* 20g žemľa- ½ks formujeme valčeky/
 * 10g krupica/detská krupica/
 * 15g strúhanky
 * 20g masti
@@ -383,7 +390,8 @@
 * soľ, 0,3dl – kyslej smotany
 
 ## 45. Varené fazuľové struky so strúhankou
-<p>Varený kel so strúhankou
+
+Varený kel so strúhankou
 * 200g jemných žltých strukov
 * -„- : pekných hlávok kelu, kelových ružičiek
 * 20g masla
@@ -391,7 +399,7 @@
 
 ## 46. Zapekané kelové ružičky
 * 100g kelových rižičiek, soľ
-* 25g žemla/rožok
+* 25g žemľa/rožok
 * 10g masti
 * 5g cibuľa
 * 50g údeniny
@@ -411,17 +419,19 @@
 * 10g maslo na plech
 
 ## 48. Puding z miešanej zeleniny
-<p>/2formy: porcie po 200g/
+
+/2formy: porcie po 200g/
 * 100g zelenina /príloha: zemiaková kaša/
 * 30g masla
 * 30g krupicovej múky /detská krupica/
 * 20g masla a 20g – krupice na formičky
 * 80g vajcia- 2ks
 * 1 mlieko, zelený petržlen, voda, soľ
-<p>Do rozpusteného masla zamiešame múku, trochu popražíme, zalejeme mliekom a povaríme na hustú kašu.Do vychladnutej
-    kašezamiešame žltky.uvarenú pokrákanú zeleninu, posekaný zelený petržlen, soľ a z bielkov tuhý sneh.Zľahka zamiešame,
-    dáme do vymastených krupicou vysypaných formičiek, alebo do bábovkovej formy .Vložíme do väčšej nádoby s vodou do ¾
-    formy, prikryjeme a varíme asi ½ hodiny.
+
+Do rozpusteného masla zamiešame múku, trochu popražíme, zalejeme mliekom a povaríme na hustú kašu.Do vychladnutej
+kašezamiešame žltky.uvarenú pokrákanú zeleninu, posekaný zelený petržlen, soľ a z bielkov tuhý sneh.Zľahka zamiešame,
+dáme do vymastených krupicou vysypaných formičiek, alebo do bábovkovej formy. Vložíme do väčšej nádoby s vodou do ¾
+formy, prikryjeme a varíme asi ½ hodiny.
 
 ## 49. Dusený karfiol s vajíčkom
 * 150g karfiolu / porcia:200g /
@@ -438,7 +448,8 @@
 * 5g masla na formu,
 
 ## 51. Zapekaný karfiol/so šunkou/
-<p>/.Zapekaná žltá fazuľka. /
+
+/.Zapekaná žltá fazuľka. /
 * 150g karfiolu/žltej fazuľky (porcia: 250g)
 * 15g masla 30g – šunky/údeniny/
 * 3g strúhanky
@@ -491,7 +502,8 @@
 * 50g rajčín, soľ
 
 ## 58. Knedle s vajcom /v šľahanom vajci/
-<p>/80g/: zvyšok knedlí od obeda
+
+/80g/: zvyšok knedlí od obeda
 * 15g slaninky 10g – hladká múka
 * 40g vajce/1ks/ 1ks – vajce
 * soľ, korenie trochu mlieka
@@ -521,13 +533,13 @@
 * 5g masti
 * 10g masti/oleja
 * 20g cibuľa (-pažítka), soľ
-<p>/Zemiky pokrájané uvaríme v osolenej vode,
-<p>z 2/3 ocedíme, posypeme múkou, premiešame,
-<p>prikryjeme a necháme cvíľuna kraji šporáka
+
+/Zemiaky pokrájané uvaríme v osolenej vode,
+z 2/3 ocedíme, posypeme múkou, premiešame,
+prikryjeme a necháme chvíľu na kraji šporáka
 * -platni stáť, potom vymiešame na hladké
-<p>cesto a lyžicou namočenou v masti vykra-
-<p>jujeme šklbance, posypeme pokrájanou
-<p>cibuľkou opraženou na masti./
+cesto a lyžicou namočenou v masti vykrajujeme šklbance, posypeme pokrájanou
+cibuľkou opraženou na masti./
 
 ## 63. Krupicové smažienky /zeleninovo-syrové/
 * 40g krupice, 5g – tuku, 10g – tvrdého syru,
@@ -535,14 +547,14 @@
 * 10g vajce, 1dl – vody, soľ
 
 ## 64. Karbonátky s ovsených vločiek
-<p>/Zavaríme ovsenné vločky a varíme, kým
-<p>nevznikne hustá kaša, necháme vychladnúť/
+
+/Zavaríme ovsenné vločky a varíme, kým hustá kaša, necháme vychladnúť/
 * 25g ovsené vločky
-* 3g masti -Na obalenie:5-10g – hladkej múky
+* 3g masti - Na obalenie 5-10g – hladkej múky
 * 4g cibuľa 20g – strúhanky
 * 10g vajce, cesnak 15g – vajce
 * 5g strúhanky 25g – masti, tuku
-<p>0,75:dl vody
+* 0,75:dl vody
 
 ## 65. Grenadír
 * 15g masti
@@ -589,7 +601,7 @@
 * 75g kukuričnej krupice /varíme 15-20 minút/
 * 10g masti/masla 5g – masla-navrch
 * 10g cibuľky /pažítka/
-<p>asi-2,5dl vody, soľ, vegeta
+* asi-2,5dl vody, soľ, vegeta
 
 ## 71. Zemiakové pirohy so syrom a kôprom
 * 125g krupicovej múky, soľ, voda
@@ -600,24 +612,27 @@
 * 5g kôpru do plnky
 
 ## 72. Zemiakové amolety
-<p>so slivkovým lekvárom a makom
-<p>/Moravská špecialita-Kunovice n/Olš./
+
+so slivkovým lekvárom a makom
+
+/Moravská špecialita-Kunovice n/Olš./
 * 200g zemiakov /vypracujeme cesto,
 * 40-50g – hladká múka pokrájame ho na kúsky,
-<p>krupica na pomúčenom lopári
-<p>(10g – vajcia) rozvaľkáme do kruhu
+* krupica na pomúčenom lopári
+* (10g – vajcia) rozvaľkáme do kruhu
 * 15g masti, soľ na hrúbku stebla,
-<p>Pečieme: na horúcej čistej platni./
+
+Pečieme: na horúcej čistej platni./
 * 20g mletého maku, 15g – práškový cukor
-* 40g slivkový lekvár - skladáme, pomažeme,
-<p>posypeme.
+* 40g slivkový lekvár - skladáme, pomažeme, posypeme.
 
 ## 73. Ryžová sadlina
-* 60g udusenej guľatozrnej ryže
+* 60g udusenej guľatozrnnej ryže
 * 80g vajcia-2ks
 * 1 mlieko, soľ, 
 * 5g jedlý rastlinný tuk
-<p>Vymastenú formu, varíme vo väčšej nádobe-prikrytej asi 15 minút
+
+Vymastenú formu, varíme vo väčšej nádobe-prikrytej asi 15 minút
 
 
 ## 74. Domáce rezance s krupicou/strúhankou
@@ -626,7 +641,8 @@
 * 10g vajce, soľ /cukor-alebo slaninka/
 
 ## 75. Domáce rezance s makom, orechmi
-<p>alebo sušenými hruškami
+
+alebo sušenými hruškami
 * 100g krupicovej múky
 * 10g masť/olej
 * 10g mak.orechy, sušené hrušky
@@ -645,7 +661,8 @@
 * 15g masť
 * 150g hlavková kapusta
 * 10g vajce, soľ, ml.korenie, ocot-citrón šťava,
-<p>cukor/sachrín/
+
+cukor/sacharín/
 
 ## 78. Zapekané domáce rezance
 * 100g krupicovej /hrubej/múky
@@ -671,7 +688,7 @@
 * 3g cukru /múka-kvások
 * 100g krupicovej múky
 * 20g masti/oleja /-pagáčiky vyprážame/
-<p>½: žĺtok
+* ½: žĺtok
 * 0,5dl – mleko, soľ, biele korenie
 
 ## 81. Dusená ryža so slivkami
@@ -721,9 +738,10 @@
 * 20g vajce –až 1ks alebo škorica/
 * 0,6dl – mlieko
 * 0,2dl – malinová šťava
-<p>Postup: krupicu zalejeme mliekom, necháme ¼ hod.stáť, žĺtky vymiešame s cukrom,
-    pridáme soľ, namočenú krupicu, tuhý sneh, ľahko premiešame a dáme piecť na pekáč s rozpust.
-    maslom. Po upečení vidličkou potrháme a posypeme vanilkovým cukrom, pokvapkáme šťavou
+
+Postup: krupicu zalejeme mliekom, necháme ¼ hod.stáť, žĺtky vymiešame s cukrom,
+pridáme soľ, namočenú krupicu, tuhý sneh, ľahko premiešame a dáme piecť na pekáč s rozpust.
+maslom. Po upečení vidličkou potrháme a posypeme vanilkovým cukrom, pokvapkáme šťavou
 
 ## 86. Zapekané palacinky s tvarohom
 * 75g krupicovej/hladkej múky
@@ -781,7 +799,7 @@ So strúhaným tvarohom, mletým makom, orechmi
 
 ## 90. Marhuľové knedličky so strúhankou
 * 100g krupicovej múky / makom, tvarohom /
-<p>5+10g – masla, 15g – práškový cukor
+* 5+10g – masla, 15g – práškový cukor
 * 125g marhúľ, 1/2dl – mlieko, 10g – vajce
 * 15g strúhanky/maku, 25g – tvarohu, soľ
 
@@ -800,13 +818,14 @@ Plnené lekvárom, čučoriedkami
 ## 92. Lievance
 * 100g krupicovej múky/detská krupica/
 * 5g droždia
-<p>5+10g – cukru/práškového cukru
+* 5+10g – cukru/práškového cukru
 * 20g masť/olej
 * 40g lekváru, marmelády, džemu
 * 10g vajce- ¼ ks
 * 1,25dl – mlieko podľa potreby, soľ
-<p>(cesto kysnuté, hustejšie ako na palacinky,
-<p>opekáme-forma, panvica na lievance)
+
+(cesto kysnuté, hustejšie ako na palacinky,
+opekáme-forma, panvica na lievance)
 
 ## 93. Tvarohové rezance s kôprom
 
@@ -819,11 +838,12 @@ Plnené lekvárom, čučoriedkami
 * 0,3dl – kyslej smotany, soľ, čerstvý kôpor.
 
 ## 94. Tvarohová žemľovka s jablkami
-<p>a hrozienkami. /asi-400g/
+
+a hrozienkami. /asi-400g/
 * 100g žemlí/rožkov/
 * 5g cukru, 5g – práškového cukru-posypanie
 * 75g tvarohu
-<p>5+10g – masla (5g – rastl.tuk, 3g – strúhanka)
+* 5+10g – masla (5g – rastl.tuk, 3g – strúhanka)
 * 60g jablká
 * 5g hrozienka
 * 1,25dl – mlieko, soľ, citrónová kôra.
@@ -860,7 +880,7 @@ z cesta na hrúbku palca maličkou okrúhlou formičkou vykrajujeme dukátiky
 * 100g žemlí/rožkov
 * 5g cukru
 * 150g jabĺk
-<p>10+5g – práškového cukru
+* 10+5g – práškového cukru
 * 10g masla, 5g – rastl.tuk, 3g – strúhanka
 * 1 mlieko, soľ, škorica
 
@@ -871,8 +891,8 @@ z cesta na hrúbku palca maličkou okrúhlou formičkou vykrajujeme dukátiky
 * 10g masla na pekáč
 * 5g cukru na posypanie /žltok s tvarohom,
 * 10g vajce- ¼ až ½ks bielok-tuhý sneh/
-<p>: mlieko-kávová lžica, soľ, citrónova kôra,
-<p>ovocná šťava
+* mlieko-kávová lyžica, soľ, citrónova kôra,
+* ovocná šťava
 
 ## 99. Tvarohové knedličky s ovocím
 * 5-10g – masla
@@ -880,7 +900,7 @@ z cesta na hrúbku palca maličkou okrúhlou formičkou vykrajujeme dukátiky
 * 100g tvarohu /jemný alebo zomelieme/
 * 15g strúhanky
 * 10g vajce
-* 40-50g – žemla, rožok-1 ks
+* 40-50g – žemľa, rožok-1 ks
 * 0,4dl – mlieko, soľ, citrónová kôra
 * 50g ovocie alebo 30g – džemu
 
@@ -902,15 +922,16 @@ z cesta na hrúbku palca maličkou okrúhlou formičkou vykrajujeme dukátiky
 * 10g vajce, voda, soľ.(varíme 3-4 minúty)
 
 ## 102. Tvarohové syrníky
-<p>so smotanou a škoricou
+
+so smotanou a škoricou
 * 125g tvarohu
 
 **Postup:**
 * 12-15g – práškového cukru /cesto veľkosti
 * 15g masla, 20g – vajce- ½ ks, orecha, roztla-
 * 20g krupicovej múky čené do formy
-<p>17,5g – krupice/detská/, soľ pagáčika varíme
-<p>0,5dl:šľahačkovej smotany vo vriacej vode/
+* 17,5g – krupice/detská/, soľ pagáčika varíme
+* 0,5dl:šľahačkovej smotany vo vriacej vode/
 * 5g škoricového cukru
 
 # Zemiakové jedlá:
@@ -936,7 +957,7 @@ z cesta na hrúbku palca maličkou okrúhlou formičkou vykrajujeme dukátiky
 * 25g čerstvých hríbov, 2g – cukru/umelé slad./
 * 10g hladkej múky (30-50g – klobása)
 * 0,5dl – smotany alebo mlieka, soľ, ocot,
-<p>bobkový list, mleté čierne korenie
+* bobkový list, mleté čierne korenie
 
 ## 106. Zemiakové rezne s hríbami plnené kelom
 * 150g zemiakov, soľ /2 porcie:200-240g/
@@ -987,8 +1008,8 @@ z cesta na hrúbku palca maličkou okrúhlou formičkou vykrajujeme dukátiky
 * 15g masti na plech
 * 50g koreňovej zeleniny / + šalát/
 * 5g tuku, 10g – vajce, soľ, zelená majorámka,
-<p>vegeta, drtený kmín
-<p>+30g – bravčová(teľacia)pečeň
+* vegeta, drtený kmín
+* +30g – bravčová(teľacia)pečeň
 * 10g cibuľa
 
 ## 114. Francúzke prekladané zemiaky
@@ -999,7 +1020,7 @@ z cesta na hrúbku palca maličkou okrúhlou formičkou vykrajujeme dukátiky
 * 5g masti na pekáč zeler, pór/
 * 30g vajce-až 1ks
 * 0,5dl – smotana, mlieko, soľ, vegeta,
-<p>biele korenie.
+* biele korenie.
 
 ## 115. Zemiakový nákyp s orechami a šťavou
 * 100g zemiakov
@@ -1007,7 +1028,7 @@ z cesta na hrúbku palca maličkou okrúhlou formičkou vykrajujeme dukátiky
 * 10g orechov 5g – masla, 5g – detskej krupice
 * 0,5dl – ovocnej šťavy
 * 30g vajce – 1ks/z bielka tuhý sneh,
-<p>citrónová kôra, soľ (vo forme upečieme)
+* citrónová kôra, soľ (vo forme upečieme)
 
 ## 116. Zemiakové šúľance s makom /:250g/
 * 150g zemiakov /cesto rozšúľame na valček
@@ -1031,16 +1052,17 @@ z cesta na hrúbku palca maličkou okrúhlou formičkou vykrajujeme dukátiky
 * 50g krupicovej múky
 * 10g maslo
 * 60g tvarohu
-<p>5+10g – práškového cukru
+* 5+10g – práškového cukru
 * 10g strúhanky
 * 10g vajce-1ks, 1 žĺtok, voda, soľ
 
 ## 119. Slivkové knedličky s makom
-<p>Marhuľové knedličky s makom
+
+Marhuľové knedličky s makom
 * 150g zemiakov
 * 50g krupicovej múky, soľ
 * 125g sliviek bez kôstok /umyté, utreté/
-<p>marhúľ -//–
+* marhúľ -//–
 * 10g masla
 * 15g mletého maku / 20g /
 * 15g cukru
@@ -1070,8 +1092,8 @@ z cesta na hrúbku palca maličkou okrúhlou formičkou vykrajujeme dukátiky
 * 10g údená prerastaná slanina/šunka/
 * 10g zeleného hrášku
 * 15g zemiakov/v šupke/
-* 60g vajec- 1,5 ks, soľ, bielekorene
-<p>pažítka, bazalka
+* 60g vajec- 1,5 ks, soľ, biele korenie
+* pažítka, bazalka
 
 ## 123. Pražené vajcia s údeným mäsom
 * 60g vajec,
@@ -1080,8 +1102,10 @@ z cesta na hrúbku palca maličkou okrúhlou formičkou vykrajujeme dukátiky
 * soľ, biele korenie, pažítka
 
 ## 124. Šunková omeleta /120g – hmotnosť/
-<p>Špenátová omeleta
-<p>(Vaječná omeleta) 10g – masti/oleja
+
+Špenátová omeleta
+
+(Vaječná omeleta) 10g – masti/oleja
 * 50g šunky, 40g – špenátu
 * 50g vajec /5g – hladká múka/
 * 5g mlieko/lyžička/
@@ -1128,7 +1152,7 @@ z cesta na hrúbku palca maličkou okrúhlou formičkou vykrajujeme dukátiky
 * 20g strúhanky
 * 30g masti/oleja
 * 10-20g – vajce- ¼ - ½ ks
-<p>0,3-0,5dl – mlieko
+* 0,3-0,5dl – mlieko
 
 ## 130. Syrové karbonátky
 * 50g zemiakov + rajčinová omáčka
@@ -1154,10 +1178,10 @@ z cesta na hrúbku palca maličkou okrúhlou formičkou vykrajujeme dukátiky
 * 20g paprika
 * 10g vajce- ¼ ks
 * 15g kyslá uhorka, horčica, sardelová pasta
-* -na chlebíčky môžeme dať aj guľočky
-<p>z bryndze, obalené v červenej paprike,
-<p>vlašský a rybací šalát,
-<p>kúsok sardinky, zelený petržlen.
+* -na chlebíčky môžeme dať aj guľôčky
+z bryndze, obalené v červenej paprike,
+vlašský a rybací šalát,
+kúsok sardinky, zelený petržlen.
 
 ## 133. Šunková kapusta zapekaná
 * 200g kyslej kapusty 2 porcie asi 250g
@@ -1167,21 +1191,25 @@ z cesta na hrúbku palca maličkou okrúhlou formičkou vykrajujeme dukátiky
 * 30g ryže
 * 10g cibule
 * 0,5dl smotany
-<p>olej, mleté korenie, mletá paprika, soľ
-<p>Postup: Kapustu, šunku a slaninku dusíme, kým sa voda neodparí. K bravčovému mletému mäsu primiešame z polovice
-    podusenú ryžu, dochutíme,
-<p>pridáme opraženú cibuľku, dobre spracujeme.
-<p>Vymastíme zapekaciu misu, na dno dáme natenko pokrájanú šunku, vrstvu kapusty, vrstvu mäsa,
-<p>znovu kapustu a vrstvu mäsa, navrchu musí byť kapusta.Polejeme smotanou a pod pokrievkou upečeieme v rúre.
+* olej, mleté korenie, mletá paprika, soľ
+
+Postup: Kapustu, šunku a slaninku dusíme, kým sa voda neodparí. K bravčovému mletému mäsu primiešame z polovice
+podusenú ryžu, dochutíme,
+pridáme opraženú cibuľku, dobre spracujeme.
+
+Vymastíme zapekaciu misu, na dno dáme natenko pokrájanú šunku, vrstvu kapusty, vrstvu mäsa,
+znovu kapustu a vrstvu mäsa, navrchu musí byť kapusta.Polejeme smotanou a pod pokrievkou upečeieme v rúre.
 
 ## 134. Veľkonočná hrudka
-<p>2 l mlieka
-<p>13ks domácich vajec
+* 2l mlieka
+* 13ks domácich vajec
 * soľ, cukor, hrozienka
-<p>Na malom ohni pomaly a za stáleho miešania varíme mlieko s vajíčkami. Primerane osolíme a ocukríme. Keď sa vajíčka
-    zrazia, asi po hodine, môžeme pridať hrozienka, hmotu zlejeme do plátna alebo utierky, pevne zviažeme a necháme asi
-    4 hodiny odkvapkať a stuhnúť.
-<p>Podávame s údeným mäsom cviklou a chrenom.
+
+Na malom ohni pomaly a za stáleho miešania varíme mlieko s vajíčkami. Primerane osolíme a ocukríme. Keď sa vajíčka
+zrazia, asi po hodine, môžeme pridať hrozienka, hmotu zlejeme do plátna alebo utierky, pevne zviažeme a necháme asi
+4 hodiny odkvapkať a stuhnúť.
+
+Podávame s údeným mäsom cviklou a chrenom.
 
 ## 135. Vajcia plnené údenáčom (predkrm)
 * 80g vajcia natvrdo 2ks porcia asi 170g
@@ -1189,13 +1217,15 @@ z cesta na hrúbku palca maličkou okrúhlou formičkou vykrajujeme dukátiky
 * 60g údenáča
 * soľ, biele mleté korenie
 * červená paprika, zelený petržlen
-<p>trošku citrónovej šťavy, horčica
-<p>Žĺtok z uvarených rozpolených vajec premiešame s maslom, trochu osolíme, pridáme prelisovaného údenáča, dochutíme
-    citrónovou šťavou, horčicou, všetko dobre premiešane. Zmes nastriekame s vreckom s hviezdičkou do pripravených
-    polovíc vajec a ozdobíme červenou paprikou pokrájanou na kocky a zeleným pertržlenom.
+* trošku citrónovej šťavy, horčica
 
-## 136. Horúce stratené vajcia poliate
-<p>kôprovou omáčkou
+Žĺtok z uvarených rozpolených vajec premiešame s maslom, trochu osolíme, pridáme prelisovaného údenáča, dochutíme
+citrónovou šťavou, horčicou, všetko dobre premiešane. Zmes nastriekame s vreckom s hviezdičkou do pripravených
+polovíc vajec a ozdobíme červenou paprikou pokrájanou na kocky a zeleným pertržlenom.
+
+## 136. Horúce stratené vajcia
+
+poliate kôprovou omáčkou
 * 80g vajcia 2ks porcia 220g
 * voda, soľ, ocot
 
@@ -1205,13 +1235,16 @@ z cesta na hrúbku palca maličkou okrúhlou formičkou vykrajujeme dukátiky
 * 1 mlieko (smotana)
 * 5g cukru
 * ocot, kôpor
-<p>Do mierne vrejúcej okyselenej a posolenej vody opatrne vyklopíme čerstvé domáce vajcia a necháme bielky zraziť.
-<p>Na omáčku z masla a múky urobíme bledú zápražku, zalejeme studeným mliekom (smotanou) a vodou, posolíme a
-    povaríme, nakoniec osladíme, okyslíme a pridáme posekaný kôpor. Vajcia podávame s omáčkou, ako prílohu zemiakové
-    piré.
+
+Do mierne vrejúcej okyselenej a posolenej vody opatrne vyklopíme čerstvé domáce vajcia a necháme bielky zraziť.
+
+Na omáčku z masla a múky urobíme bledú zápražku, zalejeme studeným mliekom (smotanou) a vodou, posolíme a
+povaríme, nakoniec osladíme, okyslíme a pridáme posekaný kôpor. Vajcia podávame s omáčkou, ako prílohu zemiakové
+pyré.
 
 ## 137. Zapekané štrasburské zemiaky
-<p>3 porcie po 275g
+
+3 porcie po 275g
 * 100g šunkovej salámy
 * 10g masla
 * 10g pokrmového tuku
@@ -1219,46 +1252,52 @@ z cesta na hrúbku palca maličkou okrúhlou formičkou vykrajujeme dukátiky
 * 40g vajce 1 ks
 * 600g zemiakov
 * 10g rajčinového pretlaku-talianského
-<p>vývar z kostí, červená paprika,
+* vývar z kostí, červená paprika,
 * soľ, biele korenie
-<p>Na vymastený pekáč dáme vrstvu obielených,
-<p>v šupke uvarených zemiakov pokrájaných na plátky, pridáme časť jemno nakrájanej šunkovej salámy, časť postrúhaného
-    syra a vrstvy striedame tak, aby navrchu boli zemiaky.
-<p>Do vývaru pridáme čerstvé domáce vajcia, rajčinový pretlak, soľ, papriku, biele korenie
-<p>všetko rozšľaháme a zemiaky zalejeme. Povrch
-<p>posypeme zvyškom syra, pokvapkáme rozpusteným
-<p>maslom a pol hodinu doružova zapekáme.
+
+Na vymastený pekáč dáme vrstvu obielených,
+v šupke uvarených zemiakov pokrájaných na plátky, pridáme časť jemno nakrájanej šunkovej salámy, časť postrúhaného
+syra a vrstvy striedame tak, aby navrchu boli zemiaky.
+
+Do vývaru pridáme čerstvé domáce vajcia, rajčinový pretlak, soľ, papriku, biele korenie
+všetko rozšľaháme a zemiaky zalejeme. Povrch
+posypeme zvyškom syra, pokvapkáme rozpusteným
+maslom a pol hodinu doružova zapekáme.
 
 ## 138. Klopsy plnené syrom
-<p>2 porcie po 200g
+
+2 porcie po 200g
 * 200g mletého mäsa (mladý býk)
 * 20g vajce ½ ks
-<p>1ks žemľa, rožok alebo ½ ks
+* 1ks žemľa, rožok alebo ½ ks
 * 20g cibuľa
 * 3g cesnaku
 * 25g slnečnicový olej
 * 10g pikantný kečup
 * 50g tvrdého syra
 * 10g strúhanka
-* soľ, mleté biele korenie,
-<p>zelená petržlenová vňať
-<p>Žemľu namočíme v studenej vode.Cibuľu a cesnak nakrájame nadrobno, opražíme a necháme vychladnúť. Do mäsa pridáme
-    vytlačenú žemľu, kečup, posekanú vňať, soľ, korenie, opraženú cibuľkua cesnak a premiešame. Z mäsovej hmoty lyžicou
-    naberáme kôpzy, do každej vtlačíme kocku syra a navlhčenými rukami sformujeme guľky. Obalime ich v strúhanke a zo
-    všetkých strán vypražíme na rozohriatom oleji.
-<p>Podávame so zeleninou a zemiakmi.
+* soľ, mleté biele korenie
+* zelená petržlenová vňať
+
+Žemľu namočíme v studenej vode.Cibuľu a cesnak nakrájame nadrobno, opražíme a necháme vychladnúť. Do mäsa pridáme
+vytlačenú žemľu, kečup, posekanú vňať, soľ, korenie, opraženú cibuľku a cesnak a premiešame. Z mäsovej hmoty lyžicou
+naberáme kôpky, do každej vtlačíme kocku syra a navlhčenými rukami sformujeme guľky. Obalíme ich v strúhanke a zo
+všetkých strán vypražíme na rozohriatom oleji.
+
+Podávame so zeleninou a zemiakmi.
 
 ## 139. Grécke plnené paradajky
 * 150g paradajky
-* 60g cerstovín
+* 60g cestovín
 * 5g strúčik cesnaku
 * 30g paprika
 * 25g šunky
 * 25g tvrdého syra
-* 25g píniovích semenok
+* 25g píniových semienok
 * soľ, korenie, citrónová šťava,
-<p>štipka tymianu
-<p>Vydlabeme paradajky, cestoviny dáme variť do slanej vody, nadrobno nakrájame cesnak, papriku aj šunku, ktoré opečieme
-    na oleji. Píniové semienká opražíme na suchej panvici. Všetky prísady vmiešame spolu s nakrájaným syrom do cestovín,
-    osolíme, okoreníme, ochutíme citrónovou šťavou a touto zmesou naplníme vnútro paradajok. Podávame ihneď alebo
-    zapečieme na grile.
+* štipka tymianu
+
+Vydlabeme paradajky, cestoviny dáme variť do slanej vody, nadrobno nakrájame cesnak, papriku aj šunku, ktoré opečieme
+na oleji. Píniové semienká opražíme na suchej panvici. Všetky prísady vmiešame spolu s nakrájaným syrom do cestovín,
+osolíme, okoreníme, ochutíme citrónovou šťavou a touto zmesou naplníme vnútro paradajok. Podávame ihneď alebo
+zapečieme na grile.

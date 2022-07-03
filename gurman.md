@@ -178,7 +178,7 @@ Ryža je jednou zo základných potravín v zdravej výžive a je vhodná pri di
 * Ak sa tento zložitý sacharid konzumuje bez doplnkových bielkovín, povzbudzuje mozog, aby produkoval viac hormónu
  serotonínu, ktorý vyvoláva pocit uspokojenia a šťastia,
 * Je zdrojom cholínu, prospešného pre pamäť, železa i vápnika,
- * Vitamíny skupiny B, hlavne v ryži naturál sú prospešné při zvládaní stresov,
+ * Vitamíny skupiny B, hlavne v ryži naturál sú prospešné pri zvládaní stresov,
  * V ryži sú zložky, ktoré brzdia tvorbu nádorov, znižujú riziko črevných ochorení, ustaľujú hladinu cukru v krvi,
  * Ryža je bezlepková a nealergénna potravina, vhodná pre každého kto neznáša pšenicu/lepok/
 
@@ -319,7 +319,7 @@ Hranolky, kroketky, lupienky, atď. Sú výborné a také nezdravé ako kupovan�
 ### Mäso /Pečeň/
 
 
-1. Pečeň je chutnejšia, jemnejšia, keď ju před prípravou necháme namočenú v mlieku, vždy solíme až po príprave, inak
+1. Pečeň je chutnejšia, jemnejšia, keď ju pred prípravou necháme namočenú v mlieku, vždy solíme až po príprave, inak
  by stvrdla.
  - Párky vo väčšom množstve sa najlepšie pripravia keď ich vložíme do studenej vody a vyberieme hneď len čo začne
  vrieť.

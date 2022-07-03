@@ -73,7 +73,7 @@
 
 * 120g teľacieho mäsa
 * 5g slaniny prerastanej
-* 10g cibuľe
+* 10g cibule
 * 5g oleja
 * 5g hladkej múky
 * soľ, vegeta, celé a nové korenie, bobkový list

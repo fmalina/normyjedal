@@ -65,7 +65,7 @@
 * 3g rajčinový pretlak
 * 10g varená ryža
 * 2g soľ /vegeta/, štipka petržlenovej vňate
-<h2 id="rajcinova">Rajčinová polievka s ryžou
+## <a name="rajcinova"></a>Rajčinová polievka s ryžou
 
 * 15g zadné hovädzie mäso /20g – hovädz. kostí – vývar/
 * 5g cibuľa
@@ -86,14 +86,11 @@
 * 20g zemiaky
 * 2g pasírovaný cesnak
 
-<h2 id="drobkova">Drobková, kuracia polievka s rezancami
+## <a name="drobkova"></a> Drobková, kuracia polievka s rezancami
 
 * 50g kurčacích drobkov /300g vývaru, kocka slepačieho bujónu na 3 porcie/
-    <tr>
-        <td>* 30g</td>
-        <td><p>očistenej koreňovej zeleniny
-            <p>mrkva, petržlen, zeler
-
+* 30g očistenej koreňovej zeleniny  
+      mrkva, petržlen, zeler
 * 10g varených polievkových rezancov /5g cestovina/
 * 3g slnečnicový olej
 * soľ, štipka petržlenovej vňate, biele korenie ml. celé nové korenie, celé čierne korenie
@@ -132,7 +129,7 @@
 * soľ, vegeta, biele korenie mleté, celé korenie, nové korenie, štipka petržlenovej vňate,
   čerstvej majoránky a bazalky, bobkový list
 
-<h2 id="kapustnica">Vianočná kapustnica /Novoročná kapustnica/
+## <a name="kapustnica"></a> Vianočná kapustnica /Novoročná kapustnica/
 
 * 150g mäsového vývaru
 * 50g kyslej kapusty
@@ -146,11 +143,8 @@
 * 30g smotana /kyslá, šľahačková/
 * 50g údené koleno /alebo šunka/
 * 30g debrecínskej /vianočnej/ domácej klobásy
-    <tr>
-        <td></td>
-        <td><p>drvená rasca, kôpor podľa chuti alebo štipka petržlenovej vňate, cesnak, soľ, červená paprika mletá
+* drvená rasca, kôpor podľa chuti alebo štipka petržlenovej vňate, cesnak, soľ, červená paprika mletá
         
-
 
 ## Kapustnica s mäsom a klobásou - Silvestrovská (Kapustnica+)
 
@@ -159,7 +153,6 @@
 * 3g cesnak /čistá, pikantnejšia/
 
 Po pridaní cesnaku bude polievka čistá, pikantnejšia.
-
 
 ## Boršč
 
@@ -203,9 +196,9 @@ Vodu počas varenia držiek niekoľko krát vymieňame.
 * 30g koreňová zelenina
 * 20g pór
 * 10g cesnak
-*  soľ, mleté korenie biele, štipka petržlenovej vňate
+* soľ, mleté korenie biele, štipka petržlenovej vňate
 
-<h2 id="rybacia">Slávnostná rybacia polievka
+## <a name="rybacia"></a> Slávnostná rybacia polievka
 
 * 100g rybie filé
 * 30g kreviet
@@ -216,7 +209,7 @@ Vodu počas varenia držiek niekoľko krát vymieňame.
 * 30g až 50g rajčiny
 * 10g masla
 * 100g zeleninový vývar /zo zeleninového bujónu/
-*  soľ /vegeta/, estragón, šafran, petržlenová vňať, suché biele vínko
+* soľ /vegeta/, estragón, šafran, petržlenová vňať, suché biele vínko
 
 ## Halászlé - rybia polievka
 
@@ -307,7 +300,7 @@ Vodu počas varenia držiek niekoľko krát vymieňame.
 * 5g masť, olej
 * voda, soľ, vegeta, ocot, cukor - sacharín, korenie, kôpor
 * 
-<h2 id="kelova">Kelová polievka
+## <a name="kelova"></a>Kelová polievka
 
 * 40g kel
 * 5g masť, olej
@@ -318,7 +311,7 @@ Vodu počas varenia držiek niekoľko krát vymieňame.
 
 ## Kalerábová polievka
 
-*  podobná norma ako [Kelová polievka](#kelova)
+podobná norma ako [Kelová polievka](#kelova)
 * 30g kaleráb, pokrájaný na rezance
 * + iná zelenina, mrkva
 * 5g masť, olej
@@ -367,7 +360,7 @@ Vodu počas varenia držiek niekoľko krát vymieňame.
 
 Suché strukoviny je lepšie večer pred varením namočiť do vody so štipkou sódy bikarbóny.
 
-cFazuľová so slaninou a kapustou
+## Fazuľová so slaninou a kapustou
 
 * 50g bravčových kostí
 * 50g kyslej kapusty
@@ -386,7 +379,8 @@ cFazuľová so slaninou a kapustou
 
 ## Kyslá šošovicová polievka (Fazuľová+)
 
-* podobná norma ako [Fazuľová so slaninou a kapustou](#fazulova)
+podobná norma ako [Fazuľová so slaninou a kapustou](#fazulova)
+
 * 20g šošovica
 * 20g zemiaky
 
@@ -515,7 +509,6 @@ Podávame s chlebom, ktorý máčame v stredne zahustenej máčanke.
 * voda, soľ, vegeta, č. paprika, čierne korenie
 
 Závarku urobíme z vajíčka a krupicovej múky.
-
 
 ## Bryndzová polievka (podobne Demikát)
 

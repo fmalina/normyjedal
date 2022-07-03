@@ -1,4 +1,4 @@
-# Bravčové mäso 🐖
+# Bravčové mäso
 
 ## Bravčové ražniči
 
