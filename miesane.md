@@ -135,13 +135,14 @@
 
 ## 15. Dusené/varené/nové zemiaky
 
-so slaninkou a tvarohom
+So slaninkou a tvarohom
+
 * 300g nové zemiaky
 * 10g prerastaná slaninka
 * 50g tvrdého tvarohu/postrúhame/
 * 15g masla, petržlenová vňať, soľ
 
-## 16. Vaječná omeleta so salámom a hráškom
+## 16. Vaječná omeleta so salámou a hráškom
 * 20-30g diétny/jemný/salám
 * 10g zeleného hrášku
 * 5g stolný olej
@@ -202,7 +203,9 @@ so slaninkou a tvarohom
 
 ## 22. Pizza
 
-Cesto: 200g múka
+Cesto:
+
+* 200g múka
 * 10g čerstvé kvasnice
 * 1 voda
 * 15g slnečnicový olej - lyžica
@@ -210,7 +213,9 @@ Cesto: 200g múka
 * trošku mlieka na kvások
 
 
-Plnka: 200g rajčiny bez šupky (v konzerve)
+Plnka:
+
+* 200g rajčiny bez šupky (v konzerve)
 * 125g mozzarela (šunka)
 * soľ, oregáno, olej, bazalka
 
