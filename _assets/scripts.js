@@ -104,6 +104,42 @@ function loadPics(){
   oReq.send();
 }
 
+// portion multiplier
+function detectUnits(){
+    let re = /(\d+(?:–\d+)?(?:,|\.)?(?:\d+)?)(g|kg|ks|dl)/g;
+    let tpl = '<u class="amount" data-amount="$1">$1</u><i class="unit">$2</i>';
+    let items = document.getElementsByTagName('li');
+    [].forEach.call(items, (item) => {
+        let text = item.textContent;
+        let n = text.replace(re, tpl);
+        n = n.replace('½', '<u class="amount" data-amount="0.5">½</u>');
+        n = n.replace('¼', '<u class="amount" data-amount="0.25">¼</u>');
+        item.innerHTML = n;
+    });
+}
+
+function createVolInput(){
+    var i = document.createElement("input");
+    i.setAttribute('type', 'number');
+    i.setAttribute('id', 'portions');
+    i.setAttribute('placeholder', 'množstvo porcií');
+    let toc = document.getElementById('toc');
+    toc.appendChild(i);
+}
+
+
+function updateAmounts(portions){
+    let amounts = document.getElementsByClassName('amount');
+    [].forEach.call(amounts, (el) => {
+        let n = el.getAttribute('data-amount');
+        n = n.replace(',', '.');
+        el.setAttribute('data-amount', n);
+        prorated = Number(n) * portions;
+        el.innerHTML = prorated;
+    });
+}
+
+
 window.onload = function () {
     var ToC = createTOC();
     var header = document.querySelector('header');
@@ -116,4 +152,13 @@ window.onload = function () {
 		location.hash = '#dummy';
 		location.hash = my_hash;
 	}
+
+    // unit updating
+	detectUnits();
+    createVolInput();
+
+    let portions = document.getElementById('portions');
+    portions.addEventListener('input', function (evt) {
+        updateAmounts(this.value);
+    });
 }
