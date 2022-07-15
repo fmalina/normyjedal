@@ -104,11 +104,11 @@ function loadPics(){
   oReq.send();
 }
 
-// portion multiplier
+// PORTION MULTIPLIER
 function detectUnits(){
-    let re = /(\d+(?:–\d+)?(?:,|\.)?(?:\d+)?)(g|kg|ks|dl)/g;
+    let re = /(\d+(?:–\d+)?(?:,|\.)?(?:\d+)?)(g|kg|ml|dl|l|ks|ČL)/g;
     let tpl = '<u class="amount" data-amount="$1">$1</u><i class="unit">$2</i>';
-    let items = document.getElementsByTagName('li');
+    let items = document.querySelectorAll('main li');
     [].forEach.call(items, (item) => {
         let text = item.textContent;
         let n = text.replace(re, tpl);
@@ -120,11 +120,13 @@ function detectUnits(){
 
 function createVolInput(){
     var i = document.createElement("input");
+    var br = document.createElement("br");
     i.setAttribute('type', 'number');
     i.setAttribute('id', 'portions');
-    i.setAttribute('placeholder', 'množstvo porcií');
-    let toc = document.getElementById('toc');
-    toc.appendChild(i);
+    i.setAttribute('placeholder', 'Koľko porcií?');
+    let header = document.querySelector('header');
+    header.appendChild(br);
+    header.appendChild(i);
 }
 
 
@@ -134,7 +136,14 @@ function updateAmounts(portions){
         let n = el.getAttribute('data-amount');
         n = n.replace(',', '.');
         el.setAttribute('data-amount', n);
-        prorated = Number(n) * portions;
+        if(n.includes('–')){
+            let arr = n.split('–');
+            let n1 = arr[0];
+            let n2 = arr[1];
+            prorated = `${Number(n1) * portions}–${Number(n2) * portions}`;
+        } else {
+            prorated = Number(n) * portions;
+        }
         el.innerHTML = prorated;
     });
 }
