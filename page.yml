@@ -1,0 +1,9 @@
+source: .
+target: ../unilex/static/nom
+tpl: ./_tpl
+ctx:
+    site_name: 'Normy Jedál'
+    site_url: https://unilexicon.com/nom
+    repo_url: https://github.com/fmalina/unilex-nom/blob/main/
+    site_root: /nom
+    dev: true
