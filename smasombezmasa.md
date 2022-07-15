@@ -161,7 +161,7 @@ Plnka: 200g – údené mäso, 1ks – vajce, soľ, bele korenie
 * 10g cibuľa
 * 75g vareného údeneho mäsa
 * 0,5dl – kyslej smotany
-* 20g vajec /1/2 ks/
+* 20g vajec /½ ks/
 * 3g strúhanka, 5g – olej, soľ, ml.korenie
 
 ## 18. Teľacia mäsová zmes, so zemiakmi, hráškom a vajcom
@@ -170,7 +170,7 @@ Plnka: 200g – údené mäso, 1ks – vajce, soľ, bele korenie
 * 15g masti/oleja (popražíme, hotová zmes
 * 10g cibuľa má byť vláčna)
 * 75g zemiaky/uvarené, krájané na kocky/
-* 20g vajce /1/2 ks/
+* 20g vajce /½ ks/
 * 15g zeleného hrášku, soľ, čierne korenie
 
 ## 19. Puding s údeným mäsom
@@ -236,7 +236,7 @@ a klobásou
 ## 26. Vyprážané rizolety
 *2 väčsie porcie*
 
-* 1ks – vajce, /palacinky-1/2 na seba/
+* 1ks – vajce, /palacinky-½ na seba/
 * 2 mlieko
 * 100g krupicová múka/detská krupica/
 * 40g oleja na pečenie, soľ ;
@@ -292,7 +292,7 @@ so zemiakmi
 ## 31. Kelová fašírka
 * 150g kelu, soľ
 * 20g vajec
-* 25g žemľa/rožok -1/2ks
+* 25g žemľa/rožok -½ks
 * 15g údenej slaninky
 * 10g cibuľa, cesnak, čierne korenie
 * 10g strúhanky
@@ -320,7 +320,7 @@ so zemiakmi
 * 10g cibule
 * 5g strúhanky
 * 120g čerstvých hríbov, zelený majorán,
-* 20g vajec –1/2ks, drtená rasca, korenie, soľ
+* 20g vajec –½ks, drtená rasca, korenie, soľ
 
 ## 35. Vyprážané hríby /šampiňóny/
 * 150g čerstvých hríbov /šampiňónov
@@ -365,7 +365,7 @@ so zemiakmi
 * 20g cibuľa, soľ, zelený petržlen
 
 ## 41. Džuveč-zapekaný so smotanou
-* 75g ryža /vrstva:1/2 ryža,
+* 75g ryža /vrstva:½ ryža,
 * 75g bravčové mäso zmes, zelenina,
 * 125g račín ½ ryža /
 * 70g zelená paprika
@@ -438,11 +438,11 @@ formy, prikryjeme a varíme asi ½ hodiny.
 * 10g masti/oleja
 * 5-10g – cibuľa
 * 7g krupica
-* 20g vajce, soľ, zelený petžlen
+* 20g vajce, soľ, zelený petržlen
 
 ## 50. Špenátový nákyp
 * 10g masla 30g – vajce/1ks/
-* 10g múky 1/2dl – mlieko
+* 10g múky ½dl – mlieko
 * 5g cibuľa soľ, ml.korenie
 * 75g špenát/iná zelenina/
 * 5g masla na formu,
@@ -454,7 +454,7 @@ formy, prikryjeme a varíme asi ½ hodiny.
 * 15g masla 30g – šunky/údeniny/
 * 3g strúhanky
 * 0,5dl – mlieko -kyslá smotana –
-* 10-20g – vajce, max-1/2 ks, soľ, biele korenie.
+* 10-20g – vajce, max-½ ks, soľ, biele korenie.
 
 ## 52. Zapekaná miešaná zelenina
 * 50g mrkvy
@@ -800,7 +800,7 @@ So strúhaným tvarohom, mletým makom, orechmi
 ## 90. Marhuľové knedličky so strúhankou
 * 100g krupicovej múky / makom, tvarohom /
 * 5+10g – masla, 15g – práškový cukor
-* 125g marhúľ, 1/2dl – mlieko, 10g – vajce
+* 125g marhúľ, ½dl – mlieko, 10g – vajce
 * 15g strúhanky/maku, 25g – tvarohu, soľ
 
 ## 91. Parené buchty s makom /kakaom, škoricou/
@@ -1141,10 +1141,10 @@ Marhuľové knedličky s makom
 * 5g droždia
 * 5g cukru, 3g-múky-kvások
 * 20g mast/jedlý tuk/olej na vysmážanie
-* 40g lekváru/marhuľový, egreš, čier. ríbezle/
+* 40g lekváru/marhuľový, egreš, čierne ríbezle/
 * 5g práškového cukru
 * 10g vajce
-* 1 mlieko/podľa poptreby/, soľ.
+* mlieko /podľa potreby/, soľ.
 
 ## 129. Vyprážaný syr
 * 100g ementálskeho/tvrdého/syra
@@ -1225,14 +1225,15 @@ polovíc vajec a ozdobíme červenou paprikou pokrájanou na kocky a zeleným pe
 
 ## 136. Horúce stratené vajcia
 
-poliate kôprovou omáčkou
+Poliate kôprovou omáčkou
+
 * 80g vajcia 2ks porcia 220g
 * voda, soľ, ocot
 
 **Omáčka:**
 * 15g maslo
 * 15g hladkej múky
-* 1 mlieko (smotana)
+* mlieko (smotana)
 * 5g cukru
 * ocot, kôpor
 

@@ -411,7 +411,7 @@ syrom.
 * 25g tuk (olej, masť)
 * 50g cibuľa
 * 25g rajčinový pretlak
-* 10g mletá červená paprika (1/2 lyžičky)
+* 10g mletá červená paprika (½ lyžičky)
 * 50g bravčový údený bôčik
 * 180g kyslá domáca kapusta (200g – hlávková kapusta narezaná + 15ml ocot/ 15g cukor)
 * 5g soľ, vegeta, drtená rasca - 2ks bobkový list
@@ -1267,7 +1267,7 @@ troškou vegety, rozkrojíme a doplníme lyžičkou zvyšnú čerstvú bryndzu, 
 * 990g 4 porcie asi po 250g
 * 200g uvarenej domácej fazule alebo 1 konzerva fazule
 * 120g cibule
-* 30g cesnak (1/2 osnažíme v základe a druhou dochutíme)
+* 30g cesnak (½ osmažíme v základe a druhou dochutíme)
 * 30g sušených húb
 * 150g párkov
 * 100g údeného mäsa

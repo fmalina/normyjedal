@@ -302,7 +302,7 @@ výpekom, prípadne aj polejeme vodou.
 ## 15. Kurča na maďarský spôsob
 *Čas: 1 hodina 30 min, 3 porcie po 455g s prílohou*
 
-* 400g kurča (1/2 kurčaťa, stehná, krídla)
+* 400g kurča (½ kurčaťa, stehná, krídla)
 * 250g ryže
 * 300g zemiakov
 * 300g lečo vo vlastnej šťave(domáce lečo)
@@ -1083,7 +1083,7 @@ Príloha – chlieb, pečivo, kysnuté žemľové knedle.
 *Čas: 25 minút, 3 porcie po 240g*
 
 * 300g čistého vykosteného kuracieho mäsa
-* 80g šampiňónov (pravých húb - hríbov)
+* 80g šampiňónov (pravých hríbov)
 * 150g pokrájanej bielej kapusty (alebo špenátu)
 * 60g kápia
 * 5g strúčiky cesnaku
@@ -1229,7 +1229,7 @@ zemiaky a uhorkový (hlávkový) šalát.
 * 120g oleja
 * 40g masla
 * 80g žemle - 2 ks
-* 1 mlieka
+* 1l mlieka
 * 50g domáce vajce
 * 100g strúhanka
 * soľ, vegeta, biele korenie
@@ -1364,7 +1364,7 @@ pokvapkáme olejom a premiešame, prípadne dochutíme citrónom.
 * 0,5dl mlieka
 * 20g soli, vegety
 * mleté biela a čierne korenie
-* petžlenová vňať, šalvia, bazalka
+* petržlenová vňať, šalvia, bazalka
 
 Očistenú morku umyjeme, utierkou osušíme, zvonku a z vnútra nasolíme a necháme v chlade odležať. Potom ju
 prešpikujeme pásikmi slaniny, poprášime korením, naplníme plnkou a otvor uzavrieme grilovacou ihlou alebo
@@ -2330,7 +2330,7 @@ pravdepodobne sa nám podarí pripraviť perkelt. Ak tak urobíme pripravíme pa
 * 30g zelenej papriky
 * 30g rajčín
 
-*Môžeme nahradiť: 1/2 leča bez tuku.*
+*Môžeme nahradiť: ½ leča bez tuku.*
 
 * 10g hladkej múky
 * 30g kyslej smotany
@@ -2588,7 +2588,7 @@ Podávame so zemiakovou kašou.
 * 30g mrkva
 * 20g pór
 * 25g mrazeného hrášku
-* 10-20g vajce 1/2 ks
+* 10-20g vajce ½ ks
 * 10g hladkej múky
 * 1 zeleninový vývar
 * 0,5dl sladkej smotany

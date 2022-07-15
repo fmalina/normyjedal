@@ -65,7 +65,7 @@ Podávame s ryžou.
 * 10g masť, olej
 * 10g cibuľa
 * 20g rajčín
-* 20g paprík alebo 1/2 leča bez tuku
+* 20g paprík alebo ½ leča bez tuku
 * 5g hladká múka
 * soľ, červená paprika, korenie
 

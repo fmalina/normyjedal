@@ -133,7 +133,7 @@ Syr rozdelíme na polovicu, do plnky, na posypanie.
 * 10g slnečnicový olej
 * 40g šampiňónov
 * 10g cibuľa
-* 1/2 vajce
+* ½ vajce
 * 20g anglickej slaniny
 * soľ, mleté čierne korenie, petržlenová vňať
 

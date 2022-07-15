@@ -36,7 +36,7 @@
 * 200g hlávkovej kapusty, voda, soľ
 * 15g údenej prerastanej slaninky
 * 5g cibuľa
-* 1 mlieko (nakoniec)
+* mlieko (nakoniec)
 * červená paprika
 
 ## 6. Krúpy s hubami – prívarok – 150g

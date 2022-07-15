@@ -844,7 +844,7 @@ a s Ramou Créme Bonjour s paprikou Čas: 30 minút 1040g – 4 porcie po 260g
 * 200g 2ks bravčových plátkov
 * 10g rozdrvené farebné korenie, soľ
 * 30g Bertolli olivový olej Classico
-* 100g 1/2 balenia Ramy Créme Bonjour s paprikou (alebo celé balenie)
+* 100g ½ balenia Ramy Créme Bonjour s paprikou (alebo celé balenie)
 * 500g 1 menší karfiol (paprika čerstvá na prizdobenie a pažítka)
 
 Karfiol uvaríme v slanej vode. Kuracie prsia ochutíme soľoua farebným korením a pokvapkáme ich olivovým olejom.

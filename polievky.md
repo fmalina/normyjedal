@@ -65,6 +65,7 @@
 * 3g rajčinový pretlak
 * 10g varená ryža
 * 2g soľ /vegeta/, štipka petržlenovej vňate
+
 ## <a name="rajcinova"></a>Rajčinová polievka s ryžou
 
 * 15g zadné hovädzie mäso /20g – hovädz. kostí – vývar/
