@@ -1,5 +1,6 @@
-# revisions-nom
-Slovakian cooking and catering learning materials in Slovak language 🇸🇰 🍲
+# Normy Jedál/Dish Standards
+
+Slovak cooking and catering learning materials in Slovak language 🇸🇰 🍲
 
 This repository contains proprietary text and programs.
 All rights belong to authors.
