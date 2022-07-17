@@ -1,11 +1,15 @@
-""" """
+"""
+Instagram loader, hashtagifies all headings in our documents
+and downloads from Instagram pictures matching those hashtags
+"""
+
 import glob
 import os
 from lxml.html import fromstring
 from django.template.defaultfilters import slugify
 import instaloader
 
-USER = 'blocl.uk'
+USER = 'normyjedal'
 
 
 def hashtagify(x):
