@@ -88,7 +88,6 @@ pic/bylinkovaomacka/2020-04-29_10-19-19_UTC.jpg
 pic/bylinkovaomacka/2021-02-25_11-26-36_UTC.jpg
 pic/bylinkovaomacka/2020-10-12_11-22-08_UTC.jpg
 pic/kapustoverizoto/2021-04-21_13-11-58_UTC.jpg
-pic/srbskygulas/2020-12-06_17-31-07_UTC.jpg
 pic/kuracikolac/2018-02-22_13-21-57_UTC.jpg
 pic/kuracikolac/2019-01-06_15-00-07_UTC.jpg
 pic/uhorkovysalat/2021-03-29_11-54-52_UTC.jpg
@@ -400,7 +399,6 @@ pic/oblozenechlebicky/2021-04-19_08-12-35_UTC.jpg
 pic/oblozenechlebicky/2021-04-10_11-51-14_UTC.jpg
 pic/oblozenechlebicky/2021-04-14_10-21-20_UTC.jpg
 pic/slovenskygulas/2018-10-23_16-28-14_UTC.jpg
-pic/slovenskygulas/2018-09-10_17-27-34_UTC.jpg
 pic/hamburskebravcovestehno/2020-06-29_10-06-39_UTC.jpg
 pic/pecenypstruhnamasle/2018-05-02_10-15-09_UTC.jpg
 pic/pecenypstruhnamasle/2020-07-06_15-43-23_UTC.jpg
@@ -547,16 +545,6 @@ pic/ciernykoren/2020-06-15_20-35-56_UTC.jpg
 pic/ciernykoren/2017-06-02_14-04-13_UTC.jpg
 pic/ciernykoren/2018-02-22_18-14-30_UTC.jpg
 pic/ciernykoren/2019-01-10_17-37-48_UTC.jpg
-pic/gulase/2020-12-16_09-09-35_UTC.jpg
-pic/gulase/2021-02-18_11-54-17_UTC.jpg
-pic/gulase/2021-03-08_13-50-41_UTC.jpg
-pic/gulase/2021-01-15_17-20-49_UTC.jpg
-pic/gulase/2021-02-08_10-26-52_UTC.jpg
-pic/gulase/2021-02-11_17-28-01_UTC.jpg
-pic/gulase/2020-12-01_08-48-23_UTC.jpg
-pic/gulase/2020-12-01_08-25-32_UTC.jpg
-pic/gulase/2021-03-10_17-45-34_UTC.jpg
-pic/gulase/2020-12-01_08-23-44_UTC.jpg
 pic/sardinkovanatierka/2016-04-17_13-51-39_UTC.jpg
 pic/sardinkovanatierka/2016-11-25_06-27-33_UTC.jpg
 pic/domacerezance/2021-04-21_16-05-53_UTC.jpg

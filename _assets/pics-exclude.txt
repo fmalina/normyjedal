@@ -147,3 +147,16 @@ pic/hubovaomacka/2021-03-20_17-12-18_UTC.jpg
 pic/hubovaomacka/2021-04-02_10-20-56_UTC.jpg
 pic/cesnakovaomacka/2017-04-28_11-06-49_UTC.jpg
 pic/polskaomacka/2019-11-21_11-50-36_UTC.jpg
+# gulase
+pic/gulase/2020-12-01_08-23-44_UTC.jpg
+pic/gulase/2021-03-10_17-45-34_UTC.jpg
+pic/gulase/2020-12-01_08-25-32_UTC.jpg
+pic/gulase/2020-12-01_08-48-23_UTC.jpg
+pic/gulase/2021-02-11_17-28-01_UTC.jpg
+pic/gulase/2021-02-08_10-26-52_UTC.jpg
+pic/gulase/2021-01-15_17-20-49_UTC.jpg
+pic/gulase/2021-03-08_13-50-41_UTC.jpg
+pic/gulase/2021-02-18_11-54-17_UTC.jpg
+pic/gulase/2020-12-16_09-09-35_UTC.jpg
+pic/srbskygulas/2020-12-06_17-31-07_UTC.jpg
+pic/slovenskygulas/2018-09-10_17-27-34_UTC.jpg
