@@ -32,8 +32,9 @@ function createTOC() {
 	var y = el('div');
 	y.id = 'toc';
 	var a = y.appendChild(el('a'));
+  var path = window.location.pathname;
 	a.onclick = showhideTOC;
-	a.href = '#showhide';
+	a.href = path + '#showhide';
 	a.id = 'tocheader';
 	a.innerHTML = '+ obsah';
 	var z = y.appendChild(el('div'));
@@ -50,7 +51,7 @@ function createTOC() {
 		if (h.nodeName == 'H4') tmp.className = 'extraindent';
 		var ha = h.appendChild(el('a'));
 		var headerId = h.id || hashtagify(h.innerText);
-		tmp.href = '#' + headerId;
+		tmp.href = path + '#' + headerId;
 		ha.href = tmp.href;
 		ha.className = 'anchor';
 		ha.innerHTML = '#';
