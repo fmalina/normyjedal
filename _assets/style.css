@@ -5,9 +5,9 @@ table p{margin:.3em}
 header{position:sticky;top:0;z-index:2;background:rgba(255,255,255,0.95);}
 header a{font-size:1rem;padding:.3em 0;display:inline-block}
 header input{width:12em}
-header a,.unilex-nom h1{text-transform:uppercase;letter-spacing:.2rem}
-.unilex-nom h1{margin-bottom:0}
-.unilex-nom h2{padding-top:0}
+header a,.index h1{text-transform:uppercase;letter-spacing:.2rem}
+.index h1{margin-bottom:0}
+.index h2{padding-top:0}
 
 nav li{list-style:none;font-size:1.2rem;font-family:serif;font-style:italic;padding:0 0 .5em 0}
 
@@ -48,6 +48,6 @@ h1,h2,h3{position:relative}
 @media only screen and (min-width: 768px) {
 	body,#toc{padding:2em}
 	body{font-size:1.2rem}
-	.unilex-nom main{width:60%;float:left}
-    .unilex-nom nav{width:40%;float:right}
+	.index main{width:60%;float:left}
+    .index nav{width:40%;float:right}
 }
