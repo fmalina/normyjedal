@@ -149,6 +149,25 @@ function updateAmounts(portions){
     });
 }
 
+function ads() {
+    var ext = document.createElement("script");
+    ext.setAttribute('async','async');
+    ext.src = "//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js";
+    document.getElementsByTagName('body')[0].appendChild(ext);
+
+    var ins = document.createElement("ins");
+    ins.setAttribute('class','adsbygoogle');
+    ins.setAttribute('style','display:block;');
+    ins.setAttribute('data-ad-client','ca-pub-7258089185308476');
+    ins.setAttribute('data-ad-slot','3832684967');
+    ins.setAttribute('data-ad-format','auto');
+    ins.setAttribute('data-full-width-responsive','true');
+    document.getElementsByTagName('body')[0].appendChild(ins);
+
+    var inl = document.createElement("script");
+    inl.text = '(adsbygoogle = window.adsbygoogle || []).push({});'
+    document.getElementsByTagName('body')[0].appendChild(inl);
+}
 
 window.onload = function () {
     var ToC = createTOC();
@@ -171,4 +190,5 @@ window.onload = function () {
     portions.addEventListener('input', function (evt) {
         updateAmounts(this.value);
     });
+    ads();
 }
