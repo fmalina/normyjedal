@@ -16,11 +16,13 @@ TPL = """
 <head>
     <meta charset="utf8">
     <link rel="stylesheet" href="/nom/style.css">
+    <script src="/nom/scripts.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{rel_name} 📸 {title}</title>
 </head>
 <body>
 <main>
+    <p><a href="/nom/">Normy Jedál</a></p>
     <p><img class="feature" src="{img_src}"></p>
     <p><a href="/nom/{doc_name}#{hashtag}">{rel_name}</a>{credit}
     {desc}
