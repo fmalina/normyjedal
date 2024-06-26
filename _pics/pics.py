@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """
 Instagram loader, hashtagifies all headings in our documents
 and downloads from Instagram pictures matching those hashtags
@@ -5,15 +6,16 @@ and downloads from Instagram pictures matching those hashtags
 
 import glob
 import os
+from pathlib import Path
 from lxml.html import fromstring
 from django.template.defaultfilters import slugify
 import instaloader
 
-USER = 'normyjedal'
+USER = 'feromalina'
+HASHTAG_PATH = '../unilex/static/nom'
 
 
 def hashtagify(x):
-    print(x)
     x = str(x)
     for sep in [' a ', '/', '(', '–', '-']:
         x = x.split(sep)[0]
@@ -22,16 +24,17 @@ def hashtagify(x):
 
 def get_hashtags():
     ls = []
-    html_files = [x for x in glob.glob('*') if
-                  '.' not in x and
-                  '__' not in x and
-                  'pic' not in x]
+    files = Path(HASHTAG_PATH).rglob('*')
+    files = [str(x) for x in files]
+    exclude = ['.css', '.js', '.xml', '.svg', '.xz', '.jpg', '.br', '_', 'pic', 'README']
+    html_files = [f for f in files if all(x not in f for x in exclude)]
     for fn in html_files:
         dom = fromstring(open(fn).read())
         elems = dom.cssselect('h1,h2,h3')
         for h in elems:
             hashtag = hashtagify(h.text)
             hashtag = ''.join([x for x in hashtag if not x.isdigit()])
+            fn = fn.replace(HASHTAG_PATH, '')
             ls.append((fn, hashtag, h.text))
     return ls
 

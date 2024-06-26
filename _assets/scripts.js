@@ -126,8 +126,10 @@ function createVolInput(){
     i.setAttribute('id', 'portions');
     i.setAttribute('placeholder', 'Koľko porcií?');
     let header = document.querySelector('header');
-    header.appendChild(br);
-    header.appendChild(i);
+    if(header){
+        header.appendChild(br);
+        header.appendChild(i);
+    }
 }
 
 
@@ -174,8 +176,8 @@ window.onload = function () {
     var header = document.querySelector('header');
     if(header){
     	header.parentNode.insertBefore(ToC, header.nextSibling);
+        loadPics();
     }
-    loadPics();
 	if(window.location.hash){
     	var my_hash = window.location.hash;
 		location.hash = '#dummy';
@@ -187,8 +189,10 @@ window.onload = function () {
     createVolInput();
 
     let portions = document.getElementById('portions');
-    portions.addEventListener('input', function (evt) {
-        updateAmounts(this.value);
-    });
+    if(portions){
+        portions.addEventListener('input', function (evt) {
+            updateAmounts(this.value);
+        });
+    }
     ads();
 }

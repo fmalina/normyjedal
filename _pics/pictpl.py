@@ -1,6 +1,9 @@
+#!/usr/bin/env python3
 """
 Instagram picture webpage renderer.
 Renders webpages out of Instaloader text files to TARGET_PATH
+
+    ./_pics/pictpl.py
 """
 
 from pathlib import Path
@@ -9,29 +12,28 @@ from pics import get_hashtags
 import lzma
 import json
 
-TARGET_PATH = '../_assets/pic'
+TARGET_PATH = './_assets/pic'
 TPL = """
 <!doctype html>
 <html lang="sk">
 <head>
     <meta charset="utf8">
+    <title>{rel_name} 📸 {title}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="/nom/style.css">
     <script src="/nom/scripts.js"></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{rel_name} 📸 {title}</title>
 </head>
 <body>
 <main>
-    <p><a href="/nom/">Normy Jedál</a></p>
     <p><img class="feature" src="{img_src}"></p>
-    <p><a href="/nom/{doc_name}#{hashtag}">{rel_name}</a>{credit}
+    <p><a href="/nom/{doc_name}#{hashtag}">{rel_name}</a>{credit} &mdash; <a href="/nom/">Normy Jedál</a>
     {desc}
 </main>
 </body>
 """
 
 hashtags = get_hashtags()
-docs_by_hashtag = dict([(y, (x, z)) for x, y, z in hashtags])
+docs_by_hashtag = dict([(htag, (fn, htxt)) for fn, htag, htxt in hashtags])
 
 
 def render_text_files():
@@ -69,12 +71,14 @@ def render(path):
     desc = linebreaks(f)
     img_src = path_name.replace('.txt', '.jpg')
     hashtag = str(path).split('/')[-2]
-    doc_name, rel_name = docs_by_hashtag[hashtag]
+    try:
+        doc_name, rel_name = docs_by_hashtag[hashtag]
+    except KeyError:
+        return
     if rel_name:
         rel_name = clean_name(rel_name)
     credit = get_credit(path)
     contents = TPL.format(**locals())
-    # print(str(path))
     fnw = str(path).replace('.txt', '.htm')
     fw = open(fnw, "w")
     fw.write(contents)
