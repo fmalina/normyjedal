@@ -28,7 +28,7 @@ nav a,nav b,nav em{padding:.2em .5em;display:inline-block}
 
 aside{margin-top:3em}
 aside p, aside ul{float:left;margin-top:0}
-footer{clear:both;padding-top:2em;color:#777}
+footer{clear:both;padding:2em 0;color:#777}
 p.time,p.portion,p.subheading{color:green;font-weight:bold}
 
 #toc{background:rgba(255,255,230,0.95);
