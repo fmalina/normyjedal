@@ -164,8 +164,8 @@ function ads() {
     ins.setAttribute('data-ad-slot','3832684967');
     ins.setAttribute('data-ad-format','auto');
     ins.setAttribute('data-full-width-responsive','true');
-    const main = document.querySelector('main');
-    if (main) main.prepend(ins);
+    const h1 = document.querySelector('h1');
+    if (h1) h1.after(ins);
     else document.body.appendChild(ins);
 
 
