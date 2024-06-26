@@ -166,9 +166,9 @@ function ads() {
     ins.setAttribute('data-full-width-responsive','true');
     const h1 = document.querySelector('h1');
     const h2s = document.querySelectorAll('h2');
-    if (h1) h1.prepend(ins);
+    if (h1) h1.append(ins);
     else document.body.appendChild(ins);
-    // if (h2s.length >= 2) h2s[1].insertAdjacentElement('afterend', ins.cloneNode(true));
+    if (h2s.length >= 2) h2s[1].insertAdjacentElement('afterend', ins.cloneNode(true));
     if (h2s.length >= 4) h2s[3].insertAdjacentElement('afterend', ins.cloneNode(true));
 
 
