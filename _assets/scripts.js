@@ -155,7 +155,7 @@ function ads() {
     var ext = document.createElement("script");
     ext.setAttribute('async','async');
     ext.src = "//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js";
-    document.getElementsByTagName('body')[0].appendChild(ext);
+    document.body.appendChild(ext);
 
     var ins = document.createElement("ins");
     ins.setAttribute('class','adsbygoogle');
@@ -164,14 +164,14 @@ function ads() {
     ins.setAttribute('data-ad-slot','3832684967');
     ins.setAttribute('data-ad-format','auto');
     ins.setAttribute('data-full-width-responsive','true');
-    const h1 = document.querySelector('h1');
-    if (h1) h1.after(ins);
+    const main = document.querySelector('main');
+    if (main) main.prepend(ins);
     else document.body.appendChild(ins);
 
 
     var inl = document.createElement("script");
     inl.text = '(adsbygoogle = window.adsbygoogle || []).push({});'
-    document.getElementsByTagName('body')[0].appendChild(inl);
+    document.body.appendChild(inl);
 }
 
 window.onload = function () {
