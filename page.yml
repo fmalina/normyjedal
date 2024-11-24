@@ -1,6 +1,6 @@
 source: .
 target: ../unilex/static/nom
-tpl: ./_tpl
+tpl: _tpl
 ctx:
     site_name: 'Normy Jedál'
     site_url: https://unilexicon.com/nom
