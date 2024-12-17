@@ -147,13 +147,15 @@ uvarené sušené huby, zelený hrášok, smotanu a ešte povaríme, prípadne d
 * 5g horčice podľa chuti
 * 10g slnečnicový olej
 * mleté biele korenie, soľ
-<p>Slivky zalejeme bielym vínom, dáme zovrieť, vezmeme zo sporáka a prikryté necháme odstáť. Mäso umyjeme, osušíme, z
-    každej strany okoreníme, posolíme a obalíme v múke.
-<p>V pekáči zohrejeme maslo, olej a mäso 5 minút z každej strany opečieme. Tuk z pekáča zlejeme, nalejeme víno zo
-    sliviek, ovocie odložíme na ďaľšie použitie. Horúci vývar dáme pod mäso, príkryjeme a vo vyhriatej rúre pečieme asi
-    30 minút. Potom polejeme smotanou rozšľahanou s horčicou,
-<p>pridáme slivky a ešte 15 minút pečieme. Počas pečenia polievame šťavou, mäso podávame nakrájané na plátky, poliaté
-    omáčkou s dusenou ryžou.
+
+Slivky zalejeme bielym vínom, dáme zovrieť, vezmeme zo sporáka a prikryté necháme odstáť. Mäso umyjeme, osušíme, z
+každej strany okoreníme, posolíme a obalíme v múke.
+
+V pekáči zohrejeme maslo, olej a mäso 5 minút z každej strany opečieme. Tuk z pekáča zlejeme, nalejeme víno zo
+sliviek, ovocie odložíme na ďaľšie použitie. Horúci vývar dáme pod mäso, príkryjeme a vo vyhriatej rúre pečieme asi
+30 minút. Potom polejeme smotanou rozšľahanou s horčicou,
+pridáme slivky a ešte 15 minút pečieme. Počas pečenia polievame šťavou, mäso podávame nakrájané na plátky, poliaté
+omáčkou s dusenou ryžou.
 
 ## Tatranský oheň
 * 200g bravčové stehno (hov.roštenka)
@@ -161,8 +163,9 @@ uvarené sušené huby, zelený hrášok, smotanu a ešte povaríme, prípadne d
 * 40g jemného kečupu
 * 30g čerstvého (domáceho) chrenu
 * soľ, biele korenie
-<p>Umyté jemné mäso pokrájame na tenšie rezance, vložíme na rozpálený olej, opražíme, pridáme soľ, mleté korenie a
-    nakoniec pridáme kečup, pred podávaním posypeme postrúhaným čerstvým alebo doma spracovaným chrenom. chrenom.
+
+Umyté jemné mäso pokrájame na tenšie rezance, vložíme na rozpálený olej, opražíme, pridáme soľ, mleté korenie a
+nakoniec pridáme kečup, pred podávaním posypeme postrúhaným čerstvým alebo doma spracovaným chrenom. chrenom.
 
 ## Srbský bravčový rezeň
 *porcia 325g*
@@ -175,10 +178,11 @@ uvarené sušené huby, zelený hrášok, smotanu a ešte povaríme, prípadne d
 * 5g hladkej múky podľa potreby
 * 0,5dl sladkej smotany,
 * soľ, biele korenie
-<p>Rezne umyjeme, osušíme, posolíme na rozohriatom oleji opekáme asi 5 minút z každej strany a vyberieme.
-<p>Vo výpeku opražíme cibuľku pokrájanú na kolieska, pridáme lečo, pretlačený cesnak, posypeme mletou paprikou, múkou
-    opražíme, zalejeme smotanou a varíme
-<p>5 minút, dochutíme soľou a bielym korením.
+
+Rezne umyjeme, osušíme, posolíme na rozohriatom oleji opekáme asi 5 minút z každej strany a vyberieme.
+
+Vo výpeku opražíme cibuľku pokrájanú na kolieska, pridáme lečo, pretlačený cesnak, posypeme mletou paprikou, múkou
+opražíme, zalejeme smotanou a varíme 5 minút, dochutíme soľou a bielym korením.
 
 ***
 
@@ -315,7 +319,8 @@ sparíme a scedíme.
 
 ## Údený hovädzí jazyk – varený
 
-* 120g údeného jazyka, voda
+* 120g údeného jazyka
+* voda
 
 príloha: hrachová, zemiaková kaša, šošovicový prívarok
 

@@ -12,6 +12,7 @@
 * soľ, biele korenie, voda
 
 **Omáčka:**
+
 * 20g masla
 * 20g hladkej múky
 * 10g cibule
@@ -68,10 +69,12 @@ Podobne pečeň a udusenú zeleninu, pridáme k ryži, premiešame, vtlačíme d
 * 0,5dl mlieka
 * 50g šunky
 * 80g 2ks vajce, soľ, zelený petržlen
-<p>Očistené, uvarené zemiaky pretrieme, pridáme maslo, vriace mlieko a vypracujeme na hladkú kašu. Dáme ju do vymastenej
-    nákypovej formy, tak aby stred zostal voľný.
-<p>Do prostriedku dáme posekanú šunku, z bielkov ušľahaný sneh, do ktorého sme zamiešali žĺtky, posypeme posekaným
-    zeleným petržlenom a zapečieme. Pokrm podávame vo forme.
+
+Očistené, uvarené zemiaky pretrieme, pridáme maslo, vriace mlieko a vypracujeme na hladkú kašu. Dáme ju do vymastenej
+nákypovej formy, tak aby stred zostal voľný.
+
+Do prostriedku dáme posekanú šunku, z bielkov ušľahaný sneh, do ktorého sme zamiešali žĺtky, posypeme posekaným
+zeleným petržlenom a zapečieme. Pokrm podávame vo forme.
 
 ## 5. Gratinovaný karfiol
 * 250g karfiolu
@@ -80,9 +83,10 @@ Podobne pečeň a udusenú zeleninu, pridáme k ryži, premiešame, vtlačíme d
 * 750ml mlieko
 * 20g vajce (max. 1ks)
 * 20g tvrdého postrúhaného syra, soľ, strúhanka
-<p>Karfiol uvarený v osolenej vode urovnáme na vymastenú strúhankou vysypanú formu. Z masla a múky pripravíme bledú
-    zápražku, zalejeme ju mliekom a povaríme na kašu. Do vychladnutej kaše zamiešame žĺtok a tuhý sneh, polejeme ňou
-    karfiol, povrch posypeme strúhaným syrom a zapečieme, podávame vo formách, prizdobíme.
+
+Karfiol uvarený v osolenej vode urovnáme na vymastenú strúhankou vysypanú formu. Z masla a múky pripravíme bledú
+zápražku, zalejeme ju mliekom a povaríme na kašu. Do vychladnutej kaše zamiešame žĺtok a tuhý sneh, polejeme ňou
+karfiol, povrch posypeme strúhaným syrom a zapečieme, podávame vo formách, prizdobíme.
 
 ## 6. Plnené rajčiny
 *Porcia asi 200g*
@@ -95,9 +99,10 @@ Podobne pečeň a udusenú zeleninu, pridáme k ryži, premiešame, vtlačíme d
 * 30ml mlieko
 * soľ, biele korenie, citrónová šťava,
 * zelený petržlen
-<p>Z masla a krupicovej múky pripravíme bledú zápražku, pridáme postrúhanú cibuľu, popražíne, zalejeme mliekom a
-    povaríme. Dochutíme soľou a korením, pridáme teľacie mäso pokrájané na malé kocky, citrónovú šťavu a posekaný zelený
-    petržlen, masu dobre premiešame a plníme ňou vydlabané rajčiny, zdobíme zemiakovou kašou a hlávkovým šalátom
+
+Z masla a krupicovej múky pripravíme bledú zápražku, pridáme postrúhanú cibuľu, popražíne, zalejeme mliekom a
+povaríme. Dochutíme soľou a korením, pridáme teľacie mäso pokrájané na malé kocky, citrónovú šťavu a posekaný zelený
+petržlen, masu dobre premiešame a plníme ňou vydlabané rajčiny, zdobíme zemiakovou kašou a hlávkovým šalátom
 
 ## 7. Pstruh na modro (ryba na modro)
 *2 porcie asi 440g*
@@ -107,11 +112,13 @@ Podobne pečeň a udusenú zeleninu, pridáme k ryži, premiešame, vtlačíme d
 * 20g masla
 * 1,5dl bieleho vína (alebo ocot, voda mierne kyslá)
 * soľ, celé čierne a nové korenie,
-<p>citrón nakrájaný na plátky
-<p>Pstruha, kapra zbavíme šupín, kožu nesťahujeme, pri varení zmodrie, varíme tiahnutím v founde z bieleho vína,
+* citrón nakrájaný na plátky
+
+Pstruha, kapra zbavíme šupín, kožu nesťahujeme, pri varení zmodrie, varíme tiahnutím v founde z bieleho vína,
 zmesi koreňovej zeleniny, korenia a citróna, osolenej vody
-<p>Uvarené asi 4-5 minút, polejeme roztopeným maslom, prizdobíme hlávkovým šalátom, podávame s zemiakmi na rôzne
-    spôsoby.
+
+Uvarené asi 4-5 minút, polejeme roztopeným maslom, prizdobíme hlávkovým šalátom, podávame s zemiakmi na rôzne
+spôsoby.
 
 ## 8. Vajcia na florentský spôsob 
 *2 porcie 280g*
@@ -121,10 +128,11 @@ zmesi koreňovej zeleniny, korenia a citróna, osolenej vody
 * 20g krupicovej múky
 * 1 mlieko
 * 50g špenátu(mrazeného), mleté korenie,
-<p>muškátový oriešok
-<p>Do vriacej osolenej a okyselenej vody opatrne vyklopíme čerstvé vajcia, varíme na miernom ohni.Maslo
-    rozpustíme, pridáme múku a spolu prehrejeme, zalejeme mliekom, povaríme, osolíme, pridáme osobitne uvarený, zomletý
-    špenát, muškátový oriešok, mleté čierne korenie. Touto zmesou polejeme uvarené, dobre odtečené vajcia.
+* muškátový oriešok
+
+Do vriacej osolenej a okyselenej vody opatrne vyklopíme čerstvé vajcia, varíme na miernom ohni.Maslo
+rozpustíme, pridáme múku a spolu prehrejeme, zalejeme mliekom, povaríme, osolíme, pridáme osobitne uvarený, zomletý
+špenát, muškátový oriešok, mleté čierne korenie. Touto zmesou polejeme uvarené, dobre odtečené vajcia.
 
 ## 9. Plnené vyprážané vajcia
 
@@ -140,19 +148,22 @@ zmesi koreňovej zeleniny, korenia a citróna, osolenej vody
 * 30g slnečnicového oleja
 
 **Majonézová smotanová omáčka s bylinkami:**
+
 * 10g žĺtok (½ ks)
 * 30g oleja, soľ
 * ½ lyžičky horčice
-<p>práškový cukor, citrónová šťava
+* práškový cukor, citrónová šťava
 * 15ml lyžička mlieka
 * 0,5dl šľahačky, bylinky na ozdobenie a dochutenie
-<p>Vajcia uvarené natvrdo a vychladnuté rozkrojíme, žĺtky vyberieme a vymiešame ich s maslom, smotanou a čiernym
-    korením. Potom ½ vajec naplníme touto plnkou, spojíme ich
-<p>obalíme v hladkej múke, rozšľahanom vajci a v strúhanke a vypražíme na horúcom oleji, podávame s majonézovou
-    smotanovou omáčkou:
-<p>Žĺtok, soľ, horčicu miešame a postupne prikvapkávame olej, do zahustenej majonézovej zmesi pridáme práškový cukor,
-    citrónovú šťavu, mlieko, dobre spolu premiešame a pridáme ušlahanú sladkú smotanu, dochutíme a ozdobíme
-<p>bylinkami napr. bazalkou, trebuľou voňavou, mladou medovkou.
+
+Vajcia uvarené natvrdo a vychladnuté rozkrojíme, žĺtky vyberieme a vymiešame ich s maslom, smotanou a čiernym
+korením. Potom ½ vajec naplníme touto plnkou, spojíme ich
+obalíme v hladkej múke, rozšľahanom vajci a v strúhanke a vypražíme na horúcom oleji, podávame s majonézovou
+smotanovou omáčkou:
+
+Žĺtok, soľ, horčicu miešame a postupne prikvapkávame olej, do zahustenej majonézovej zmesi pridáme práškový cukor,
+citrónovú šťavu, mlieko, dobre spolu premiešame a pridáme ušlahanú sladkú smotanu, dochutíme a ozdobíme
+bylinkami napr. bazalkou, trebuľou voňavou, mladou medovkou.
 
 ## 10. Vajcia so zelenou paprikou
 
@@ -164,9 +175,10 @@ zmesi koreňovej zeleniny, korenia a citróna, osolenej vody
 * 20g cibule
 * 150g zelenej papriky (kápie)
 * 120g vajec 3 ks, soľ, biele korenie
-<p>Do rozpálenej masti pridáme údenú prerastanú slaninu, cibuľu pokrájanú na drobné jemné plátky a poražíme. Umytú
-    papriku pokrájame na kolieska, dáme na zapenenú cibuľu, posolíme, dusíme za občasného pomiešania.Nakoniec pridáme
-    biele korenie a rozšľahané vajcia a spolu popražíme, prizdobíme posekanou pažítkou.
+
+Do rozpálenej masti pridáme údenú prerastanú slaninu, cibuľu pokrájanú na drobné jemné plátky a poražíme. Umytú
+papriku pokrájame na kolieska, dáme na zapenenú cibuľu, posolíme, dusíme za občasného pomiešania.Nakoniec pridáme
+biele korenie a rozšľahané vajcia a spolu popražíme, prizdobíme posekanou pažítkou.
 
 ## 11. Zapekané vajcia 
 *2 porcie asi 350g*
@@ -178,10 +190,12 @@ zmesi koreňovej zeleniny, korenia a citróna, osolenej vody
 * 20g masla, soľ, čierne korenie
 * 40g vajce 1ks, zelený petržlen
 * 1 kyslej smotany na zapečenie, strúhanka
-<p>Vajcia uvaríme natvrdo, prekrojíme a vyberieme z ních žĺtky. Maslo vymiešame, pridáme žltky, žemľu navlhčenú v
-    mlieku, soľ, korenie, posekaný zelený petržlen, všetko dobre premiešame a masou naplníme polovičky vajec.
-<p>Naplnené poukladáme do menšej vymastenej a strúhankou vysypanej nádoby, zalejeme smotanou v ktorej sme rošľahali
-    vajce a soľ, zapečieme.
+
+Vajcia uvaríme natvrdo, prekrojíme a vyberieme z ních žĺtky. Maslo vymiešame, pridáme žltky, žemľu navlhčenú v
+mlieku, soľ, korenie, posekaný zelený petržlen, všetko dobre premiešame a masou naplníme polovičky vajec.
+
+Naplnené poukladáme do menšej vymastenej a strúhankou vysypanej nádoby, zalejeme smotanou v ktorej sme rošľahali
+vajce a soľ, zapečieme.
 
 ## 12. Gratinované vajcia 
 *2 porcie asi 240g*
@@ -194,26 +208,32 @@ zmesi koreňovej zeleniny, korenia a citróna, osolenej vody
 * 40g vajce
 * 10g strúhaného syra
 * soľ, ocot, biele korenie, bazalka, šalvia
-<p>Do vriacej osolenej a octom okyslenej vody opatrne vyklopíme čerstvé vajcia, aby sa žĺtok nerozlial, varíme na
-    miernom ohni. Počas varenia bielok vidličkou zľahka preložíme cez žĺtok tak, aby bol žĺtok úplne zakrytý.
-<p>Uvarené vajcia (žltky majú byť polotuhé) z vody vyberieme a položíme na plátky opečenej žemle. Maslo rozpustíme,
-    pridáme múku, spolu prehrejeme, zalejeme mliekom a odparíme na kašu. Do vlažnej kaše zľahka zamiešame žĺtok, soľ a z
-    bielka ušľahaný sneh a polejeme ňou pripravené vajcia. Vrch posypeme postrúhaným syrom, dáme zapiecť, nakoniec
-    prizdobíme bylinkami.
+
+Do vriacej osolenej a octom okyslenej vody opatrne vyklopíme čerstvé vajcia, aby sa žĺtok nerozlial, varíme na
+miernom ohni. Počas varenia bielok vidličkou zľahka preložíme cez žĺtok tak, aby bol žĺtok úplne zakrytý.
+
+Uvarené vajcia (žltky majú byť polotuhé) z vody vyberieme a položíme na plátky opečenej žemle. Maslo rozpustíme,
+pridáme múku, spolu prehrejeme, zalejeme mliekom a odparíme na kašu. Do vlažnej kaše zľahka zamiešame žĺtok, soľ a z
+bielka ušľahaný sneh a polejeme ňou pripravené vajcia. Vrch posypeme postrúhaným syrom, dáme zapiecť, nakoniec
+prizdobíme bylinkami.
 
 # Studené predjedlá
 ## 1. Príprava aspiku – huspeniny
-<p>Na 1l aspiku: 1kg bravčových nožičiek a kožiek
+Na 1l aspiku:
+
+* 1kg bravčových nožičiek a kožiek
 * 150g koreňovej zeleniny, mrkva, petržlen
-<p>zeler, soľ, cibuľa so šupkou, nové a čierne celé korenie
-<p>Očistené, umyté bravčové nožičky a kožky dáme do studenej osolenej vody a pomaly privádzame do varu. Pri varení
-    pridáme očistenú koreňovú zeleninu, soľ, umytú cibuľu so šupkou a korenie. Varíme asi 3 hodiny, uvarený aspik
-    zbavíme tuku a precedíme cez čistú utierku. Ak je kalný, pridáme rozšľahaný bielok, dobre ho v ňom rozmiešame a
-    necháme na miernom ohni zraziť. Potom ho znova precedíme a podľa chuti okyslíme octom(citrónovou šťavou).
-<p>Môžeme ho prifarbiť na červeno odvarom z cvikly, na zeleno odvarom zo špenátu a na žlto mrkvovou šťavou, prípadne
-    namiesto farbenia ho prizdobiť vhodne kombinovanou varenou alebo surovou zeleninou (mrkva, petržlen,
-    rajčiny, zelená paprika, kápia, tento druh farbenia a prizdobenia je zo zdravotného hľadiska vhodnejší. Na chladnom
-    mieste necháme stuhnúť. Pokrájaným aspikom zdobíme studené mäsové misy.
+* zeler, soľ, cibuľa so šupkou, nové a čierne celé korenie
+
+Očistené, umyté bravčové nožičky a kožky dáme do studenej osolenej vody a pomaly privádzame do varu. Pri varení
+pridáme očistenú koreňovú zeleninu, soľ, umytú cibuľu so šupkou a korenie. Varíme asi 3 hodiny, uvarený aspik
+zbavíme tuku a precedíme cez čistú utierku. Ak je kalný, pridáme rozšľahaný bielok, dobre ho v ňom rozmiešame a
+necháme na miernom ohni zraziť. Potom ho znova precedíme a podľa chuti okyslíme octom(citrónovou šťavou).
+
+Môžeme ho prifarbiť na červeno odvarom z cvikly, na zeleno odvarom zo špenátu a na žlto mrkvovou šťavou, prípadne
+namiesto farbenia ho prizdobiť vhodne kombinovanou varenou alebo surovou zeleninou (mrkva, petržlen,
+rajčiny, zelená paprika, kápia, tento druh farbenia a prizdobenia je zo zdravotného hľadiska vhodnejší. Na chladnom
+mieste necháme stuhnúť. Pokrájaným aspikom zdobíme studené mäsové misy.
 
 ## 2. Ruské vajcia 
 *4 porcie asi po 150g*
@@ -228,13 +248,14 @@ zmesi koreňovej zeleniny, korenia a citróna, osolenej vody
 * 60g zemiakov varených v šupke
 * 40g kyslých uhoriek
 * soľ, citrónová šťava, horčica,
-<p>posekaný zelený petržlen, listy hlávkového šalátu,
-<p>plátky salámu, rajčiny a papriky, kápia, pažítka
-<p>Urobíme si majonézu, žĺtok vymiešame so soľou a horčicou a za stáleho miešania prikvapkávame olej. Prilejeme
-    citrónovú šťavu, smotanu, zamiešame, potom pridáme zelený hrášok, uvarenú mrkvu a zemiaky, kyslé uhorky, olúpané
-    surové jablká pokrájané na kocky a posekaný zelený petržlen. Všetko dobre premiešame. Šalát urovnáme na sklenú misu
-    vyloženú listami hlávkového šalátu a naň poukladáme vajcia uvarené natvrdo rozkrojené na polovice, rezom na šalát,
-    prelejeme majonézou a prizdobíme salámou rajčinou, paprikou, uhorkou a pažítkou.
+* posekaný zelený petržlen, listy hlávkového šalátu,
+* plátky salámu, rajčiny a papriky, kápia, pažítka
+
+Urobíme si majonézu, žĺtok vymiešame so soľou a horčicou a za stáleho miešania prikvapkávame olej. Prilejeme
+citrónovú šťavu, smotanu, zamiešame, potom pridáme zelený hrášok, uvarenú mrkvu a zemiaky, kyslé uhorky, olúpané
+surové jablká pokrájané na kocky a posekaný zelený petržlen. Všetko dobre premiešame. Šalát urovnáme na sklenú misu
+vyloženú listami hlávkového šalátu a naň poukladáme vajcia uvarené natvrdo rozkrojené na polovice, rezom na šalát,
+prelejeme majonézou a prizdobíme salámou rajčinou, paprikou, uhorkou a pažítkou.
 
 ## 3. Jarné vajcia 
 *2 porcie asi 320g*
@@ -247,13 +268,15 @@ zmesi koreňovej zeleniny, korenia a citróna, osolenej vody
 * 15g pretlaku
 * 20g žĺtok
 * soľ, horčica, citrónová šťava, hlávkový šalát,
-<p>reďkovka, zelený petržlen
-<p>Vajcia uvaríme natrvrdo, olúpeme a uložíme na sklenú misu vyloženú šalátovými listami. (Spodok vajec odrežeme, aby
-    pevnejšie stáli.) Z masla a múky pripravíme bledú zásmažku, zalejeme ju mliekom, osolíme, povaríme na hustejšiu kašu
-    a rozdelíne na 4 rovnaké diely. Do 1.dielu zamiešame žĺtok, citrónovú šťavu a horčicu. Do 2.dielu rajčinový
-    pretlak, do 3.dielu uvarený, dobre ocedený a pretretý špenát, 4.diel necháme biely.
-<p>Uložené vajíčka polejeme farebnými masami. Masa musí byť hustá, aby nestiekla z vajec. Sklenú, porcelánovú misu s
-    vajcami ozdobíme pokrájaným citrónom, reďkovkou a zeleným petržlenom.
+* reďkovka, zelený petržlen
+
+Vajcia uvaríme natrvrdo, olúpeme a uložíme na sklenú misu vyloženú šalátovými listami. (Spodok vajec odrežeme, aby
+pevnejšie stáli.) Z masla a múky pripravíme bledú zásmažku, zalejeme ju mliekom, osolíme, povaríme na hustejšiu kašu
+a rozdelíne na 4 rovnaké diely. Do 1.dielu zamiešame žĺtok, citrónovú šťavu a horčicu. Do 2.dielu rajčinový
+pretlak, do 3.dielu uvarený, dobre ocedený a pretretý špenát, 4.diel necháme biely.
+
+Uložené vajíčka polejeme farebnými masami. Masa musí byť hustá, aby nestiekla z vajec. Sklenú, porcelánovú misu s
+vajcami ozdobíme pokrájaným citrónom, reďkovkou a zeleným petržlenom.
 
 ## 4. Ryba v aspiku 
 *2 porcie asi 300g*
@@ -261,10 +284,11 @@ zmesi koreňovej zeleniny, korenia a citróna, osolenej vody
 * 200g kapra alebo sumca
 * 50g miešanej koreňovej zeleniny,
 * ocot, soľ, čierne korenie, bobkový list, aspik,
-<p>citró zelený petržlen
-<p>Očistenú rybu pokrájame na kúsky a uvaríme v osolenej vode s octom, očistenou, pokrájanou zeleninou, bobkovým listom
-    a čiernym korením. Po uvarení vložíme na sklenú misu, ozdobíme pokrájaným citrónom, reďkovkou, zalejeme prizračným
-    vlažným aspikom a necháme v chlade stuhnúť.
+* citrón, zelený petržlen
+
+Očistenú rybu pokrájame na kúsky a uvaríme v osolenej vode s octom, očistenou, pokrájanou zeleninou, bobkovým listom
+a čiernym korením. Po uvarení vložíme na sklenú misu, ozdobíme pokrájaným citrónom, reďkovkou, zalejeme prizračným
+vlažným aspikom a necháme v chlade stuhnúť.
 
 ## 5. Pečeňová paštéta v aspiku
 * 1ks husacia(morčacia) pečeň asi 280 až 320g
@@ -273,16 +297,19 @@ zmesi koreňovej zeleniny, korenia a citróna, osolenej vody
 * 50g údenej slaniny(prerastanej)
 * 20g cibule
 * 40g vajce 1ks, olej, strúhanka
-<p>mlieko, soľ, čierne korenie, muškátový orech
-<p>Pečeň namočíme do mlieka aspoň na ½ dňa. Potom ju pretrieme cez sito aj so žemľou, ktorú sme namočili v mlieku a
-    vytlačili. Pridáme postrúhanú cibuľu, tlčené čierne korenie, soľ, postrúhaný muškátový orech, víno, celé vajce a
-    údenú slaninu pokrájanú na kocky. Všetko dobre premiešame a dáme do vymastenej a strúhankou vysypanej pudingovej
-    formy. Formu vložíme do väčšej nádoby s vodou a varíme asi ¾ hodiny. Uvarenú paštétu necháme vo forme vychladnúť.
-    Uvarený precedený priezračný aspik nalejeme do väčšej pudingovej formy asi na hrúbku dvoch prstov a necháme v chlade
-    stuhnúť. Potom na vrstvu studeného aspiku vyklopíme uvarenú paštétu
-<p> (pozor, aby sa nerozpadla) a formu dolejeme vlažným aspikom a necháme znovu stuhnúť. Pred podávaním okolo formy
-    obvinieme utierku, ktorú sme namočili v horúcej vode a vyžmýkali, a obsah formy vyklopíme na misu.
-<p>Paštétu ozdobíme pokrájaným citrónom, hlávkovým šalátom, reďkovkou a zeleným petržlenom.
+* mlieko, soľ, čierne korenie, muškátový orech
+
+Pečeň namočíme do mlieka aspoň na ½ dňa. Potom ju pretrieme cez sito aj so žemľou, ktorú sme namočili v mlieku a
+vytlačili. Pridáme postrúhanú cibuľu, tlčené čierne korenie, soľ, postrúhaný muškátový orech, víno, celé vajce a
+údenú slaninu pokrájanú na kocky. Všetko dobre premiešame a dáme do vymastenej a strúhankou vysypanej pudingovej
+formy. Formu vložíme do väčšej nádoby s vodou a varíme asi ¾ hodiny. Uvarenú paštétu necháme vo forme vychladnúť.
+
+Uvarený precedený priezračný aspik nalejeme do väčšej pudingovej formy asi na hrúbku dvoch prstov a necháme v chlade
+stuhnúť. Potom na vrstvu studeného aspiku vyklopíme uvarenú paštétu
+(pozor, aby sa nerozpadla) a formu dolejeme vlažným aspikom a necháme znovu stuhnúť. Pred podávaním okolo formy
+obvinieme utierku, ktorú sme namočili v horúcej vode a vyžmýkali, a obsah formy vyklopíme na misu.
+
+Paštétu ozdobíme pokrájaným citrónom, hlávkovým šalátom, reďkovkou a zeleným petržlenom.
 
 ## 6. Vlašský šalát pochúťkový asi 
 *4 porcie po 150g*
@@ -299,11 +326,12 @@ zmesi koreňovej zeleniny, korenia a citróna, osolenej vody
 * 50g zemiakov varených v šupke
 * 50g kyslých uhoriek (cukor alebo sacharín)
 * 20g cibule, biele korenie, citrónová šťava, soľ
-<p>reďkovka, hlávkový šalát, zelený petržlen
-<p>Pripravíme si majonézu na mixéri alebo ručne, žĺtok rozmiešame so soľou a horčicou a za stáleho miešania
-    prikvapkávame olej. Zmes rozriedíme kyslou smotanou, pridáme uvarený údený jazyk, pečené mäso, uvarenú zeleninu,
-    zemiaky a uhorky pokrájané na kocôčky a nadrobno posekanú cibuľku. Všetko dobre premiešame, dochutíme a urovnáme na
-    sklenenú misu.Zdobíme reďkovkou a hlávkovým šalátom.
+* reďkovka, hlávkový šalát, zelený petržlen
+
+Pripravíme si majonézu na mixéri alebo ručne, žĺtok rozmiešame so soľou a horčicou a za stáleho miešania
+prikvapkávame olej. Zmes rozriedíme kyslou smotanou, pridáme uvarený údený jazyk, pečené mäso, uvarenú zeleninu,
+zemiaky a uhorky pokrájané na kocôčky a nadrobno posekanú cibuľku. Všetko dobre premiešame, dochutíme a urovnáme na
+sklenenú misu.Zdobíme reďkovkou a hlávkovým šalátom.
 
 ## 7. Šunka v aspiku 
 *4 porcie asi po 125g*
@@ -318,11 +346,12 @@ zmesi koreňovej zeleniny, korenia a citróna, osolenej vody
 * 40g jabĺk
 * 40g kyslých uhoriek, chren
 * soľ, horčica, biele korenie, aspik,
-<p>zelený petržlen,
-<p>Urobíme majonézu, zmes rozriedíme citrónovou šťavou, primiešame hrášok, uvarenú mrkvu, zemiaky a kyslé uhorky
-    pokrájané na kocky a pokrájané surové jablká. Spolu premiešame, dochutíme chrenom a plníme plátky šunky, ktoré
-    stočíme. Uložíme ich na misu, na ktorej je vrstva stuhnutého aspiku široká asi na prst. Šunku zalejeme priezračným
-    vlažným aspikom a necháme na ľade stuhnúť, Zdobíme pokrájaným citrónom a zeleným petržlenom.
+* zelený petržlen,
+
+Urobíme majonézu, zmes rozriedíme citrónovou šťavou, primiešame hrášok, uvarenú mrkvu, zemiaky a kyslé uhorky
+pokrájané na kocky a pokrájané surové jablká. Spolu premiešame, dochutíme chrenom a plníme plátky šunky, ktoré
+stočíme. Uložíme ich na misu, na ktorej je vrstva stuhnutého aspiku široká asi na prst. Šunku zalejeme priezračným
+vlažným aspikom a necháme na ľade stuhnúť, Zdobíme pokrájaným citrónom a zeleným petržlenom.
 
 ## 8. Paštéta z husacej pečene 
 *2 porcie 150g*
@@ -334,12 +363,13 @@ zmesi koreňovej zeleniny, korenia a citróna, osolenej vody
 * 25ml bieleho vína
 * 15g údenej prerastanej slaniny
 * soľ, muškátový oriešok, biele korenie
-<p>olej, mlieko
-<p>Husaciu pečeň a olúpanú, kôry zbavenú žemlu namočíme do mlieka. Žemlu vytlačíme a s pečeňou pretrieme cez sito. Potom
-    pridáme jemne postrúhanú cibuľku, soľ, vajce, postrúhaný muškátový oriešok, zomleté biele korenie, víno, údenú
-    slaninu pokrájanú na drobné kocky, spolu dobre vymiešame a nalejeme do vymastenej nákypovej formy, ktorú vložíme do
-    vriacej vody a prikrytú pomaly varíme asi hodinu. (Voda, v ktorej sa paštéta vyrí má siahať do tretiny formy.) Do
-    paštéty môžeme pridať osobitne udusenú husaciu pečeň pokrájanú na kocky.
+* olej, mlieko
+
+Husaciu pečeň a olúpanú, kôry zbavenú žemlu namočíme do mlieka. Žemlu vytlačíme a s pečeňou pretrieme cez sito. Potom
+pridáme jemne postrúhanú cibuľku, soľ, vajce, postrúhaný muškátový oriešok, zomleté biele korenie, víno, údenú
+slaninu pokrájanú na drobné kocky, spolu dobre vymiešame a nalejeme do vymastenej nákypovej formy, ktorú vložíme do
+vriacej vody a prikrytú pomaly varíme asi hodinu. (Voda, v ktorej sa paštéta vyrí má siahať do tretiny formy.) Do
+paštéty môžeme pridať osobitne udusenú husaciu pečeň pokrájanú na kocky.
 
 # Studené pokrmy (diétne)
 ## 1. Pečené kurča na studeno
@@ -348,16 +378,17 @@ zmesi koreňovej zeleniny, korenia a citróna, osolenej vody
 * 300g kurčaťa
 * 50g vývaru
 * 3g masla
-<p>drtený kmín, soľ
-<p>Kurča osolíme, okmínujeme a na masle podliate vývarom upečieme domäkka (mikrovlnka – Crisp asi 10 min), necáme
-    vychladnúť a podávame s rôznymi šalátmi.
+* drtený kmín, soľ
+
+Kurča osolíme, okmínujeme a na masle podliate vývarom upečieme domäkka (mikrovlnka – Crisp asi 10 min), necáme
+vychladnúť a podávame s rôznymi šalátmi.
 
 ## 2. Sardinky (olejovky) s cibuľkou
 *porcia -70g*
 
 * 60g sardiniek vo vlastnej šťave (necháme predtým prebytočný tuk krajom)
 * 10g cibuľa (šalotka) nakrájaná na jemno
-<p>plátok citrónu, ružičkový petržlen, bazalka
+* plátok citrónu, ružičkový petržlen, bazalka
 
 ## 3. Jemné párky
 *porcia – 100g*
@@ -722,28 +753,33 @@ jablkami, dochutenú citrónovou šťavou a mädovkou.
 * trochu soli
 
 **Kvások:**
+
 * 0,25dl – mlieko - 0,75dl
 * 7g práškový cukor - 20g
 * 10g droždia /min-5g/ - 30g
 * 12g polohrubej výberovej múky - 40g
 
 **Príprava:**
+
 * 5g tuk na vymastenie plechu
 * 5g slnečnicový olej na potretie
 * 10g múka výberová-dosku riadne pomúčime
 
 **Maková plnka:**
+
 * 70g pomletého maku, -200g
 * 1ks – vanilkový cukor
 * 10g hrozienok, voda na sparenie
 
 **Tvarohová plnka:**
+
 * 70g jemného tvarohu
 * 250g hrozienka
 * 1ks žĺtok
 * vanilkový cukor
 
 **Orechová plnka:**
+
 * 70g orechy strúhané
 * vanilkový cukor
 * 200g hrozienka
@@ -762,10 +798,12 @@ jablkami, dochutenú citrónovou šťavou a mädovkou.
 * 1 lyžička semiačok ligurčeka lekárskeho
 
 **Kvások:**
+
 * 50g droždia
 * 2 vlažnej vody
 * 70g múky hladkej, štipka – 5g cukru
-<p>(Na čierny chlieb použijeme ražnú hladkú múku)
+
+(Na čierny chlieb použijeme ražnú hladkú múku)
 
 **Postup:**
 V šupke uvarené zemiaky necháme vychladnúť, ošúpeme ich a prelisujeme, prípadne postrúhame. Medzitým pripravíme
@@ -789,21 +827,24 @@ privítanie hostí, balíme ho do vyšívanej ľanovej utierky alebo ozdobného 
 * 175g práškového cukru, trochu soli
 * 1 x balíček vanilínového cukru
   alebo vanilka s práškovým cukrom
-<p>1 x rumová esencia alebo originál RUM podľa chuti
+* 1 x rumová esencia alebo originál RUM podľa chuti
 * 200g 5 vajec
 * 375g pšeničnej múky hladkej špeciál 00 extra
-<p>4 x lyžičky prášku do pečiva
-<p>5 x lyžíc mlieko, kakao
-<p>Postup: Maslo šľaháme najvyššou rýchlosťou asi
-<p>30 sekúnd, postupne primiešame cukor, vanilkový cukor a soľ, primiešame vajcia. Nakoniec pridáme múku s práškom do
-    pečiva a 3 lyžice mlieka. Dve tretiny cesta naplníme do rastlinným tukom vymastenej formy vysypanej troškou
-    strúhanky, aby sa nám bábovka ľahko vyklopila. Zvyšok cesta s využitím zvyšného mlieka zafarbíme kakaom, naplníme do
-    formy a vidličkou špirálovými ťahmi vytvoríme mramorový vzor.Pečieme v stredne vyhriatej rúre 50 až 60 minút.
+* 4 x lyžičky prášku do pečiva
+* 5 x lyžíc mlieko, kakao
+
+Postup: Maslo šľaháme najvyššou rýchlosťou asi
+30 sekúnd, postupne primiešame cukor, vanilkový cukor a soľ, primiešame vajcia. Nakoniec pridáme múku s práškom do
+pečiva a 3 lyžice mlieka. Dve tretiny cesta naplníme do rastlinným tukom vymastenej formy vysypanej troškou
+strúhanky, aby sa nám bábovka ľahko vyklopila. Zvyšok cesta s využitím zvyšného mlieka zafarbíme kakaom, naplníme do
+formy a vidličkou špirálovými ťahmi vytvoríme mramorový vzor.Pečieme v stredne vyhriatej rúre 50 až 60 minút.
 
 ## 5. Moravské vdolečky
-<p>(tradičný rodinný recept - Kunovice nad Olšavou)
+
+(tradičný rodinný recept - Kunovice nad Olšavou)
 
 **Cesto:**
+
 * 1kg preosiatej polohrubej výberovej múky
 * 200g práškového cukru
 * 250g hera (visa) 1ks rastlinný jedlý tuk
@@ -812,11 +853,13 @@ privítanie hostí, balíme ho do vyšívanej ľanovej utierky alebo ozdobného 
 * 1 celé vajce a 1 bielok na potieranie-rozšľahané
 
 **Kvások:**
+
 * 50g 1ks kvasnice, cukor, soľ, múka výberová-lyžička
   necháme dobre zdvihnúť prikrytý kvások.
 * 200g domáci slivkový lekvár(povidlá)
 
 **Posypátko:**
+
 * 250g hladká múka špeciál
 * 100g práškového cukru
 * 125g hera ½ks rastlinný jedlý tuk
@@ -824,6 +867,7 @@ privítanie hostí, balíme ho do vyšívanej ľanovej utierky alebo ozdobného 
 Posypátko rukou vypracujeme, prehnetieme, aby sa robili kúsky a tiež sa sypalo.
 
 **Plnka:**
+
 * 750g tvaroh čerstvý
   alebo 3ks kocky po 250g jemného mäkkého tvarohu
 * 150g sušené hrozienka (1 balenie)
@@ -849,6 +893,7 @@ pravou vanilkou.
 Cesto a posypátko je rovnaké ako u vdolečkov
 
 **Plnka:**
+
 * 250g mletý mak
 * 120g práškový cukor
 * postrúhaná kôra z 1ks citróna podľa chuti
@@ -870,6 +915,7 @@ Pečieme rovnako ako vdolečky.
 Cesto a posypátko rovnaké.
 
 **Plnka:**
+
 * 300g postrúhaných orechov (na mlynku)
 * 150g práškového cukru, vanilka
 
@@ -882,6 +928,7 @@ Pečenie je rovnaké.
 ## 8. Ovocný slivkový koláč so strúhankou
 
 **marhuľový, ríbezľový, čerešňový, čučoriedkový, z miešaného ovocia (s posýpkou)**
+
 * 500g krupicovej múky 8 porcií po 250g
 * 70g kryštálového cukru
 * 70g margarínu (jedlého rastlinného tuku)
@@ -893,6 +940,7 @@ Pečenie je rovnaké.
 * 40g vajce 1 ks, soľ
 
 **Posypátko:**
+
 * 250g hladká múka špeciál
 * 100g práškového cukru
 * 125g hera ½ ks(ak chýba doplniť slnečnicovým olejom)
@@ -966,7 +1014,7 @@ rúre, najprv vyhriatej na 200°C, po chvíli na 150°C.
 * 300g polohrubej múky
 * 7g prášok do pečiva (1 kávová lyžička)
 * 300g cukru (práškového)
-<p>strúhaná kôra (1 citrón)
+* strúhaná kôra (1 citrón)
 * 120g vajcia 3ks
 * 150ml slnečnicového oleja
 * 480g kompótových polených broskýň na obloženie
@@ -997,6 +1045,7 @@ ešte horúci koláč. Nakoniec posypeme posekanými pistáciami.
 * 250ml mlieko - podľa potreby, soľ
 
 **Plnka:**
+
 * 150g pomletého maku
 * 60g práškového cukru
 * 1 horúcej vody
@@ -1060,12 +1109,14 @@ Nakoniec posypeme cukrom.
 * 250ml mlieko podľa potreby, soľ
 
 **Plnka:**
+
 * 250g jemného tvarohu
 * 50g práškového cukru
 * 150g lekváru (povidiel)-slivkového, marhuľového
 * 20g 1 žĺtok, citrónová kôra
 
 **Posýpka:**
+
 * 20g masla
 * 20g krupicovej (hladkej) múky
 * 20g práškového cukru
@@ -1106,6 +1157,7 @@ Plnené lekvárom, sypané orechami a vanilkou
 * mlieko podľa potreby, soľ
 
 **Plnka:**
+
 * 200g lekváru (povidiel)
 * 50g posekané orechy
 * 30g práškového cukru na posypanie
@@ -1152,6 +1204,7 @@ vysypanej bábovkovej formy a necháme nakysnúť. Bábovku pečieme v stredne t
 * 20g práškového cukru
 
 **Plnka:**
+
 * 200g zomletých orechov
   (zomletého maku, jemného tvarohu, žĺtok, hrozienka, strúhané jablká)
 * 200g kryštálového cukru
@@ -1236,6 +1289,7 @@ necháme v teple nakysnúť, znovu potrieme vajcom a upečieme v stredne teplej 
 * 80g vajcia 2 ks
 
 **Na plnku:**
+
 * 200g jablká 3-4ks, olúpané, pokrájané na plátky
 * 40g cukor, mletá škorica
 * 50g hrozienka (môžeme namočiť v rume)
@@ -1265,10 +1319,12 @@ a škoricou pečieme pri použití funkcie crisp asi
 * 12g prášok do pečiva 1ks - 1 lyžička
 
 **Na ozdobenie:**
+
 * 200g banány 2 ks
 * 30g strúhaného kokosu 2 lyžičky
 
 **Na vymastenie zapekacej panvice-formy:**
+
 * 5g maslo alebo margarín
 * 3-5g strúhanka na vysypanie
 
@@ -1339,6 +1395,7 @@ tretín naplníme cestom, posypeme na jemno posekanými pistáciami a v rúre vy
 * 500g čerešní alebo višní
 
 **Posýpka:**
+
 * 50g mletých orechov
 * 30g kryštálového cukru
 * 12g vanilínový cukor 1ks
@@ -1450,7 +1507,8 @@ Cesto vylejeme na vymastený múkou vysypaný plech, dáme piecť do vyhriatej r
 Upečený koláč potrieme džemom a polejeme čokoládovou polevou.
 
 ## 34. Prázdny koláč
-<p>7 porcií asi po 100g
+*7 porcií asi po 100g*
+
 * 300g polohrubej výberovej múky
 * 3-5g soli 1ČL
 * 50g kryštálového cukru
@@ -1461,55 +1519,67 @@ Upečený koláč potrieme džemom a polejeme čokoládovou polevou.
 * 40g domáce vajce 1ks
 * 30g kakaového prášku
 * 20g prášku na posypanie (vanilka)
-<p>Do misy preosejeme múku, zmiešame so soľou, cukrom a citrónovou kôrou. Spravíme kvások, do vlažného mlieka
-<p>s jednou lyžičkou cukru, troškou soli rozdrobíme droždie,
-<p>posypeme lyžičkou múky, necháme vykysnúť, vlejeme do múky, pridáme postrúhané, alebo najemno pokájané maslo,
-    rozšľahané vajce a pomocou varechy vypracujeme na hladké cesto. Rozdelíme na 2 polovice a do jednej zapracujeme
-    kakao zmiešané s práškovým cukrom. Cestá posypeme trochou múky, prykryjeme utierkou a na teplom mieste necháme
-    vykysnúť. Na pomúčenom lopári (doske) rozgúľame bledé cesto, prikryjeme rozgúľaným tmavým kakaovým cestom a
-    zvinieme, vložíme do vymastenej vencovej formy, popicháme vidličkou, potrieme mliekom a vo vyhriatej rúre
-    upečieme.
-<p>posypeme práškovým cukrom s vanilkou.
+
+Do misy preosejeme múku, zmiešame so soľou, cukrom a citrónovou kôrou. Spravíme kvások, do vlažného mlieka
+s jednou lyžičkou cukru, troškou soli rozdrobíme droždie,
+posypeme lyžičkou múky, necháme vykysnúť, vlejeme do múky, pridáme postrúhané, alebo najemno pokájané maslo,
+rozšľahané vajce a pomocou varechy vypracujeme na hladké cesto. Rozdelíme na 2 polovice a do jednej zapracujeme
+kakao zmiešané s práškovým cukrom. Cestá posypeme trochou múky, prykryjeme utierkou a na teplom mieste necháme
+vykysnúť. Na pomúčenom lopári (doske) rozgúľame bledé cesto, prikryjeme rozgúľaným tmavým kakaovým cestom a
+zvinieme, vložíme do vymastenej vencovej formy, popicháme vidličkou, potrieme mliekom a vo vyhriatej rúre
+upečieme. Posypeme práškovým cukrom s vanilkou.
 
 **Lístkové pečivo:**
 
 ## 35.Lístkové cesto základné 500g
+
 * 250g hladkej múky špeciál
 * 250g margarínu/jedlého raslinného pkrmového tuku
 * voda, ocot, soľ
-<p>1/3 múky s margarínom spracujeme na cesto, z ktorého sformujeme kocku a necháme stuhnúť na chladnom mieste.
-<p>Do zvyšnej múky dáme trochu octu, soli a toľko vlažnej vody, aby sme dosiahli vláčne závinové cesto. Cesto dobre
-    vypracujeme na pomúčenom lopári a necháme asi ¼ hodiny stáť. Potom ho vyvaľkáme do väčšieho štvorca.
-<p>Do prostriedku položíme stuhnutú kocku rohmi k stredom strán štvorca, kraje cesta preložíme cez kocku, a to tak,
-<p>aby v ňom bola úplne zabalená. Váľkom kocku v ceste roztlačíme a vyvaľkáme ho asi na 1cm hrúbku.
-<p>Cesto zložíme po šírke 3krát na seba a necháme na chladnom mieste asi šrvrť hodiny stáť. Potom znovu rozvaľkáme na
-    hrúbku 1 cm a 3krát zložíme na seba.
-<p>Toto skladanie a prevaľkávanie cesta opakujem trikrát.
-<p>Cesto môžeme upiecť s celku, plniť krémom a nakrájať na rezy, alebo ho pokrájame na štvorce, plníme lekvárom a
-    zložíme na šatku. Z cesta pečieme aj trubičky, ktoré plníme šľahačkou alebo sladkým vareným snehom.
 
-## 36. Lístkový závin s tvarohom
-* - Tyrolský závin (štrúdla)
-<p>5 porcií po 220g
+1/3 múky s margarínom spracujeme na cesto, z ktorého sformujeme kocku a necháme stuhnúť na chladnom mieste.
+
+Do zvyšnej múky dáme trochu octu, soli a toľko vlažnej vody, aby sme dosiahli vláčne závinové cesto. Cesto dobre
+vypracujeme na pomúčenom lopári a necháme asi ¼ hodiny stáť. Potom ho vyvaľkáme do väčšieho štvorca.
+
+Do prostriedku položíme stuhnutú kocku rohmi k stredom strán štvorca, kraje cesta preložíme cez kocku, a to tak,
+aby v ňom bola úplne zabalená. Váľkom kocku v ceste roztlačíme a vyvaľkáme ho asi na 1cm hrúbku.
+
+Cesto zložíme po šírke 3krát na seba a necháme na chladnom mieste asi šrvrť hodiny stáť. Potom znovu rozvaľkáme na
+hrúbku 1 cm a 3krát zložíme na seba.
+
+Toto skladanie a prevaľkávanie cesta opakujem trikrát.
+
+Cesto môžeme upiecť s celku, plniť krémom a nakrájať na rezy, alebo ho pokrájame na štvorce, plníme lekvárom a
+zložíme na šatku. Z cesta pečieme aj trubičky, ktoré plníme šľahačkou alebo sladkým vareným snehom.
+
+## 36. Lístkový závin s tvarohom - Tyrolský závin (štrúdla)
+*5 porcií po 220g*
+
 * 200g hladkej múky špeciál
 * 200g margarínu
-<p>voda soľ, ocot
+* voda, soľ, ocot
 
 **Plnka:**
+
 * 500g jemného tvarohu
 * 20g žĺtok 1ks (20g rozšľahané vajce)
 * 150g práškového cukru
 * 50g hrozienok (namáčaných v 0,3dl jemného rumu)
 * 10g vanilka
-<p>Postup je rovnaký ako pri základnom lístkovam ceste,
-<p>3x zložené lístkové cesto na pomúčenom lopári rozvaľkáme, asi na hrúbku 1 cm do tvaru obdĺžnika.
-<p>Rozrežeme ho na polovice a dáme na suchý plech.
+
+Postup je rovnaký ako pri základnom lístkovam ceste,
+3x zložené lístkové cesto na pomúčenom lopári rozvaľkáme, asi na hrúbku 1 cm do tvaru obdĺžnika.
+Rozrežeme ho na polovice a dáme na suchý plech.
 
 **Plnka:**
-<p>Tvaroh vymiešame so žĺtkom, cukrom, postrúhanou citrónovou kôrou, hrozienkami, vanilkovým cukrom a rozotrieme ho na
-    lístkové cesto po dĺžke.
-<p>Okraje cesta preložíme cez tvaroh na seba a potrieme rozšľahaným vajcom. Pečieme v horúcej rúre.
-<p>Namiesto tvarohu môžeme dať očistené, postrúhané jablká s mletými orechmi.
+
+Tvaroh vymiešame so žĺtkom, cukrom, postrúhanou citrónovou kôrou, hrozienkami, vanilkovým cukrom a rozotrieme ho na
+lístkové cesto po dĺžke.
+
+Okraje cesta preložíme cez tvaroh na seba a potrieme rozšľahaným vajcom. Pečieme v horúcej rúre.
+
+Namiesto tvarohu môžeme dať očistené, postrúhané jablká s mletými orechmi.
 
 ## 37. Krémeš šľahačkový
 *24ks krémešov po 75g*
@@ -1519,6 +1589,7 @@ Upečený koláč potrieme džemom a polejeme čokoládovou polevou.
 * 2ks balenia čerstvej šľahačky 33% asi 4dcl
 
 **Krém:**
+
 * 7 vody
 * 80g zlatého klasu 2ks
 * 12g vanilka 1ks
@@ -1535,6 +1606,7 @@ Upečený koláč potrieme džemom a polejeme čokoládovou polevou.
 * 500g lístkové cesto základné
 
 **Plnka:**
+
 * 200g lekváru (povidiel)
 * 30g práškového cukru na posypanie
 <p>Cesto na pomúčenom lopári rozvaľkáme asi na hrúbku stebla. Pokrájame na rovnaké štvorčeky, do prostriedku každého
@@ -1548,14 +1620,17 @@ Upečený koláč potrieme džemom a polejeme čokoládovou polevou.
 * 250g margarínu
 * voda, soľ, ocot
 * 20g žĺtok 1ks vajce
-<p>1,2kg menších jabĺk 20ks
+* 1,2kg menších jabĺk 20ks
 * 200g práškového cukru, mletá škorica, mandle
-<p>Z múky, margarínu, soli, octu, žĺtka a vody urobíme obyčajné lístkové cesto, ktoré vyvaľkáme na pomúčenom lopári na
-    obdĺžník a pokrájame na 20 štvorčekov.
-<p>Do prostriedku každého položíme umyté a olúpané menšie jablko zbavené jaderníka a obalené v škoricovom cukre.
-<p>Rožky cesta potrieme bielkom a preložíme cez stred jablka tak, aby boli všetky 4 rožky na sebe, a prepichneme ich
-    špáradlom. Jablká pečieme v horúcej rúre, z upečených špáradlá vytiahneme a namiesto ních dáme olúpané mandle
-<p>zastrúhané do podoby klinca. Jablká možeme aj na chvíľku namočiť v jemnom rume.
+
+Z múky, margarínu, soli, octu, žĺtka a vody urobíme obyčajné lístkové cesto, ktoré vyvaľkáme na pomúčenom lopári na
+obdĺžník a pokrájame na 20 štvorčekov.
+
+Do prostriedku každého položíme umyté a olúpané menšie jablko zbavené jaderníka a obalené v škoricovom cukre.
+
+Rožky cesta potrieme bielkom a preložíme cez stred jablka tak, aby boli všetky 4 rožky na sebe, a prepichneme ich
+špáradlom. Jablká pečieme v horúcej rúre, z upečených špáradlá vytiahneme a namiesto ních dáme olúpané mandle
+zastrúhané do podoby klinca. Jablká možeme aj na chvíľku namočiť v jemnom rume.
 
 ## 40. Bryndzové tyčinky
 * 250g hladkej múky
@@ -1564,33 +1639,39 @@ Upečený koláč potrieme džemom a polejeme čokoládovou polevou.
 * 20g žĺtok,
 * 40g vajce na potretie 1ks
 * voda, soľ, rasca (ligurček lekárský)
-<p>Jednu tretinu múky zmiesíme s margarínom a sformujeme do kocky. Do ostatnej múky pridáme bryndzu, soľ, žĺtok, vodu a
-    vypracujeme vláčne cesto, z ktorého urobíme bochník a necháme na pomúčenom lopári stáť asi 15 minút.
-<p>Potom do cesta zabalíme margarínovú kocku a vyvaľkáme ho. Skladáme ho a rozvaľkáme ho ako lístkové cesto. Trikrát
-    poskladané cesto vyvaľkáme na hrúbku ½ cm, potrieme rozšľahaným vajcom, kruhovou ostrôžkou pokrájame na tyčinky,
-    ktoré posypeme soľou, rascou alebo ligurčekom
-<p>a upečieme v stredne teplej rúre.
+
+Jednu tretinu múky zmiesíme s margarínom a sformujeme do kocky. Do ostatnej múky pridáme bryndzu, soľ, žĺtok, vodu a
+vypracujeme vláčne cesto, z ktorého urobíme bochník a necháme na pomúčenom lopári stáť asi 15 minút.
+
+Potom do cesta zabalíme margarínovú kocku a vyvaľkáme ho. Skladáme ho a rozvaľkáme ho ako lístkové cesto. Trikrát
+poskladané cesto vyvaľkáme na hrúbku ½ cm, potrieme rozšľahaným vajcom, kruhovou ostrôžkou pokrájame na tyčinky,
+ktoré posypeme soľou, rascou alebo ligurčekom a upečieme v stredne teplej rúre.
 
 **Piškótové pečivo:**
 
 ## 41. Štefánské omelety s marhuľovým lekvárom
 
 **alebo čučoriedkovým, egrešovým džemom**
-<p>2 porcie po 220g
+*2 porcie po 220g*
+
 * 120g vajcia 3ks
 * 130g práškového cukru
 * 60g krupicovej múky (detskej krupice)
 * 30g sladkej smotany 2PL
 * 20g masla
 * 80g marhuľového lekváru
-<p>(čučoriedkového, egrešového džemu)
-<p>Žĺtky vymiešame s ½ práškového cukru, potom pridáme sladkú smotanu, rozpustené maslo a tuhý sneh ušlahaný
-<p>z bielkov a cukru, a to tak, že do ušĺahaného snehu pridáme cukor a došľaháme. Potom zľahka primiešame krupicovú múku.
-    Cesto rozdelíme na 2 vymastené múkou vysypané plechy, stierkou roztieme do kruhu a v mierne teplej rúre upečieme.
-    Potrieme lekvárom a preložíme ako omeletu. Vrch posypeme cukrom, prípadne kakaovým benkom,
-<p>môžeme prizdobiť šlahačkou a ovocím.
+* (čučoriedkového, egrešového džemu)
+
+Žĺtky vymiešame s ½ práškového cukru, potom pridáme sladkú smotanu, rozpustené maslo a tuhý sneh ušlahaný
+z bielkov a cukru, a to tak, že do ušĺahaného snehu pridáme cukor a došľaháme. Potom zľahka primiešame krupicovú múku.
+
+Cesto rozdelíme na 2 vymastené múkou vysypané plechy, stierkou roztieme do kruhu a v mierne teplej rúre upečieme.
+
+Potrieme lekvárom a preložíme ako omeletu. Vrch posypeme cukrom, prípadne kakaovým benkom,
+môžeme prizdobiť šlahačkou a ovocím.
 
 ## 42. Čerešňová bublanina
+
 * 150g masla (margarínu)
 * 120g vajcia 3 ks
 * 150g práškového cukru
@@ -1598,11 +1679,12 @@ Upečený koláč potrieme džemom a polejeme čokoládovou polevou.
 * 250g krupicovej múky
 * 4g prášku do pečiva (stačí ¼ balíčka)
 * 500g čerstvých čerešní(čerešňového kompótu)
-<p>Zmäknuté maslo alebo margarín vymiešame s ½ práškového cukru, žĺtkami a mliekom. Z bielkov ušľaháme hustý sneh,
-    pridáme 2.polovicu cukru a došľaháme. Pridáme ho k žĺtkom a zľahka primiešame krupicovú múku s práškom do
-    pečiva.
-<p>Cesto stierkou rozotrieme do vymasteného múkou vysypaného hlbšieho plechu, lebo po vložení do rúry zredne.Do cesta
-    popicháme čerešne, ktoré môžeme vykostkovať a pečieme v stredne teplej rúre.
+
+Zmäknuté maslo alebo margarín vymiešame s ½ práškového cukru, žĺtkami a mliekom. Z bielkov ušľaháme hustý sneh,
+pridáme 2.polovicu cukru a došľaháme. Pridáme ho k žĺtkom a zľahka primiešame krupicovú múku s práškom do pečiva.
+
+Cesto stierkou rozotrieme do vymasteného múkou vysypaného hlbšieho plechu, lebo po vložení do rúry zredne.Do cesta
+popicháme čerešne, ktoré môžeme vykostkovať a pečieme v stredne teplej rúre.
 
 ## 43. Bohémky
 *20ks kocky po 50g*
@@ -1614,18 +1696,22 @@ Upečený koláč potrieme džemom a polejeme čokoládovou polevou.
 * 50g krupicovej múky
 
 **Plnka:**
+
 * 40g 1 vajce
 * 20g kakaa
 * 180g práškového cukru
 * 250g masla
-<p>Oriešky opražíme, olúpeme a vychladnuté zomelieme.
-<p>Z bielkov ušľaháme sneh, potom pridáme cukor a došľaháme,
-<p>zamiešame doň múku, oriešky a postrúhanú čokoládu na varenie, alebo horkú. Cesto rozotrieme natenko na 2 tukom
-    vymastené a múkou vysypané plechy a upečieme. Ešte teplé nožom podoberieme, vyklopíme na lopár a prekrojíme na
-    polovicu. Jednotlivé plítky spojíme plnkou a povrch polejeme čokoládovou polevou. Necháme stuhnúť a teplým nožom
-    pokrájame na kocky.
-<p>Plnka: Do nádoby s okrúhlým dnom rozbijeme vajce, pridáme kakao a šľaháme nad parou do horúca, po vychladnutí pridáme
-    maslo, práškový cukor a vymiešame.
+
+Oriešky opražíme, olúpeme a vychladnuté zomelieme.
+
+Z bielkov ušľaháme sneh, potom pridáme cukor a došľaháme, zamiešame doň múku, oriešky a postrúhanú čokoládu na varenie,
+alebo horkú. Cesto rozotrieme natenko na 2 tukom
+vymastené a múkou vysypané plechy a upečieme. Ešte teplé nožom podoberieme, vyklopíme na lopár a prekrojíme na
+polovicu. Jednotlivé plítky spojíme plnkou a povrch polejeme čokoládovou polevou. Necháme stuhnúť a teplým nožom
+pokrájame na kocky.
+
+Plnka: Do nádoby s okrúhlým dnom rozbijeme vajce, pridáme kakao a šľaháme nad parou do horúca, po vychladnutí pridáme
+maslo, práškový cukor a vymiešame.
 
 ## 44. Svíboh-rezy (rodinný recept Kunovice n/Olš.)
 *20ks rezov asi po 75g*
@@ -1639,35 +1725,41 @@ Upečený koláč potrieme džemom a polejeme čokoládovou polevou.
 * 80g ríbezlového (malinového)kyslého domáceho džemu
 
 **Vanilkový krém s rumom alebo griotkou:**
+
 * 2 mlieka (podľa potreby)
 * 40g 1 zlatý klas
 * 12g vanilínový cukor
 * 150g masla
 * 120g práškového cukru
-<p>0,3 jemného rumu 2PL alebo kalíštek griotky
+* 0,3dl jemného rumu 2PL alebo kalíštek griotky
 
 **Citrónová poleva:**
+
 * 20g 1 bielok
 * 100g práškového cukru
 * 20g 1-2 lyžičky citrónovej šťavy
-<p>Zmäknuté maslo(margarín) vymiešame s polovicou práškového cukru, žĺtkami a mliekom. Z bielkov ušľaháme sneh, pridáme
-    2.polvicu cukru a došľaháme, sneh pridáme k žĺtkom a zľahka primiešame krupicovú múku s práškom do pečiva. Cesto
-    vložíme do tukom vymasteného a múkou vysypaného hlbšieho plechu, pečieme v stredne teplej rúre. Malo by sa pekne
-    zdvyhnúť, pred dopečením poprepichujeme páratkom, skontrolujeme dopečenie a cesto
-<p>vyklopíme na mastný papier na lopári, vychladnuté pozdĺžne ostrým horúcím nožom rozrežieme na 2 polovice vrchnú zo
-    strany rezu zľahka natrieme ríbezlovým džemom.
+
+Zmäknuté maslo(margarín) vymiešame s polovicou práškového cukru, žĺtkami a mliekom. Z bielkov ušľaháme sneh, pridáme
+2.polvicu cukru a došľaháme, sneh pridáme k žĺtkom a zľahka primiešame krupicovú múku s práškom do pečiva. Cesto
+vložíme do tukom vymasteného a múkou vysypaného hlbšieho plechu, pečieme v stredne teplej rúre. Malo by sa pekne
+zdvyhnúť, pred dopečením poprepichujeme páratkom, skontrolujeme dopečenie a cesto
+vyklopíme na mastný papier na lopári, vychladnuté pozdĺžne ostrým horúcím nožom rozrežieme na 2 polovice vrchnú zo
+strany rezu zľahka natrieme ríbezlovým džemom.
 
 **Vanilkový krém na plnku:**
-<p>Maslo s cukrom dobre vymiešame a za stáleho miešania pridáme doň jemný rum(griotku). Postupne pridávame za stáleho
-    miešania po malých dávkach vychladnutý hustý puding zo zlatého klasu s vanilkovým cukrom. Hotový vychladnútý krém
-    natrieme na spodnú polovicu vychladnutého upečeného piškotového cesta.
-<p>Citrónová poleva: Bielok miešame, šľaháme s práškovým cukrom do spenenia, potom pridáme citrónovú šťavu a spolu dobre
-    vymiešame, polevu natrieme navrch spojeného Svíbohu a pokrájame ho na 20ks obdĺžnikových rezov.
+
+Maslo s cukrom dobre vymiešame a za stáleho miešania pridáme doň jemný rum(griotku). Postupne pridávame za stáleho
+miešania po malých dávkach vychladnutý hustý puding zo zlatého klasu s vanilkovým cukrom. Hotový vychladnútý krém
+natrieme na spodnú polovicu vychladnutého upečeného piškotového cesta.
+
+Citrónová poleva: Bielok miešame, šľaháme s práškovým cukrom do spenenia, potom pridáme citrónovú šťavu a spolu dobre
+vymiešame, polevu natrieme navrch spojeného Svíbohu a pokrájame ho na 20ks obdĺžnikových rezov.
 
 **Chlebíčky:**
 
 ## 45. Biskupský chlebíček
-<p>15 porcíí asi po 55g
+15 porcíí asi po 55g
+
 * 125g masla
 * 150g práškového cukru
 * 160g domáce vajcia 4ks
@@ -1679,13 +1771,16 @@ Upečený koláč potrieme džemom a polejeme čokoládovou polevou.
 * 25g pomarančovej kôry
 * 6g ½ prášku do pečiva
 * 20g práškového cukru na popsypanie
-<p>Maslo vymiešame s polovicou cukru a žĺtkami, z bielkov ušľaháme sneh, pridáme 2.polovicu cukru a došľaháme. Sneh,
-    múku, čokoládu pokrájanú na rezance, posekané mandle, figy, hrozienka, pomarančovú kôrku a prášok do pečiva zľahka
-    primiešame k vyšľahnému maslu a dáme do tukom vymastenej a múkou vysypanej chlebíčkovej formy.
-<p>Pečieme v stredne teplej rúre. Upečený clebíček vyklopíme a posypeme cukrom.
+
+Maslo vymiešame s polovicou cukru a žĺtkami, z bielkov ušľaháme sneh, pridáme 2.polovicu cukru a došľaháme. Sneh,
+múku, čokoládu pokrájanú na rezance, posekané mandle, figy, hrozienka, pomarančovú kôrku a prášok do pečiva zľahka
+primiešame k vyšľahnému maslu a dáme do tukom vymastenej a múkou vysypanej chlebíčkovej formy.
+
+Pečieme v stredne teplej rúre. Upečený clebíček vyklopíme a posypeme cukrom.
 
 ## 46. Srňací chrbát
-<p>15 porcíí aso po 50g
+*15 porcíí aso po 50g*
+
 * 60g masla
 * 160g práškového cukru
 * 160g domáce vajcia 4ks
@@ -1694,44 +1789,53 @@ Upečený koláč potrieme džemom a polejeme čokoládovou polevou.
 * 50g mandlí
 
 **Čokoládová poleva:**
+
 * 50g 100% tuku
 * 100g čokoládová poleva
-<p>Maslo vymiešame s cukrom a žĺtkami, pridáme tuhý sneh, múku a kakao.Zľahka premiešame a dáme do vymastenej a múkou
-    vysypanej formy na srňací chrbát. Pečieme v stredne teplej rúre. Po vychladnutí vyklopíme, polejeme čokoládovou
-    polevou a popicháme doň olúpané mandle pokájané na malé kliny.
+
+Maslo vymiešame s cukrom a žĺtkami, pridáme tuhý sneh, múku a kakao.Zľahka premiešame a dáme do vymastenej a múkou
+vysypanej formy na srňací chrbát. Pečieme v stredne teplej rúre. Po vychladnutí vyklopíme, polejeme čokoládovou
+polevou a popicháme doň olúpané mandle pokájané na malé kliny.
 
 **Príprava polevy:**
-<p>Tuk rozpustíme a do teplého zamiešame čokoládu pokrájanú nadrobno a miešame, kým sa úplne nerozpustí. Vlažnú polevu
-    nalejeme na múčník a na chladnom mieste necháme stuhnúť.
+
+Tuk rozpustíme a do teplého zamiešame čokoládu pokrájanú nadrobno a miešame, kým sa úplne nerozpustí. Vlažnú polevu
+nalejeme na múčník a na chladnom mieste necháme stuhnúť.
 
 ## 47. Ovocný chlebíček
-<p>10 porcií po 42g
+*10 porcií po 42g*
+
 * 80g domáce vajcia 2ks
 * 70g kryštálového cukru
 * 80g krupicovej múky
 * 30g masla
 * 140g kandizovaného ovocia
 * 20g práškového cukru na posypanie
-<p>Celé vajcia s cukrom vyšľaháme nad parou, kým je masa horúca. Potom odstavíme a šľaháme až do vychladnutia.
-    Primiešane rozpustené maslo, múku a nadrobno nakrájané kandizované ovocie. Cesto nalejeme do vymastenej múkou
-    vysypanej chlebíčkovej formy a v stredne teplej rúre pečieme asi trištvrte hodiny. Upečený chlebíček vyklopíme a
-    posypeme práškovým cukrom.
+
+Celé vajcia s cukrom vyšľaháme nad parou, kým je masa horúca. Potom odstavíme a šľaháme až do vychladnutia.
+Primiešane rozpustené maslo, múku a nadrobno nakrájané kandizované ovocie. Cesto nalejeme do vymastenej múkou
+vysypanej chlebíčkovej formy a v stredne teplej rúre pečieme asi trištvrte hodiny. Upečený chlebíček vyklopíme a
+posypeme práškovým cukrom.
 
 ## 48.Orechové chlebíčky
-* 20ks asi po 30g
+*20ks asi po 30g*
+
 * 150g masla/margarínu
 * 150g práškového cukru
 * 150g zomletých vlašských orechov
 * 130g hladkej múky
 * 40g 2 žĺtky
-<p>citrónoá kôra, škorica, (prípadne 0,3dl jemný rum)
-<p>Maslo alebo margarín rozdrobíme s múkou, cukrom a zomletými orechmi. Potom pridáme tlčenú škoricu, postrúhanú
-    citrónovú kôru a žĺtky. Všetko spracujeme na cesto, z ktorého formujeme rovnaké guľky veľkosti orecha.
-<p>Pokladieme na suchý plech a pečieme v stredne teplej rúre. Po upečení ich posypeme cukrom. Guľky kladieme na plech v
-    dostatočnej vzdialenosti, lebo pri pečení sa cesto trocha rozleje a popuká do tvaru malých chlebíčkov.
+* citrónová kôra, škorica, (prípadne 0,3dl jemný rum)
+
+Maslo alebo margarín rozdrobíme s múkou, cukrom a zomletými orechmi. Potom pridáme tlčenú škoricu, postrúhanú
+citrónovú kôru a žĺtky. Všetko spracujeme na cesto, z ktorého formujeme rovnaké guľky veľkosti orecha.
+
+Pokladieme na suchý plech a pečieme v stredne teplej rúre. Po upečení ich posypeme cukrom. Guľky kladieme na plech v
+dostatočnej vzdialenosti, lebo pri pečení sa cesto trocha rozleje a popuká do tvaru malých chlebíčkov.
 
 ## 49. Kakaový chlebíček s jablkami
-* 20ks asi po 40g
+*20ks asi po 40g*
+
 * 400g čistých jabĺk
 * 50g krupice (detskej)
 * 40g žĺtky 2ks
@@ -1740,25 +1844,29 @@ Upečený koláč potrieme džemom a polejeme čokoládovou polevou.
 * 150g práškového cukru
 * 60g bielky 3ks
 * 20g práškového cukru na posypanie
-<p>Očistené jablká postrúhame, pridáme k ním krupicu a necháme asi pol hodiny stáť. Potom pridáme žĺtky, kakao, tuhý
-    sneh ušľahaný s bielkov, cukor a strúhanku. Všetko zľahka peremiešame, vylejeme do tukom vymastenej a múkou
-    vysypanej chlebíčkovej formy a pečieme v stredne teplej rúre. Upečený chlebíček posypeme cukrom.
+
+Očistené jablká postrúhame, pridáme k ním krupicu a necháme asi pol hodiny stáť. Potom pridáme žĺtky, kakao, tuhý
+sneh ušľahaný s bielkov, cukor a strúhanku. Všetko zľahka peremiešame, vylejeme do tukom vymastenej a múkou
+vysypanej chlebíčkovej formy a pečieme v stredne teplej rúre. Upečený chlebíček posypeme cukrom.
 
 **Drobné pečivo:**
 
 ## 50.Vanilkové rožky bez vajec
-* 17ks po 20g
+*17ks po 20g*
+
 * 120g hladkej múky
 * 100g maslo/margarín
 * 50g zomleté orechy
 * 30g práškový cukor
 * 50g vanilínový cukor na obaľovanie
-<p>Do preosiatej múky rozdrobíme maslo, pridáme zomleté orechy, práškový cukor a vypracujeme cesto, ktoré rozšúľame na
-    lopári na dlhý valček, pokrájame na kúsky veľkosti malého orecha, rozšúľame a sformujeme na rožky,
-<p>ktoré uložíme na suchý plech a upečieme v stredne teplej rúre. Upečené obaľujeme v vanilkovom cukre.
+
+Do preosiatej múky rozdrobíme maslo, pridáme zomleté orechy, práškový cukor a vypracujeme cesto, ktoré rozšúľame na
+lopári na dlhý valček, pokrájame na kúsky veľkosti malého orecha, rozšúľame a sformujeme na rožky, ktoré uložíme
+na suchý plech a upečieme v stredne teplej rúre. Upečené obaľujeme v vanilkovom cukre.
 
 ## 51.Vanilkové rožky s vajcom
-<p>asi 28ks po 20g
+*asi 28ks po 20g*
+
 * 170g hladkej múky
 * 140g maslo/margarín
 * 30g vanilínového cukru
@@ -1766,61 +1874,74 @@ Upečený koláč potrieme džemom a polejeme čokoládovou polevou.
 * 40g domáce vajce 1ks
 
 **Čokoládová poleva:**
+
 * 50g 100% tuku
 * 100g čokolády
-<p>Do preosiatej múky rozdrobíme maslo alebo margarín, pridáme ostatné potraviny a vypracujeme cesto, ďaľší postup je
-    ako predošlý.
-<p>Upečné rožky namáčame (z polovice alebo 2/3) vo vlažnej čokoládovej poleve z rozpusteného tuku a čokolády.
+
+Do preosiatej múky rozdrobíme maslo alebo margarín, pridáme ostatné potraviny a vypracujeme cesto, ďaľší postup je
+ako predošlý.
+
+Upečné rožky namáčame (z polovice alebo 2/3) vo vlažnej čokoládovej poleve z rozpusteného tuku a čokolády.
 
 ## 52. Vanilkové rožky z ovsenných vločiek
-* 22ks asi po 20g
+*22ks asi po 20g*
+
 * 200g hladkej múky
 * 50g zomletých ovsenných vločiek
 * 100g masla/margarínu
 * 50g práškového cukru
 * 0,3dl mlieka
 * 6g ½ balíčka prášku do pečiva
-<p>Do preosiatej múky rozdrobíme tuk, pridáme zomleté ovsenné vločky, cukor, mlieko, prášok do pečiva a vypracujeme
-    cesto. ďaľší postup sparcovania je jako pri vanilkových rožkoch bez vajec.
+
+Do preosiatej múky rozdrobíme tuk, pridáme zomleté ovsenné vločky, cukor, mlieko, prášok do pečiva a vypracujeme
+cesto. ďaľší postup sparcovania je jako pri vanilkových rožkoch bez vajec.
 
 ## 53. Zázvorníky
-<p>podľa veľkosti formy - 40ks po 22g
+podľa veľkosti formy - 40ks po 22g
+
 * 270g krýštálového cukru
 * 120g 3 domáce vajcia
 * 5g amónia
 * 370g hladkej múky špeciál
 * 100g postrúhaný zázvor - ďumbier
-<p>Celé vajcia s cukrom šľaháme nad parou, kým nevznikne horúca masa. Potom odstavíme a šľaháme, kým masa nevychladne.
-    Pridáme postrúhaný zázvor - ďumbier, múku, amónium a vypracujeme cesto. Na pomúčenom lopári ho rozvaľkáme a
-    formičkou vykrajujeme tvary, ktoré uložíme na vymastený plech a na druhý deň upečieme v stredne teplej rúre.
+
+Celé vajcia s cukrom šľaháme nad parou, kým nevznikne horúca masa. Potom odstavíme a šľaháme, kým masa nevychladne.
+Pridáme postrúhaný zázvor - ďumbier, múku, amónium a vypracujeme cesto. Na pomúčenom lopári ho rozvaľkáme a
+formičkou vykrajujeme tvary, ktoré uložíme na vymastený plech a na druhý deň upečieme v stredne teplej rúre.
 
 ## 54. Čajové pečivo(strojčekové) I
-* 25ks asi po 20g
+*25ks asi po 20g*
+
 * 240g hladkej múky
 * 100g masla alebo margarínu
 * 60g práškového cukru
 * 0,5dl kyslej smotany
 * 20g 1 žĺtok
 * 6g ½ balíčka prášku do pečiva
-<p>vanilkový cukor podľa potreby
-<p>Múku, margarín, cukor, žĺtok, kyslú smotanu, prášok do pečiva, vanilkový cukor spolu zmiesíme. Cesto vložíme do
-    strojčeka, cez formičku ho vytláčame a formujeme rôzné tvary. Upečné ešte teplé obaľujeme vo vanilkovom cukre.
+* vanilkový cukor podľa potreby
+
+Múku, margarín, cukor, žĺtok, kyslú smotanu, prášok do pečiva, vanilkový cukor spolu zmiesíme. Cesto vložíme do
+strojčeka, cez formičku ho vytláčame a formujeme rôzné tvary. Upečné ešte teplé obaľujeme vo vanilkovom cukre.
 
 ## 55. Čajové pečivo(strojčekové) II
-* 27ks asi po 20g
+*27ks asi po 20g*
+
 * 500g hladkej múky špeciál
 * 250g masla alebo margarínu
 * 40g 1 vajce
 * 250g práškového cukru
 * soľ, mletý aníz, vanilínový cukor
-<p>Múku, maslo, vajce, cukor, štipku soli, mletý aníz zmiesíme. Cesto vložíme do strojčeka(mlynčeka), cez formičku ho
-    vytláčame a formujeme rozličné tvary.
-<p>Upečené ešte teplé obaľujeme vo vanilkovom cukre.
+
+Múku, maslo, vajce, cukor, štipku soli, mletý aníz zmiesíme. Cesto vložíme do strojčeka(mlynčeka), cez formičku ho
+vytláčame a formujeme rozličné tvary.
+
+Upečené ešte teplé obaľujeme vo vanilkovom cukre.
 
 **Medové pečivo:**
 
 ## 56. Medovníčky
-* 55ks asi po 20g
+*55ks asi po 20g*
+
 * 500g chlebovej alebo hladkej múky
 * 250g práškového cukru
 * 120g 3 vajcia
@@ -1829,16 +1950,18 @@ Upečený koláč potrieme džemom a polejeme čokoládovou polevou.
 * 50g zomletých orechov
 * 6g ½ balička prášku do pečiva
 * 40g 1 vajce na potretie
-<p>škorica, klinčeky
+* škorica, klinčeky
 * citrónová kôra, aníz
-<p>Na lopár dáme múku (najlepšie jemnú tmavú chlebovú),
-<p>práškový cukor, zomleté orechy, prášok do pečiva, zomleté - preosiaté klinčeky, škoricu, aníz, maslo, vajcia,
-    rozpustený med a postrúhanú citrónovú kôru. Všeto spolu
-<p>zmiesíme na cesto a necháme 2 hodiny stáť. Potom cesto rozvaľkáme na hrúbku 1 cm a formičkou vykrajujeme rozličné
-    tvary, ktoré kladieme na vymastený, múkou vysypaný plech. Potrieme vajcom a pečieme v mierne teplej rúre.
+
+Na lopár dáme múku (najlepšie jemnú tmavú chlebovú),
+práškový cukor, zomleté orechy, prášok do pečiva, zomleté - preosiaté klinčeky, škoricu, aníz, maslo, vajcia,
+rozpustený med a postrúhanú citrónovú kôru. Všeto spolu
+zmiesíme na cesto a necháme 2 hodiny stáť. Potom cesto rozvaľkáme na hrúbku 1 cm a formičkou vykrajujeme rozličné
+tvary, ktoré kladieme na vymastený, múkou vysypaný plech. Potrieme vajcom a pečieme v mierne teplej rúre.
 
 ## 57.Plnený medovník s čokoládou
-<p>rezy poliate čokoládou - 22ks asi po 50g
+rezy poliate čokoládou - 22ks asi po 50g
+
 * 300g hladkej múky
 * 200g práškového cukru
 * 80g 2 vajcia
@@ -1846,25 +1969,29 @@ Upečený koláč potrieme džemom a polejeme čokoládovou polevou.
 * 6g 1 KL kypriaceho prášku do pečiva
 * 20g práškového cukru na posypanie
 * mleté, preosiaté klinčeky, škorica
-<p>nové korenie, aníz, citrónová kôra
+* nové korenie, aníz, citrónová kôra
 
 **Plnka:**
-* 150g ríbezľového (slivkového, marhuľového) lekváru
-<p>alebo hustejšieho malinového džemu
+
+* 150g ríbezľového (slivkového, marhuľového) lekváru alebo hustejšieho malinového džemu
 * 100g mletých orechov
 * 50g hrozienok
 
 **Čokoládová poleva:**
+
 * 50g 100% tuku
 * 100g čokolády
-<p>Na lopár preosejeme hladkú múku, cukor a pridáme vajcia, med, prášok do pečiva, zomkleté, preosiaté klinčeky,
-    škoricu, aníz, nové korenie a postrúhanú citrónovú kôru. Všetko zmiesíme na cesto, ktoré vyvaľkáme na hrúbku 1,5 cm
-    a prekrojíme na polovicu. Jednu časť položíme na vymastený a múkou vysypaný plech potrieme plnkou, do ktorej lekvár,
-    mleté orechy a hrozienka zmiešame, a prikryjeme druhou polovicou cesta.
-<p>Pečieme v mierne teplej rúre, po upečení pokrájame a posypeme cukrom. Môžeme využiť aj čokoládovú polevu.
+
+Na lopár preosejeme hladkú múku, cukor a pridáme vajcia, med, prášok do pečiva, zomkleté, preosiaté klinčeky,
+škoricu, aníz, nové korenie a postrúhanú citrónovú kôru. Všetko zmiesíme na cesto, ktoré vyvaľkáme na hrúbku 1,5 cm
+a prekrojíme na polovicu. Jednu časť položíme na vymastený a múkou vysypaný plech potrieme plnkou, do ktorej lekvár,
+mleté orechy a hrozienka zmiešame, a prikryjeme druhou polovicou cesta.
+
+Pečieme v mierne teplej rúre, po upečení pokrájame a posypeme cukrom. Môžeme využiť aj čokoládovú polevu.
 
 ## 58. Medovník s kandizovaným ovocím
-<p>22 rezov medovníkov po 50g
+22 rezov medovníkov po 50g
+
 * 80g 2 domáce vajcia
 * 250g práškového cukru
 * 40g medu 2 plné PL
@@ -1876,11 +2003,12 @@ Upečený koláč potrieme džemom a polejeme čokoládovou polevou.
 * 150g kandizovaného ovocia
 * 20g práškového cukru na posypanie
 * 6g ½ balíčka kypriaceho prášku do pečiva
-<p>klinčeky, citrónová kôra
-<p>Cukor a med miešame s celými vajcami aspoň 15 minút. Potom pridáme hladkú ražnú múku, prášok do pečiva, postrúhanú
-    citrónovú kôru a toľko mlieka, aby sa cesto dalo rozotierať, pokrájané kandizované ovocie a hrozienka, škoricu a
-    zomleté klinčeky. Cesto rozotrieme do vymasteného a múkou vysypaného plechu na hrúbku 2 cm
-<p>a mierne teplej rúre upečieme. Upečené vyklopíme a po vychladnutí pokrájame a posypeme cukrom
+* klinčeky, citrónová kôra
+
+Cukor a med miešame s celými vajcami aspoň 15 minút. Potom pridáme hladkú ražnú múku, prášok do pečiva, postrúhanú
+citrónovú kôru a toľko mlieka, aby sa cesto dalo rozotierať, pokrájané kandizované ovocie a hrozienka, škoricu a
+zomleté klinčeky. Cesto rozotrieme do vymasteného a múkou vysypaného plechu na hrúbku 2 cm
+a mierne teplej rúre upečieme. Upečené vyklopíme a po vychladnutí pokrájame a posypeme cukrom
 
 ## 59. Jemné medové rezy
 *20 rezov asi po 50g*
@@ -1893,18 +2021,22 @@ Upečený koláč potrieme džemom a polejeme čokoládovou polevou.
 * 250g hladkej múky
 
 **Krém:**
+
 * 2 kávy z kávovaru
 * 2 mlieka
 * 60g hladkej múky
 * 50g masla
 * 80g práškového cukru
-<p>Vajce, margarín, cukor, med miešme nad parou, kým sa všetko nerozpustí, potom pridáme jedlú sódu, zamiešame a
-    prelejeme do múky a na lopári spracujeme na cesto, ktoré rozdelíme na 3 časti. Každú časť rozvaľkáme na hrúbku
-    stebla, dáme na vymastený, múkou vysypaný plech a upečieme.
-<p>Krém: Čistý vývar zrnkovej kávy z kávovaru dáme variť.
-<p>Do mlieka zamiešame hladkú múku, a keď káva vrie, prilejeme plieko s rozhabarkovanou múkou a povaríme na hustú kašu.
-    Maslo vymiešame s práškovým cukrom a postupne pridávame vychladnutý krém. Dobre vymiešaným krémom plníme vychladnuté
-    upečené listy a necháme 2 hodiny stáť, potom pokrájame a pocukríme.
+
+Vajce, margarín, cukor, med miešme nad parou, kým sa všetko nerozpustí, potom pridáme jedlú sódu, zamiešame a
+prelejeme do múky a na lopári spracujeme na cesto, ktoré rozdelíme na 3 časti. Každú časť rozvaľkáme na hrúbku
+stebla, dáme na vymastený, múkou vysypaný plech a upečieme.
+
+Krém: Čistý vývar zrnkovej kávy z kávovaru dáme variť.
+
+Do mlieka zamiešame hladkú múku, a keď káva vrie, prilejeme plieko s rozhabarkovanou múkou a povaríme na hustú kašu.
+Maslo vymiešame s práškovým cukrom a postupne pridávame vychladnutý krém. Dobre vymiešaným krémom plníme vychladnuté
+upečené listy a necháme 2 hodiny stáť, potom pokrájame a pocukríme.
 
 ## 60. Medovníčky s orechmi
 *40ks aso po 25g*
@@ -1915,10 +2047,11 @@ Upečený koláč potrieme džemom a polejeme čokoládovou polevou.
 * 500g hladkej múky
 * 120g orechov
 * 5g amónia ½ KL
-<p>škorica, klinčeky
-<p>Cukor vymiešame so žĺtkami, potom pridáme teplý med, múku, zomleté orechy, ostatné prísady a vypracujeme cesto, ktoré
-    necháme 2-3 hodiny stáť. Na pomúčenom lopári ho vyvaľkáme asi na hrúbku stebla a malou formičkou vykrajujeme
-    rozličné tvary, ktoré na poastenom plechu upečieme v stredne teplej rúre.
+* škorica, klinčeky
+
+Cukor vymiešame so žĺtkami, potom pridáme teplý med, múku, zomleté orechy, ostatné prísady a vypracujeme cesto, ktoré
+necháme 2-3 hodiny stáť. Na pomúčenom lopári ho vyvaľkáme asi na hrúbku stebla a malou formičkou vykrajujeme
+rozličné tvary, ktoré na poastenom plechu upečieme v stredne teplej rúre.
 
 ## 61. Medovníky domáce
 *26ks asi po 30g*
@@ -1929,17 +2062,17 @@ Upečený koláč potrieme džemom a polejeme čokoládovou polevou.
 * 80g 2 celé domáce vajcia
 * 15g lyžica mlieka
 * 8g ½ lyžice sódy
-<p>škorica, klinčeky
-<p>Na lopár preosejeme múku, pridáme cukor, med, vajcia, mlieko, jedlú sódu, mletú škoricu a klinčeky. Všetko spracujeme
-    na cesto a necháme stáť 2-3 hodiny. Potom rozvaľkáme na hrúbku 1 cm a formičkou vykrajujeme rozličné tvary, ktoré
-    kladieme na vymastený plech a upečieme v stredne teplej rúre.
+* škorica, klinčeky
+
+Na lopár preosejeme múku, pridáme cukor, med, vajcia, mlieko, jedlú sódu, mletú škoricu a klinčeky. Všetko spracujeme
+na cesto a necháme stáť 2-3 hodiny. Potom rozvaľkáme na hrúbku 1 cm a formičkou vykrajujeme rozličné tvary, ktoré
+kladieme na vymastený plech a upečieme v stredne teplej rúre.
 
 # Iné múčniky
 
 ## 62. Tvarohový závin
-*20 porcií po 50g*
+*20 porcií po 50g* (technologicky náročné)
 
-<p> (technologicky náročné)
 * 150g polohladkej múky
 * 10g oleja
 * 5-8g octu 1 KL
@@ -1951,14 +2084,16 @@ Upečený koláč potrieme džemom a polejeme čokoládovou polevou.
 * 20g práškového cukru na posypanie
 * soľ, vlažná voda
 * citrónová kôra, vanilínový cukor
-<p>Do preosiatej múky pridáme soľ, ocot a vlažnú vodu, dobre vypracujeme redšie cesto, ktoré necháme asi štvrť hodiny
-    stáť na pomúčenom lopári prikryté zohriatým kastrólom. Na stôl rozprestrieme čistý obrus, posypeme ho múkou a
-    bochník cesta roztiahneme na ňom po dĺžke. Potrieme ho rozpusteným tukom, aby sa nelepilo, a potom ho vyťahujeme do
-    šírky po celom stole. Pretretý jemný tvaroh rozmiešame s vajcom, postrúhanou citrónovou kôrou, cukrom, vanilkou a
-    smotanou. Vytiahnuté cesto pokvapkáme rozpusteným maslom a potrieme pripravenou tvarohovou
-<p>plnkou(môžeme pridať hrozienka namočené v rume).
-<p>Potom ho pomocou obrusa (naddvihnutím) stočíme,
-<p>dáme na vymastený plech potrieme tukom (masťou) a dáme upiecť. Upečený tvarohový závin posypeme práškovým cukrom.
+
+Do preosiatej múky pridáme soľ, ocot a vlažnú vodu, dobre vypracujeme redšie cesto, ktoré necháme asi štvrť hodiny
+stáť na pomúčenom lopári prikryté zohriatým kastrólom. Na stôl rozprestrieme čistý obrus, posypeme ho múkou a
+bochník cesta roztiahneme na ňom po dĺžke. Potrieme ho rozpusteným tukom, aby sa nelepilo, a potom ho vyťahujeme do
+šírky po celom stole. Pretretý jemný tvaroh rozmiešame s vajcom, postrúhanou citrónovou kôrou, cukrom, vanilkou a
+smotanou. Vytiahnuté cesto pokvapkáme rozpusteným maslom a potrieme pripravenou tvarohovou
+plnkou(môžeme pridať hrozienka namočené v rume).
+
+Potom ho pomocou obrusa (naddvihnutím) stočíme,
+dáme na vymastený plech potrieme tukom (masťou) a dáme upiecť. Upečený tvarohový závin posypeme práškovým cukrom.
 
 ## 63. Kapustový závin (Chorvátský závin)
 * 150g polohladkej múky (alebo miešanej 1:1, hladká: hrubá)
@@ -1970,15 +2105,15 @@ Upečený koláč potrieme džemom a polejeme čokoládovou polevou.
 * 60g cukru
 * 20g práškového cukru na posypanie
 * citrónová šťava, kôra na dochutenie z ½ citrónu
-<p>vlažná voda, soľ
-<p>Postup práce prípravy cesta je ako pri tvarohovom závine, len namiesto tvarohu posypeme cesto posekanou kapustou
-    opraženou na tuku. Pri dusení trochu posolíme,
-<p>osladíme, pridáme hrozienka a okoreníme bielym korením.
-<p>Môžeme pripraviť na sladko, (slano) alebo s citrónom na
-<p>sladkokyslo.Upečený posypeme práškovým cukrom
-<p>(ak nerobíme na slano).
+* vlažná voda, soľ
+
+Postup práce prípravy cesta je ako pri tvarohovom závine, len namiesto tvarohu posypeme cesto posekanou kapustou
+opraženou na tuku. Pri dusení trochu posolíme, osladíme, pridáme hrozienka a okoreníme bielym korením.
+
+Môžeme pripraviť na sladko, (slano) alebo s citrónom na sladkokyslo. Upečený posypeme práškovým cukrom (ak nerobíme na slano).
 
 ## 64.Jablkový závin
+
 * 150g polohladkej múky
 * 10g oleja alebo masti
 * 5-8g octu 1KL
@@ -1989,31 +2124,39 @@ Upečený koláč potrieme džemom a polejeme čokoládovou polevou.
 * 0,3dl jemného rumu
 * 40g strúhanky
 * 20g práškového cukru na posypanie
-<p>vlažná voda, soľ
-<p>Postup práce je jako pri tvarohovom závine, len na plnku posypeme cesto, očistenými, najemno pokrájanými jablkami,
-    strúhankou, hrozienkami namočanými v rume, mletou škoricou a cukrom.
-<p>Namiesto jabĺk môžeme dať vykôstkované čerešne alebo hrozno. Upečený posypeme cukrom.
+* vlažná voda, soľ
+
+Postup práce je jako pri tvarohovom závine, len na plnku posypeme cesto, očistenými, najemno pokrájanými jablkami,
+strúhankou, hrozienkami namočanými v rume, mletou škoricou a cukrom.
+
+Namiesto jabĺk môžeme dať vykôstkované čerešne alebo hrozno. Upečený posypeme cukrom.
 
 ## 65.Mrežovník z krehkého cesta
-<p>20 porcií po 35g
+*20 porcií po 35g*
+
 * 300g hladkej múky
 * 150g margarínu
 * 50g práškového cukru
 * 150g lekváru (povidiel)-
-<p>slivkového, ríbezľového alebo marhuľového
+* slivkového, ríbezľového alebo marhuľového
 * 20g práškového cukru na posypanie
 * 5g prášok do pečiva
 * 40g 1 domáce vajce, soľ
-<p>Do preosiatej múky rozdrobíme tuk, pridáme cukor, na koniec noža prášok do pečiva, trochu soli, domáce vajce a
-    vypracujeme cesto. Rozdelíme ho na polovice.
-<p>Jednu polovicu na pomúčenom lopári vyvaľkáme asi na hrúbku stebla (0,5cm), potom ho navinieme na váľok, prenesieme na
-    suchý plech a stierkou potreme lekvárom.
-<p>Druhú polovičku cesta po častiach natenko rozšúľame a ukladáme na rozotretý lekvár do tvaru mriežok a to aj po
-    obvode. Mrežovník pečieme v stredne teplej rúre.
-<p>Po upečení posypeme cukrom a pokrájame.
+
+Do preosiatej múky rozdrobíme tuk, pridáme cukor, na koniec noža prášok do pečiva, trochu soli, domáce vajce a
+vypracujeme cesto. Rozdelíme ho na polovice.
+
+Jednu polovicu na pomúčenom lopári vyvaľkáme asi na hrúbku stebla (0,5cm), potom ho navinieme na váľok, prenesieme na
+suchý plech a stierkou potreme lekvárom.
+
+Druhú polovičku cesta po častiach natenko rozšúľame a ukladáme na rozotretý lekvár do tvaru mriežok a to aj po
+obvode. Mrežovník pečieme v stredne teplej rúre.
+
+Po upečení posypeme cukrom a pokrájame.
 
 ## 66.Kakaový koláč so zemiakového cesta
-<p>s lekvárom 20 porcií rezov po 35g
+s lekvárom 20 porcií rezov po 35g
+
 * 80g margarínu
 * 150g práškového curku
 * 130g uvarené pretlačené zemiaky
@@ -2025,13 +2168,15 @@ Upečený koláč potrieme džemom a polejeme čokoládovou polevou.
 * 20g kakaa
 * 40g 1 domáce vajce
 * 6g ½ prášku do pečiva
-<p>Margarín-tuk vymiešame s cukrom a vajcom, pridáme kakao, múku s práškom do pečiva, uvarené, pretlačené zemiaky a
-    všetko dobre premiešame. Masu stierkou rozotrieme na vymastený a múkou vysypaný plech a upečieme. Upečené cesto
-    potrieme domácim lekvárom a prekrojíme na polovice, polovice spojíme, pokrájame na rovnaké štvorce alebo rezy a
-    posypeme práškovým cukrom.
+
+Margarín-tuk vymiešame s cukrom a vajcom, pridáme kakao, múku s práškom do pečiva, uvarené, pretlačené zemiaky a
+všetko dobre premiešame. Masu stierkou rozotrieme na vymastený a múkou vysypaný plech a upečieme. Upečené cesto
+potrieme domácim lekvárom a prekrojíme na polovice, polovice spojíme, pokrájame na rovnaké štvorce alebo rezy a
+posypeme práškovým cukrom.
 
 ## 67. Trená bábovka s hrozienkami
-<p>20 porcíí aso po 55g
+*20 porcíí aso po 55g*
+
 * 120g masla
 * 250g cukru
 * 300g krupicovej múky
@@ -2042,15 +2187,17 @@ Upečený koláč potrieme džemom a polejeme čokoládovou polevou.
 * 2 mlieko
 * 12g 1 balíček prášku do pečiva
 * citrónová kôra, vanilka
-<p>Maslo miešame s práškovým cukrom až do spenenia. Potom postupne pridávame žĺtky. Do vymiešanej zmesi pridáme mlieko,
-    múku s práškom do pečiva, postrúhanú citrónovú kôru, sneh z bielkov a hrozienka namáčané
-<p>v jemnom rume. Cesto zľahka dobre premiešame, vlejeme
-<p>do vymastenej a múkou vysypanej bábovkovej formy
-<p>a v stredne teplej rúre pečieme asi 30-40 minút.
-<p>Upečenú bábovku vyklopíme a posypeme práškovým cukrom s vanilkou.
+
+Maslo miešame s práškovým cukrom až do spenenia. Potom postupne pridávame žĺtky. Do vymiešanej zmesi pridáme mlieko,
+múku s práškom do pečiva, postrúhanú citrónovú kôru, sneh z bielkov a hrozienka namáčané
+v jemnom rume. Cesto zľahka dobre premiešame, vlejeme
+do vymastenej a múkou vysypanej bábovkovej formy a v stredne teplej rúre pečieme asi 30-40 minút.
+
+Upečenú bábovku vyklopíme a posypeme práškovým cukrom s vanilkou.
 
 ## 68. Orechové guľky s rumom
-* 22ks asi po 30g
+*22ks asi po 30g*
+
 * 200g zomletých orechov
 * 250g práškového cukru
 * 20g 1 bielok
@@ -2059,17 +2206,20 @@ Upečený koláč potrieme džemom a polejeme čokoládovou polevou.
 * 50g mletých orechov na obaľovanie
 * 20ks višne, čerešne (zavárané, vykôstkované)
 * 22ks papierových košíčkov
-<p>Zomleté orechy zmiešame s cukrom, bielkom, posekanými hrozienkami a rumom. Z masy formujeme guľky, do ktorých
-    zabalíme vykôstkované višne alebo čerešne.
-<p>Guľky obaľujeme v zomletých orechoch a vložíme do papierových košíčkov.
 
-## 69.Miňonky 25ks asi po 50g
+Zomleté orechy zmiešame s cukrom, bielkom, posekanými hrozienkami a rumom. Z masy formujeme guľky, do ktorých
+zabalíme vykôstkované višne alebo čerešne. Guľky obaľujeme v zomletých orechoch a vložíme do papierových košíčkov.
+
+## 69. Miňonky
+*25ks asi po 50g*
+
 * 200g kryštálového cukru
 * 150g krupicovej múky
 * 20g kakaa
 * 240g 6 domácích vajec
 
 **Krém:**
+
 * 5g maizeny
 * 20g kakaa
 * 250g masla
@@ -2080,17 +2230,20 @@ Upečený koláč potrieme džemom a polejeme čokoládovou polevou.
 * 50g ríbezlového lekváru
 
 **Čokoládová poleva:**
+
 * 50g 100% tuku
 * 100g čokolády
-<p>Žĺtky vymiešame s cukrom, pridáme kakao s múkou a tuhý sneh. Zľahka premiešame, vylejeme na menší vymastený a múkou
-    vysypaný plech, na hrúbku 3 cm a upečieme v stredne teplej rúre. Vychladnuté cesto vyklopíme, 2 razy vodorovne
-    rozrežeme, potrieme krémom,
-<p>spojíme a dáme stuhnúť na chladné místo. Potom povrchu potrieme lekvárom a pokrájame na kocky, prípadne trojuholníky
-    a pod., ktoré namáčame v čokoládovej poleve. Na každý kúsok môžeme dať polovicu orecha.
-<p>Krém: Žĺtok, kakao a maizenu rozmiešame v malom množstve mlieka, za stáleho miešania prilejeme do vriaceho mlieka
-<p>a povaríme. Maslo vyšľaháme s cukrom a počastiach primiešame studený krém a rum.
-<p>Na čokoládovú polevu rozpustíme tuk a do teplého zamiešame čokoládu pokrájanú nadrobno a miešame kým sa nerozpustí,
-    vo vlažnej čokoládovej poleve namáčame.
+
+Žĺtky vymiešame s cukrom, pridáme kakao s múkou a tuhý sneh. Zľahka premiešame, vylejeme na menší vymastený a múkou
+vysypaný plech, na hrúbku 3 cm a upečieme v stredne teplej rúre. Vychladnuté cesto vyklopíme, 2 razy vodorovne
+rozrežeme, potrieme krémom, spojíme a dáme stuhnúť na chladné místo. Potom povrchu potrieme lekvárom a pokrájame na kocky, prípadne trojuholníky
+a pod., ktoré namáčame v čokoládovej poleve. Na každý kúsok môžeme dať polovicu orecha.
+
+Krém: Žĺtok, kakao a maizenu rozmiešame v malom množstve mlieka, za stáleho miešania prilejeme do vriaceho mlieka
+a povaríme. Maslo vyšľaháme s cukrom a počastiach primiešame studený krém a rum.
+
+Na čokoládovú polevu rozpustíme tuk a do teplého zamiešame čokoládu pokrájanú nadrobno a miešame kým sa nerozpustí,
+vo vlažnej čokoládovej poleve namáčame.
 
 ## 70. Krémové venčeky
 *20ks asi po 50g*
@@ -2102,19 +2255,23 @@ Upečený koláč potrieme džemom a polejeme čokoládovou polevou.
 * 120g 3 domáce vajcia, soľ
 
 **Krém:**
+
 * 80g kryštálového cukru
 * 50g maizeny
 * 20g kryštálového jemného cukru s vanilkou
 * 2,5dl mlieko
 * 80g 2 domáce vajcia
-<p>Do vriacej osolennej vody s tukom zavaríme krupicovú múku a za stáleho miešania povaríme na hustú kašu.
-<p>Do vychladnutej kaše postupne zamiešame celé vajcia. Cesto dobre vymiešame, vložíme do vrecka s ozdobnou rúrkou a na
-    vymastený, múkou vysypaný plech vytláčame venčeky, ktoré upečieme v horúcej rúre. Upečené venčeky prekrojíme
-    naplocho, spodok naplníme krémom, priložíme vrch a posypeme cukrom s vanilkou. Z cesta môžeme tvoriť banány alebo
-    pyšteky a plniť ich krémom.
-<p>Krém: V malom množstve studeného mlieka rozmiešame maizenu a žĺtky a ostatné dáme variť s cukrom. Keď mlieko vrie, za
-    stáleho miešania prilevame mlieko s maizenou a žĺtkami a povaríme. Bielky ušľaháme s cukrom na tuhý sneh, ktorý
-    zľahka zamiešame ešte do horúceho krému. Krém vložíme do vrecka a plníme ním venčeky.
+
+Do vriacej osolennej vody s tukom zavaríme krupicovú múku a za stáleho miešania povaríme na hustú kašu.
+
+Do vychladnutej kaše postupne zamiešame celé vajcia. Cesto dobre vymiešame, vložíme do vrecka s ozdobnou rúrkou a na
+vymastený, múkou vysypaný plech vytláčame venčeky, ktoré upečieme v horúcej rúre. Upečené venčeky prekrojíme
+naplocho, spodok naplníme krémom, priložíme vrch a posypeme cukrom s vanilkou. Z cesta môžeme tvoriť banány alebo
+pyšteky a plniť ich krémom.
+
+Krém: V malom množstve studeného mlieka rozmiešame maizenu a žĺtky a ostatné dáme variť s cukrom. Keď mlieko vrie, za
+stáleho miešania prilevame mlieko s maizenou a žĺtkami a povaríme. Bielky ušľaháme s cukrom na tuhý sneh, ktorý
+zľahka zamiešame ešte do horúceho krému. Krém vložíme do vrecka a plníme ním venčeky.
 
 ## 71. Čokoládové gaštany
 *30ks asi po 30g*
@@ -2124,18 +2281,24 @@ Upečený koláč potrieme džemom a polejeme čokoládovou polevou.
 * 0,2dl jemného rumu 1 väčšia PL
 * 50g 100% tuku
 * 100g čokolády
-<p>Umyté gaštany narežeme a uvaríme. Ešte z teplých lyžičkou vnútrajšky vyškrabeme a pretierme cez sito.
-<p>Do pretretých pridáme práškový cukor, jemný rum a zamiesíme. Z gaštanovej masy formujeme gaštany, ktoré
-<p>z dvoch tretín namáčame v čokoládovej poleve.
+
+Umyté gaštany narežeme a uvaríme. Ešte z teplých lyžičkou vnútrajšky vyškrabeme a pretierme cez sito.
+
+Do pretretých pridáme práškový cukor, jemný rum a zamiesíme. Z gaštanovej masy formujeme gaštany, ktoré
+z dvoch tretín namáčame v čokoládovej poleve.
+
 # Rezy:
+
 ## 72. Piškotové rezy
-<p>(pre viac osôb) asi 17ks po 50g
+(pre viac osôb) asi 17ks po 50g
+
 * 90g cukru alebo 20ks po 42g
 * 90g krupicovej múky
 * 120g 3 domáce vajcia
 * citrónová šťava (z ½ citróna)
 
 **Plnka:**
+
 * 100g marhuľového lekvaru
 * 50g masla
 * 100g práškového cukru
@@ -2144,58 +2307,71 @@ Upečený koláč potrieme džemom a polejeme čokoládovou polevou.
 * 10g kakaa
 
 **Čokoládová poleva:**
+
 * 50g 100% tuku
 * 100g čokolády
-<p>Žĺtky vymiešame s cukrom a citrónovou šťavou, asi štvrť hodiny. Potom pridáme z bielkov ušľahaný sneh a múku. Zľahka
-    zamiešame, rozotrieme na vymastený, múkou vysypaný plech, asi na hrúbku 2 cm a upečieme.
-<p>Vychladnuté pokrájame na plátky a potrieme krémom a marhuľovým lekvarom. Potreté plátky skaldáme na seba
-<p>v 3-4 vrstvách.
-<p>Plnka: Do vriaceho mlieka prilejeme studené mlieko,
-<p>v ktorom sme rozšľahali kakao a maizenu a povaríme.
-<p>Maslo vymiešame s cukrom, po malých dávkach pridávame vychladnutý krém a dobre rozmiešame.
-<p>Vrch rezov polejeme čokoládovou polevou.
+
+Žĺtky vymiešame s cukrom a citrónovou šťavou, asi štvrť hodiny. Potom pridáme z bielkov ušľahaný sneh a múku. Zľahka
+zamiešame, rozotrieme na vymastený, múkou vysypaný plech, asi na hrúbku 2 cm a upečieme.
+
+Vychladnuté pokrájame na plátky a potrieme krémom a marhuľovým lekvarom. Potreté plátky skaldáme na seba
+v 3-4 vrstvách.
+
+Plnka: Do vriaceho mlieka prilejeme studené mlieko, v ktorom sme rozšľahali kakao a maizenu a povaríme.
+
+Maslo vymiešame s cukrom, po malých dávkach pridávame vychladnutý krém a dobre rozmiešame.
+
+Vrch rezov polejeme čokoládovou polevou.
 
 ## 73. Punčové rezy:
-<p>(pre vioac osôb) 18ks po 40g
+(pre vioac osôb) 18ks po 40g
+
 * 100g kryštálového cukru
 * 120g krupicovej múky
 * 160g 4 domáce vajcia
 * 3g kakaa 1KL
 * 80g krštálového cukru
 * 15ml jemného rumu(brandy)
-<p>ovocná šťava
+* ovocná šťava
 * 0,5dl vody
-<p>ríbezľový lekvár
+* ríbezľový lekvár
 
 **Cukrová poleva obyčajná:**
+
 * 150g práškového cukru
 * 12g ½ bielka, šťava z ½ citróna
-<p>Žĺtky vymiešame s cukrom, pridáme tuhý sneh z bielkov a primiešame múku. Do tretiny cesta zamiešame kakao a dáme na
-    vymastený plech upiecť. Ostatné cesto upečieme osobitne. Druhú časť cukru povaríme s vodou a zafarbíme
-<p>červenou ovocnou šťavou s rumom.
-<p>Upečenú piškótu bez kakaa rozdelíme na tri diely.
-<p>Dva diely potrieme lekvárom, tretí diel a kakaové cesto pokrájame na kocky. Žlté piškotové kocky namočíme v
-    prpravenej ovocnej šťave a kladieme striedavo s kakaovými kockami na diel potretý lekvárom. Prikryjeme druhým dielom
-    s lekvárom (lekvárom na kocky) a mierne zaťažíme.
-<p>Rezy môžeme poliať cukrovou polevou, keď práškový cukor miešame s bielkom a citrónocou šťavou do spenenia.
 
+Žĺtky vymiešame s cukrom, pridáme tuhý sneh z bielkov a primiešame múku. Do tretiny cesta zamiešame kakao a dáme na
+vymastený plech upiecť. Ostatné cesto upečieme osobitne. Druhú časť cukru povaríme s vodou a zafarbíme
+červenou ovocnou šťavou s rumom.
+
+Upečenú piškótu bez kakaa rozdelíme na tri diely.
+
+Dva diely potrieme lekvárom, tretí diel a kakaové cesto pokrájame na kocky. Žlté piškotové kocky namočíme v
+prpravenej ovocnej šťave a kladieme striedavo s kakaovými kockami na diel potretý lekvárom. Prikryjeme druhým dielom
+s lekvárom (lekvárom na kocky) a mierne zaťažíme.
+
+Rezy môžeme poliať cukrovou polevou, keď práškový cukor miešame s bielkom a citrónocou šťavou do spenenia.
 
 ## 74.Ovocné rezy
-<p>(pre viac osôb) 20ks asi po 42g
+(pre viac osôb) 20ks asi po 42g
+
 * 80g 2 domáce vajcia
 * 45ml 3 lyžice vody
 * 80g cukru
 * 100g krupicovej múky
 * citrónová kôra
-<p>maslo a múka na plech
-<p>2,5g ¼ dkg agaru (alebo želatína)
+* maslo a múka na plech
+* 2,5g ¼ dkg agaru (alebo želatína)
 * 125ml kompótovej šťavy
-<p>jablkový a mahuľový kompót (500g ovocia)
-<p>Žĺtky vymiešame s cukrom a vodou. Potom pridáme postrúhanu citrónovú kôru, múku, tuhý sneh z biekov
-<p>a zľahka preniešame. Upečieme na vymastenom a múkou vysypanom plechu. Na vychladnuté poukladáame pokrájané zavárané
-    jablká a marhule a zalejeme agarom.
-<p>Agar rozpustíme vo vode, povaríme so šťavous kompótu
-<p>a vlažný, kde začne rôsolavatieť, nalejeme na múčník.
+* jablkový a marhuľový kompót (500g ovocia)
+
+Žĺtky vymiešame s cukrom a vodou. Potom pridáme postrúhanu citrónovú kôru, múku, tuhý sneh z biekov
+a zľahka preniešame. Upečieme na vymastenom a múkou vysypanom plechu. Na vychladnuté poukladáame pokrájané zavárané
+jablká a marhule a zalejeme agarom.
+
+Agar rozpustíme vo vode, povaríme so šťavous kompótu
+a vlažný, kde začne rôsolavatieť, nalejeme na múčník.
 
 ## 75. Orechové rezy
 *18ks asi po 40g*
@@ -2207,6 +2383,7 @@ Upečený koláč potrieme džemom a polejeme čokoládovou polevou.
 * 80g 2 domáce vajcia
 
 **Krém:**
+
 * 50g masla
 * 100g cukru
 * 10g maizeny
@@ -2215,16 +2392,20 @@ Upečený koláč potrieme džemom a polejeme čokoládovou polevou.
 * 1 mlieka
 
 **Citrónová poleva:**
+
 * 20g 1 bielok
 * 100g práškového cukru
 * 15ml 1 lyžica citrónovej šťavy
-<p>Žĺtky vymiešame s práškovým cukrom, pridáme tuhý sneh, zomleté orechy, múku a kakao. Všetko zľahka premiešame a dáme
-    na vymastený múkou vysypaný plech. Cesto stierkou rozotrieme asi na hrúbku 2 cm a pečieme. Po vychladnutí pokrájame
-    na plátky, ktoré rovnomerne potrieme krémom, spojíme po dva a polejeme citrónovou polevou.
-<p>Krém: Do vriaceho mlieka zavaríme maizenu a žĺtok rozmiešané v malom množstve studeného mlieka, povaríme
-<p>a ncháme vychladnúť. Maslo vymiešame s cukrom a rumom a po malých dávkách primešame studený krém.
-<p>Citrónová poleva: Bielok miešame s práškovým cukrom do spenenia, potom pridáme lyžičku citrónovej šťavy a spolu ešte
-    premiešame.
+
+Žĺtky vymiešame s práškovým cukrom, pridáme tuhý sneh, zomleté orechy, múku a kakao. Všetko zľahka premiešame a dáme
+na vymastený múkou vysypaný plech. Cesto stierkou rozotrieme asi na hrúbku 2 cm a pečieme. Po vychladnutí pokrájame
+na plátky, ktoré rovnomerne potrieme krémom, spojíme po dva a polejeme citrónovou polevou.
+
+Krém: Do vriaceho mlieka zavaríme maizenu a žĺtok rozmiešané v malom množstve studeného mlieka, povaríme
+a necháme vychladnúť. Maslo vymiešame s cukrom a rumom a po malých dávkách primešame studený krém.
+
+Citrónová poleva: Bielok miešame s práškovým cukrom do spenenia, potom pridáme lyžičku citrónovej šťavy a spolu ešte
+premiešame.
 
 ## 76. Študentské rezy
 *20ks asi po 60g*
@@ -2236,40 +2417,45 @@ Upečený koláč potrieme džemom a polejeme čokoládovou polevou.
 * 15g kakaa
 * 240g 6 domácích vajec
 
-
 **Krém:**
+
 * 5g maizeny
 * 300g čerstvého masla
 * 200g práškového cukru
 * 1 mlieka
 * 7g 1 KL mletej kávy
 * 15ml 1 PL jemného rumu, červený bretón
-<p>Žĺtky vymiešame s cukrom a pridáme tuhý sneh a múku. Cesto zľahka premiešame a rozdelíme na tri rovnaké diely.
-<p>Prvý rozotrieme na dva vymastené a múkou vysypané plechy.
-<p>Do druhého zamiešame kakao a do tretieho zomleté orechy.
-<p>Každé cesto rozotrieme na dva plechy a upečieme v stredne teplej rúre.
-<p>Krém: Mlieko dáme variť. V malom množstve rozmiešame žĺtok a maizenu. Keď mlieko vrie, za stáleho miešania prilejeme
-    mlieko s maizenou a žĺtkom a povaríme. Maslo vymiešame s cukrom a za stáleho miešania a po častiach primiešame
-    vychladnutý krém. Rozdelíme ho na dve časti.
-<p>Do prvej zamiešame rum a červený bretón. Do druhej najemno zomletú zrnkovú kávu. Upečené plátky skladáme tak, aby sme
-    dosiahli pekné zladenie farieb. Potom ich posypeme cukrom, alebo polejeme vhodnou polevou.
 
+Žĺtky vymiešame s cukrom a pridáme tuhý sneh a múku. Cesto zľahka premiešame a rozdelíme na tri rovnaké diely.
+Prvý rozotrieme na dva vymastené a múkou vysypané plechy.
+Do druhého zamiešame kakao a do tretieho zomleté orechy.
+Každé cesto rozotrieme na dva plechy a upečieme v stredne teplej rúre.
+
+Krém: Mlieko dáme variť. V malom množstve rozmiešame žĺtok a maizenu. Keď mlieko vrie, za stáleho miešania prilejeme
+mlieko s maizenou a žĺtkom a povaríme. Maslo vymiešame s cukrom a za stáleho miešania a po častiach primiešame
+vychladnutý krém. Rozdelíme ho na dve časti.
+
+Do prvej zamiešame rum a červený bretón. Do druhej najemno zomletú zrnkovú kávu. Upečené plátky skladáme tak, aby sme
+dosiahli pekné zladenie farieb. Potom ich posypeme cukrom, alebo polejeme vhodnou polevou.
 
 **Ľadová poleva:**
+
 * 150g práškového cukru
 * 15ml lyžica horúcej vody
 * 7ml kávová lyžička rumu
-<p>Práškový cukor vymiešame s horúcou vodou a rumon.Keď je hustá môžeme priliať niekoľko kvapiek vody.Poleva nesmie
-    stekať z múčnika.
 
+Práškový cukor vymiešame s horúcou vodou a rumon.Keď je hustá môžeme priliať niekoľko kvapiek vody.Poleva nesmie
+stekať z múčnika.
 
 **Kávová poleva:**
+
 * 5g jemno zomlletej zrnkovej kávy
 * 1 vody
 * ½ks bielka
 * 120g práškového cukru
-<p>Do vriacej vody zavaríme zomletú kávu. Ochladenú ocedíme, pridáme bielok, práškový cukor a dobre vymiešame.Polevu
-    rozotrieme tortovým nožom.
+
+Do vriacej vody zavaríme zomletú kávu. Ochladenú ocedíme, pridáme bielok, práškový cukor a dobre vymiešame.Polevu
+rozotrieme tortovým nožom.
 
 ## 77. Sacherove rezy
 *20ks asi po 50g*
@@ -2283,10 +2469,13 @@ Upečený koláč potrieme džemom a polejeme čokoládovou polevou.
 * 50g práškového cukru
 * 200g 5 domácích vajec
 * 2 čerstvej šľahačkovej 33% smotany
-<p>Celé vajcia s cukrom šľaháme nad parou, kým nie je masa teplá, potom odstavíme a šľaháme do vychladnutia.
-<p>Primiešame kakao s múkou, zomleté mandle a rozpustené maslo. Všetko zľahka permiešame, vylejeme na vymastený a múkou
-    vysypaný plech a upečieme v stredne teplej rúre.
-<p>Po vychladnutí vodorovne prepežieme, potrieme marhuľovým lekvárom, spojíme a zdobíme šľahačkou.
+
+Celé vajcia s cukrom šľaháme nad parou, kým nie je masa teplá, potom odstavíme a šľaháme do vychladnutia.
+
+Primiešame kakao s múkou, zomleté mandle a rozpustené maslo. Všetko zľahka permiešame, vylejeme na vymastený a múkou
+vysypaný plech a upečieme v stredne teplej rúre.
+
+Po vychladnutí vodorovne prepežieme, potrieme marhuľovým lekvárom, spojíme a zdobíme šľahačkou.
 
 ## 78. Rómske (cigánske) rezy
 *20ks asi po 45g*
@@ -2299,31 +2488,33 @@ Upečený koláč potrieme džemom a polejeme čokoládovou polevou.
 * 180g kryštálového cukru
 * 80g orechov
 * 20g kakaa
-<p>1x žĺtok
-<p>3x bielok
-<p>Do múky pridáme margarín, cukor, prášok do pečiva, žĺtok a vypracujeme cesto. Rozvaľkáme ho na hrúbku stebla, dáme na
-    suchý plech, zapečieme a potrieme lekvárom. Z bielkov a cukru ušľaháme tuhý sneh, primiešame zomleté orechy a kakao,
-    vylejeme, rozotrieme na zapečené a ríbezľovým lekvárom potreté cesto a
-<p>v stredne teplej rúre dopečieme.
+* 1ks žĺtok
+* 3ks bielok
+
+Do múky pridáme margarín, cukor, prášok do pečiva, žĺtok a vypracujeme cesto. Rozvaľkáme ho na hrúbku stebla, dáme na
+suchý plech, zapečieme a potrieme lekvárom. Z bielkov a cukru ušľaháme tuhý sneh, primiešame zomleté orechy a kakao,
+vylejeme, rozotrieme na zapečené a ríbezľovým lekvárom potreté cesto a v stredne teplej rúre dopečieme.
 
 ## 79. Grilážové rezy
 *20ks asi po 40g*
 
 * 100g kryštálového cukru
 * 80g masla
-<p>4x štvorcové karlovarské oplátky
+* 4x štvorcové karlovarské oplátky
 * 40g 1 domáce vajce
-<p>2x žĺtky
+* 2x žĺtky
 
 
 **Griláž:**
+
 * 200g cukru
 * 200g mandlí
-<p>Celé vajce, žĺtky a maslo šľaháme nad horúcou parou až do zhustnutia. Do horúceho krému zamiešame potlčenú griláž.
-    Krém vylejeme na oplátku a druhou ho pritlačíme.
-<p>Po vychladnutí krájame rezy.
-<p>Griláž: Na panvici rozpustíme cukor a primiešame očistené pokrájané mandle. masu vylejeme na vymastený plech, necháme
-    stuhnúť a potlčieme.
+
+Celé vajce, žĺtky a maslo šľaháme nad horúcou parou až do zhustnutia. Do horúceho krému zamiešame potlčenú griláž.
+Krém vylejeme na oplátku a druhou ho pritlačíme. Po vychladnutí krájame rezy.
+
+Griláž: Na panvici rozpustíme cukor a primiešame očistené pokrájané mandle. masu vylejeme na vymastený plech, necháme
+stuhnúť a potlčieme.
 
 ## 80. Krehké jablkové rezy
 *20ks asi po 55g*
@@ -2336,12 +2527,13 @@ Upečený koláč potrieme džemom a polejeme čokoládovou polevou.
 * 30g strúhanky
 * 100g cukru
 * 20g cukru na posypanie
-<p>škorica, soľ, prášok do pečiva
-<p>Do preosiatej múky rozdrobíme tuk, pridáme cukor, trochu soli, na koniec prášku do pečiva, vajce a vypracujeme cesto.
-    Rozdelíme ho na dva rovnaké diely, ktoré rozváľkáme na pomúčenom lopári asi na hrúbku stebla. Jeden diel dáme na
-    suchý plech, posypeme očistenými, pokrájanými jablkami a strúhankou, cukrom, škoricou a priložíme druhý. Okraje
-    dookola postláčame a cesto popicháme vidličkou, aby pri pečení mohla para z jabĺk uniknúť. Rezy pečeme v stredne
-    teplej rúre. Po upečení ich posypeme cukrom.
+* škorica, soľ, prášok do pečiva
+
+Do preosiatej múky rozdrobíme tuk, pridáme cukor, trochu soli, na koniec prášku do pečiva, vajce a vypracujeme cesto.
+Rozdelíme ho na dva rovnaké diely, ktoré rozváľkáme na pomúčenom lopári asi na hrúbku stebla. Jeden diel dáme na
+suchý plech, posypeme očistenými, pokrájanými jablkami a strúhankou, cukrom, škoricou a priložíme druhý. Okraje
+dookola postláčame a cesto popicháme vidličkou, aby pri pečení mohla para z jabĺk uniknúť. Rezy pečeme v stredne
+teplej rúre. Po upečení ich posypeme cukrom.
 
 ## 81. Kakaové rezy úsporné
 *25ks asi po 50g*
@@ -2356,11 +2548,13 @@ Upečený koláč potrieme džemom a polejeme čokoládovou polevou.
 * 20g kakaa
 * 150g lekváru
 * 20g práškový cukor na posypanie
-<p>Zmäknuté maslo vymiešame s cukrom, postupne pridávame žĺtky, mlieko a z bielkov ušľahný tuhý sneh. Zľahka primiešame
-    zomleté orechy, preosiaté kakao a múku
-<p>s práškom do pečiva. Cesto rozotrieme na vymastený a múkou vysypaný plech a pečieme v stredne teplej rúre.
-<p>Upečené rozkrojíme na polovicu, jednu potrieme lekvárom,
-<p>druhú priložíme, pokrájané rezy posypeme cukrom.
+
+Zmäknuté maslo vymiešame s cukrom, postupne pridávame žĺtky, mlieko a z bielkov ušľahný tuhý sneh. Zľahka primiešame
+zomleté orechy, preosiaté kakao a múku
+s práškom do pečiva. Cesto rozotrieme na vymastený a múkou vysypaný plech a pečieme v stredne teplej rúre.
+
+Upečené rozkrojíme na polovicu, jednu potrieme lekvárom,
+druhú priložíme, pokrájané rezy posypeme cukrom.
 
 ## 82. Marhuľové rezy
 *20ks po 42g*
@@ -2374,9 +2568,10 @@ Upečený koláč potrieme džemom a polejeme čokoládovou polevou.
 * 80g 2 domáce vajcia
 * 1,5dl mlieka
 * 6g ½ balíčka prášku do pečiva
-<p>Celé vajcia vymiešame s cukrom, lekvárom a rozpusteným maslom. Potom pridáme mlieko, múku s práškom do pečiva, mleté
-    orechy, spolu dobre premiešame a rozotrieme na vymastený a múkou vysypaný plech. Po upečený pokrájame
-<p>na rezy a posypeme cukrom.
+
+Celé vajcia vymiešame s cukrom, lekvárom a rozpusteným maslom. Potom pridáme mlieko, múku s práškom do pečiva, mleté
+orechy, spolu dobre premiešame a rozotrieme na vymastený a múkou vysypaný plech. Po upečený pokrájame
+na rezy a posypeme cukrom.
 
 ## 83. Orieškové rezy
 *20ks asi po 35g*
@@ -2386,17 +2581,19 @@ Upečený koláč potrieme džemom a polejeme čokoládovou polevou.
 * 50g lieskových orieškov
 * 70g krupicovej múky
 
-
 **Plnka:**
+
 * 150g masla
 * 20g 1 žĺtok
 * 120g práškového cukru
 * 30g pražených orieškov
-<p>Žĺtky vymiešame s cukrom, pridáme s bielkov ušľahaný tuhý sneh, zľahka zamiešame múku a opražené, olúpane,
-    vychladnuté, zomleté oriešky. Cesto rozotrieme na vymastený a múkou vysypaný plech. Pečieme v mierne teplej rúre.
-    Vychladnuté rozkrojíme na tri časti, nplníme a pokrájame na rezy.
-<p>Plnka: Zmäknuté maslo vymiešame s preosiatým práškovým cukrom a žĺtkom. Potom pridáme opražené, olúpané oriešky
-    rozdrvené váľkom.
+
+Žĺtky vymiešame s cukrom, pridáme s bielkov ušľahaný tuhý sneh, zľahka zamiešame múku a opražené, olúpane,
+vychladnuté, zomleté oriešky. Cesto rozotrieme na vymastený a múkou vysypaný plech. Pečieme v mierne teplej rúre.
+Vychladnuté rozkrojíme na tri časti, nplníme a pokrájame na rezy.
+
+Plnka: Zmäknuté maslo vymiešame s preosiatým práškovým cukrom a žĺtkom. Potom pridáme opražené, olúpané oriešky
+rozdrvené váľkom.
 
 ## 84.Frankfurtské rezy
 *20ks asi po 53g*
@@ -2408,23 +2605,25 @@ Upečený koláč potrieme džemom a polejeme čokoládovou polevou.
 * 50g masla
 * 20g kakaa
 
-
 **Plnka:**
+
 * 150g masla
 * 120g práškového cukru
 * 0,3dl kalíštek griotky alebo jemného rumu
-<p>Cukor vymiešame s maslom a postupne primiešame žĺtky.
-<p>Z bielkov ušľaháme tuhý sneh, ktorý pridáme k vymiešaným žĺtkom so zomletými opraženými orieškami, múkou a kakaom.
-    Cesto rozotrieme na vymastený a múkou vysypaný plech a pečieme v stredne teplej rúre. Vychladnuté rozkrojíme na
-    polovice, jednu potrieme plnkou a druhou polovicou prikryjeme. Vrch potrieme plnkou a pokrájame na rezy.
-<p>Na plnku dobre vymiešame maslo s cukrom a za stáleho miešania pridávame doň griotku alebo rum.
+
+Cukor vymiešame s maslom a postupne primiešame žĺtky.
+
+Z bielkov ušľaháme tuhý sneh, ktorý pridáme k vymiešaným žĺtkom so zomletými opraženými orieškami, múkou a kakaom.
+Cesto rozotrieme na vymastený a múkou vysypaný plech a pečieme v stredne teplej rúre. Vychladnuté rozkrojíme na
+polovice, jednu potrieme plnkou a druhou polovicou prikryjeme. Vrch potrieme plnkou a pokrájame na rezy.
+
+Na plnku dobre vymiešame maslo s cukrom a za stáleho miešania pridávame doň griotku alebo rum.
 
 ## 85. Mramorové rezy
 *20ks asi po 50g*
 
-
-
 **Žlté cesto:**
+
 * 70g margarínu
 * 100g práškového cukru
 * 80g 2 domáce vajcia
@@ -2433,8 +2632,8 @@ Upečený koláč potrieme džemom a polejeme čokoládovou polevou.
 * ¼ks balíčka prášku do pečiva,
 * citrónová kôra
 
-
 **Kakaové cesto:**
+
 * 80g margarínu
 * 100g práškového cukru
 * 80g 2 domáce vajcia
@@ -2442,19 +2641,22 @@ Upečený koláč potrieme džemom a polejeme čokoládovou polevou.
 * 20g kakaa
 * ¼ prášku do pečiva
 
-
 **Čokoládová poleva:**
+
 * 80g margarínu
 * 80g práškového cukru
 * 15ml lyžica mlieka
 * 10g maizeny
 * 20g kakaa
-<p>Zmäknutý margarín vymiešame s cukrom a žĺtkami a pridáme z bielkov ušľahaný sneh. Zľahka primiešame múku s práškom do
-    pečiva, postrúhanú citrónovú kôru a vanilkový cukor. Tak isto pripravíme aj kakaové cesto, len do toho zamiešame
-    preosiaté kakao. Na vymastený a múkou vysypaný plech dávame striedavo lyžicu žltého a lyžicu kakaového cesta. Vrch
-    cesta stierkou urovnáme a pečieme ho v stredne teplej rúre.
-<p>Upečené a vychladnuté polejeme čokoládovou polevou.
-<p>Čokládová poleva: Do cukru pridáme mlieko, maizenu, kakao a margarín a šľaháme nad horúcou parou do zhustnutia.
+
+Zmäknutý margarín vymiešame s cukrom a žĺtkami a pridáme z bielkov ušľahaný sneh. Zľahka primiešame múku s práškom do
+pečiva, postrúhanú citrónovú kôru a vanilkový cukor. Tak isto pripravíme aj kakaové cesto, len do toho zamiešame
+preosiaté kakao. Na vymastený a múkou vysypaný plech dávame striedavo lyžicu žltého a lyžicu kakaového cesta. Vrch
+cesta stierkou urovnáme a pečieme ho v stredne teplej rúre.
+
+Upečené a vychladnuté polejeme čokoládovou polevou.
+
+Čokládová poleva: Do cukru pridáme mlieko, maizenu, kakao a margarín a šľaháme nad horúcou parou do zhustnutia.
 
 ## 86. Pomarančové rezy
 *20ks po 60g s pomarančom*
@@ -2465,23 +2667,26 @@ Upečený koláč potrieme džemom a polejeme čokoládovou polevou.
 * 0,3dl pomarančovej šťavy 2 lyžice
 * 500g 4-6 pomarančov
 
-
 **Plnka:**
+
 * 150g čerstvého masla
 * 120g práškového cukru
 * 0,5dl pomarančovej šťavy a pomarančová kôra
-<p>Žĺtky vymiešame s cukrom a pomarančovou šťavou. Pridáme z bielkov ušľahaný tuhý sneh, zľahka zamiešame múku a cesto
-    nalejeme do hlhšieho vymasteného plechu. Pečieme v mierne teplej rúre. Upečené vyklopíme, vychladnuté vodorovne
-    prekrojíme, spodnú časť potrieme plnkou. Teplým nožom pokrájame a na každý rez položíme mesiačík očisteného
-    pomaranča.
-<p>Plnka: Zmäknuté maslo a prášková cukor dobre vymiešame, pridáme pomarančovú šťavu, postrúhanú pomarančovú kôru a
-    vymiešame do spenenia. Prizdobíme šľahačkou.
+
+Žĺtky vymiešame s cukrom a pomarančovou šťavou. Pridáme z bielkov ušľahaný tuhý sneh, zľahka zamiešame múku a cesto
+nalejeme do hlhšieho vymasteného plechu. Pečieme v mierne teplej rúre. Upečené vyklopíme, vychladnuté vodorovne
+prekrojíme, spodnú časť potrieme plnkou. Teplým nožom pokrájame a na každý rez položíme mesiačík očisteného
+pomaranča.
+
+Plnka: Zmäknuté maslo a prášková cukor dobre vymiešame, pridáme pomarančovú šťavu, postrúhanú pomarančovú kôru a
+vymiešame do spenenia. Prizdobíme šľahačkou.
 
 ## 87. Tvarohové rezy s piškótovou mriežkou
 * 20ks asi po 55g
 
 
 **Krehké cesto:**
+
 * 150g hladkej múky
 * 100g masla alebo margarínu
 * 50g práškového cukru
@@ -2490,39 +2695,47 @@ Upečený koláč potrieme džemom a polejeme čokoládovou polevou.
 
 
 **Piškótové cesto:**
+
 * 80g 2 domáce vajcia
 * 50g cukru
 * 70g krupicovej múky
 
 
 **Plnka:**
+
 * 400g jemného tvarohu
 * 100g práškového cukru
 * 20g 1 žĺtok
-<p>vanilkový cukor, citrónová kôra
+* vanilkový cukor, citrónová kôra
 * 50g lekváru
-<p>Krehké cesto: Hladkú múku, maslo alebo margarín, práškový cukor, žĺtok, prášok do pečiva, štipku soli zamiesíme na
-    cesto, ktoré vyvaľkáme na lopári na hrúbku
+
+Krehké cesto: Hladkú múku, maslo alebo margarín, práškový cukor, žĺtok, prášok do pečiva, štipku soli zamiesíme na
+cesto, ktoré vyvaľkáme na lopári na hrúbku
 * ½ cm, dáme na suchý plech a v rúre zapečieme.
-<p>Piškotové cesto: Žĺtky vymiešame s cukrom, pridáme tuhý sneh a múku a zľahka premiešame.
-<p>Plnka: Prelisovaný jemný tvaroh vymiešame s cukrom, vanilkou, žĺtkom a postrúhanou citrónovou kôrou.
-<p>Zapečené krehké cesto potrieme lekvárom a na to rozotrieme tavarohovú plnku. Pripravene piškótové cesto vložíme do
-    vrecuška, na rozotretú tvarohovú plnku robíme z neho mriežky a dáme do rúry dopiecť. Dopečené pokrájame na rezy.
+
+Piškotové cesto: Žĺtky vymiešame s cukrom, pridáme tuhý sneh a múku a zľahka premiešame.
+
+Plnka: Prelisovaný jemný tvaroh vymiešame s cukrom, vanilkou, žĺtkom a postrúhanou citrónovou kôrou.
+
+Zapečené krehké cesto potrieme lekvárom a na to rozotrieme tavarohovú plnku. Pripravene piškótové cesto vložíme do
+vrecuška, na rozotretú tvarohovú plnku robíme z neho mriežky a dáme do rúry dopiecť. Dopečené pokrájame na rezy.
 
 ## 88. Čokládové rezy k čaju
 *30ks asi po 53g*
 
 
 **Linecké cesto:**
+
 * 250g hladkej múky
 * 150g margarínu
 * 80g práškového cukru
 * 20g 1 žĺtok
 * 15ml 1 lyžica mlieka
-<p>prášok do pečiva
+* prášok do pečiva
 * 150g ríbezľového lekváru
 
 **Piškotové cesto:**
+
 * 150g masla alebo margarínu
 * 200g práškového cukru
 * 160g 4 domáce vajcia
@@ -2533,15 +2746,20 @@ Upečený koláč potrieme džemom a polejeme čokoládovou polevou.
 * citrónová kôra
 
 **Čokoládová poleva:**
+
 * 50g 100% tuku
 * 100g čokolády
-<p>Linecké cesto: Do múky pridáme margarín, preosiatý cukor, žĺtok, na koniec noža prášku do pečiva a vypracujeme cesto.
-    Rozvaľkáme ho na hrúbku 1 cm a dáme na suchý plech. Pečieme v stredne teplej rúre.
-<p>Piškótové cesto: Maslo vymiešame s cukrom a žĺtkami.
-<p>Z bielkov ušľaháme tuhý sneh a pridáme ho k vyšľahaným žĺtkom. Zľahka primiešame kakao rozmiešané s múkou, orieškami,
-    práškom do pečiva a postrúhanou citrónovou kôrou. Cesto rozotrieme na vymastený a múkou vysypaný plech. Pečieme v
-    horúcej rúre.
-<p>Vychladnuté linecké cesto potrieme ríbezľovým lekvárom,
-    prikryjeme piškótovým cestom a polejeme polevou. Čokoládová poleva: Do rozpusteného, ešte teplého tuku zamiešame
-    čokoládu pokrájanú nadrobno a miešame kým sa úplne nerozpustí, vlažnú polevu nalejeme na múčním a necháme na chladnom
-    mieste stuhnúť.
+
+Linecké cesto: Do múky pridáme margarín, preosiatý cukor, žĺtok, na koniec noža prášku do pečiva a vypracujeme cesto.
+Rozvaľkáme ho na hrúbku 1 cm a dáme na suchý plech. Pečieme v stredne teplej rúre.
+
+Piškótové cesto: Maslo vymiešame s cukrom a žĺtkami.
+
+Z bielkov ušľaháme tuhý sneh a pridáme ho k vyšľahaným žĺtkom. Zľahka primiešame kakao rozmiešané s múkou, orieškami,
+práškom do pečiva a postrúhanou citrónovou kôrou. Cesto rozotrieme na vymastený a múkou vysypaný plech. Pečieme v
+horúcej rúre.
+
+Vychladnuté linecké cesto potrieme ríbezľovým lekvárom,
+prikryjeme piškótovým cestom a polejeme polevou. Čokoládová poleva: Do rozpusteného, ešte teplého tuku zamiešame
+čokoládu pokrájanú nadrobno a miešame kým sa úplne nerozpustí, vlažnú polevu nalejeme na múčním a necháme na chladnom
+mieste stuhnúť.

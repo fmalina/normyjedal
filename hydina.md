@@ -14,6 +14,7 @@ Prenormované recepty zo života
 * ¼-½ hydinového bujónu, voda, petržlenová vňať
 
 **Knedličky:**
+
 * 30g hydinovej pečene
 * 5g cesnak
 * 20g vajce
@@ -353,8 +354,7 @@ vňaťou. Vhodnými prílohami sú ryža a zemiakové kroketky.
 * 30g tvrdého syra Eidam
 * 15g slnečnicový olej, soľ,
 
-**Na prizdobenie:**
-* petržlenová vňať, hlávkový šalát, račina
+**Na prizdobenie:** petržlenová vňať, hlávkový šalát, račina
 
 Umyté, očistené kurča osušíme, pokrájame na menšie kúsky, osolíme ich, obalíme v múke, rozšľahanom vajíčku a napokon 
 v najemno postrúhanom tvrdom syre. Pekáč vymastíme olejom, mäso doň poukladáme. Zvyšné vajíčka a
@@ -507,6 +507,7 @@ podávame s uvarenou basmati (kráľovskou) ryžou.
 * soľ, mletá rasca
 
 **Marináda:**
+
 * 40g cibuľa
 * 10g strúčik cesnaku
 * 7g karí korene ČL
@@ -718,6 +719,7 @@ množstve oleja opražíme. Ako prílohu dáme zemiakové hranolčeky.
 * soľ, horčica, grilovacie korenie
 
 **Plnka:**
+
 * 40g cibuľa(šalotka)
 * 50g šampiňónov scedených z konzervy
 * 40g šunkovej salámy
@@ -800,12 +802,14 @@ Vhodné prílohy sú ryža a zemiakové hranolčeky.
 * 40g kyslá uhorka
 
 **Marináda:**
+
 * vegeta ČL
 * 50g oleja
 * mletá červená paprika ČL
 * 10g 2 stúčiky cesnaku
 
 **Na obaľovanie:**
+
 * 30g hladká múka
 * 50g domáce vajce
 * 50g postrúhaného tvedého syra
@@ -873,6 +877,7 @@ Ako prílohu zvolíme ryžu, šunkovú ryžu alebo zemiakové kroketky.
 * soľ, vegeta, mleté čierne korenie
 
 **Príloha:**
+
 * 500g 6 krajcov chleba
 * 100g 2 vajcia
 
@@ -972,6 +977,7 @@ Postup je rovnaký ako v predchádzajúcom recepte.
 * 20g olej
 
 **Plnka:**
+
 * 200g rožky
 * 100g 2 domáce vajcia
 * 1,5dl mlieka
@@ -1094,6 +1100,7 @@ Príloha – chlieb, pečivo, kysnuté žemľové knedle.
 * 1 kuracieho vývaru z kostí
 
 **Marináda:**
+
 * 0,3dl bieleho vína
 * 10g sójovej omáčky
 * 10g maizeny (Solamylu)
@@ -1256,6 +1263,7 @@ Príloha – zemiaky rôzne pripravené a šaláty.
 * 100g sterilizovaného hrášku
 
 **Dresing:**
+
 * 1,5dl smotana (téglik bieleho smotanového jogurtu)
 * 25g majonézy
 * 15g posekaná petržlenová vňať
@@ -1298,6 +1306,7 @@ Podávame na listoch hlávkového šalátu s pečivom.
 * 150g šampiňónov (malá konzerva)
 
 **Dresing:**
+
 * 15g horčice
 * 50g majonézy
 * soľ, mleté biele a čierne korenie
@@ -1319,6 +1328,7 @@ Podávame vychladené s pečivom, čiernym chlebom.
 * 70g sterilizovaná uhorka
 
 **Dresing:**
+
 * 50g majonézy
 * 50g bieleho jogurtu
 * 15g kečup
@@ -1721,6 +1731,7 @@ brusnicový kompót.
 * 1,5-2kg 1 malá kačica
 
 **Marináda:**
+
 * 70g sójovej omáčka 5 PL
 * 15g zmesi korenie „5 vôní“
  (aníz, koriander, škorica, klinčeky, čili)
@@ -1732,12 +1743,14 @@ brusnicový kompót.
 * soľ, čili korenie alebo paprička
 
 **Slivková omáčka:**
+
 * 250g slivkových povidiel-lekváru
 * 45g sójovej omáčky 3 PL
 * 0,3dl bieleho víne (alebo sherry)
 * škorica, zázvor, mletá štipľavá paprika
 
 **Pekinské placky:**
+
 * 250g múky
 * 70ml horúcej vody
 * 30g oleja 2 PL (alebo bravčová masť)

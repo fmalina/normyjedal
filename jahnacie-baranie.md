@@ -146,7 +146,7 @@ Podlievame vodou a vlastnou šťavou.
 
 * 200g jahňaciny
 * 300g baklažány 2 ks
-<p>zväzoček mätovej vňate, mletá rasca
+* zväzoček mätovej vňate, mletá rasca
 * 50g veľká cibuľa
 * 20g olivový olej, soľ, biele korenie
 * gýros - grécke korenie(čerstvá majoránka)

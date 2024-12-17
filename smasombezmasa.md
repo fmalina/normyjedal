@@ -124,6 +124,7 @@ a tatárskou omáčkou /1ks predjedlo/
 * 50g krupicovej múky, soľ,
 
 **Plnka:**
+
 * 120g varenej údeniny/šunky, pliecka/
 * 1ks – vajce, ml.biele korenie,
 * 60g strúhanky na obaľovanie
@@ -242,12 +243,14 @@ a klobásou
 * 40g oleja na pečenie, soľ ;
 
 **Obaľovanie:**
+
 * 1ks – vajce
 * 80g hladká múka /mlieko/
 * 80g strúhanky
 * 80g oleja na vyprážanie
 
 **Plnka:**
+
 * 200g hovädzieho mäsa – uvareného zomletého
   alebo mletého mladého hov. mäsa - uduseného
 * 20g masla, 1dl – mlieko
@@ -280,11 +283,13 @@ so zemiakmi
 ## 30. Čebureky/vyprážané plnené-na ½ klieská/
 
 **Cesto:**
+
 * 100g krupicovej múky
 * 10g masti, voda soľ-vypracujeme polotuhé cesto
 * 40-50g – oleja na výprážane
 
 **Plnka:**
+
 * 25g hovädzieho mäsa
 * 40g bravč.mäsa - (mleté mäso)
 * 15g cibuľa, soľ, mleté korenie, zel.petržlen.
@@ -751,6 +756,7 @@ maslom. Po upečení vidličkou potrháme a posypeme vanilkovým cukrom, pokvapk
 * 0,75dl – mlieko, soľ
 
 **Plnka:**
+
 * 60g tvarohu jemného
 * 10g práškového cukru, 5g – cukru,
 * 10g žĺtok- ½ vajaca
@@ -830,6 +836,7 @@ opekáme-forma, panvica na lievance)
 ## 93. Tvarohové rezance s kôprom
 
 **Domáce rezannce:**
+
 * 100g múka hrubá Zlatý klas-(100g – cestovina)
 * 10g domáce vajce /min.:8g vajce/
 * 0,4dl – vody, soľ
@@ -869,6 +876,7 @@ a hrozienkami. /asi-400g/
 * 1 mlieko, voda(podľa potreby), soľ
 
 **Krém:**
+
 * 10g maizeny (zlatý klas)
 * 20g cukru, vanilka
 * 1,5dl – mlieko
@@ -911,6 +919,7 @@ z cesta na hrúbku palca maličkou okrúhlou formičkou vykrajujeme dukátiky
 * 5g oleja, soľ, mlieko
 
 **Plnka:**
+
 * 35-40g – hovädzie mäso - mleté
 * 35-40g – bravčové mäso
 * 10g cibuľa, čierne korenie, soľ
@@ -927,6 +936,7 @@ so smotanou a škoricou
 * 125g tvarohu
 
 **Postup:**
+
 * 12-15g – práškového cukru /cesto veľkosti
 * 15g masla, 20g – vajce- ½ ks, orecha, roztla-
 * 20g krupicovej múky čené do formy
@@ -965,6 +975,7 @@ so smotanou a škoricou
 * 10g vajce, 25g – oleja
 
 **Plnka:**
+
 * 150g kelu, 50g – hríbov, 20g – cibuľa, 20g – vajce,
 * 5g masti, soľ, drtená rasca, čierne korenie.
 
@@ -1082,6 +1093,7 @@ Marhuľové knedličky s makom
 * 5g mlieko /lyžička/, soľ
 
 **Plnka:**
+
 * 40g čerstvých hríbov/šampiňóno/
 * 5g masti/oleja
 * 5-10g – cibuľa, mleté korenie, soľ
@@ -1124,6 +1136,7 @@ Marhuľové knedličky s makom
 * 40g vajce-1ks na tvrdo, soľ, ml.korenie
 
 **na obalovanie:**
+
 * 5g hladkej muky (+ zeleninový
 * 10g vajce prívarok)
 * 5g mlieko/lyžička/
@@ -1231,6 +1244,7 @@ Poliate kôprovou omáčkou
 * voda, soľ, ocot
 
 **Omáčka:**
+
 * 15g maslo
 * 15g hladkej múky
 * mlieko (smotana)

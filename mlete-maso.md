@@ -144,6 +144,7 @@ Mikrovlnka: Pomleté mäso pečieme 15 minút na 750 W.
 * soľ, mleté korenie, petržlen vňať
 
 **na omáčku:**
+
 * 10g cibuľa
 * 5g olej
 * 10g rajčinový pretla

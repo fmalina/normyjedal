@@ -710,6 +710,7 @@ Nakoniec prudko zapečieme. Podávame so zemiakovou kašou.
 * 5g ½ lyžičky korenie na steaky (zmesi korení)
 
 **Plnka:**
+
 * 50g mletých orechov
 * 50g pšeničných klíčkov
 * 30g 1 žĺtok - štipka korenia a soli
@@ -949,6 +950,7 @@ Podávame s dusenou ryžou.
 * 30g olej, 15g – hladká múka
 
 **Omáčka:**
+
 * 60g syra NIVA, 10g – maizeny,
 * 130ml mlieka, 15g – masla,
 * - mleté biele korenie, - soľ
@@ -981,6 +983,7 @@ Podávame so zemiakmi.
 * 50g 1 kapia
 
 **Omáčka:**
+
 * 200g čerstvých húb (2dl), 80g – 1 cibuľa
 * 15g hladká múka, 15g – plnotučná horčica,
 * 10g petržlenová vňať, - voda: podľa potreby
@@ -1237,16 +1240,19 @@ zeleniny.
 * 15g cukru, 15g – maizeny
 
 **Po lyžičke byliniek:**
+
 * 15g tymianu, 15g – materinej dúšky, 15g – petržlenovej vňate
 
 Mäso umyjeme, osušíme, pokrájame na kocky, na oleji ho prudko opražíme a odložíme z ohňa. V rajnici na troške oleja
 opražíme nadrobno pokrájanú cibuľu, pridáme prelisovaný cesnak a mleté čierne korenie.
-<p>Polovicu mäsa rozložíme na dno pekáča, osolíme, posypeme bylinkami a pridáme kúsky bobkových listov. Navrstvíme
+
+Polovicu mäsa rozložíme na dno pekáča, osolíme, posypeme bylinkami a pridáme kúsky bobkových listov. Navrstvíme
 zvyšné mäso, posypeme bylinkami a zalejeme ho zmesou vývaru a piva tak, aby bolo zakryté. Cukor skaramelizujeme,
-rozpustíme ho v troške vody
-<p>a pridáme k mäsu. Zakryté mäso dáme do horúcej rúry a udusíme do mäkka. Šťavu zlejeme do rajničky, pridáme k nej
+rozpustíme ho v troške vody a pridáme k mäsu.
+Zakryté mäso dáme do horúcej rúry a udusíme do mäkka. Šťavu zlejeme do rajničky, pridáme k nej
 maizenu rozmiešanú v troške vody a chvíľku povaríme.
-<p>Mäso podávame poliate šťavou- posypané bylinkami so zemiakmi alebo dusenou ryžou.
+
+Mäso podávame poliate šťavou- posypané bylinkami so zemiakmi alebo dusenou ryžou.
 
 ## 28. Karé plnené bryndzou a olivami (a pórom)
 *Čas: 40 minút 540g: 2 porcie po 270g*
@@ -1256,10 +1262,12 @@ maizenu rozmiešanú v troške vody a chvíľku povaríme.
 * 80g zelených olív (100g – póru)
 * 30g olivový (slnečnicový) olej
 * 10g soľ, biele mleté korenie, vegeta, pažítka
-<p>Vy kostené hrubšie rezne z karé naklepeme osolíme, okoreníme, lyžičkou naplníme bryndzou, navrch dáne 4 -5 olív (
+
+Vy kostené hrubšie rezne z karé naklepeme osolíme, okoreníme, lyžičkou naplníme bryndzou, navrch dáne 4 -5 olív (
 alebo hrubšie kolieska póru) preložíme na tašku a okraje sklepeme, aby sa spojili a držali plnku. Vypražíme posypané
 troškou vegety, rozkrojíme a doplníme lyžičkou zvyšnú čerstvú bryndzu, posypeme pažítkou.
-<p>Podávame so zemiekmi varenými v šupke a zapekanými s bylinkami, blanšírovanou zeleninou a čiernym chlebom.
+
+Podávame so zemiekmi varenými v šupke a zapekanými s bylinkami, blanšírovanou zeleninou a čiernym chlebom.
 
 ## 29. Fazuľa na cibuli a hubách s párkoum a údeninou podľa Fera,
 *Čas: 30 minút*
@@ -1278,14 +1286,17 @@ troškou vegety, rozkrojíme a doplníme lyžičkou zvyšnú čerstvú bryndzu, 
 * 30g slnečnicový olej
 * 10g soľ, vegeta, biele mleté korenie, červená paprika
 * 15g majoránka (bazalka, oregáno) čilli paprička alebo feferónka,
-<p>sójová a worcestrová omáčka podľa chuti
+* sójová a worcestrová omáčka podľa chuti
 * 200ml voda na podliatie podľa potreby
-<p>Uvaríme si domácu fazuľu, alebo použijeme konzervu fazule, cibuľu nakrájame najemno, huby predom namočíme a párky
+
+Uvaríme si domácu fazuľu, alebo použijeme konzervu fazule, cibuľu nakrájame najemno, huby predom namočíme a párky
 pokrájame na kolieska, údené mäso na rezančeky.
-<p>Cibuľu vo woku (hlbšej panvici) orestujeme do sklovita, súčastne na ½ orestujeme rajčinový pretlak na cukri, potom
+
+Cibuľu vo woku (hlbšej panvici) orestujeme do sklovita, súčastne na ½ orestujeme rajčinový pretlak na cukri, potom
 pridáme pokrájané párky a údené mäso, orestujeme - podusíme, pridáme kečup, huby, koreniny a zaprášime múkou,
 dochutíme podľa potreby, podlejeme studenou vodou a ešte podusíme.
-<p>Podávame s dusenou ryžou s klinčekmi, uhorkou, prípadne čiernym chlebom.
+
+Podávame s dusenou ryžou s klinčekmi, uhorkou, prípadne čiernym chlebom.
 
 ## Chlieb (domáce knedle) vo vajci s párkami (klobásou) na domácom leči s kečupom
 *Čas: 20 minút, 1280g – 4 porcie asi po 320g*
@@ -1302,9 +1313,10 @@ dochutíme podľa potreby, podlejeme studenou vodou a ešte podusíme.
 * 5g čilli alebo feferónka
 * 10g pažítka alebo petržlenová vňať s bazalkou
 * 30g slnečnicový olej
-<p>Usmažíme starší chlieb (plátky kndle) vo vyšľahaných vajíčkach s mliekom, osolíme,
-<p>trocha okoreníme.
-<p>Párky a domácu klobásu pokrájame na tenšie kolieska, orestujeme na posekanej cibuli s kečupom, ochutíme, okoreníme,
+
+Usmažíme starší chlieb (plátky kndle) vo vyšľahaných vajíčkach s mliekom, osolíme, trocha okoreníme.
+
+Párky a domácu klobásu pokrájame na tenšie kolieska, orestujeme na posekanej cibuli s kečupom, ochutíme, okoreníme,
 pridáme domáce lečo a chvíľu podusíme.
-<p>Dáme na chlieb vo vajci, alebo plátky knedlí vo vajci, prízdobíme pažítkou alebo
-<p>petržlenovou vňaťou s bazalkou.
+
+Dáme na chlieb vo vajci, alebo plátky knedlí vo vajci, prízdobíme pažítkou alebo petržlenovou vňaťou s bazalkou.

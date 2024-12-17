@@ -6,6 +6,7 @@
 
 
 **Cesto:**
+
 * 150ml mlieko
 * 100g 2 vajcia
 * 60g hladkej múky - 3 lyžičky
@@ -13,6 +14,7 @@
 * 60g slnečnicový olej
 
 **Plnka:**
+
 * 100g šampiňónov
 * 80g cibuľa
 * 5g štipka soli, - mleté čierne korenie
@@ -223,6 +225,7 @@ Prizdobíme jemno na krúžky pokrájaným pórom a pažítkou. Podávame s ryž
 * 60g strúhanka (paradajka a paprika na oblohu)
 
 **Dresing:**
+
 * 150g 1 biely jogurt
 * 15g lyžička horčice
 * 15g kečupu
@@ -424,6 +427,7 @@ Posypeme ich petržlenovou vňaťou a bazalkou alebo pažítkou.
 * 8g – polovica kypriaceho prášku
 
 **Plnka:**
+
 * 200g 6 plátkov šunky
 * 200g taveného syra
 * 100g masla, 5g – soľ, - mleté čierne korenie
@@ -491,6 +495,7 @@ Vhodnou prílohou je zemiaková kaša a uhorka, pečivo alebo čierny chlieb.
 * 30g slnečnicový olej
 
 **Maslová omáčka:**
+
 * 60g masla
 * 50g hladkej múky
 * 15g slnečnicový olej
@@ -551,6 +556,7 @@ Zeler: 970g – 6 porcií po 160g, tvarohová pena: 230g – 6 porcií po 70g
 * 50g slnečnicový olej na vyprážanie
 
 **Tvarohová pena:**
+
 * 200g jemného netučného tvarohu
 * 200g šľahačková smotana
 * 10g soľ, - mleté čierne (biele) korenie
@@ -558,6 +564,7 @@ Zeler: 970g – 6 porcií po 160g, tvarohová pena: 230g – 6 porcií po 70g
 * 10g pažítka
 
 **Ozdobná úprava:**
+
 * 100g rajčiny a hlávkový šalát na ozdobu
 
 Zeler očistíme a pokrájame na centimetrové kolieska, na 5-7 minút dáme variť do zeleninového vývaru (bujónu),
@@ -640,6 +647,7 @@ Podávame s varenými zemiakmi a zeleninovým šalátom.
 * 200g bieleho jogurtu
 
 **Ozdoba:**
+
 * 120g šalát hlávkový, rajčina, petržlenová vňať, pažítka.
 
 Cibuľu očistíme, speníme na oleji a pridáme zeleninu (mrazenú zmes alebo čerstvú koreňovú spolu s hráškom,
@@ -668,6 +676,7 @@ Podľa formičiek pripravíme: 25 až 30ks tvarožníkov
 * 5g soľ
 
 **Plnka:**
+
 * 150g tvarohu
 * 100g 2 vajcia
 * 150g tvrdého syra (Eidam)
@@ -751,6 +760,7 @@ Celú plochu polejeme pripravenou smotanou a dáme do vyhriatej rúry zapiecť a
 * 60g slnečnicový olej na vyprážanie
 
 **Plnka:**
+
 * 150g 2-3 papriky
 * 120g 2 rajčiny
 * 60g menšia cibuľa

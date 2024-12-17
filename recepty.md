@@ -73,12 +73,14 @@ pekáča. Podávame s chlebom alebo pečivom.
 * 20g masla
 
 **Lievančeky:**
+
 * 200ml mlieko, 2g – soľ (štipka), 1/3 – droždie,
 * 60g domáce vajce, 60g – hrubá múka (3 väčšie lyžice),
 * 5g vegeta (20g – tuk na pečenie lievančekov)
 * 50g šampiňóny
 
 **Syrová omáčka:**
+
 * 140g syr „Bambino“
 * 50g rastlinného masla
 * 150ml mlieka
@@ -277,6 +279,7 @@ Podávame s pečivom alebo čiernym chlebom.
 * 30g maizeny (solamylu)
 
 **Marináda:**
+
 * 30g oleja (2 polievkové lyžice)
 * 30g kečupu
 * 15g horčice
@@ -309,6 +312,7 @@ spolu chvíľku oprážame. Potom pridáme mäso a spolu udusíme do mäkka. Pod
 * 50g kapia, - mleté čierne korenie.
 
 **Cestíčko:**
+
 * 250g 4 zemiaky, - soľ, - vegeta
 * 50g vajce
 * 30g hladká múka
@@ -338,6 +342,7 @@ Vhodnou prílohou je zemiaková kaša, opekané zemiaky alebo dusená ryža.
 * 20g slnečnicový olej
 
 **Plnka:**
+
 * 15g horčica (1 polievková lyžica)
 * 15g paprikovej pasty
 * 30g kečupu (2 polievkové lyžice)

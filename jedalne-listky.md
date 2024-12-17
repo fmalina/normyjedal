@@ -23,10 +23,9 @@
     kresťanské: „Hosť do domu, boh do domu.“
 <p>Som bývalý vojenský učiteľ s odbornosťou proviantná služba – spoločenské stravovanie a logistika armády, s dlhoročnou
     praxou na výcvikovom stredisku kuchárov
-<p>a vo výuke v zrušenej Strednej vojenskej odbornej škole v Liptovskom Mikuláši a nateraz na výsluhovom dôchodku,
-<p>venujem sa zvládnutiu gastronómie a kuchárskeho umenia, sústavne, cieľavedome, prakticky, a tiež teoreticky v odbore.
-    Táto práca a odbornosť je mojím koníčkom,
-<p>ktorý ma ženie sústavne sa, celoživotne neustále zdokonaľovať...
+    a vo výuke v zrušenej Strednej vojenskej odbornej škole v Liptovskom Mikuláši a nateraz na výsluhovom dôchodku,
+    venujem sa zvládnutiu gastronómie a kuchárskeho umenia, sústavne, cieľavedome, prakticky, a tiež teoreticky v odbore.
+    Táto práca a odbornosť je mojím koníčkom, ktorý ma ženie sústavne sa, celoživotne neustále zdokonaľovať...
 <p>Verím, že touto svojou prácou zachovám – klasické recepty prenormované podľa možností na porciu - dávku jedla, tiež
     pridám rady a skúsenosti do domácností, penziónov a menších reštauračných stravovacích prevádzok.
 <p>Ing. František Malina
@@ -44,6 +43,7 @@
 
 # Vzorové výberové jedálne lístky
 <p>Na dva týždne
+
 ## Zimno – jarné obdobie
 <p>Vo vzorových jedálných lístkoch sú popri jednej polievke a múčniku na obedy na výber dve hlavné jedlá a tak isto sú
     na výber dve jedlá i na večeru.
@@ -165,7 +165,7 @@
 <p>Hovädie nadivo, kysnutá žemľová knedľa
 <p>Špenát, volské oko, dusené zemiaky
 <p>Mrežovník
-<p>Večeara: Miešané rizoto, cviklový šalát
+<p>Večera: Miešané rizoto, cviklový šalát
 <p>Zemiaková baba –Haruľa, šípkový čaj
 
 ### 9. deň

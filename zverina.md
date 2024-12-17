@@ -218,6 +218,7 @@ dorobíme omáčku na víne, dobre povaríme a mäso nakájame na plátky
 * 150g prerastanej údenej slaniny
 
 **Marináda:**
+
 * 60g slnečnicového oleja
 * 40g šťava z jedného citróna
 * soľ, mleté čierne korenie, mletá červená paprika

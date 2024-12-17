@@ -139,6 +139,7 @@ Nakoniec polejeme lososa dochutenou smotanou. Pečieme 3 minúty na funkcii Cris
 * 0,5dl – sladkej smotany, malý strúčik cesnaku,
 
 **Na ozdobenie:**
+
 * 10g posekaných mandlí
 * 10g masla
 
@@ -199,6 +200,7 @@ Rybu položíme dole bruchom na vymastenú panvicu, potrieme rozšľahaným vajc
 /2 minúty CRISP, potom znova: obrátime/
 
 **Citrónová omáčka:**
+
 * 20g hladkej múky, 0,75-1dl – vody
 * ½ks citrónová kôra posekaná a šťava
 * 20g masla, soľ,/vegeta/

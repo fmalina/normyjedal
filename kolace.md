@@ -13,6 +13,7 @@
 * 200g jahody
 
 **Sneh:**
+
 * 120g 4 vaječné bielky
 * 15g práškového cukru
 * 20g posekaných mandlí (orechov)
@@ -41,6 +42,7 @@ Vychladnutý ho pokrájame na rovnaké kúsky – 16 až 18ks.
 * 100g ľubovoľná poleva (čokoládová, citrónová)
 
 **Krém:**
+
 * 250ml bielej kávy, 30g – vanilkový cukor
 * 30g 2 lyžice maizeny (hladkej múky špeciál)
 * 30g žĺtok, 120g – masla
@@ -106,6 +108,7 @@ Necháme stuhnúť a pokrájame.
 * 500ml šľahačkovej smotany
 
 **Krém:**
+
 * 1 liter – mlieka, 120g – 3x zlatý klas
 * 300g kryštálového cukru, 250g – konzerva ananásu
 * 500ml kyslej smotany, 30g – 2 lyžice práškového cukru
@@ -158,6 +161,7 @@ Necháme asi polhodinu v chlade odležať a pokrájame na kolieska.
 * 100g čokoládová poleva
 
 **Krém:**
+
 * 300ml mlieka
 * 30g vanilínový cukor
 * 50g 3 lyžice hladkej múky
@@ -192,6 +196,7 @@ Potom pokrájame na kolieska asi 18 až 20 kusov.
 * 100ml čokoládová poleva
 
 **KRÉM:**
+
 * 150ml mlieka
 * 80g 2 krémové prášky Zlatý klas
 * 300ml čučoriedkový kompót
@@ -344,6 +349,7 @@ Pred podávaním šalát posypeme posekanými vlašskými orechmi.
 * 10g soľ, - mleté čierne korenie, 10g – vegeta
 
 **Ozdoba:**
+
 * 15g olivy
 * 50g rajčina
 * 50g čínska kapusta
@@ -793,6 +799,7 @@ Podávame so zeleninou a bielym pečivom.
 
 
 **Kysnuté cesto:**
+
 * 125g ½ hrnčeka hladkej múky (1 hrnček = 250 ml)
 * 100ml vlažného mlieka
 * 50g Ramy Créme Bonjour maslovej pochútky (Hery alebo pokrmového tuku)
@@ -803,6 +810,7 @@ Podávame so zeleninou a bielym pečivom.
 7 g – ½ lyžičky soli
 
 **Plnka:**
+
 * 50g rajčinového kečupu
 * 200g póru
 * 200g krájanej jemnej salámy
@@ -897,12 +905,14 @@ Ramu Créme Bonjour rozpustíme so smotanou apripravíme omáčku. Ozdobíme nas
 
 
 **Cesto:**
+
 * 200g Ramy Créme Bonjour maslovej pochúťky (alebo Hery)
 * 300g polohrubej múky
 * 10g lyžička soli
 * 100g polovica téglika kyslej smotany
 
 **Plnka:**
+
 * 100g mletej šunky alebo zvyšného pečeného mäsa
 * 300g nastrúhaného tvrdého syra
 * 20g väčšia polievková lyžica kyslej smotany
@@ -923,6 +933,7 @@ Pečieme vo vopred vyhriatej rúre pri teplote 225°C 10 - 15 minút.
 
 
 **Kysnuté slané cesto:**
+
 * 100g Ramy Créme Bonjour maslovej pochúťky alebo Hery
 * 750g 3 hrnčeky hladkej múky (hrnček – 250g)
 * 50g 2 domáce žĺtky
@@ -933,6 +944,7 @@ Pečieme vo vopred vyhriatej rúre pri teplote 225°C 10 - 15 minút.
 * 50g vajce na potretie
 
 **Plnka:**
+
 * 300g brokolice
 * 100g kuracej šunky
 * 50g mandlí
@@ -958,6 +970,7 @@ Necháme asi 10 minút kysnúť. V predhriatej rúre pečieme pri 200°C asi 15 
 * 1825g asi 18 porcií po 100g (30 porcíí po 60g)
 
 **Cesto:**
+
 * 150g Ramy Maslovej
 * 190g 1 a ¼ práškového cukru
 * 250g netučného tvarohu
@@ -972,7 +985,8 @@ Necháme asi 10 minút kysnúť. V predhriatej rúre pečieme pri 200°C asi 15 
 * 5g soľ podľa chuti
 
 **Dokončenie:**
-* 60g 4 lyžiceRamy Maslovej na potretie
+
+* 60g 4 lyžice Ramy Maslovej na potretie
 * 60g 4 lyžice práškového cukru na posypanie
 
 Ramu vymiešame s práškovým cukrom, potom pridáme vajcia, soľ, nastrúhanú citrónovú kôru a vanilínový cukor. Všetko
@@ -1033,6 +1047,7 @@ malé plátky alebo kúsky a dáme na 30 minút piecť do vyhriatej rúry.
 * 30g Hera alebo Rama a múka na vymastenie a vysypanie plechu
 
 **Poleva:**
+
 * 250g práškového cukru
 * 100-120ml citrónová šťava alebo rum podľa hustoty polevy
 
